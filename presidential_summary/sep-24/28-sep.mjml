@@ -99,14 +99,63 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-text font-family="verdana, Arial">
-          <div>
-            <a href="https://www.presidentialsummary.com/policy/terms-of-use" target="_blank" style="color:#667085;">Terms</a>
-            <a href="https://www.presidentialsummary.com/policy/privacy-policy" target="_blank" style="color:#667085;padding-left:10px;">Privacy</a>
-            <a href="https://www.presidentialsummary.com/policy/cookie-policy" target="_blank" style="color:#667085;padding-left:10px;">Cookies</a>
-            <a href="https://www.presidentialsummary.com/contact" target="_blank" style="color:#667085;padding-left:10px;">Contact us</a>
-          </div>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;color:#667085;padding-top:20px;line-height:2;"><a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a>.</p>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;color:#667085;padding-top:5px;line-height:2;">© 2024 Sagravia LLC, 30 N Gould St, Ste N, Sheridan, WY 82801, United States</p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Send us your feedback at
+            <a href="mailto:readers@presidentialsummary.com" target="_blank"
+              >readers@presidentialsummary.com</a
+            >.
+          </p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Interested in connecting with curious, informed readers?
+            <a
+              href="https://www.presidentialsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            <a
+              href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com"
+              target="_blank"
+              >Unsubscribe</a
+            >.
+          </p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            © 2024 Sagravia LLC, 30 N Gould St, Ste N, Sheridan, WY 82801,
+            United States
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
