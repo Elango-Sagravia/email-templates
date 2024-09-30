@@ -162,39 +162,42 @@
     <mj-section background-color="white">
       <mj-column>
         <mj-text font-family="verdana, Arial">
-          <div>
-            <a
-              href="https://www.businesshistory.co/policy/terms-of-use"
-              target="_blank"
-              style="color: #667085"
-              >Terms</a
-            >
-            <a
-              href="https://www.businesshistory.co/policy/privacy-policy"
-              target="_blank"
-              style="color: #667085; padding-left: 10px"
-              >Privacy</a
-            >
-            <a
-              href="https://www.businesshistory.co/policy/cookie-policy"
-              target="_blank"
-              style="color: #667085; padding-left: 10px"
-              >Cookies</a
-            >
-            <a
-              href="https://www.businesshistory.co/contact"
-              target="_blank"
-              style="color: #667085; padding-left: 10px"
-              >Contact us</a
-            >
-          </div>
           <p
             style="
               font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
                 Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
                 'Segoe ui', Arial, sans-serif;
               color: #667085;
-              padding-top: 20px;
+              line-height: 2;
+            "
+          >
+            Send us your feedback at
+            <a href="mailto:readers@businesshistory.co" target="_blank"
+              >readers@businesshistory.co</a
+            >.
+          </p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Interested in connecting with curious, informed readers?
+            <a
+              href="https://www.businesshistory.co/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <p
+            style="
+              font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
+                Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
+                'Segoe ui', Arial, sans-serif;
+              color: #667085;
               line-height: 2;
             "
           >
@@ -210,7 +213,6 @@
                 Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
                 'Segoe ui', Arial, sans-serif;
               color: #667085;
-              padding-top: 5px;
               line-height: 2;
             "
           >
