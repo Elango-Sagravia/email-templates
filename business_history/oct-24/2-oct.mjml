@@ -7,13 +7,13 @@
     <mj-section background-color="#ffffff" padding-top="50px">
       <mj-column>
         <mj-spacer height="60px" />
-        <mj-image css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="logo" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="logo" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-text font-family="verdana, Arial" color="#000000">
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
           <h2 style="
               font-size: 18px;
               line-height: 1.2;
@@ -21,7 +21,7 @@
               margin-top: 30px !important;
             "> Battle in the Skies: How Boeing and Airbus Shape Aviation's Future</h2>
         </mj-text>
-        <mj-text font-family="verdana, Arial" color="#000000">
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
           <p style="
               font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
                 Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
@@ -44,8 +44,8 @@
               line-height: 1.6;
             ">As Boeing struggled with these challenges, Airbus gained traction with its fuel-efficient A320 family, which saw soaring demand. In 2020, Airbus delivered 566 planes, while Boeing managed only 157—a record low for the company. Both manufacturers faced hurdles during the COVID-19 pandemic, but Airbus's focus on smaller, fuel-efficient aircraft allowed it to recover more swiftly.</p>
         </mj-text>
-        <mj-image width="600px" src="https://www.businesshistory.co/email/images/bh-oct-2-1.jpg" alt="IBM's Transformation: From Hardware to AI" />
-        <mj-text font-family="verdana, Arial" color="#000000">
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-2-1.jpg" alt="IBM's Transformation: From Hardware to AI" />
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
           <p style="
               font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
                 Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
@@ -80,13 +80,13 @@
     <!-- divider sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text font-family="verdana, Arial">
+        <mj-text padding="10px 12px" font-family="verdana, Arial">
           <p style="
               font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',
                 Avenir, 'Helvetica Neue', Helvetica, Ubuntu, Roboto, Noto,
