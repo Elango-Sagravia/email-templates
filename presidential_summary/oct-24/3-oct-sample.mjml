@@ -79,9 +79,9 @@
     </mj-section>
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
-          <h2 style="font-size:22px;line-height:1.2;font-weight:700;">Briefs</h2>
+      <mj-column background-color="#4C305F" width="96%">
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="white">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:700; padding:30px 12px 20px 12px; text-align:center;">Briefs</h2>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -89,25 +89,34 @@
       <mj-column>
         <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
           <h3 style="font-size:16px;line-height:1.2;font-weight:700;">Global Affairs</h3>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px">Brazil and Argentina signed a new <a href="https://www.presidentialsummary.com/" target="_blank">trade agreement</a> aimed at boosting cross-border investments and strengthening economic cooperation in South America.</p>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;">The UN Security Council held an <a href="https://www.presidentialsummary.com/" target="_blank">emergency session on climate change</a>, urging member nations to take immediate action on emission reductions to prevent further global warming. </p>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px">Russia’s mediation in the Armenia-Azerbaijan ceasefire has sparked international concern, with critics accusing Moscow of using its influence to gain leverage in the Caucasus region.<a href="https://www.presidentialsummary.com/" target="_blank">Read more about Russia’s involvement</a>. </p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px; margin-bottom:30px;">Brazil and Argentina signed a new <a href="https://www.presidentialsummary.com/" target="_blank">trade agreement</a> aimed at boosting cross-border investments and strengthening economic cooperation in South America.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;margin-bottom:30px;">The UN Security Council held an <a href="https://www.presidentialsummary.com/" target="_blank">emergency session on climate change</a>, urging member nations to take immediate action on emission reductions to prevent further global warming. </p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;">Russia’s mediation in the Armenia-Azerbaijan ceasefire has sparked international concern, with critics accusing Moscow of using its influence to gain leverage in the Caucasus region.<a href="https://www.presidentialsummary.com/" target="_blank">Read more about Russia’s involvement</a>. </p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
+
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="verdana, Arial" color="#000000">
           <h3 style="font-size:16px;line-height:1.2;font-weight:700;">Business & Finance</h3>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;">Ford and General Motors have announced a <a href="https://www.presidentialsummary.com/" target="_blank">$60 billion merger</a> to combine their electric vehicle divisions, a move expected to dominate the future EV market.</p>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;">Global stock markets, including those in Europe and Asia, tumbled today amid concerns over rising inflation and the slowing pace of economic recovery.<a href="https://www.presidentialsummary.com/" target="_blank">Check the market analysis</a>. </p>
-          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left :14px;">The US Federal Reserve hinted at a possible interest rate hike in the coming months to combat high inflation, but no specific timeline was provided. <a href="https://www.presidentialsummary.com/" target="_blank">How is Shakespeare is still shaping culture?</a>. </p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px; margin-bottom:30px;">Ford and General Motors have announced a $60 billion merger to combine their electric vehicle divisions, a move expected to dominate the future EV market.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;margin-bottom:30px;">Global stock markets, including those in Europe and Asia, tumbled today amid concerns over rising inflation and the slowing pace of economic recovery. Check the market analysis.</p>
+          <p style="font-family:-apple-system,BlinkMacSystemFont,'Avenir Next',Avenir,'Helvetica Neue',Helvetica,Ubuntu,Roboto,Noto,'Segoe ui',Arial,sans-serif;font-size:16px;line-height:1.6;border-left:3px solid #4C305F;padding-left:14px;">The US Federal Reserve hinted at a possible interest rate hike in the coming months to combat high inflation, but no specific timeline was provided. Read the latest update.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
+     <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="black" width="96%">
+        <mj-text padding="10px 12px" font-family="verdana, Arial" color="white">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:700; padding:30px 12px 20px 12px; text-align:center;">Thank you!</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
