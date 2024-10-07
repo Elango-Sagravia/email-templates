@@ -9,6 +9,11 @@
       <mj-column>
         <mj-spacer height="60px" />
         <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image
+          width="1px"
+          src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -96,7 +101,7 @@
               color: #667085;
               line-height: 2;
             ">
-            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
               font-family: -apple-system, BlinkMacSystemFont, 'Avenir Next',

@@ -19,6 +19,11 @@
           href="https://www.presidentialsummary.com"
           alt=""
         />
+        <mj-image
+          width="1px"
+          src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -650,7 +655,7 @@
             "
           >
             <a
-              href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com"
+              href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%"
               target="_blank"
               >Unsubscribe</a
             >
