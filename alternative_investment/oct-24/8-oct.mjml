@@ -1,0 +1,448 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom:
+      10px;}
+    </mj-style>
+    <mj-preview>Alternative insights, fresh off the press.</mj-preview>
+    <mj-font name="EB Garamond" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" />
+    <mj-font name="Verdana" href="https://fonts.cdnfonts.com/css/verdana" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="250px"
+          src="https://www.altdaily.co/logo.png"
+          href="https://www.altdaily.co"
+          alt=""
+        />
+        <mj-image
+          width="1px"
+    src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 700;
+              margin-top: 30px !important;
+            "
+          >
+           Elliott Loses Appeal in Nickel Lawsuit
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Activist hedge fund Elliott Associates has lost its <a href="https://www.hedgeweek.com/elliott-loses-appeal-in-lme-nickel-trade-lawsuit/" target="_blank">appeal</a> in a lawsuit against the London Metal Exchange (LME). The case revolved around the LME’s cancellation of $12 billion in nickel trades during a market spike in March 2022. Elliott argued the cancellation was unlawful, but the Court of Appeal ruled the LME acted within its rights to maintain market stability. The judges described the price surge as a “once-in-a-generation event.” Despite the loss, Elliott is considering its next legal steps, seeking damages of $472 million.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Apollo Buys Barnes Group for $3.6 Billion
+          </h2>
+        </mj-text>
+        <mj-image
+          padding="10px 12px"
+          width="600px"
+          src="https://www.altdaily.co/email/images/an-oct-8-1.jpg"
+          alt="Apollo Buys Barnes Group for $3.6 Billion"
+        />
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Apollo Global Management is acquiring Barnes Group, an aerospace and tech manufacturer, in a deal valued at <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/07/apollo-to-pay-36-billion-for-aerospace-manufacturer-barnes/" target="_blank">$3.6 billion</a>. Barnes shareholders will receive $47.50 per share, a 22% premium on the stock’s price before news of the sale emerged. The all-cash transaction is expected to close by Q1 2025. Barnes shares are up 39% this year, and the deal marks a significant premium for investors. Apollo’s acquisition reflects the continued consolidation in the aerospace sector amid rising demand for cutting-edge technologies.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding-top="20px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Has Passive Investing Reached Its Peak?
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >After years of active funds losing ground, passive investing appears to be past its peak. Deloitte’s latest report highlights a <a href="https://www.investmentnews.com/alternatives/after-18t-active-fund-exodus-has-the-investment-industry-reached-peak-passive/257569" target="_blank">$1.8 trillion</a> exodus from active mutual funds in recent years. However, the firm suggests other opportunities could be on the horizon. Active ETFs are gaining traction, capturing 23% of ETF inflows in 2023, compared to 9% five years ago. Meanwhile, private credit and alternative investments continue to grow, offering diversification options.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Shore Capital Raises $1.9B for New Funds
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Shore Capital Partners, led by Justin Ishbia, has <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/07/ishbias-shore-capital-raises-19-billion-for-three-funds/" target="_blank">raised</a> $1.9 billion across three new funds. The Chicago-based private equity firm will use the funds to expand its traditional focus on small business investments, with two funds targeting healthcare and micro-cap deals. Shore now manages $9.1 billion in assets. The capital comes from a mix of new and existing investors, including pension funds, insurance companies, and university endowments. Despite economic challenges, Shore’s latest fundraise underscores its continued focus on lower-middle market opportunities and future growth.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="verdana, Arial"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Hedge Fund Segantii Exits Hong Kong Office
+          </h2>
+        </mj-text>
+          <mj-image
+          padding="10px 12px"
+          width="600px"
+          src="https://www.altdaily.co/email/images/an-oct-8-2.jpg"
+          alt="Hedge Fund Segantii Exits Hong Kong Office"
+        />
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Segantii Capital Management, embroiled in an insider trading case, has vacated its <a href="https://www.bnnbloomberg.ca/business/international/2024/10/07/segantii-gives-up-hong-kong-office-amid-insider-dealing-charge/" target="_blank">12,000-square-foot</a> Hong Kong office. The hedge fund, founded by Simon Sadler, left its space at 100 Queen’s Road Central despite having more than a year left on its lease. Segantii now operates from a serviced office nearby. The firm is facing criminal charges from Hong Kong’s securities watchdog, leading some investors to reconsider their relationships with Segantii. The case has cast a shadow over one of Asia’s most prominent hedge funds, which managed $6.2 billion at its peak.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+           Mantle Ridge Targets Changes at Air Products
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Activist hedge fund Mantle Ridge is <a href="https://www.hedgeweek.com/activist-mantle-ridge-pushing-for-changes-at-gas-giant-air-products/#:~:text=Activist%20hedge%20fund%20firm%20Mantle,by%20the%20Wall%20Street%20journal." target="_blank">pushing for changes</a> at Air Products and Chemicals, one of the world’s largest industrial gas companies. Mantle Ridge has acquired over $1 billion worth of shares and is expected to advocate for cost-cutting and leadership succession, given that current CEO Seifi Ghasemi is 80 years old. This isn’t the first time Mantle Ridge has influenced Air Products—CEO Paul Hilal played a key role in bringing Ghasemi on board back in 2013. Air Products stock jumped nearly 6% on the news.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Columbia Threadneedle Expands in Asia with DBS
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Columbia Threadneedle has partnered with DBS Bank to <a href="https://www.hedgeweek.com/columbia-threadneedle-partners-with-dbs-to-expand-tech-hedge-fund-reach-in-asia/" target="_blank">expand</a> its tech-focused hedge fund strategy across Asia. The fund, managed by Paul Wick at Seligman Investments, uses a long-short equity approach to capitalize on tech growth while managing downside risks. The strategy has seen strong demand from family offices and private banks, especially in volatile market conditions. This partnership is part of Columbia Threadneedle’s broader push into Asia, having previously teamed up with UBS for other investment strategies.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+            Private Equity Firm Buys Duckhorn for $1.95B
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Butterfly Equity is buying winemaker Duckhorn in a <a href="https://www.bnnbloomberg.ca/investing/commodities/2024/10/07/butterfly-equity-buys-winemaker-duckhorn-in-195-billion-deal/" target="_blank">$1.95 billion</a> deal. The private equity firm is paying $11.10 per share, a premium of over 100% on Duckhorn’s previous close. Duckhorn went public in 2021 but is now going private again. The deal includes a 45-day go-shop period and is subject to shareholder approval. Duckhorn CEO Deirdre Mahlan believes the buyout will provide more resources for expansion. Butterfly Equity sees Duckhorn as a scalable platform for future growth through acquisitions and organic growth.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+           India’s $20B Private Equity Deals Surge
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >India’s private equity market is heating up, with a <a href="https://www.bnnbloomberg.ca/business/2024/10/07/indias-20-billion-deals-pipeline-lures-funds-to-pe-held-stakes/" target="_blank">$20 billion</a> deal pipeline drawing in secondary investors. Private equity funds are looking to sell stakes in companies they’ve held for over six years, creating a ripe environment for secondary buyers. Continuation funds are also growing, allowing private equity managers to hold onto assets longer. The success of ChrysCapital’s $700M continuation fund has sparked interest, with expectations of more funds launching soon. With prices discounted by up to 25%, investors see India as a maturing market with global interest rising fast.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+        <!-- Content sections -->
+     <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="Verdana"
+          color="#000000"
+        >
+          <h2 style="font-size: 20px; line-height: 1.2; font-weight: 700">
+          Hedge Funds Lose on Yen Bullish Bets
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="EB Garamond"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 18px;
+              line-height: 1.6;
+            "
+          >Hedge funds turned bullish on the yen, only to watch it <a href="https://www.bnnbloomberg.ca/business/international/2024/10/07/hedge-funds-bought-yen-right-before-the-biggest-drop-in-15-years/" target="_blank">plummet</a>. The yen’s 4.4% drop last week, its worst in 15 years, came after new Japanese Prime Minister Shigeru Ishiba’s dovish stance and a surprisingly strong U.S. jobs report. Hedge funds flipped to long yen positions, hoping for rate hikes, but now face bearish sentiment as the dollar strengthens. Experts predict the yen could test the 150 level soon, with some seeing potential long-term buying opportunities if it continues to slide.
+
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="EB Garamond">
+          <p
+            style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Send us your feedback at
+            <a href="mailto:readers@altdaily.co" target="_blank"
+              >readers@altdaily.co</a
+            >.
+          </p>
+          <p
+            style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Interested in connecting with curious, informed readers?
+            <a
+              href="https://www.altdaily.co/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <p
+            style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            <a
+              href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%"
+              target="_blank"
+              >Unsubscribe</a
+            >
+            from this email.
+          </p>
+          <p
+            style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
