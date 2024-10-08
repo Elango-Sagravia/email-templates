@@ -52,6 +52,29 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- banner sections -->
+    <mj-section background-color="#FFFFFF">
+      <mj-column background-color="#8C3321" width="90%">
+        <mj-text font-family="verdana, Arial" color="#FFFFFF">
+          <h3 style="
+              font-family: verdana;
+              font-size: 14px;
+              line-height: 1.2;
+              font-weight: 700;
+              margin-top: 30px !important;
+              text-align: center;
+            "> FACT </h3>
+        </mj-text>
+        <mj-text font-family="garamond, Arial" color="#FFFFFF">
+          <p style="
+              font-family: garamond;
+              font-size: 24px;
+              line-height: 1.6;
+              text-align: center;
+            ">In 1998, Google was almost sold to Excite for just $750,000, but the deal fell through.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
     <!-- divider sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
