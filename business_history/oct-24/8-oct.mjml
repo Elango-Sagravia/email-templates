@@ -55,21 +55,13 @@
     <!-- banner sections -->
     <mj-section background-color="#FFFFFF">
       <mj-column background-color="#8C3321" width="90%">
-        <mj-text font-family="Verdana" color="#FFFFFF">
-          <h3 style="
-              font-size: 14px;
-              line-height: 1.2;
-              font-weight: 700;
-              margin-top: 30px !important;
-              text-align: center;
-            "> FACT </h3>
-        </mj-text>
         <mj-text font-family="EB Garamond, serif" color="#FFFFFF">
           <p style="
-              font-size: 24px;
+              margin:15px 10px 10px 15px;
+              font-size: 18px;
               line-height: 1.6;
               text-align: center;
-            ">"Your most unhappy customers are your greatest source of learning." — Bill Gates
+            ">"Your most unhappy customers are your greatest source of learning." - Bill Gates
 </p>
         </mj-text>
       </mj-column>
@@ -85,24 +77,29 @@
       <mj-column>
         <mj-text padding="10px 12px" font-family="EB Garamond, serif">
           <p style="
+              font-size:16px;
               color: #667085;
               line-height: 2;
             "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
           <p style="
+              font-size:16px;
               color: #667085;
               line-height: 2;
             "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="
+              font-size:16px;
               color: #667085;
               line-height: 2;
             ">
             <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
+              font-size:16px;
               color: #667085;
               line-height: 2;
             ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
           <p style="
+              font-size:16px;
               color: #667085;
               line-height: 2;
             ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
