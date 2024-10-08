@@ -53,16 +53,20 @@
       </mj-column>
     </mj-section>
     <!-- banner sections -->
-    <mj-section background-color="#FFFFFF">
-      <mj-column background-color="#8C3321" width="90%">
-        <mj-text font-family="EB Garamond, serif" color="#FFFFFF">
-          <p style="
-              margin:15px 10px 10px 15px;
-              font-size: 18px;
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="EB Garamond" color="white">
+          <p
+            style="
+              font-size: 22px;
               line-height: 1.6;
+              padding: 20px 12px 12px 12px;
               text-align: center;
-            ">"Your most unhappy customers are your greatest source of learning." - Bill Gates
-</p>
+            "
+          >
+            "Your most unhappy customers are your greatest source of learning."- Bill Gates
+
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -75,7 +79,7 @@
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text padding="10px 12px" font-family="EB Garamond, serif">
+        <mj-text padding="10px 12px"font-family="Arial, Helvetica, sans-serif"  color="#333">
           <p style="
               font-size:16px;
               color: #667085;
