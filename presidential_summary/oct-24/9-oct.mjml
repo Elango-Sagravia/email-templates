@@ -549,18 +549,17 @@
   <!--thank you!-->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column background-color="black" width="96%">
-        <mj-text padding="10px 12px" font-family="Verdana" color="white">
-          <h2
+        <mj-text padding="10px 12px" font-family="EB Garamond" color="white">
+          <p
             style="
-              font-size: 22px;
-              line-height: 1.2;
-              font-weight: 700;
-              padding: 30px 12px 20px 12px;
+              font-size: 18px;
+              line-height: 1.4;
+              padding: 20px 12px 8px 12px;
               text-align: center;
             "
           >
-            Thank you!
-          </h2>
+             On this day in 1871, the Great Chicago Fire began in the barn of Patrick and Catherine O'Leary, and by the time the blaze died out two days later, a large swath of the city had been devastated and some 300 people killed.
+          </p>
         </mj-text>
       </mj-column>
     </mj-section>
