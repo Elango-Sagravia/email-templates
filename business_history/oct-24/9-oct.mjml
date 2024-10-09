@@ -1,0 +1,121 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-preview>Behind the scenes of legendary businesses.</mj-preview>
+    <mj-font name="EB Garamond" href="https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;700&display=swap" />
+    <mj-font name="Verdana" href="https://fonts.cdnfonts.com/css/verdana" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px"  font-family="Verdana" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 700;
+              margin-top: 30px !important;
+            ">Google: From Garage Startup to Global Giant</h2>
+        </mj-text>
+        <mj-text padding="10px 12px"  font-family="EB Garamond" color="#000000">
+          <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">Google's story begins in 1998 with two ambitious Stanford University PhD students, Larry Page and Sergey Brin. Their journey started in a rented garage in Menlo Park, California, where they launched a search engine initially called "Backrub." The primary aim was to create a more efficient way to search for information on the World Wide Web that was beginning to grow.</p>
+          <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">Page and Brin developed a unique algorithm called "PageRank," which ranked web pages based on the number and quality of links pointing to them. This approach gave users more relevant and accurate search results than existing search engines like Yahoo! and AltaVista. Their innovative vision was to organize the world's information and make it universally accessible and useful.</p>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-9-1.jpg" alt="Google: From Garage Startup to Global Giant
+" />
+        <mj-text padding="10px 12px" font-family="EB Garamond, serif"color="#000000">
+          <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">The first major breakthrough came when they secured a $100,000 investment from Andy Bechtolsheim, co-founder of Sun Microsystems, after a brief pitch. With this funding, they officially founded Google on September 4, 1998. The name "Google" is a play on the word "googol," representing the vast amount of information the search engine aimed to organize.</p>
+          <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">In the early days, Google operated out of that small garage, focusing on refining its search capabilities. The clean, minimalist design of the Google homepage set it apart from its cluttered competitors. By 2000, Google had become the most popular search engine in the U.S., thanks to its user-friendly interface and reliable results.</p>
+          <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">In 2001, Google introduced AdWords, a program that allowed businesses to place targeted ads alongside search results. This innovation transformed Google from a helpful search tool into a revenue-generating powerhouse, setting the foundation for its financial success.</p>
+            <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">The company's rapid growth led to its initial public offering (IPO) in 2004, raising $1.67 billion and valuing it at over $23 billion. With the newfound capital, Google expanded its services and acquired several key companies, including YouTube in 2006 and DoubleClick in 2008.</p>
+            <p style="
+              font-size: 18px;
+              line-height: 1.6;
+            ">Today, Google is a subsidiary of Alphabet Inc. and has evolved far beyond its original search engine. Google processes over 3.5 billion searches per day, making it one of the most visited websites in the world.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="EB Garamond" color="white">
+        <p
+            style="
+              font-size: 18px;
+              line-height: 1.4;
+              padding:20px 12px 8px 12px;
+              text-align: center;
+            "
+          >The Ritz-Carlton was the first hotel company to win the prestigious Malcolm Baldrige National Quality Award in 1992.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px"font-family="Arial, Helvetica, sans-serif"  color="#333">
+          <p style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            ">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              font-size:16px;
+              color: #667085;
+              line-height: 2;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
