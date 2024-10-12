@@ -1,62 +1,36 @@
 <mjml>
   <mj-head>
-    <mj-style>
-      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
-      margin-bottom: 10px; }
-    </mj-style>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
     <mj-preview>Stay informed, widen your worldview.</mj-preview>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
-
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <!-- Logo Header -->
     <mj-section background-color="#ffffff" padding-top="50px">
       <mj-column>
         <mj-spacer height="60px" />
-        <mj-image
-          padding="10px 12px"
-          css-class="light_img"
-          width="250px"
-          src="https://www.presidentialsummary.com/logo.png"
-          href="https://www.presidentialsummary.com"
-          alt=""
-        />
-        
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2
-            style="
+          <h2 style="
               font-size: 22px;
               line-height: 1.2;
               font-weight: 500;
               margin-top: 2px !important;
-            "
-          >
-            France Rejects Wegovy Coverage
-          </h2>
+            "> France Rejects Wegovy Coverage </h2>
         </mj-text>
-        <mj-image
-          padding="10px 12px"
-          width="600px"
-          src="https://www.presidentialsummary.com/email/images/ps-oct-12-1.jpg"
-          alt="France Rejects Wegovy Coverage"/>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-12-1.jpg" alt="France Rejects Wegovy Coverage" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">France has decided not to cover the <a href="https://www.euronews.com/health/2024/10/11/france-wont-pay-for-weight-loss-drug-wegovy-what-about-other-european-countries#:~:text=Wegovy%20is%20expected%20to%20cost,to%20help%20patients%20shed%20weight." target="_blank">anti-obesity drug</a> Wegovy through its national health insurance despite its recent approval for sale. Patients must pay between €270 to €330 per month out of pocket. The French government stresses that Wegovy should only be used when diet and exercise are insufficient for weight loss, and prescriptions must be obtained from specialists to prevent misuse for cosmetic purposes.
-          </p>
-          <p style="font-size: 16px; line-height: 1.4">Other European countries are also cautious about including it in their own, citing budget concerns and the need for more research on long-term effects. In the United States, the Wegovy and Ozempics have become very popular. While Ozempic is FDA-approved only for treatment of Type 2 Diabetes, it is often prescribed to those simply for weight loss. Some have complained that the <a href="https://www.npr.org/sections/shots-health-news/2024/09/06/g-s1-21139/ozempic-wegovy-shortages" target="_blank">popularity</a> of these medications has made them more challenging to obtain for people who need them the most. 
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">France has decided not to cover the <a href="https://www.euronews.com/health/2024/10/11/france-wont-pay-for-weight-loss-drug-wegovy-what-about-other-european-countries#:~:text=Wegovy%20is%20expected%20to%20cost,to%20help%20patients%20shed%20weight." target="_blank">anti-obesity drug</a> Wegovy through its national health insurance despite its recent approval for sale. Patients must pay between €270 to €330 per month out of pocket. The French government stresses that Wegovy should only be used when diet and exercise are insufficient for weight loss, and prescriptions must be obtained from specialists to prevent misuse for cosmetic purposes. </p>
+          <p style="font-size: 16px; line-height: 1.4">Other European countries are also cautious about including it in their own, citing budget concerns and the need for more research on long-term effects. In the United States, the Wegovy and Ozempics have become very popular. While Ozempic is FDA-approved only for treatment of Type 2 Diabetes, it is often prescribed to those simply for weight loss. Some have complained that the <a href="https://www.npr.org/sections/shots-health-news/2024/09/06/g-s1-21139/ozempic-wegovy-shortages" target="_blank">popularity</a> of these medications has made them more challenging to obtain for people who need them the most. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -67,22 +41,13 @@
               font-size: 22px;
               line-height: 1.2;
               font-weight: 500;
-              margin-top: 2px !important;">
-            Whooping Cough Cases Surge
-          </h2>
+              margin-top: 2px !important;"> Whooping Cough Cases Surge </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">The United States has experienced a significant surge in <a href="https://www.npr.org/2024/10/10/nx-s1-5127422/whooping-cough-outbreak-u-s-seattle" target="_blank">whooping cough cases</a>, with over 16,000 reported this year, marking the highest levels since 2014. This increase can be attributed to the widespread implementation of testing, potential variations in the bacterium, and a rise in vaccine hesitancy, exacerbated by the ongoing pandemic. 
-          </p>
-          <p style="font-size: 16px; line-height: 1.4">Infants are at highest risk as they can’t get vaccinated until they are two months old. One in three infant cases requires hospitalization. Health experts underline the importance of vaccinating pregnant women to ensure the newborns' safety until they are eligible for vaccination. The outbreak has severely impacted the West Coast, particularly in King County, Washington. 
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">The United States has experienced a significant surge in <a href="https://www.npr.org/2024/10/10/nx-s1-5127422/whooping-cough-outbreak-u-s-seattle" target="_blank">whooping cough cases</a>, with over 16,000 reported this year, marking the highest levels since 2014. This increase can be attributed to the widespread implementation of testing, potential variations in the bacterium, and a rise in vaccine hesitancy, exacerbated by the ongoing pandemic. </p>
+          <p style="font-size: 16px; line-height: 1.4">Infants are at highest risk as they can’t get vaccinated until they are two months old. One in three infant cases requires hospitalization. Health experts underline the importance of vaccinating pregnant women to ensure the newborns' safety until they are eligible for vaccination. The outbreak has severely impacted the West Coast, particularly in King County, Washington. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -93,22 +58,13 @@
               font-size: 22px;
               line-height: 1.2;
               font-weight: 500;
-              margin-top: 2px !important;">
-            Ukrainian Journalist Dies in Captivity
-          </h2>
+              margin-top: 2px !important;"> Ukrainian Journalist Dies in Captivity </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Ukrainian journalist Viktoria Roshchyna has been <a href="https://www.rferl.org/a/ukraine-journalist-viktoria-roshchyna-death-russia-captivity/33154122.html" target="_blank">confirmed dead</a> while in Russian captivity, according to Ukrainian authorities on October 10. Roshchyna, a freelance journalist who had previously worked with various outlets like RFE/RL, had been missing since early August 2023 after venturing into Russian-occupied territories. Her release was supposed to be negotiated in the coming days. 
-          </p>
-          <p style="font-size: 16px; line-height: 1.4">There hasn’t been an explanation for the cause of her death. According to official information from the Russian authorities, this occurred during the transfer from Taganrog to Moscow; Roshchyna’s case puts into perspective the threats faced by journalists in Ukraine, with over 100 journalists impacted since the beginning of the war in February 2022. The investigation into her death continues as Ukrainian authorities work to understand the circumstances surrounding it and the more significant implications for press freedom in conflict zones.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Ukrainian journalist Viktoria Roshchyna has been <a href="https://www.rferl.org/a/ukraine-journalist-viktoria-roshchyna-death-russia-captivity/33154122.html" target="_blank">confirmed dead</a> while in Russian captivity, according to Ukrainian authorities on October 10. Roshchyna, a freelance journalist who had previously worked with various outlets like RFE/RL, had been missing since early August 2023 after venturing into Russian-occupied territories. Her release was supposed to be negotiated in the coming days. </p>
+          <p style="font-size: 16px; line-height: 1.4">There hasn’t been an explanation for the cause of her death. According to official information from the Russian authorities, this occurred during the transfer from Taganrog to Moscow; Roshchyna’s case puts into perspective the threats faced by journalists in Ukraine, with over 100 journalists impacted since the beginning of the war in February 2022. The investigation into her death continues as Ukrainian authorities work to understand the circumstances surrounding it and the more significant implications for press freedom in conflict zones. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -119,33 +75,21 @@
               font-size: 22px;
               line-height: 1.2;
               font-weight: 500;
-              margin-top: 2px !important;">
-          Obama Rallies for Harris
-
-          </h2>
+              margin-top: 2px !important;"> Obama Rallies for Harris </h2>
         </mj-text>
-        <mj-image
-          padding="10px 12px"
-          width="600px"
-          src="https://www.presidentialsummary.com/email/images/ps-oct-12-2.jpg"
-          alt="Obama Rallies for Harris"/>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-12-2.jpg" alt="Obama Rallies for Harris" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Former President Obama returned to the <a href="https://www.cnn.com/2024/10/11/politics/barack-obama-kamala-harris-analysis/index.html" target="_blank">campaign trail</a> in Pittsburgh, Pennsylvania, to support Vice President Kamala Harris as she seeks to solidify her position in the upcoming election. Reflecting on his past success in the state, Obama emphasized the moment's urgency, warning against a potential Trump comeback. He starkly contrasted his administration’s values and Trump’s approach, urging voters to turn out and support Harris, who faces challenges in gaining momentum as Election Day approaches.
-          </p>
-          <p style="font-size: 16px; line-height: 1.4">Obama's powerful endorsement should help relieve tensions and dynamics within the Democratic Party as it prepares for a critical election. His remarks targeted traditional Republicans and disillusioned voters while also addressing concerns about <a href="https://www.politico.com/news/2024/10/10/kamala-harris-detroit-voters-turnout-michigan-00183107" target="_blank">gender dynamics</a>, with Harris primarily drawing support from women voters.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Former President Obama returned to the <a href="https://www.cnn.com/2024/10/11/politics/barack-obama-kamala-harris-analysis/index.html" target="_blank">campaign trail</a> in Pittsburgh, Pennsylvania, to support Vice President Kamala Harris as she seeks to solidify her position in the upcoming election. Reflecting on his past success in the state, Obama emphasized the moment's urgency, warning against a potential Trump comeback. He starkly contrasted his administration’s values and Trump’s approach, urging voters to turn out and support Harris, who faces challenges in gaining momentum as Election Day approaches. </p>
+          <p style="font-size: 16px; line-height: 1.4">Obama's powerful endorsement should help relieve tensions and dynamics within the Democratic Party as it prepares for a critical election. His remarks targeted traditional Republicans and disillusioned voters while also addressing concerns about <a href="https://www.politico.com/news/2024/10/10/kamala-harris-detroit-voters-turnout-michigan-00183107" target="_blank">gender dynamics</a>, with Harris primarily drawing support from women voters. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- Briefs content section -->
-
     <!-- Brief -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column background-color="#210E27" width="96%">
         <mj-text padding="10px 12px" font-family="Roboto" color="white">
-          <h2
-            style="
+          <h2 style="
             letter-spacing:6px;
             text-transform:uppercase;
               font-size: 20px;
@@ -153,264 +97,177 @@
               font-weight: 200;
               padding: 18px 8px 10px 8px;
               text-align: center;
-            "
-          >
-            Briefs
-          </h2>
+            "> Briefs </h2>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- Global Affairs -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:20px;">
-            Global Affairs
-          </h3>
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:20px;"> Global Affairs </h3>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Human Rights Watch reports Haitian gangs <a href="https://www.theguardian.com/global-development/2024/oct/11/haitian-gangs-recruiting-starving-children-to-fight-security-forces-rights-group-finds" target="_blank">recruiting malnourished children</a> to fight against security forces.
-          </p>
-          <p
-            style="
+            ">Human Rights Watch reports Haitian gangs <a href="https://www.theguardian.com/global-development/2024/oct/11/haitian-gangs-recruiting-starving-children-to-fight-security-forces-rights-group-finds" target="_blank">recruiting malnourished children</a> to fight against security forces. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >New Zealand’s Defense Minister Andrew Little defends the Navy after claims a ship’s sinking is tied to its female captain, sparking <a href="https://www.newsweek.com/new-zealand-navy-ship-didnt-sink-cause-female-captain-says-minister-1967527" target="_blank">sexism debates</a>.
-          </p>
-          <p
-            style="
+            ">New Zealand’s Defense Minister Andrew Little defends the Navy after claims a ship’s sinking is tied to its female captain, sparking <a href="https://www.newsweek.com/new-zealand-navy-ship-didnt-sink-cause-female-captain-says-minister-1967527" target="_blank">sexism debates</a>. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >European Mediterranean states meet in Cyprus to address the <a href="https://www.france24.com/en/europe/20241011-european-mediterranean-states-to-meet-in-cyprus-over-middle-east-migration" target="_blank">growing migration crisis</a> from the Middle East.
-          </p>
+            ">European Mediterranean states meet in Cyprus to address the <a href="https://www.france24.com/en/europe/20241011-european-mediterranean-states-to-meet-in-cyprus-over-middle-east-migration" target="_blank">growing migration crisis</a> from the Middle East. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px"
-        />
-      </mj-column>
-    </mj-section>
-
-    <!-- content section -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;">
-            Business & Finance
-          </h3>
-        </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
-              font-size: 16px;
-              line-height: 1.4;
-              border-left: 3px solid #4c305f;
-              padding-left: 14px;
-              margin-bottom: 15px;
-            "
-          >Urban Outfitters regains popularity among Gen Z through revamped products and targeted marketing. <a href="https://edition.cnn.com/2024/10/11/business/urban-outfitters-gen-z-turnaround/index.html" target="_blank">Read more</a>.
-          </p>
-          <p
-            style="
-              font-size: 16px;
-              line-height: 1.4;
-              border-left: 3px solid #4c305f;
-              padding-left: 14px;
-              margin-bottom: 15px;
-            "
-          >Tesla's stock drops after <a href="https://finance.yahoo.com/news/tesla-stock-sinks-as-toothless-robotaxi-disappoints-161323105.html" target="_blank">robotaxi launch</a> is criticized as underwhelming.
-          </p>
-        </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;">
-            Science and Tech
-          </h3>
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Hubble Telescope reveals Jupiter’s Great Red Spot is shrinking and becoming more elongated. <a href="https://www.space.com/jupiter-great-red-spot-squeezed-hubble-telescope" target="_blank">Read more</a> (video).
-          </p>
-          <p
-            style="
+            ">Urban Outfitters regains popularity among Gen Z through revamped products and targeted marketing. <a href="https://edition.cnn.com/2024/10/11/business/urban-outfitters-gen-z-turnaround/index.html" target="_blank">Read more</a>. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Comet C/2023 A3 is now visible and will reach its closest point to Earth on Monday. <a href="https://www.npr.org/2024/10/10/nx-s1-5148895/how-to-see-comet-c-2023-a3-tsuchinshan-atlas" target="_blank">How to see it</a>.
-          </p>
+            ">Tesla's stock drops after <a href="https://finance.yahoo.com/news/tesla-stock-sinks-as-toothless-robotaxi-disappoints-161323105.html" target="_blank">robotaxi launch</a> is criticized as underwhelming. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;">
-            Arts and Culture
-          </h3>
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Science and Tech </h3>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Holocaust survivor and TikTok creator <a href="https://www.history.co.uk/articles/lily-ebert-dies-aged-100" target="_blank">Lily Ebert dies at 100</a> after dedicating her life to Holocaust education.
-          </p>
-          <p
-            style="
+            ">Hubble Telescope reveals Jupiter’s Great Red Spot is shrinking and becoming more elongated. <a href="https://www.space.com/jupiter-great-red-spot-squeezed-hubble-telescope" target="_blank">Read more</a> (video). </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Sean “Diddy” Combs faces trial in May 2025 on racketeering and sex trafficking charges. <a href="https://edition.cnn.com/2024/10/10/entertainment/sean-diddy-combs-trial-date/index.html" target="_blank">Read more</a> (warning—sensitive).
-          </p>
+            ">Comet C/2023 A3 is now visible and will reach its closest point to Earth on Monday. <a href="https://www.npr.org/2024/10/10/nx-s1-5148895/how-to-see-comet-c-2023-a3-tsuchinshan-atlas" target="_blank">How to see it</a>. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;">
-            Sports
-          </h3>
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Arts and Culture </h3>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Slovenian cycling hegemony continues. Tadej Pogacar chases his <a href="https://www.flobikes.com/articles/12894423-tadej-pogacar-hunting-perfect-finale-with-il-lombardia-record" target="_blank">fourth Lombardia win</a>.
-          </p>
-          <p
-            style="
+            ">Holocaust survivor and TikTok creator <a href="https://www.history.co.uk/articles/lily-ebert-dies-aged-100" target="_blank">Lily Ebert dies at 100</a> after dedicating her life to Holocaust education. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >The <a href="https://sports.yahoo.com/wnba-having-real-moment-caitlin-175706015.html" target="_blank">WNBA's popularity</a> is rising, fueled by standout performances from players like Caitlin Clark.
-          </p>
+            ">Sean “Diddy” Combs faces trial in May 2025 on racketeering and sex trafficking charges. <a href="https://edition.cnn.com/2024/10/10/entertainment/sean-diddy-combs-trial-date/index.html" target="_blank">Read more</a> (warning—sensitive). </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
-          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;">
-            Whatnot
-          </h3>
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Sports </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Slovenian cycling hegemony continues. Tadej Pogacar chases his <a href="https://www.flobikes.com/articles/12894423-tadej-pogacar-hunting-perfect-finale-with-il-lombardia-record" target="_blank">fourth Lombardia win</a>. </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The <a href="https://sports.yahoo.com/wnba-having-real-moment-caitlin-175706015.html" target="_blank">WNBA's popularity</a> is rising, fueled by standout performances from players like Caitlin Clark. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p
-            style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Prague is named the world’s <a href="https://www.expats.cz/czech-news/article/prague-is-the-world-s-most-beautiful-city-from-the-air-new-study-says" target="_blank">most beautiful city from the air</a>.
-          </p>
-          <p
-            style="
+            ">Prague is named the world’s <a href="https://www.expats.cz/czech-news/article/prague-is-the-world-s-most-beautiful-city-from-the-air-new-study-says" target="_blank">most beautiful city from the air</a>. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Hurricane Helene’s death toll exceeds 200, the <a href="https://www.bbc.com/news/articles/c1k70rnrp4xo" target="_blank">deadliest storm since Hurricane Katrina</a>.
-          </p>
-          <p
-            style="
+            ">Hurricane Helene’s death toll exceeds 200, the <a href="https://www.bbc.com/news/articles/c1k70rnrp4xo" target="_blank">deadliest storm since Hurricane Katrina</a>. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Barbie’s new <a href="https://www.npr.org/sections/goats-and-soda/2024/10/10/g-s1-27247/barbie-diwali-doll-india" target="_blank">Diwali doll has arrived</a>.
-          </p>
-          <p
-            style="
+            ">Barbie’s new <a href="https://www.npr.org/sections/goats-and-soda/2024/10/10/g-s1-27247/barbie-diwali-doll-india" target="_blank">Diwali doll has arrived</a>. </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "
-          >Vacationers travel more during off-peak seasons to <a href="https://www.cnbc.com/2024/10/10/delta-summer-europe-trips-fall-getaways.html" target="_blank">avoid heat and crowds</a>.
-          </p>
+            ">Vacationers travel more during off-peak seasons to <a href="https://www.cnbc.com/2024/10/10/delta-summer-europe-trips-fall-getaways.html" target="_blank">avoid heat and crowds</a>. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -418,65 +275,30 @@
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column background-color="#210E27" width="96%">
         <mj-text padding="10px 12px" font-family="Roboto" color="white">
-          <p
-            style="
+          <p style="
               font-size: 18px;
               line-height: 1.5;
               font-weight: 250;
               padding: 25px 12px 12px 12px;
               text-align: center;
-            "
-          >
-            On this day in 1492, the New World was "discovered" when land (most likely San Salvador) was sighted in the Caribbean from the Pinta during Christopher Columbus's historic voyage.
-
-          </p>
+            "> On this day in 1492, the New World was "discovered" when land (most likely San Salvador) was sighted in the Caribbean from the Pinta during Christopher Columbus's historic voyage. </p>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
-        <mj-text
-          padding="10px 12px"
-          font-family="Arial, Helvetica, sans-serif"
-          color="#333"
-        >
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="font-size: 14px; color: #667085; line-height: 2">
-            Send us your feedback at
-            <a href="mailto:readers@presidentialsummary.com" target="_blank"
-              >readers@presidentialsummary.com</a
-            >.
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            Interested in connecting with curious, informed readers?
-            <a
-              href="https://www.presidentialsummary.com/advertise#advertise-form"
-              target="_blank"
-              >Advertise with us</a
-            >.
-          </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            <a
-              href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com"
-              target="_blank"
-              >Unsubscribe</a
-            >
-            from this email.
-          </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            30 <span>N</span> <span>Gould</span>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
             <span>St, Ste N, Sheridan, WY 82801, United States</span>
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            Copyright © 2024 Sagravia LLC, All rights reserved.
-          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
         </mj-text>
       </mj-column>
     </mj-section>
