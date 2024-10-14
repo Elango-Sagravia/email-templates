@@ -1,9 +1,6 @@
 <mjml>
   <mj-head>
-    <mj-style>
-      h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom:
-      10px;}
-    </mj-style>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} </mj-style>
     <mj-preview>Alternative insights, fresh off the press.</mj-preview>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
@@ -13,285 +10,149 @@
     <mj-section background-color="#ffffff" padding-top="50px">
       <mj-column>
         <mj-spacer height="60px" />
-        <mj-image
-          padding="10px 12px"
-          css-class="light_img"
-          width="250px"
-          src="https://www.altdaily.co/logo.png"
-          href="https://www.altdaily.co"
-          alt=""
-        />
-        
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.altdaily.co/logo.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2
-            style="
+          <h2 style="
               font-size: 22px;
               line-height: 1.2;
               font-weight: 500;
               margin-top: 30px !important;
-            "
-          >
-            BlackRock Expands in Alternative Assets
-          </h2>
+            "> BlackRock Expands in Alternative Assets </h2>
         </mj-text>
-        <mj-image
-          padding="10px 12px"
-          width="600px"
-          src="https://www.altdaily.co/email/images/an-oct-14-1.jpg"
-          alt="BlackRock Expands in Alternative Assets"
-        />
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-14-1.jpg" alt="BlackRock Expands in Alternative Assets" href="https://www.altdaily.co"/>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">BlackRock has made a significant move, now <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/blackrock-enters-new-league-with-450-billion-in-alternative-assets/" target="_blank">managing</a> $450 billion in alternative assets. Its $12.5 billion acquisition of Global Infrastructure Partners adds $116 billion, placing it closer to heavyweights like Blackstone and Apollo. This push highlights BlackRock’s strategy to grow beyond ETFs and stocks, offering private strategies like real estate and private equity. CEO Larry Fink emphasized that private markets are no longer seen as "alternatives" but part of the larger market. With private assets commanding higher fees, BlackRock’s aggressive expansion could boost revenue, especially with more deals on the horizon.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">BlackRock has made a significant move, now <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/blackrock-enters-new-league-with-450-billion-in-alternative-assets/" target="_blank">managing</a> $450 billion in alternative assets. Its $12.5 billion acquisition of Global Infrastructure Partners adds $116 billion, placing it closer to heavyweights like Blackstone and Apollo. This push highlights BlackRock’s strategy to grow beyond ETFs and stocks, offering private strategies like real estate and private equity. CEO Larry Fink emphasized that private markets are no longer seen as "alternatives" but part of the larger market. With private assets commanding higher fees, BlackRock’s aggressive expansion could boost revenue, especially with more deals on the horizon. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Private Equity Drives 40% of US M&A
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Private Equity Drives 40% of US M&A </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Private equity continues to dominate the US merger scene, now <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/private-equity-investors-account-for-40-of-us-deals/" target="_blank">accounting</a> for 40% of all deals reported in 2022. This represents a significant increase from 10% in 2001, highlighting private equity's growing influence. Regulators, however, are paying closer attention, with the FTC and DOJ opening antitrust investigations into PE firms, particularly in healthcare. These probes are exploring the potential competitive risks of overlapping board memberships.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Private equity continues to dominate the US merger scene, now <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/private-equity-investors-account-for-40-of-us-deals/" target="_blank">accounting</a> for 40% of all deals reported in 2022. This represents a significant increase from 10% in 2001, highlighting private equity's growing influence. Regulators, however, are paying closer attention, with the FTC and DOJ opening antitrust investigations into PE firms, particularly in healthcare. These probes are exploring the potential competitive risks of overlapping board memberships. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding-top="20px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Starboard Accuses Pfizer of Executive Pressure
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Starboard Accuses Pfizer of Executive Pressure </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Activist hedge fund Starboard Value, which holds a $1 billion stake in Pfizer, has <a href="https://www.hedgeweek.com/starboard-accuses-pfizer-of-pressuring-former-execs/" target="_blank">accused</a> the pharma giant of pressuring former executives Ian Read and Frank D’Amelio. The former Pfizer CEO and CFO initially supported Starboard’s campaign for change at Pfizer but later withdrew after alleged threats of litigation and clawbacks. The showdown intensifies just before Starboard and Pfizer’s scheduled meeting, with the hedge fund criticizing Pfizer’s stock performance and leadership under current CEO Albert Bourla. It’s a high-stakes battle as Pfizer faces internal and external pressures.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Activist hedge fund Starboard Value, which holds a $1 billion stake in Pfizer, has <a href="https://www.hedgeweek.com/starboard-accuses-pfizer-of-pressuring-former-execs/" target="_blank">accused</a> the pharma giant of pressuring former executives Ian Read and Frank D’Amelio. The former Pfizer CEO and CFO initially supported Starboard’s campaign for change at Pfizer but later withdrew after alleged threats of litigation and clawbacks. The showdown intensifies just before Starboard and Pfizer’s scheduled meeting, with the hedge fund criticizing Pfizer’s stock performance and leadership under current CEO Albert Bourla. It’s a high-stakes battle as Pfizer faces internal and external pressures. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-        <mj-text
-          padding="10px 12px"
-          font-family="Roboto"
-          color="#000000"
-        >
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Hedge Funds Increasingly Embrace Crypto
-          </h2>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Hedge Funds Increasingly Embrace Crypto </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Nearly half of traditional hedge funds now have exposure to cryptocurrencies. Regulatory clarity and the <a href="https://www.hedgeweek.com/nearly-half-of-traditional-hedge-funds-now-have-crypto-exposure/" target="_blank">rise of crypto</a> ETFs have driven more funds into digital assets, up from just 29% last year. While some hedge funds are diving deeper into complex crypto strategies, others remain cautious, with 76% of funds without crypto exposure saying they have no plans to invest in the next three years. It’s clear that while crypto is gaining ground, it’s still not universally embraced within the hedge fund community.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Nearly half of traditional hedge funds now have exposure to cryptocurrencies. Regulatory clarity and the <a href="https://www.hedgeweek.com/nearly-half-of-traditional-hedge-funds-now-have-crypto-exposure/" target="_blank">rise of crypto</a> ETFs have driven more funds into digital assets, up from just 29% last year. While some hedge funds are diving deeper into complex crypto strategies, others remain cautious, with 76% of funds without crypto exposure saying they have no plans to invest in the next three years. It’s clear that while crypto is gaining ground, it’s still not universally embraced within the hedge fund community. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
-      </mj-column>
-    </mj-section>
-    <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text
-          padding="10px 12px"
-          font-family="Roboto"
-          color="#000000"
-        >
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Bain Outbids KKR for Fuji Soft
-          </h2>
-        </mj-text>
-        <mj-image
-          padding="10px 12px"
-          width="600px"
-          src="https://www.altdaily.co/email/images/an-oct-14-2.jpg"
-          alt="Bain Outbids KKR for Fuji Soft"
-        />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">In a competitive bid, Bain Capital has <a href="https://www.bnnbloomberg.ca/business/international/2024/10/12/bain-makes-binding-offer-for-fuji-soft-outbidding-kkr-by-7/" target="_blank">outmaneuvered</a> KKR to acquire Japan-based Fuji Soft, offering ¥9,450 per share, 7% higher than KKR’s bid. Bain’s move is part of a growing trend of increased M&A activity in Japan, fueled by a weaker yen and an emphasis on boosting shareholder value. If successful, Bain will take the software developer private, with Fuji Soft’s founding family retaining a minority stake. KKR remains confident in its offer but faces tough competition as Bain seeks to close the deal by the end of October.
-          </p>
-        </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Hedge Funds Slash Brent Shorts Amid Risks
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Bain Outbids KKR for Fuji Soft </h2>
         </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-14-2.jpg" alt="Bain Outbids KKR for Fuji Soft" href="https://www.altdaily.co" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Hedge funds have rapidly cut their <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/hedge-funds-dump-bets-against-brent-at-fastest-pace-in-8-years/" target="_blank">bearish</a> bets against Brent crude prices, marking the fastest pace in almost eight years. Amid rising geopolitical tensions, including potential retaliatory action by Israel against Iran, investors are uneasy about betting against oil prices. As a result, hedge funds reduced short positions on Brent by nearly 50,000 contracts, signaling caution. Bullish bets on Brent and WTI oil have also surged as speculators expect prices to rise further. The situation remains fluid as global events continue to influence the oil market.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">In a competitive bid, Bain Capital has <a href="https://www.bnnbloomberg.ca/business/international/2024/10/12/bain-makes-binding-offer-for-fuji-soft-outbidding-kkr-by-7/" target="_blank">outmaneuvered</a> KKR to acquire Japan-based Fuji Soft, offering ¥9,450 per share, 7% higher than KKR’s bid. Bain’s move is part of a growing trend of increased M&A activity in Japan, fueled by a weaker yen and an emphasis on boosting shareholder value. If successful, Bain will take the software developer private, with Fuji Soft’s founding family retaining a minority stake. KKR remains confident in its offer but faces tough competition as Bain seeks to close the deal by the end of October. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-            Rio Tinto Bets Big on Lithium
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Hedge Funds Slash Brent Shorts Amid Risks </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Rio Tinto is making a <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/rio-takes-step-toward-ma-redemption-with-67-billion-lithium-bet/" target="_blank">$6.7 billion</a> bet on lithium with its acquisition of Arcadium Lithium. After past M&A missteps, the miner is looking to position itself as a key player in the booming battery market. The deal could make Rio the third-largest lithium producer by 2030. While investors are cautiously optimistic, some remain wary of Rio’s return to large acquisitions. However, CEO Jakob Stausholm’s disciplined approach seems to have won some over, as Rio strategically moves into greener metals to secure its future.
-          </p>
+          <p style="font-size: 16px; line-height: 1.4">Hedge funds have rapidly cut their <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/hedge-funds-dump-bets-against-brent-at-fastest-pace-in-8-years/" target="_blank">bearish</a> bets against Brent crude prices, marking the fastest pace in almost eight years. Amid rising geopolitical tensions, including potential retaliatory action by Israel against Iran, investors are uneasy about betting against oil prices. As a result, hedge funds reduced short positions on Brent by nearly 50,000 contracts, signaling caution. Bullish bets on Brent and WTI oil have also surged as speculators expect prices to rise further. The situation remains fluid as global events continue to influence the oil market. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-           Cboe to Launch VIX Futures Options
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Rio Tinto Bets Big on Lithium </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Cboe Global Markets is set to <a href="https://www.hedgeweek.com/cboe-to-launch-vix-futures-options-on-14-october/" target="_blank">launch</a> new options on VIX futures, adding another tool for investors to manage market volatility. The new product, debuting on October 14, complements existing VIX Index options and allows for broader participation by investors who can’t access securities-based options. With record trading volumes in VIX options this year, the demand for such tools is strong. Cboe’s expansion into VIX futures options comes at a critical time, offering investors more ways to hedge against US equity market volatility.
-          </p>
-          
+          <p style="font-size: 16px; line-height: 1.4">Rio Tinto is making a <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/rio-takes-step-toward-ma-redemption-with-67-billion-lithium-bet/" target="_blank">$6.7 billion</a> bet on lithium with its acquisition of Arcadium Lithium. After past M&A missteps, the miner is looking to position itself as a key player in the booming battery market. The deal could make Rio the third-largest lithium producer by 2030. While investors are cautiously optimistic, some remain wary of Rio’s return to large acquisitions. However, CEO Jakob Stausholm’s disciplined approach seems to have won some over, as Rio strategically moves into greener metals to secure its future. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
-      </mj-column>
-    </mj-section>
-     <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-           Apax Partners Exits Health Care Investments
-
-          </h2>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Apax Partners is <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/apax-partners-to-cease-health-care-investments-disband-team/" target="_blank">stepping away</a> from healthcare investments, citing fewer opportunities in the industry. The private equity firm will disband its dedicated healthcare team and reassign members to other roles. Apax will now focus on tech, services, and consumer sectors, while healthcare-adjacent businesses may still see investment. Regulatory pressures, supply chain disruptions, and capital intensity have made healthcare a less attractive space for Apax, which has raised $80 billion in capital and operates globally.
-          </p>
-          
-        </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">
-           Kenya Signs Power-Line Deal with Adani
-
-          </h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Cboe to Launch VIX Futures Options </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Kenya has inked a <a href="https://www.bnnbloomberg.ca/business/international/2024/10/11/kenya-signs-736-million-deal-with-adani-for-power-line-project/" target="_blank">$736 million</a> deal with Adani Energy to boost its power infrastructure. The project will see the construction of three new power lines to enhance electricity transmission and support industrial growth. Adani will finance, operate, and maintain the lines for 30 years, helping to address Kenya’s frequent outages. The deal comes amid growing protests over Adani’s involvement in the country’s largest airport, but the power project is moving forward, aiming to provide more reliable electricity access for industries and households.
-          </p>
-          
+          <p style="font-size: 16px; line-height: 1.4">Cboe Global Markets is set to <a href="https://www.hedgeweek.com/cboe-to-launch-vix-futures-options-on-14-october/" target="_blank">launch</a> new options on VIX futures, adding another tool for investors to manage market volatility. The new product, debuting on October 14, complements existing VIX Index options and allows for broader participation by investors who can’t access securities-based options. With record trading volumes in VIX options this year, the demand for such tools is strong. Cboe’s expansion into VIX futures options comes at a critical time, offering investors more ways to hedge against US equity market volatility. </p>
         </mj-text>
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="10px 12px"
-        />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Apax Partners Exits Health Care Investments </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Apax Partners is <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/apax-partners-to-cease-health-care-investments-disband-team/" target="_blank">stepping away</a> from healthcare investments, citing fewer opportunities in the industry. The private equity firm will disband its dedicated healthcare team and reassign members to other roles. Apax will now focus on tech, services, and consumer sectors, while healthcare-adjacent businesses may still see investment. Regulatory pressures, supply chain disruptions, and capital intensity have made healthcare a less attractive space for Apax, which has raised $80 billion in capital and operates globally. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Kenya Signs Power-Line Deal with Adani </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Kenya has inked a <a href="https://www.bnnbloomberg.ca/business/international/2024/10/11/kenya-signs-736-million-deal-with-adani-for-power-line-project/" target="_blank">$736 million</a> deal with Adani Energy to boost its power infrastructure. The project will see the construction of three new power lines to enhance electricity transmission and support industrial growth. Adani will finance, operate, and maintain the lines for 30 years, helping to address Kenya’s frequent outages. The deal comes amid growing protests over Adani’s involvement in the country’s largest airport, but the power project is moving forward, aiming to provide more reliable electricity access for industries and households. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text
-          padding="10px 12px"
-          font-family="Arial, Helvetica, sans-serif"
-          color="#333"
-        >
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="font-size: 14px; color: #667085; line-height: 2">
-            Send us your feedback at
-            <a href="mailto:readers@altdaily.co" target="_blank"
-              >readers@altdaily.co</a
-            >.
+            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            Interested in connecting with curious, informed readers?
-            <a
-              href="https://www.altdaily.co/advertise#advertise-form"
-              target="_blank"
-              >Advertise with us</a
-            >.
-          </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            <a
-              href="https://www.altdaily.co/unsubscribe?email=test@test.com"
-              target="_blank"
-              >Unsubscribe</a
-            >
-            from this email.
-          </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            30 <span>N</span> <span>Gould</span>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
             <span>St, Ste N, Sheridan, WY 82801, United States</span>
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            Copyright © 2024 Sagravia LLC, All rights reserved.
-          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
         </mj-text>
       </mj-column>
     </mj-section>

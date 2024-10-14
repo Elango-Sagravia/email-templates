@@ -11,6 +11,11 @@
       <mj-column>
         <mj-spacer height="60px" />
         <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image
+          width="1px"
+          src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
@@ -34,7 +39,7 @@
               line-height: 1.4;
             ">But did you know that Elon Musk wasn’t the founder of Tesla? The company was actually founded in 2003 by Martin Eberhard and Marc Tarpenning, experienced engineers with a passion for technology. Their journey to founding Tesla began after Eberhard's investment in a small electric car company called AC Propulsion. They recognized the potential for a high-performance electric sports car and set out to create what would eventually become Tesla.</p>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-14-1.jpg" alt="Tesla Before Elon Musk" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-14-1.jpg" alt="Tesla Before Elon Musk" href="https://www.businesshistory.co" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif"color="#000000">
           <p style="
               font-size: 16px;
@@ -101,7 +106,7 @@
               color: #667085;
               line-height: 2;
             ">
-            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
               font-size:14px;
