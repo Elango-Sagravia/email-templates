@@ -1,0 +1,148 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} </mj-style>
+    <mj-preview>Alternative insights, fresh off the press.</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.altdaily.co/logo.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 30px !important;
+            ">This Troubled Retailer Faces a Halloween Crunch With Consumers Spending Less</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Retailers are facing a scary Halloween as consumer spending is expected to <a href="https://www.bnnbloomberg.ca/business/2024/10/12/troubled-retailers-face-a-halloween-crunch-with-consumers-spending-less/" target="_blank">drop</a> by 5% this year, falling to $11.6 billion. Heavily indebted companies like Michaels and At Home are already struggling with inflation and rising operational costs, and this seasonal dip is adding to their troubles. While some retailers are hopeful for a Halloween boost, high-profile bankruptcies like Joann and Big Lots signal how challenging the landscape is.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Horizon Robotics Targets $800M IPO Backed by Alibaba </h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-15-1.jpg" alt="Horizon Robotics Targets $800M IPO Backed by Alibaba" href="https://www.altdaily.co"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Horizon Robotics is gearing up for a major IPO in Hong Kong, aiming to <a href="https://www.bnnbloomberg.ca/business/technology/2024/10/14/horizon-robotics-said-to-draw-alibaba-baidu-as-investors-in-ipo/" target="_blank">raise $800 million</a> with backing from big names like Alibaba and Baidu. Known for its autonomous driving systems, Horizon plans to use the funds to fuel its expansion in AI and autonomous technology. Despite reporting a significant loss of $721 million in the first half of 2024, the company’s growing revenue and strategic partnerships, including a joint venture with Volkswagen, make it one of the year’s most anticipated IPOs. Investors are watching closely as it taps into China’s booming AI sector.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> MBK Seeks Control of Korea Zinc Amid Feud</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">MBK Partners is making a power move to take control of Korea Zinc by securing a <a href="https://www.bnnbloomberg.ca/investing/2024/10/13/deadline-looms-in-bitter-feud-for-control-of-korea-metals-empire/" target="_blank">5.34% stake</a>, intensifying a family feud within the company. The private equity firm teamed up with Young Poong Corp. in a bid to gain 38.47% control. Korea Zinc, a key player in energy-transition metals, is battling internal conflict over its future direction, especially as Chairman Choi Yun-Beom pushes for green transition investments. With buyout bids and retaliatory offers driving up stock prices, this corporate showdown has broader implications for the global zinc market.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Semirara Mining Plans $5B Coal Expansion</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Semirara Mining, the Philippines’ largest coal producer, is looking to spend over <a href="https://www.bnnbloomberg.ca/business/international/2024/10/14/philippines-top-coal-producer-plans-5-billion-mine-expansion/" target="_blank">$5 billion</a> on expanding its mining operations. Despite global pressure to phase out coal, the Philippines continues to rely heavily on it for power generation. The company’s coal revenue fell 20% in the first half of 2024, but this investment plan aims to strengthen its position even as coal demand faces growing environmental challenges. Semirara’s expansion will focus on its Antique mining site, with coal being exported to key markets like China and South Korea.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Private Equity's Exit Moves Could Cut Bank Fees</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Private equity firms are <a href="https://www.bnnbloomberg.ca/investing/2024/10/14/private-equity-firms-exit-tactics-risk-curbing-fees-for-banks/" target="_blank">tweaking</a> their debt strategies, introducing "portability" features to avoid refinancing obligations when companies are sold. This move benefits private equity by ensuring deals get done in a tough M&A market but is bad news for banks, who miss out on lucrative refinancing fees. Deals like the buyouts of Stada Arzneimittel and Techem GmbH are examples of how firms are using this tactic to keep borrowing intact. As banks settle for smaller roles in these transactions, the outlook for underwriting profits is less optimistic.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Optimizely Secures $1.1B Debt Refinancing Amid Sale Rumors</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Golub Capital is <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/14/golub-leads-11-billion-debt-refinancing-effort-for-optimizely/" target="_blank">leading</a> a $1.1 billion debt refinancing deal for Optimizely, a software company known for its website optimization tools. The refinancing deal includes portability features, allowing the debt to stay in place even if Optimizely is sold. As private equity firms face limited exit options due to rising interest rates and a slow M&A market, deals like this give them flexibility. Optimizely, owned by Insight Partners, is among several firms using this approach to navigate the uncertain market while still preparing for a potential sale next year.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Chinese Hedge Fund Buys the Dip in Tech Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A top-performing Chinese hedge fund, Huaan Hexin, is <a href="https://www.bnnbloomberg.ca/business/international/2024/10/11/hedge-fund-up-800-in-seven-years-buys-dip-in-china-tech-stocks/" target="_blank">seizing</a> the opportunity to buy the dip in Chinese tech stocks after a recent slump in the Hang Seng Tech Index. Founder Yuan Wei believes that despite the market volatility, these stocks are undervalued compared to their fundamentals. The firm’s flagship fund has already surged 60% this year, driven by the government’s economic stimulus and a strong rally in internet stocks. Yuan remains bullish on companies like Alibaba and Tencent, viewing them as safe bets with strong profit potential, even amid China’s economic challenges.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Hedge Funds Cut Bearish Brent Bets Amid War Tensions </h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-15-2.jpg" alt="Hedge Funds Cut Bearish Brent Bets Amid War Tensions" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Hedge funds are <a href="https://www.bnnbloomberg.ca/investing/2024/10/11/hedge-funds-dump-bets-against-brent-at-fastest-pace-in-8-years/" target="_blank">slashing</a> bearish bets on Brent crude oil at the fastest pace in nearly eight years. With rising geopolitical tensions in the Middle East, particularly concerns about potential retaliation against Iran, investors are steering clear of betting against rising oil prices. Bullish positions on Brent and WTI oil have surged, with speculators also increasing bets on gasoline prices. As the markets brace for further developments, hedge funds are betting on oil remaining strong in the short term, reflecting the global uncertainty in energy markets.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Hedge Funds Post 1.22% Gain in September Despite Market Volatility </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Hedge funds <a href="https://www.hedgeweek.com/hedge-funds-up-1-22-in-september-says-ssc-globeop/#:~:text=Hedge%20funds%20gained%201.22%25%20in,Index%20declined%200.44%25%20in%20October." target="_blank">posted</a> a 1.22% gain in September, according to SS&C GlobeOp’s Hedge Fund Performance Index. While market volatility and rising interest rates have created challenges, hedge funds continue to generate attractive returns. However, capital flows into hedge funds declined by 0.44% in October due to portfolio rebalancing. Investors are still looking to hedge funds to navigate inflation, volatility, and economic uncertainty, providing opportunities for alpha generation even in challenging market conditions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
