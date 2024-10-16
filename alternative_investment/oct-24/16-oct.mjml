@@ -1,0 +1,159 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} </mj-style>
+    <mj-preview>Alternative insights, fresh off the press.</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.altdaily.co/logo.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 30px !important;
+            ">Wolfspeed Secures $1.5B for Expansion</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Wolfspeed, a chipmaker for electric vehicles, is set to <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/15/wolfspeed-wins-15-billion-in-financing-from-chips-act-apollo/" target="_blank">receive</a> $750M in U.S. government grants and $750M from Apollo Global Management and other investors. This funding, part of the Chips Act, will help Wolfspeed expand factories in North Carolina and New York, creating over 5,000 jobs. Despite challenges from production issues and wafer shortages, Wolfspeed is hopeful this boost will drive future success. The company’s stock jumped 23% after the announcement, offering some relief after a tough year, with shares down 74% through 2024.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Brazil Hedge Funds Win on Bearish Bets</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Brazilian hedge funds, like Legacy Capital and Ace Capital, <a href="https://www.bnnbloomberg.ca/business/international/2024/10/15/bearish-rate-bets-hand-win-to-brazils-battered-hedge-funds/" target="_blank">scored big</a> in September by betting on rising local rates and falling foreign yields. As Brazil's fiscal concerns mounted, swap rates surged 40 basis points, helping funds like Legacy post a 3.7% return, their best performance this year. With Brazil facing challenges from fiscal policy and inflation concerns, these hedge funds are staying cautious, positioning themselves for continued rate hikes and inflation breakeven gains.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding-top="20px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Investors Betting on Climate Catastrophes</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-16-1.jpg" alt="Investors Betting on Climate Catastrophes" href="https://www.altdaily.co"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Hurricane Milton hit Florida, causing up to <a href="https://www.bloomberg.com/news/articles/2024-10-15/can-insurance-help-developing-countries-deal-with-climate-change#:~:text=One%20group%20of%20investors%20was,profitable%20strategy%20for%20hedge%20funds." target="_blank">$75 billion</a> in damages. Catastrophe bond investors were closely watching. These bonds, worth $46 billion, are designed to pay out during major disasters and were the most profitable hedge fund strategy in 2023. However, they don’t always help those affected. For example, Jamaica’s bond after Hurricane Beryl didn’t pay out because the trigger wasn’t met. While investors often profit, poorer countries struggle to receive timely support.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> IndiGo Launches Venture Capital Fund</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">India’s largest airline, IndiGo, is taking flight in the venture capital world. They just got <a href="https://www.bnnbloomberg.ca/business/international/2024/10/15/indias-largest-airline-gets-nod-to-launch-venture-capital-fund/" target="_blank">approval</a> to launch IndiGo Ventures, focusing on pre-series A to series B funding rounds in aviation, travel, lifestyle, and hospitality startups. By using their vast industry expertise, IndiGo aims to boost India’s travel and aviation sector. The fund, set to start investing by March 2024, will help shape the future of travel startups while strengthening IndiGo’s position as a key player in India’s booming travel market.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Apollo Eyes UK Nuclear Plant Investment</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Apollo Global Management is in talks to <a href="https://www.bnnbloomberg.ca/investing/2024/10/15/apollo-in-talks-to-partly-finance-edfs-hinkley-uk-nuclear-power-plant/" target="_blank">finance</a> EDF’s Hinkley Point C nuclear plant in the UK. EDF is seeking £4 billion to complete the project, which has been delayed and is now expected to be operational by 2030. Apollo’s potential investment could include both equity and debt as EDF looks for partners to share the rising costs, which have ballooned to nearly £48 billion. With big infrastructure projects facing labor shortages and delays, this deal could be a critical step for the UK’s nuclear ambitions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Ex-Jefferies Hedge Fund Manager Fights Lawsuit</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Former Jefferies hedge fund manager Jordan Chirico is <a href="https://www.hedgeweek.com/ex-jefferies-hedge-fund-manager-counters-despicable-fraud-allegations/#:~:text=Jordan%20Chirico%2C%20the%20former%20portfolio,by%20352%20Capital%20in%20July." target="_blank">fighting back</a> against a fraud lawsuit accusing him of investing over $100 million in a Ponzi-like scheme. Chirico claims he was unaware of the fraud when purchasing bonds from WaterStation Management and argues that all investments were approved by Leucadia Asset Management. The lawsuit alleges that Chirico knew the water vending machines didn’t exist, but Chirico insists he’s a victim too. With the lawsuit and a criminal investigation underway, Chirico’s legal battle is heating up.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Elliott Pushes for Southwest Board Shake-Up</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-16-2.jpg" alt="Elliott Pushes for Southwest Board Shake-Up" href="https://www.altdaily.co"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Activist hedge fund Elliott Investment Management is turning up the heat on Southwest Airlines. After months of pushing for changes, Elliott is <a href="https://www.hedgeweek.com/elliott-calls-for-special-shareholder-meeting-after-nominating-eight-new-southwest-directors/" target="_blank">calling</a> for a special shareholder meeting to vote on replacing eight board members, which could give them control of the airline’s strategy. With Southwest’s stock down 42% over the last five years, Elliott wants new leadership, including removing CEO Bob Jordan. While Southwest dismissed the demands as “extreme,” the pressure is on for a shake-up.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Selwood Pressures RWE on Buybacks </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Activist investor Selwood Asset Management is <a href="https://www.hedgeweek.com/activist-selwood-wants-clarity-on-rwe-share-buyback-plans/#:~:text=Activist%20investor%20Selwood%20Asset%20Management,to%20a%20report%20by%20Bloomberg." target="_blank">urging</a> RWE to clarify its stance on a potential share buyback. RWE’s stock has dropped 23% this year, leaving investors frustrated. Selwood’s Karim Moussalem wrote to the company asking for a clear decision on buybacks, which could boost shareholder value. RWE had hinted at a buyback earlier, but later backtracked.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Permutable AI Launches New Trading Tool</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Permutable AI just <a href="https://www.hedgeweek.com/permutable-ai-launches-trading-co-pilot-for-commodity-markets/" target="_blank">launched</a> Trading Co-Pilot, an AI-driven tool for commodity markets. Designed for traders, the Co-Pilot offers real-time analysis of global news, prices, and sentiment across precious metals and agriculture. It provides buy/sell signals and market insights from 25,000 sources daily, helping traders make faster decisions in volatile markets. The tool plans to expand into stocks and crypto soon, giving traders even more coverage.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> UBS Hedge Fund Sees Potential in Merger-Arb</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">UBS O’Connor, a hedge fund unit of UBS, is holding strong in the merger-arbitrage market despite tough returns in 2024. With key regulatory decisions looming and the upcoming US election, UBS sees a catalyst-rich environment that could revive the strategy. They’ve already capitalized on deals like Cisco’s <a href="https://www.bnnbloomberg.ca/business/2024/10/15/ubs-hedge-fund-rides-4-billion-bet-on-merger-arb-trade-revival/" target="_blank">$28 billion buyout</a> of Splunk, betting on minimal antitrust issues. While merger-arb has only earned 3.5% this year, UBS remains optimistic as deal activity heats up in the final stretch of 2024.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
