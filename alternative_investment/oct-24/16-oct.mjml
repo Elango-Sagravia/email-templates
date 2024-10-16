@@ -6,6 +6,8 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3">
+      <mj-spacer height="15px"></mj-spacer>
+
     <!-- Logo Header -->
     <mj-section background-color="#ffffff" padding-top="50px">
       <mj-column>
@@ -155,5 +157,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+      <mj-spacer height="15px"></mj-spacer>
+
   </mj-body>
 </mjml>
