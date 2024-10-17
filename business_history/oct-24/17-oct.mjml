@@ -1,0 +1,137 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-preview>Behind the scenes of legendary businesses.</mj-preview>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+      <mj-spacer height="15px"></mj-spacer>
+
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image
+          width="1px"
+          src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px"  font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Airbnb: From One Mattress to Empire</h2>
+        </mj-text>
+        <mj-text padding="10px 12px"  font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In 2007, Brian Chesky and Joe Gebbia, two roommates in San Francisco, faced a financial dilemma. With their rent due and the city buzzing with a design conference that had left local hotels fully booked, they hatched a bold plan. They decided to rent out air mattresses in their apartment, offering guests a homemade breakfast for just $80 a night. This seemingly simple idea was the spark that ignited the global phenomenon known as Airbnb.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">After their initial success during the conference, they realized they were onto something big. Soon, Nathan Blecharczyk, a technical expert and former roommate, joined them, and in 2008, they launched the platform under the name "Air Bed & Breakfast." The concept was innovative, but the path ahead was fraught with challenges. At first, the trio struggled to attract investors and grow their user base.</p>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-17-1.jpg" alt="Airbnb: From One Mattress to Empire" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif"color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">A memorable turning point came when they decided to get creative. In a playful nod to the political climate, they launched limited-edition cereal boxes named after U.S. presidential candidates, including "Obama O's" and "Cap'n McCain's." Each box was handcrafted, numbered, and sold for $40. This quirky marketing stunt raised $30,000, giving the company a crucial financial boost and drawing media attention to their fledgling venture​.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif"color="#000000" >
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Building trust was essential for Airbnb's long-term success. To address concerns about security, the team introduced features like verified identification, guest reviews, and secure payment systems. These innovations helped alleviate fears and reassure users about the service's safety. Once these measures were in place, Airbnb began to see a surge in listings and bookings.
+          </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">By 2011, Airbnb had reached a significant milestone—1 million bookings. No longer limited to air mattresses, the platform expanded to include various accommodations, from entire homes to unique properties like treehouses and castles. This diversification attracted a broader audience, with travelers seeking unique experiences rather than traditional hotel stays.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">As Airbnb's popularity soared, so did its global reach. The platform expanded into markets across Europe and Asia, achieving profitability for the first time in 2014. This growth transformed Airbnb into a legitimate alternative to conventional hotels.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">However, the rapid expansion wasn't without its hurdles. Airbnb faced increasing scrutiny from city governments concerned about housing shortages and the impact of short-term rentals on local communities. Some cities have introduced stricter short-term rental regulations, directly affecting Airbnb’s operations. The company adapted by working closely with local authorities and launching initiatives like Airbnb Plus, which offered more standardized and high-quality listings.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Today, Airbnb operates in over 220 countries and territories, boasting millions of listings ranging from cozy apartments to extravagant villas. Its business model has disrupted the traditional hospitality industry, offering travelers unique and diverse options worldwide.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto"color="white">
+        <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            "
+          >Apple was the first company in history to be valued at over $1 trillion in 2018.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px"font-family="Arial, Helvetica, sans-serif"  color="#333">
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-spacer height="15px"></mj-spacer>
+
+  </mj-body>
+</mjml>
