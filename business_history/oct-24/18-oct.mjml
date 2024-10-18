@@ -1,0 +1,140 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Behind the scenes of legendary businesses.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+      <mj-spacer height="15px"></mj-spacer>
+
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image
+          width="1px"
+          src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px"  font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Lessons from MySpace</h2>
+        </mj-text>
+        <mj-text padding="10px 12px"  font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">We all remember MySpace as a pioneering social media platform that defined the early days of online interaction. Launched in 2003 by Tom Anderson and Chris DeWolfe, it quickly became the go-to site for millions, allowing users to customize their profiles, connect with friends, and discover new music. By 2006, MySpace had surpassed Google as the most visited website, boasting over 100 million active users.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">The story of MySpace's rise is closely tied to its early features. Unlike its contemporaries, MySpace allowed extensive customization, allowing users to design their pages with HTML and CSS. This appealed to a creative demographic and helped build a vibrant online community. Its unique approach to social networking fostered engagement and set the stage for its explosive growth.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">So, what went wrong?<p>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-oct-18-1.jpg" alt="Lessons from MySpace" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif"color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In July 2005, MySpace was acquired by News Corporation for $580 million, a move that initially seemed promising. Yet, this marked the beginning of a downward trajectory. As a subsidiary of a large media conglomerate, MySpace's focus shifted towards monetization, which cluttered the user experience with intrusive advertising​. This decision alienated many users who found the interface less enjoyable than before.</p>
+        
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Meanwhile, Facebook, which launched in 2004, was quickly rising. Facebook offered a cleaner, more streamlined experience. Unlike MySpace, which allowed users to customize their profiles heavily with music and flashy designs, Facebook focused on simplicity and connecting real people under their real names. This appealed to a broader audience—especially professionals. As people gravitated toward Facebook, they found MySpace’s chaotic interface frustrating and slow.
+          </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">But the natural nail in MySpace's coffin was its failure to adapt. MySpace struggled to keep up as Facebook introduced features like the News Feed and the “Like” button. They also missed the shift to mobile platforms, which was crucial as smartphones became more popular.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">By 2008, Facebook had officially surpassed MySpace in users, and it was clear that MySpace had lost the battle. Despite an attempt to pivot to a music-focused platform in 2009, the damage was done. MySpace couldn’t regain its audience, and by 2011, News Corp sold the company for just $35 million—a far cry from the $580 million they originally paid.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">While MySpace still exists, it’s now a niche site primarily used by musicians. What was once a social media juggernaut has faded into the background, a shadow of its former self.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto"color="white">
+        <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            "
+          >"The customer is always right." — Harry Gordon Selfridge
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px"font-family="Arial, Helvetica, sans-serif"  color="#333">
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              font-size:14px;
+              color: #667085;
+              line-height: 2;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-spacer height="15px"></mj-spacer>
+
+  </mj-body>
+</mjml>
