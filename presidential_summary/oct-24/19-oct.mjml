@@ -1,0 +1,314 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+
+  <mj-spacer height="15px"></mj-spacer>
+
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Activist Seeks Asylum in France</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-19-1.jpg" alt="Activist Seeks Asylum in France" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Paul Watson, the founder of Sea Shepherd, has been in Danish custody since July, facing possible <a href="https://apnews.com/article/sea-shepherd-france-paul-watson-whaling-japan-7b52f47f5f35c86ae83d56d44e893758" target="_blank">extradition to Japan</a> over a 2012 incident involving a whaling vessel. Watson, 73, is accused of attacking the ship and injuring a crew member with a stink bomb. He could face up to 15 years in prison if extradited and convicted.</p>
+          <p style="font-size: 16px; line-height: 1.4">A French resident, Watson wrote a letter from prison to French President Emmanuel Macron, urging intervention. While the president’s office is “following the situation closely,” no official response has been made. Shepherd and <a href="https://www.euronews.com/green/2024/09/05/eu-lawmakers-call-for-release-of-marine-activist-paul-watson-in-denmark" target="_blank">Watson’s supporters</a>, including Brigitte Bardot and Pierce Brosnan, have rallied in France, pushing for his release and opposing <a href="https://apnews.com/article/japan-commercial-whaling-fin-whale-7d9aba49ed69f241204df8a05f720205" target="_blank">Japan’s whaling practices</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Texas Man Spared Execution</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The Texas Supreme Court <a href="https://edition.cnn.com/2024/10/17/us/robert-roberson-texas-execution-lawfulness/index.html" target="_blank">halted the scheduled execution</a> of Robert Roberson, convicted of killing his 2-year-old daughter in 2002. His conviction was tied to shaken baby syndrome, a diagnosis now questioned by medical experts. Roberson’s supporters, including bipartisan lawmakers, argue his daughter died from complications related to pneumonia, not abuse.</p>
+          <p style="font-size: 16px; line-height: 1.4">Lawmakers issued a subpoena for Roberson to testify before a Texas House committee next week, invoking a rarely-used legal maneuver. The ruling came after hours of last-minute appeals. Roberson, who has autism, has maintained his innocence, and his lawyers argue that flawed science led to his conviction. He now awaits further legal proceedings while his testimony is scheduled for Monday—the U.S. is the only remaining Western country that practices the <a href="https://www.bbc.com/news/world-45835584" target="_blank">death penalty</a>. It is a divisive issue that many people have strong feelings about. Currently, 23 states have abolished it, while 27 still allow it. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Secret Service Failings</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-19-2.jpg" alt="Secret Service Failings" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">An independent review of the <a href="https://www.cbsnews.com/news/trump-butler-rally-return-secret-service/" target="_blank">assassination attempt</a> on former President Trump during a rally in Butler, Pennsylvania, on July 13 has pointed to some serious issues within the Secret Service. The report, put together by a group of law enforcement officials, highlighted <a href="https://www.cbsnews.com/news/trump-butler-rally-shooting-independent-investigation-secret-service-deep-flaws-needs-fundamental-reform/" target="_blank">significant flaws</a> in the agency’s operations and communication, which allowed the <a href="https://edition.cnn.com/politics/live-news/election-biden-trump-07-13-24/index.html" target="_blank">shooting</a> that left one person dead and others injured (<a href="https://www.dhs.gov/sites/default/files/2024-10/24_1017_opa-Independent-Review-Panel-Final-Report-and-Accompanying-Materials.pdf" target="_blank">read full review</a>). They criticized the agency’s leadership and suggested it was time for new leaders with outside experience to step in.</p>
+          <p style="font-size: 16px; line-height: 1.4">Acting Director Ronald Rowe, who took over after Kimberly Cheatle resigned, has committed to making changes and improving security protocols. He’s about enhancing coordination with local law enforcement and boosting protective measures. Homeland Security Secretary Alejandro Mayorkas backed these recommendations and emphasized the agency's need for long-term transformation.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Biden Strengthens Transatlantic Ties</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">President Joe Biden visited Berlin, where he was awarded Germany’s Grand Cross of the Order of Merit (<a href="https://www.dw.com/en/biden-meets-allies-in-berlin/video-70539143" target="_blank">watch video</a>). He met with German Chancellor Olaf Scholz, French President Emmanuel Macron, and UK Prime Minister Keir Starmer. This was a farewell visit and an attempt to strengthen Transatlantic ties before the US presidential elections. Their talks focused on <a href="https://www.cbsnews.com/news/biden-berlin-ukraine-european-allies/" target="_blank">Ukraine and the Middle East</a>. The leaders reaffirmed support for Ukraine against Russia’s aggression and discussed President Zelenskyy’s <a href="https://apnews.com/article/ukraine-victory-plan-unveiled-zelenskyy-parliament-f3525550f6986f590777193a7385c0c5" target="_blank">victory plan</a>, including using <a href="https://www.euronews.com/2024/10/11/frozen-russian-assets-and-35-million-eu-loan-to-ukraine-whats-at-stake" target="_blank">frozen Russian assets</a> to aid Ukraine.</p>
+          <p style="font-size: 16px; line-height: 1.4">They also addressed the death of <a href="https://edition.cnn.com/2024/10/18/world/what-next-for-hamas-intl/index.html" target="_blank">Hamas leader</a> Yahya Sinwar, calling for the release of Israeli hostages and increased humanitarian aid to Gaza. British Prime Minister Starmer emphasized the urgent need for Gaza aid while backing Israel’s right to self-defense. The leaders remain committed to stabilizing both regions.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Briefs content section -->
+    <!-- Brief -->
+    <mj-spacer height="15px"></mj-spacer>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-spacer height="0px"></mj-spacer>
+
+      <mj-column background-color="#210E27" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+            letter-spacing:6px;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 200;
+              padding: 18px 8px 10px 8px;
+              text-align: center;
+            "> Briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:20px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Ireland’s Prime Minister</strong>, Simon Harris, announces that Ireland will unilaterally <a href="https://www.euronews.com/my-europe/2024/10/16/ireland-will-not-wait-for-eu-to-unilaterally-suspend-trade-with-israel-pm-harris" target="_blank">suspend trade with Israel</a> on goods from the occupied West Bank within weeks, ahead of an EU-wide decision.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Bart De Wever</strong>’s potential rise to Belgium’s prime ministership embodies a complex interplay of Flemish nationalism and the challenges of governing a divided nation (<a href="https://www.politico.eu/article/bart-de-wever-belgium-antwerp-elections-europe/" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Foreign holdings of U.S. Treasuries</strong> rose to a <a href="https://www.reuters.com/markets/us/foreign-holdings-us-treasuries-soar-all-time-peak-august-data-shows-2024-10-17/" target="_blank">record $8.503 trillion</a> in August, with Japan remaining the largest holder. Given a relatively stable dollar and falling inflation, <strong>US equities, bonds, and real estate</strong> also saw significant increases in foreign inflows.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Microsoft</strong> is converting its $14 billion investment in OpenAI into equity as the AI startup transitions to for-profit status within two years. This could potentially mark one of this century’s best investments. Morgan Stanley and Goldman Sachs are advising the parties (<a href="https://nypost.com/2024/10/18/business/openai-microsoft-in-14b-tussle-over-equity-rights-in-ai-giant-report/\" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China’s economy</strong> grew <a href="https://www.chinadaily.com.cn/a/202410/18/WS6711c18ea310f1265a1c8481.html" target="_blank">4.6% in Q3</a>, slightly above forecasts but slower than Q2, as a weak property sector hampers post-COVID recovery. Despite better-than-expected consumption and output, markets await more stimulus details (<a href="https://amp.theguardian.com/world/2024/sep/24/china-economy-stimulus-package-measures-yuan-pbc" target="_blank">stimulus details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Science and Tech </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google Flights</strong> introduces new tools like price tracking and fare drop notifications to help users find <a href="https://www.thrillist.com/news/nation/google-flights-cheapest-flight-new-feature-save-money" target="_blank">cheaper flights</a>.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Prada</strong>’s chief marketing officer, Lorenzo Bertelli, unveiled the <a href="https://www.wired.com/story/nasa-wants-you-to-do-space-in-style-with-the-prada-axiom-spacesuit/" target="_blank">Axiom Extravehicular Mobility Unit</a>, a collaborative spacesuit designed for NASA’s Artemis 3 mission to the moon.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google’s NotebookLM</strong> launches customizable Audio Overviews, allowing users to tailor <a href="https://www.theverge.com/2024/10/18/24273411/google-notebooklm-ai-audio-overview-customize" target="_blank">AI-generated discussions</a> by adjusting content for different audiences.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports and Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>South Korean Olympian Kim Ye-ji</strong>, who gained viral fame during the Paris 2024 Olympics for her striking presence and style, remains humble about her fame (<a href="https://edition.cnn.com/2024/10/12/sport/kim-ye-ji-south-korea-shooting-olympics-spt-hk-intl/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Seventeen-year-old <a href="https://edition.cnn.com/2024/10/12/sport/ryan-williams-profile-alabama-football-spt-intl/index.html" target="_blank">Ryan Williams</a> makes waves in college football, catching the <strong>attention of Serena Williams and LeBron James</strong>.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Democratic National Committee</strong> uses <a href="https://www.nbcnews.com/tech/taylor-swifts-eras-tour-miami-dnc-youth-voter-campaign-rcna176005" target="_blank">Taylor Swift’s Eras tour</a> to engage young voters ahead of the 2024 election.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 22px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Archaeologists in northeastern China discovered a <a href="https://www.smithsonianmag.com/smart-news/archaeologists-discover-mysterious-jade-dragon-artifact-at-a-5000-year-old-tomb-in-china-180985288/" target="_blank">5,000-year-old jade dragon artifact</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><a href="https://abcnews.go.com/International/bts-member-hope-finishes-mandatory-military-enlistment-south/story?id=114919204" target="_blank">J-Hope from BTS</a> finishes military service in South Korea.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A woman was charged with smuggling nearly 30 Eastern box turtles <a href="https://apnews.com/article/eastern-box-turtles-smuggling-vermont-lake-kayak-fdb63d3944a27ef12088fa97a16950a3" target="_blank">from Vermont to Canada</a> by kayak.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Rome: tourists are upset as the Trevi Fountain runs dry (<a href="https://www.thrillist.com/news/nation/trevi-fountain-rome-dry-reviews-angry-tourists" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><a href="https://www.thrillist.com/travel/nation/utah-travel-guide-real-housewives-momtok" target="_blank">Guide to Reality Television’s hottest destination: Utah</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1812, Napoleon began his disastrous retreat from Russia.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
