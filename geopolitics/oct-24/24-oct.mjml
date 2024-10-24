@@ -1,0 +1,225 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Understand the forces shaping the world.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+     <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/logo.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 15px;
+            ">Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 15px;
+            ">In today’s edition, we’re covering BRICS, the Kurdish issue in Turkey, and more.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 4px;
+            ">Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:500; margin-top:16px !important">BRICS Summit Kicks Off</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-24-1.jpg" alt="BRICS Summit Kicks Off" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The <a href="https://www.dw.com/en/indias-modi-chinas-xi-seek-to-boost-ties-at-brics-summit/a-70578555" target="_blank">BRICS summit</a> in Kazan marks a significant milestone as it is the first major international event Russia has hosted since its military engagement in Ukraine. Influential leaders such as China’s Xi Jinping and India’s Narendra Modi participated in this gathering, highlighting Russia’s efforts to strengthen relationships with non-Western allies amidst geopolitical tensions and calling for peace in Ukraine.</p>
+          <p style="font-size:16px;line-height:1.4;">President Vladimir Putin stressed the importance of deepening economic and strategic cooperation with China and India during the summit. Modi and Jiping had their first face-to-face meeting on the sidelines. Their countries recently made a deal to remove some tension over a disputed border in Himayala (<a href="https://www.geopolitics.world/archives/israel-on-hezbollah-money-india-china-deal-vietnam-s-new-president" target="_blank">see previous issue</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:500;">Surprise Call for Kurd Leader</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Turkish nationalist leader Devlet Bahceli caused a stir by <a href="https://www.middleeasteye.net/news/turkey-erdogan-nationalist-ally-invites-pkk-leader-ocalan-address-parliament" target="_blank">inviting Abdullah Ocalan</a>, imprisoned leader of the <a href="https://www.bbc.com/news/world-europe-20971100" target="_blank">Kurdistan Workers’ Party (PKK)</a>, to speak in parliament and call for the PKK’s dissolution. Ocalan has been serving a life sentence since 1999. It was initially a death sentence, but Turkey overturned it in 2002 when Turkey abolished the death sentence to meet EU reforms. He has been socially isolated on an island and gets little access to his lawyers and family.</p>
+          <p style="font-size:16px;line-height:1.4;">This is a surprising shift for Bahceli, whose Nationalist Movement Party (MHP) has long opposed any engagement with the PKK. He suggested that if Ocalan disbands the PKK, he could be released under the “<a href="https://academic.oup.com/hrlr/article/22/2/ngac007/6553503" target="_blank">Right to Hope</a>.” The PKK party has been designated as a terrorist group in several countries, including the US. Bahceli’s comments have sparked speculation about a potential new approach to resolving Turkey’s longstanding Kurdish issue.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-text  padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:500;">Germany Confronts North Korea</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Germany has officially summoned a <a href="https://www.dw.com/en/germany-summons-north-korea-diplomat-over-ukraine/a-70577203" target="_blank">North Korean diplomat</a> due to North Korea's military assistance to Russia in the ongoing Ukraine war. This assistance includes the supply of weapons and ammunition, which has raised serious concerns within the international community. The German Foreign Ministry has issued a strong statement condemning North Korea's actions, emphasizing that they violate existing international sanctions aimed at curbing military support to conflict zones.</p>
+          <p style="font-size:16px;line-height:1.4;">This diplomatic move highlights Germany's proactive stance against a collaboration detrimental to global peace and security. By taking this step, Germany aligns itself with other nations that are deeply concerned about Russia's attempts to bolster its <a href="https://www.auswaertiges-amt.de/en/aussenpolitik/laenderinformationen/ukraine-node/ukraine-solidarity/2513994" target="_blank">military operations</a> in Ukraine through external support. The international community remains united in its efforts to condemn and counteract such actions, reflecting a commitment to uphold international law and promote stability in the region.</p>
+        </mj-text>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+
+    <!-- Worldwide -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> WORLDWIDE </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- content section -->
+    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇬🇪 Georgia:</strong> This week, tens of thousands of pro-European Georgians gathered in Tbilisi to <a href="https://www.bbc.com/news/articles/c3wpw016434o" target="_blank">protest</a> against the ruling <a href="https://www.politico.eu/article/georgian-dream-party-georgia-elections-eu-accession-bidzina-ivanishvili/" target="_blank">Georgian Dream party</a> ahead of crucial parliamentary elections. The opposition fears another Georgian Dream victory, perceived as pro-Russian, could jeopardize the country’s democratic future and European Union aspirations. President Salome Zurabishvili, who opposes the government, supported the rallies, calling them a stand for Georgia’s European future. The upcoming October 26 vote is pivotal in determining Georgia’s alignment between Russia and the West.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇹🇳 Tunisia:</strong> Tunisian President Kais Saied was <a href="https://apnews.com/article/tunisia-president-kais-saied-f911f1dfc86445ef8be157a3a792e1e2" target="_blank">inaugurated</a> for a second term after winning reelection with 90.7% of the vote. In his inauguration speech, Saied called for a “cultural revolution” to tackle unemployment, corruption, and terrorism. His second term follows a controversial first, during which he dissolved parliament, rewrote the constitution, and arrested political opponents. Saied blamed “counterrevolutionary forces” for hindering economic progress. However, his repressive measures, including restrictions on journalists, have raised concerns about the state of freedoms in Tunisia.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Foundations-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> FOUNDATIONS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Foundation Heading sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:22px;line-height:1.2;font-weight:500; margin-top:2px;">What's the deal with Kurds and Turkey?</h2>
+        </mj-text>
+        </mj-colum>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-24-2.jpg" alt="What's the deal with Kurds and Turkey?" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+          The Kurds are an ethnic group of around 30 million people, primarily spread across Turkey, Iraq, Iran, and Syria, with no recognized independent state. Many Kurds have long sought the creation of "Kurdistan," an independent region encompassing their traditional homeland, which overlaps national borders. However, this aspiration has faced significant opposition, particularly from Turkey.</p>
+          <p style="font-size:16px;line-height:1.4;">In Turkey, Kurds make up roughly 15-20% of the population. Since the establishment of modern Turkey in 1923, efforts to centralize the Turkish state often came at the expense of ethnic minorities like the Kurds. The government banned the Kurdish language and expressions of identity for decades. This led to rising tensions, culminating in the formation of the Kurdistan Workers' Party (PKK) in the 1980s, which fought for Kurdish autonomy. Turkey views the PKK as a terrorist group due to its violent insurgency, while some Kurds see it as a resistance movement.</p>
+          <p style="font-size:16px;line-height:1.4;">While some reforms have been made, such as lifting restrictions on the Kurdish language, tensions remain. Turkey is concerned about Kurdish autonomy, especially given the role of Kurdish forces in neighboring Syria, fearing it could lead to a civil war like Syria’s, with armed Kurdish groups pushing for independence within Turkey's borders. Read more about the Kurdish conflict <a href="https://www.britannica.com/place/Turkey/The-Kurdish-conflict" target="_blank">here</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              margin-top:35px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
