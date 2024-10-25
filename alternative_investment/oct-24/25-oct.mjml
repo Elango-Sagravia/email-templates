@@ -1,75 +1,37 @@
 <mjml>
   <mj-head>
-    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} </mj-style>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">Understand the forces shaping the world.</div>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
-     <mj-spacer height="15px"></mj-spacer>
+    <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
-    <mj-section background-color="#ffffff"  >
-    <mj-spacer height="10px" />
-      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
-        <mj-spacer height="20px" />
-        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/logo.png" href="https://www.geopolitics.world" alt="" />
-        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
-        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
-          <p style="
-              font-size: 16px;
-              line-height: 1.4;
-            ">Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning?</p>
-          <p style="
-              font-size: 16px;
-              line-height: 1.4;
-            ">In today’s edition: Turkey’s retaliatory strikes, France's aid to Lebanon, the latest on election interference, and more.</p>
-          <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              margin-bottom: 0px;
-            ">Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>.</p>
-        </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.altdaily.co/logo.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
       </mj-column>
     </mj-section>
-    <mj-spacer height="10px"></mj-spacer>
-
-    <!-- Spotlight -->
-     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#06266D;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #06266D;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">SPOTLIGHT</h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:16px !important">Terrorist Attack in Turkey</h2>
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 30px !important;
+            ">Ex-Hedge Fund Manager Shakes Up Lending</h2>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-25-1.jpg" alt="Terrorist Attack in Turkey" href="https://www.geopolitics.world" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;">A recent <a href="https://edition.cnn.com/2024/10/23/europe/turkey-ankara-aerospace-attack-intl/index.html" target="_blank">attack</a> targeted Turkish Aerospace Industries (TAI) near Ankara, leaving five dead and injuring 22. Turkish officials suspect the <a href="https://www.bbc.com/news/world-europe-20971100" target="_blank">Kurdistan Workers' Party (PKK)</a> in this assault, although no group has claimed responsibility. The attackers, a man and a woman, died in the incident, which sparked both local and international condemnation. In response, Turkey launched <a href="https://www.aljazeera.com/news/2024/10/24/turkey-strikes-iraq-syria-after-attack-on-defence-company-near-ankara" target="_blank">retaliatory airstrikes</a> against PKK targets in northern Iraq and Syria.</p>
-          <p style="font-size:16px;line-height:1.4;">This incident has brought renewed attention to Turkey’s policies toward Kurdish groups in the region, with particular sensitivity to groups like the <a href="https://ecfr.eu/special/mena-armed-groups/syrian-democratic-forces-syria/" target="_blank">Syrian Democratic Forces (SDF)</a>, which Turkey views as connected to the PKK, a designated terrorist organization in Turkey and the U.S.</p>
+          <p style="font-size: 16px; line-height: 1.4">In a rare move, ex-hedge fund manager Aaron Barnes, through Newmarket Capital, is <a href="https://www.hedgeweek.com/ex-hedge-fund-manager-strikes-rare-emerging-market-risk-transfer-deal/#:~:text=An%20ex%2Dhedge%20fund%20manager,to%20a%20report%20by%20Bloomberg." target="_blank">buying</a> part of the risk from a $1 billion Inter-American Development Bank (IDB) loan portfolio. The transfer allows the IDB to reduce its mezzanine risk exposure by 10%, freeing up as much as $500 million for new loans in Latin America and the Caribbean. With backing from insurers like Axa and Axis Capital, and Banco Santander structuring the deal, IDB hopes this model will scale up lending capacity for poverty alleviation and environmental protection in the region.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
@@ -78,107 +40,96 @@
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">France to Lebanon</h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Turkish PE Firm Expands to Italy Hotels</h2>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-25-2.jpg" alt="France to Lebanon" href="https://www.geopolitics.world" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-25-1.jpg" alt="Turkish PE Firm Expands to Italy Hotels" href="https://www.altdaily.co" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;">At a Paris conference, international partners pledged <a href="https://www.france24.com/en/europe/20241024-key-figures-absent-as-france-hosts-lebanon-aid-conference-in-paris" target="_blank">$1 billion in aid</a> to Lebanon. The pledge includes $800 million for humanitarian assistance to aid displaced and vulnerable populations affected by regional conflicts, especially amid escalating violence between Hezbollah and Israel. Another $200 million is set aside to strengthen Lebanon’s armed forces, especially for security needs in southern Lebanon.</p>
-          <p style="font-size:16px;line-height:1.4;">The <a href="https://www.bbc.com/news/articles/cvgx3zjvjg3o" target="_blank">ongoing conflict in Lebanon</a> has caused widespread family displacement and impacted the country's fragile economy. French President Emmanuel Macron highlighted the need for significant aid to assist the Lebanese people during this crisis. The conference also discussed plans to strengthen Lebanon's military resources, particularly for potential deployments in the southern region.</p>
+          <p style="font-size: 16px; line-height: 1.4">Turkey’s BLG Capital is <a href="https://www.bloomberg.com/news/articles/2024-10-24/turkey-s-blg-capital-eyes-italy-real-estate-after-galataport-exit?embedded-checkout=true" target="_blank">expanding</a> its luxury real estate projects into Italy, focusing on hotel developments in Milan. The private equity firm, which recently sold its stake in Istanbul’s $2.2 billion Galataport project, is launching a Mediterranean hospitality fund targeting Italy, Greece, and Turkey. With high interest rates in Turkey stalling local projects, BLG is seeking investment from institutional backers in the U.S. and Europe. The firm is known for restoring historic buildings and managing luxury assets, including branches of Soho House and Ritz Carlton Residences.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
-    <mj-section  css-class="mj_section" background-color="#ffffff">
-      <mj-column >
-        <mj-text  padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Election Influence</h2>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;">According to Microsoft, it appears that Iranian hackers are preparing to launch a significant <a href="https://www.politico.com/news/2024/10/23/influence-iran-china-russia-elections-microsoft-00185075" target="_blank">influence operation</a> leading up to the U.S. elections. This effort aligns with similar activities observed in China and Russia. The Iranian group, known as Cotton Sandstorm, is expected to focus on election-related websites, utilizing strategies that proved effective during the 2020 election cycle. </p>
-          <p style="font-size:16px;line-height:1.4;">In addition, China’s initiative, referred to as “Spamouflage,” and Russia’s group, <a href="https://incidentdatabase.ai/entities/storm-1516/" target="_blank">Storm-1516</a>, are reportedly actively spreading disinformation and content designed to create division among U.S. politicians and the electorate. In light of these developments, cybersecurity experts and government officials stress the importance of media literacy skills among citizens, organizations, and authorities. <a href="https://www.ebsco.com/sites/default/files/acquiadam-assets/Points-of-View-Reference-Center-Election-Interference-Overview.pdf" target="_blank">Election interference</a> is a global problem that expands beyond the US borders.</p>
-        </mj-text>
-    </mj-section>
-    <mj-spacer height="15px"></mj-spacer>
-
-    <!-- Worldwide -->
-     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#06266D;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #06266D;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            "> WORLDWIDE </h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- content section -->
-    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="10px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;"><strong>🇭🇺 Hungary:</strong> Hungarian Prime Minister Viktor Orbán accused the EU of attempting to install a “<a href="https://apnews.com/article/hungary-orban-eu-government-speech-d9d73c58566a6a3fbafaa77f4d702bec" target="_blank">puppet government</a>” in Hungary, comparing the situation to the <a href="https://abouthungary.hu/blog/remembering-1956-soviet-type-oppression-then-and-now" target="_blank">Soviet oppression of 1956</a>. Speaking on the anniversary of the Hungarian uprising against Soviet rule, Orbán urged citizens to resist EU influence, criticizing Brussels and Ukraine’s President Zelenskyy for seeking to extend the war in Ukraine. Orbán faces increasing political pressure as opposition leader Peter Magyár of the <a href="https://tvpworld.com/83125481/hungarian-main-opposition-party-surpasses-pm-orbans-fidesz-in-second-poll" target="_blank">Tisza party gains support</a>, overtaking Orbán’s Fidesz in the polls for the first time since 2010.</p>
-        </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
-      </mj-column>
-    </mj-section>
-    <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;"><strong>🇬🇧 UK:</strong> ​​At the upcoming <a href="https://www.bbc.com/news/uk-43715079" target="_blank">Commonwealth</a> summit in Samoa, many nations are preparing to <a href="https://www.bbc.com/news/articles/cd6vy79p750o" target="_blank">discuss reparations</a> for the transatlantic slave trade despite the UK’s opposition. A draft communique suggests a push for further research and discussions on reparatory justice, including financial reparations and other acknowledgment forms. Caribbean nations are particularly vocal, pressing the UK for an apology and reparations. The UK government maintains that reparations are not on the summit’s agenda and prefers focusing on current challenges like climate change.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-spacer height="15px"></mj-spacer>
-    <!-- Foundations-->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#06266D;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #06266D;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            "> FOUNDATIONS </h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- Foundation Heading sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What are the three Guyanas?</h2>
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500"> Lone Pine Recovers From Previous Losses</h2>
         </mj-text>
-        </mj-colum>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Lone Pine Capital, led by Stephen Mandel Jr., is <a href="https://www.hedgeweek.com/lone-pine-recoups-earlier-losses/#:~:text=The%20gains%20have%20helped%20the,and%20Lone%20Cascade%20surging%2032%25." target="_blank">bouncing back</a>. In Q3, its long-short fund, Lone Cypress, gained 5%, pushing its year-to-date return to 23%. Its long-only fund, Lone Cascade, rose 8%, now up 25% this year. Both funds suffered significant losses in 2021 and 2022, but they rebounded in 2023, with Lone Cypress up 19% and Lone Cascade surging 32%. Heavily invested in tech stocks like Microsoft and Meta, the hedge fund is on the rise, though it’s still working to fully recoup earlier downturns.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
     </mj-section>
     <!-- Content sections -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-25-3.jpg" alt="What are the three Guyanas?" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Elliott Pushes Citgo Bid Amid Criticism</h2>
+        </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size:16px;line-height:1.4;">
-          The region of Guiana, located in northeastern South America, historically referred to the broader area encompassing present-day Guyana, Suriname, French Guiana, and parts of Venezuela and Brazil. Each area was differentiated by the European country that colonized it, leading to names like British Guiana (now Guyana), Dutch Guiana (now Suriname), and French Guiana (still a French overseas department).</p>
-          <p style="font-size:16px;line-height:1.4;"><a href="https://www.bbc.com/news/world-latin-america-19546909" target="_blank">Guyana</a> is an independent country known for its pristine rainforests, which host diverse wildlife, including exotic birds and unique plants. </p>
-          <p style="font-size:16px;line-height:1.4;"><a href="https://www.cia.gov/the-world-factbook/countries/suriname/" target="_blank">Suriname</a>, also known as "Dutch Guiana," is the smallest country in South America. The capital, <a href="https://whc.unesco.org/en/list/940/" target="_blank">Paramaribo</a>, is a UNESCO World Heritage site recognized for its colonial architecture and vibrant communities.</p>
-          <p style="font-size:16px;line-height:1.4;"><a href="https://www.bbc.com/news/world-latin-america-20376142" target="_blank">French Guiana</a> is an overseas region of France and part of the EU. It is home to the Guiana Space Centre, a major spaceport for significant missions. </p>
-          <p style="font-size:16px;line-height:1.4;">This regional name of Guiana was used in colonial times due to shared geographical and cultural aspects, but after Suriname gained independence from the Netherlands in 1975, the name “Dutch Guiana” fell out of formal use, solidifying Suriname as its official name.</p>
+          <p style="font-size: 16px; line-height: 1.4">Hedge fund Elliott Investment Management is <a href="https://www.hedgeweek.com/elliott-defends-citgo-bid-amid-creditor-pushback/" target="_blank">defending</a> its $7.3 billion bid for Citgo Petroleum, despite creditor pushback. Elliott argues that Citgo’s assets are losing value and no better offers are likely to surface. Through subsidiary Amber Energy, Elliott aims to set aside $2 billion for Venezuela bondholder lawsuits and seeks legal protection from further claims. Citgo is at the heart of a U.S. auction to satisfy Venezuela’s $21 billion in defaults. With debt commitments from Barclays and Citibank, Elliott says its offer is the best chance for creditors to recover payments.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">BC Partners Near Deal to Sell GardaWorld Stake</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-oct-25-2.jpg" alt="BC Partners Near Deal to Sell GardaWorld Stake" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">BC Partners is nearing a deal to <a href="https://www.bnnbloomberg.ca/investing/2024/10/24/bc-partners-said-near-deal-to-exit-stake-in-canadas-gardaworld/" target="_blank">sell</a> most of its controlling stake in Canada’s GardaWorld back to the company’s management team, valuing the security services firm at C$13.5 billion. GardaWorld’s founder, Stephan Cretier, along with private credit firms led by HPS Investment Partners, will finance the buyout. BC Partners acquired GardaWorld in 2019 and has since doubled the company’s earnings. The deal, expected to close soon, will see BC Partners retain a minority stake while HPS also secures a slice of the business.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Bridgewater Flags Fed Independence Concerns</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Bridgewater Associates is <a href="https://www.hedgeweek.com/bridgewater-flags-fed-independence-as-key-us-election-issue/" target="_blank">eyeing</a> the U.S. Federal Reserve’s independence as a key issue in the upcoming presidential election. Greg Jensen, co-chief investment officer, highlighted concerns over potential political interference in the Fed, especially given Republican candidate Donald Trump’s comments about influencing interest rates. While Democratic nominee Kamala Harris has vowed not to interfere, the tight race leaves market dynamics uncertain. Bridgewater sees post-election shifts in the bond and equity markets, warning that any disruption to the Fed’s autonomy could impact inflation and growth expectations.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Australia’s Mega-Pensions Shift to Private Assets</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Australia’s largest pension funds, AustralianSuper and Australian Retirement Trust, are <a href="https://www.bnnbloomberg.ca/investing/2024/10/24/australias-top-pension-funds-to-add-billions-in-private-assets/" target="_blank">ramping up</a> private asset investments, eyeing real estate, infrastructure, and private equity. Both funds aim to diversify from equities, especially as experts warn of lower future returns from stocks. AustralianSuper plans to boost private holdings to over 30% of its $226 billion portfolio in the next few years, while ART aims to increase exposure to unlisted assets. However, the IMF recently warned of liquidity risks tied to the sector’s rapid growth in unlisted assets, as members can easily switch funds.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Chinese Hedge Fund Offers Zero Fees After Losses</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Shanghai Power Asset Management Co., a leading Chinese quantitative hedge fund, has <a href="https://www.bnnbloomberg.ca/business/international/2024/10/24/top-china-quant-offers-permanent-zero-fees-after-market-losses/" target="_blank">waived</a> performance fees for investors after taking a 13.5% hit this year. The firm, once a top performer in options trading, is struggling amid volatile stock market swings. Power Asset’s flagship FuRao Arbitrage No. 3 fund has seen losses mount as market-neutral strategies failed. To retain clients, the firm is offering fee exemptions on new products and shifting focus to strategies with long exposures. The move comes as Chinese quants face increased regulatory scrutiny and tougher market conditions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Ingram Micro Soars After $409 Million IPO</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Ingram Micro shares <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/24/platinum-equity-backed-ingram-rises-17-after-409-million-ipo/" target="_blank">jumped</a> 12% in its trading debut after raising $409 million in an IPO led by Platinum Equity. The California-based tech company, known for its digital platform and services, sold 11.6 million shares at $22 each, with Platinum offloading an additional 7 million. The IPO values Ingram Micro at roughly $5.8 billion. The company plans to use proceeds to pay down debt, having already repaid $1.3 billion since April 2022. Platinum Equity, which acquired Ingram Micro in 2020, still controls 90% of its shares.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
@@ -186,38 +137,16 @@
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            "> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            ">
-            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <p style="
-              margin-top:35px;
-               text-align:center;
-              font-size:10px;
-              color: #667085;
-              line-height: 1.5;
-            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
-          <p style="
-              text-align:center;
-              font-size:10px;
-              color: #667085;
-              line-height: 0;
-              margin-bottom:14px;
-            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
         </mj-text>
       </mj-column>
     </mj-section>
