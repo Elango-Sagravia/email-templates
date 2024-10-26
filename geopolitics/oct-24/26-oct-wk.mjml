@@ -1,0 +1,282 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Understand the forces shaping the world.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+     <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In today’s weekend edition, we’re summarizing the geopolitical happenings of the week.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THIS WEEK IN GEOPOLITICS -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THIS WEEK IN GEOPOLITICS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>Moldova votes YES for EU:</strong>Moldova voted narrowly to join the European Union, with <a href="https://www.dw.com/en/moldova-narrowly-votes-yes-to-eu-membership/a-70544401" target="_blank">50.4% in favor</a> and 49.6% against. The results shifted late with votes from Moldovans abroad. Amid accusations of <a href="https://www.dw.com/en/moldovas-eu-referendum-beset-by-alleged-russian-meddling/a-70527782" target="_blank">Russian interference</a>, Pro-Western President Maia Sandu attributed the close results to foreign influence. This pro-EU win is viewed as a setback for Russia. Moldova aims for EU membership by 2030, but challenges remain, as accession can take over a decade.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>China-India dispute resolved:</strong> India and China have agreed on new patrolling arrangements along their <a href="https://apnews.com/article/india-china-ladakh-border-standoff-c7c5fcf61b2378428842207b52b547c3" target="_blank">disputed Himalayan border</a>, aiming to reduce tensions that escalated into <a href="https://www.bbc.com/news/world-asia-china-54067400" target="_blank">deadly clashes</a> in 2020. While details are unclear, the agreement seeks to ensure disengagement at the Line of Actual Control and ease relations ahead of Prime Minister Modi's visit to Russia for the <a href="https://www.geopolitics.world/archives/brics-summit-moldova-votes-yes-israel-documents-leaked" target="_blank">BRICS summit</a>. The relationship between the two nations is complex, stemming from territorial disputes and their status as significant rivals in Asia. Historically, relations were warmer in the 1950s after India’s independence and the foundation of Modern China.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>BRICS Summit:</strong> This week, the <a href="https://www.euronews.com/2024/10/21/putin-to-host-brics-summit-in-a-bid-to-advance-russias-own-interests" target="_blank">BRICS summit in Kazan</a>, Russia, featured leaders like Vladimir Putin, Xi Jinping, Narendra Modi, and Recep Tayyip Erdogan. Despite Western isolation due to the Ukraine conflict, the summit underscores Russia's defiance and <a href="https://www.bbc.com/news/world-66525474" target="_blank">BRICS</a>’ growing influence with new members like Iran and Saudi Arabia. Putin aims to strengthen global alliances and secure economic deals, while <a href="https://www.bbc.com/news/articles/c3vlxx9pgxwo" target="_blank">China and India</a> focus on expanding trade and military ties. <a href="https://www.bbc.com/news/articles/c89l45zeq2eo" target="_blank">Brazilian President</a> Luiz Lula da Silva joined the summit via video link after canceling his in-person attendance due to a head injury.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>Israel Targets Hezbollah Finances:</strong> The United Nations condemned Israeli airstrikes in Lebanon targeting Hezbollah’s <a href="https://www.dw.com/en/un-condemns-damage-from-israeli-strikes-in-beirut/live-70548957" target="_blank">financial infrastructure</a>, including the Al-Qard Al-Hassan association. Israel claimed it struck an <a href="https://www.scmp.com/news/world/middle-east/article/3283296/hezbollah-cash-vault-hit-israeli-army-says-it-seeks-degrade-movements-funding" target="_blank">underground vault</a> containing funds for Hezbollah. The UN criticized the strikes for damaging civilian areas and urged respect for international humanitarian law. Meanwhile, U.S. Secretary of State Antony Blinken is in the Middle East for the 11th time to discuss the Gaza conflict. He is trying to work on an agreement to end the hostilities and secure hostage releases. He emphasizes delivering aid to Gaza and seeking diplomatic solutions with Hezbollah, though many remain skeptical about potential outcomes.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>Turkish Retaliation:</strong> A recent <a href="https://edition.cnn.com/2024/10/23/europe/turkey-ankara-aerospace-attack-intl/index.html" target="_blank">attack</a> near Ankara on Turkish Aerospace Industries (TAI) left five dead and 22 injured. Turkish officials suspect the <a href="https://www.bbc.com/news/world-europe-20971100" target="_blank">PKK</a>, though no group has claimed responsibility. The attackers, a man and a woman, were killed, prompting international condemnation. In retaliation, Turkey conducted <a href="https://www.aljazeera.com/news/2024/10/24/turkey-strikes-iraq-syria-after-attack-on-defence-company-near-ankara" target="_blank">airstrikes</a> against PKK targets in northern Iraq and Syria. This incident has intensified scrutiny of Turkey's policies towards Kurdish groups, particularly the <a href="https://ecfr.eu/special/mena-armed-groups/syrian-democratic-forces-syria/" target="_blank">SDF</a>, which Turkey links to the PKK, a designated terrorist organization.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- ON THIS DAY -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">TODAY AGO</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- ON THIS DAY contents-->
+ <!-- s1 -->
+  <mj-section css-class="mj_section" background-color="#ffffff">
+    <!-- coloumn1 -->
+      <mj-column width="34%" >
+        <mj-text>
+          <h1 style="line-height:1; margin:0px 0px 0px -16px;">1795</h1>
+        </mj-text>
+      </mj-column>
+        <!--ON THIS DAY1 -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          
+          <p style="font-size:16px; line-height:1.4;">
+           French Revolution, revolutionary movement that shook France between 1787 and 1799 and reached its first climax there in 1789—hence the conventional term ‘Revolution of 1789,’ denoting the end of the ancien regime in France and serving also to distinguish that event from the later French revolutions of 1830 and 1848.
+          </p>
+        </mj-text>
+        <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="30%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image
+              padding="10px 30px 5px 3px"
+              width="50px"
+              height="30px"
+              src="https://www.geopolitics.world/email/images/gp-oct-26-1.jpg" alt="ON THIS DAY1" href="https://www.geopolitics.world"
+            />
+          </mj-column>
+          <mj-column width="70%" vertical-align="middle" padding="10px 0px 10px 0px" >
+            <mj-text> 
+              <p style="font-size:14px; line-height:1.2; margin-left:-60px; margin-top:15px;">
+                <a href="https://www.britannica.com/event/French-Revolution" target="_blank"> The French Revolution</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+    <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" width="96%"/>
+  </mj-section>
+  <!-- s2 -->
+   <mj-section css-class="mj_section" background-color="#ffffff">
+    <!-- ON THIS DAY2 -->
+      <mj-column width="34%" >
+        <mj-text>
+          <h1 style="line-height:1; margin:0px 0px 0px -16px;">1905 </h1>
+        </mj-text>
+      </mj-column>
+        <!-- coloumn 2 -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          
+          <p style="font-size:16px; line-height:1.4;">
+            On this day, the St. Petersburg Soviet, a workers' council, was formed during the Russian Revolution of 1905. This council became a key representative body for workers and was influential in organizing strikes and advocating for workers' rights, setting the stage for future revolutionary movements in Russia.
+          </p>
+        </mj-text>
+        <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="30%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image
+              padding="10px 30px 5px 3px"
+              width="50px"
+              height="30px"
+              src="https://www.geopolitics.world/email/images/gp-oct-26-2.jpg" alt="ON THIS DAY2" href="https://www.geopolitics.world"
+            />
+          </mj-column>
+          <mj-column width="70%" vertical-align="middle" padding="10px 0px 10px 0px" >
+            <mj-text> 
+              <p style="font-size:14px; line-height:1.2; margin-left:-60px; margin-top:15px;">
+                <a href="https://www.britannica.com/event/Russian-Revolution-of-1905" target="_blank">Russian Revolution of 1905</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+    <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" width="96%"/>
+  </mj-section>
+  <!-- s3-->
+  <mj-section css-class="mj_section" background-color="#ffffff">
+    <!-- coloumn1 -->
+      <mj-column width="34%" >
+        <mj-text>
+          <h1 style="line-height:1; margin:0px 0px 0px -16px;">1953</h1>
+        </mj-text>
+      </mj-column>
+        <!-- coloumn 2 -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          
+          <p style="font-size:16px; line-height:1.4;">
+            On this day, Austria promulgated a constitutional law establishing its perpetual neutrality. This commitment to neutrality, adopted in the aftermath of World War II, became a defining principle of Austrian foreign policy, aiming to prevent future conflicts and maintain independence amidst Cold War tensions.
+          </p>
+        </mj-text>
+
+        <!-- group section coloumn3-->
+       <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="30%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image
+              padding="10px 30px 5px 3px"
+              width="50px"
+              height="30px"
+              src="https://www.geopolitics.world/email/images/gp-oct-26-3.jpg" alt="ON THIS DAY3" href="https://www.geopolitics.world"
+            />
+          </mj-column>
+          <mj-column width="70%" vertical-align="middle" padding="10px 0px 10px 0px" >
+            <mj-text> 
+              <p style="font-size:14px; line-height:1.2; margin-left:-60px; margin-top:15px;">
+                <a href="https://www.britannica.com/place/Austria/Second-Republic" target="_blank">Why is Austria Neutral?</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+  </mj-section>
+  <mj-spacer height="15px"></mj-spacer>
+    <!-- Photo of the week -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-26-4.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+          There is growing speculation that BRICS could soon unveil a gold and commodity-backed currency. 📸 X ScreenGrab
+
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="0px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              margin-top:35px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
