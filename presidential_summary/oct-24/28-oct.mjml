@@ -1,0 +1,343 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In today’s edition: public frustration in Iran, suitcase murder update, ATM vandalism in Germany and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Iranians Frustrated at Government</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-28-1.jpg" alt="Iranians Frustrated at Government" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Recent Israeli airstrikes on Iran have <a href="https://www.dw.com/en/iranians-upset-with-tehran-over-israel-tensions/a-70608764" target="_blank">fueled public frustration</a>, as many citizens believe the government is prioritizing foreign conflicts over urgent domestic issues. With soaring inflation and the Rial hitting <a href="https://iranwire.com/en/economy/135333-iranian-rial-plummets-amid-escalating-tensions-with-israel/" target="_blank">record lows</a> against the Dollar, Iranians increasingly blame their economic struggles on government support for militant groups like Hezbollah and Hamas. Social media has become a key outlet for discontent, particularly as state-controlled media has downplayed the severity of the strikes.</p>
+          <p style="font-size: 16px; line-height: 1.4">Opposition voices argue that the conflict with Israel distracts from pressing internal issues. Many Iranians show little hostility toward Israel and are concerned about the potential consequences of regional conflict. Experts warn that the government's current strategy could destabilize Iran if economic conditions worsen. As <a href="https://irannewsupdate.com/news/society/the-burden-of-housing-costs-on-iranian-households-a-growing-crisis/" target="_blank">living costs rise</a>, public calls for transparency, reform, and a shift in focus to domestic welfare are growing.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Suitcase Murder Verdict</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-28-2.jpg" alt="Suitcase Murder Verdict" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Sarah Boone was <a href="https://people.com/suitcase-murder-sarah-boone-verdict-8733192" target="_blank">convicted</a> of second-degree murder in connection with the death of her boyfriend, Jorge Torres Jr., in Winter Park, Florida. The incident occurred during what Boone described as a drunken game of hide-and-seek. She claimed that, in the spirit of fun, she zipped Torres into a suitcase, intending it to be a prank. However, she stated that she subsequently passed out, and when she woke up the next day, she found him unresponsive inside the suitcase.</p>
+          <p style="font-size: 16px; line-height: 1.4">Contradicting her account, video evidence (<a href="https://www.youtube.com/watch?v=g5eho9oyZJg" target="_blank">watch</a>, warning—sensitive) emerged showing Boone taunting Torres as he begged for air, suggesting that her actions were not just reckless but could have been done in self-defense due to <a href="https://www.fox35orlando.com/news/sarah-boone-changes-tune-says-alleged-murder-was-self-defense-not-accident" target="_blank">prior instances</a> of abuse in their relationship. The jury found her guilty based on the evidence presented, concluding that her actions contributed to Torres's tragic death. Following her conviction, Boone is scheduled for sentencing on December 2, 2024, where she will face the consequences of her actions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">ATM Bombings in Europe</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A disturbing trend has picked up in Germany, where organized crime groups have increasingly <a href="https://edition.cnn.com/2024/10/27/europe/criminals-atm-robberies-europe-intl/index.html" target="_blank">targeted ATMs</a> as a means of theft, averaging more than one bombing per day. The prevalence of cash transactions in Germany and a dense network of ATMs make these machines lucrative targets. European criminal groups have been targeting ATMs as a more accessible and low-key target than staging risky and dramatic robberies.</p>
+          <p style="font-size: 16px; line-height: 1.4"><a href="https://www.eurocontrol.int/article/european-atm-master-plan-and-eurocontrols-role-wider-atm-transformation" target="_blank">Europol</a> has been actively pursuing these criminal networks, which often utilize explosives made from fireworks, leading to dangerous outcomes for both property and innocent bystanders. In response to this surge in violence, the German government has bolstered security measures and announced stricter penalties for ATM-related crimes, reflecting the seriousness of these threats to public safety.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Georgia’s ruling Georgian Dream party</strong> <a href="https://www.dw.com/en/georgia-ruling-georgian-dream-party-wins-election/a-70611564" target="_blank">won 54% of the vote</a> in the recent parliamentary elections. Opposition groups are protesting alleged vote-buying and irregularities. International observers reported issues with transparency in the election process.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">In <strong>Bulgaria’s seventh general election</strong> in just over three years, exit polls indicate that former Prime Minister Boyko Borisov’s center-right GERB party secures most of the votes (<a href="https://www.dw.com/en/bulgaria-voting-ends-conservatives-lead-in-exit-poll/a-70611168" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>TSMC halted shipments to Chinese chip</strong> designer Sophgo after discovering a TSMC-made chip in Huawei’s AI processor, potentially violating U.S. export controls. <a href="https://www.reuters.com/technology/tsmc-suspended-shipments-china-firm-after-chip-found-huawei-processor-sources-2024-10-26/" target="_blank">Sophgo denied ties</a> with Huawei and provided TSMC with an investigation report.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Nvidia briefly overtook Apple as the world’s most valuable company</strong>, reaching a $3.53 trillion valuation amid surging demand for AI chips. Analysts project Nvidia’s valuation could hit $4 trillion, citing robust AI-driven growth and upcoming earnings (<a href="https://www.reuters.com/technology/nvidia-overtakes-apple-worlds-most-valuable-company-2024-10-25/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Formerly, Google’s self-driving car project, <strong>Waymo, raised $5.6 billion</strong>, primarily from Alphabet, bringing <a href="https://www.engadget.com/transportation/waymo-raises-56-billion-to-fund-austin-and-atlanta-expansion-172031686.html?guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHFiCyNyPIK6Koo_EohcyTmja9tJWPmja7NtKDIo75kR9uPlhTm97myPRrXB5Ks2oZLUDfMZHlbqhZoh-lZHMTi-SzGF9v2a1EYEP8iDWvaANsa6NxU0_CmM9Ua8STbLadRpWVmKp9Vs9pZslqgnBtDDK3qRZ95Z8R-0C6T3HHYj&guccounter=2" target="_blank">total funding to $11.1 billion</a>. The funds will support expansions in Austin and Atlanta and enhance its autonomous Waymo One system, which currently operates in San Francisco, Phoenix, and Los Angeles.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Science Corporation announced <strong>preliminary clinical trial results</strong> of their Prima retinal implant (<a href="https://www.wired.com/story/science-corporation-neuralink-eye-implant-restored-vision-blind-people/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">New study finds <strong>Arctic ice melt may disrupt ocean circulation</strong>, with potential cooling effects on northern Europe. This highlights the potential for similar changes in the future as Arctic conditions continue to warm (<a href="https://phys.org/news/2024-10-arctic-sea-ice-affect-global.html#google_vignette" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Los Angeles Dodgers</strong> survived a late <a href="https://edition.cnn.com/2024/10/26/sport/yankees-dodgers-game-2-world-series-spt-intl/index.html" target="_blank">comeback attempt</a> by the New York Yankees to take a 2-0 lead in the World Series. </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Eva Mendes</strong> recently shared that she would only consider a return to acting if it meant working alongside her husband, Ryan Gosling, with whom she shares a deep professional and personal connection (<a href="https://ew.com/eva-mendes-says-she-would-come-out-of-retirement-for-ryan-gosling-8731431" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Beyoncé and Kelly Rowland</strong> <a href="https://www.lemonde.fr/en/united-states/article/2024/10/26/beyonce-rallies-behind-harris-in-houston-i-m-here-as-a-mother_6730560_133.html" target="_blank">publicly endorsed</a> Kamala Harris at a Houston rally, emphasizing the importance of the upcoming election and calling for unity and change.</p>
+                        <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Phil Lesh</strong>, the iconic bassist and co-founder of the Grateful Dead, <a href="https://www.sfchronicle.com/entertainment/article/phil-lesh-grateful-dead-obituary-17814137.php#" target="_blank">passed away</a> peacefully at age 84.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Iceland’s shorter workweek shows <a href="https://autonomy.work/portfolio/on-firmer-ground-icelands-ongoing-experience-of-shorter-working-weeks/" target="_blank">positive results for work-life balance</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Philadelphia opens a virtual portal in LOVE Park, <a href="https://www.smithsonianmag.com/smart-news/new-portal-opens-in-philadelphia-connecting-residents-to-cities-around-the-world-with-identical-installations-180985335/#:~:text=A%20virtual%20portal%20has%20opened,function%20as%20massive%20public%20webcams." target="_blank">connecting with cities worldwide through interactive live video screens</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">London locals flood Angus Steakhouse with <a href="https://www.thrillist.com/travel/nation/london-reddit-troll-reviews-best-steakhouses" target="_blank">positive fake reviews to deter tourists</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Storyscream 2024: <a href="https://www.theverge.com/2024/10/12/24264357/halloween-2024-game-film-tv-reviews" target="_blank">Discover the best spooky content to watch and play this Halloween</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1886, U.S. President Grover Cleveland officially dedicated the Statue of Liberty, a gift from France, on Bedloe's Island in Upper New York Bay.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
