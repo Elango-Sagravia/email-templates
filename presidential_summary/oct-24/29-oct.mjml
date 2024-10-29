@@ -1,0 +1,343 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In today's edition: the Caspian Sea's ecological crisis, backlash at Trump rally, Gérard Depardieu's high-profile trial, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Caspian Sea crisis</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-29-1.jpg" alt="Caspian Sea crisis" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The Caspian Sea is facing a crisis due to <a href="https://edition.cnn.com/2024/10/24/climate/caspian-sea-shrinking-pollution/index.html" target="_blank">climate change</a>, water over-extraction, and pollution, which negatively impact its ecology and local communities. Eco-activists, such as Kazakhstan’s Azamat Sarsenbayev and Iran’s Khashayar Javanmardi, are <a href="https://www.theguardian.com/artanddesign/2024/oct/13/the-big-picture-khashayar-javanmardi-explores-the-decline-of-the-caspian-sea" target="_blank">documenting</a> the sea’s shrinking shores and increasing pollution levels. With diminishing river flows, high evaporation rates, and rising temperatures, the Caspian's water levels are projected to drop by up to 98 feet by 2100. </p>
+          <p style="font-size: 16px; line-height: 1.4">The decline of these ecosystems threatens neighboring countries' environment and economic stability. Urgent collaborative action is necessary to prevent a disaster similar to the collapse of the <a href="https://earth.org/the-aral-sea-catastrophe-understanding-one-of-the-worst-ecological-calamities-of-the-last-century/" target="_blank">Aral Sea</a>, although achieving this cooperation will be challenging. The Caspian Sea is a base for the <a href="https://www.intellinews.com/ukraine-war-makes-caspian-sea-environmental-crisis-worse-335432/" target="_blank">Russian navy</a>, and military activity since the Ukraine war has accelerated ecological issues.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Depardieu on trial</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-29-2.jpg" alt="Depardieu on trial" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Gerard Depardieu’s <a href="https://www.dw.com/en/french-actor-gerard-depardieu-faces-sexual-assault-trial/a-70616042" target="_blank">criminal trial</a> began in his absence due to health issues. He faces allegations of assaulting two women on the set of <i>Les Volets Verts</i> in 2021, involving “violence and coercion” and inappropriate conduct. The iconic French actor <a href="https://www.dw.com/en/french-film-star-gerard-depardieu-rejects-rape-claims/a-45298304" target="_blank">denies the accusations</a>. Protesters outside the court are calling for justice, highlighting ongoing issues of sexual misconduct in France’s film industry amid a delayed <a href="https://metoomvmt.org/" target="_blank">#MeToo</a> movement.</p>
+          <p style="font-size: 16px; line-height: 1.4">In addition to this case, Depardieu faces around <a href="https://www.dw.com/en/french-actor-gerard-depardieus-sexual-assault-trial-delayed/a-70616042" target="_blank">20 other allegations</a> of sexual offenses, including reopened rape claims by actress Charlotte Arnould from 2018. The French <a href="https://www.dw.com/en/50-french-stars-deplore-lynching-of-gerard-depardieu/a-67826617" target="_blank">film industry’s response</a> has been divided, with celebrities defending him publicly, but the proceedings indicate a significant shift toward addressing sexual violence in high-profile sectors. This trial can set a precedent in how France deals with allegations against powerful figures.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Trump rally fallout</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Trump’s recent <a href="https://www.cbsnews.com/newyork/news/donald-trump-madison-square-garden-rally/" target="_blank">campaign rally</a> in New York at Madison Square Garden drew thousands of supporters but faced backlash over inflammatory remarks by speakers, including comedian <a href="https://www.scrippsnews.com/us-news/who-is-tony-hinchcliffe-the-comedian-who-called-puerto-rico-floating-garbage" target="_blank">Tony Hinchcliffe</a>, who made offensive jokes about Puerto Ricans and other groups. It drew some bipartisan criticism even from GOP leaders, including Rep. Anthony D’Esposito and Mayor Eric Adams, who condemned the language used by some speakers. Trump focused his speech on familiar campaign themes and high-profile figures such as his wife, Melania Trump (<a href="https://www.youtube.com/watch?v=XxlwmpQOSrw" target="_blank">hear full speech</a>), who has been somewhat absent from his campaign this election.</p>
+          <p style="font-size: 16px; line-height: 1.4">A Trump campaign adviser <a href="https://thehill.com/homenews/campaign/4956733-trump-campaign-hinchcliffe-puerto-rico-comments-rally/" target="_blank">distanced</a> the former president from controversial remarks made by comedian Tony Hinchcliffe at a recent New York rally. Campaign adviser Danielle Alvarez clarified that the joke did not represent Trump’s views. The incident drew further attention given Vice President Harris’s simultaneous <a href="https://lailluminator.com/2024/10/28/harris-puerto-rico/" target="_blank">outreach</a> to Puerto Rican voters, a key demographic in battleground states like Pennsylvania. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Egyptian President</strong> el-Sissi <a href="https://www.cbsnews.com/news/egypt-president-cease-fire-proposal-gaza-israel-palestine/" target="_blank">proposed a two-day ceasefire</a> between Israel and Hamas to allow aid deliveries and potential prisoner exchanges. Reactions from Israel and Hamas are pending.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>French President Emmanuel Macron</strong> is <a href="https://www.euronews.com/2024/10/28/macron-visiting-morocco-amid-new-honeymoon-over-western-sahara-pivot" target="_blank">visiting Morocco</a> to strengthen diplomatic and business relations, including support for Moroccan sovereignty over <a href="https://www.bbc.com/news/world-africa-14115273" target="_blank">Western Sahara</a>.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Japanese PM Shigeru Ishiba</strong> has committed to remaining in office despite recent <a href="https://www.dw.com/en/japan-election-ruling-party-loses-majority-says-nhk/a-70610505" target="_blank">election results</a>. His party’s subpar performance has fueled speculation about potential leadership challenges (<a href="https://www.dw.com/en/japan-pm-shigeru-ishiba-vows-to-stay-despite-election-flop/a-70616955" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>QatarEnergy acquired a 50% stake in TotalEnergies’ 1.25 GW solar project in Iraq</strong>, part of the $27 billion Gas Growth Integrated Project (GGIP). The project aims to boost Iraq’s electricity supply by utilizing flared gas and adding renewable energy capacity (<a href="https://money.usnews.com/investing/news/articles/2024-10-28/qatarenergy-takes-50-stake-in-totalenergies-solar-project-in-iraq" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Korea Zinc</strong> has completed a <a href="https://www.mining.com/web/korea-zinc-attempts-to-fend-off-takeover-with-stake-acquisition/" target="_blank">$1.5 billion buyback</a>, securing 9.85% of shares to prevent sales to major investor Young Poong and MBK Partners. The ongoing control struggle, led by the Choi family, boosted shares as MBK sought board changes, prolonging the takeover battle.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Volkswagen plans to close three German factories</strong>, lay off thousands, and cut wages by 10% due to weak sales and intense EV competition from China. Facing rising costs, the company seeks a €10bn restructuring, potentially escalating labor disputes (<a href="https://www.theguardian.com/business/2024/oct/28/volkswagen-shut-three-factories-cut-thousands-jobs-union" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Apple tests a new app</strong> designed <a href="https://www.theverge.com/2024/10/25/24279593/apple-blood-sugar-prediabetes-app" target="_blank">to help prediabetics</a> manage their blood sugar levels by logging their dietary choices and using various monitoring devices.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A potential “silent asthma epidemic” is emerging in Africa</strong>, attributed to environmental changes, urbanization, and air pollution (<a href="https://www.aljazeera.com/news/2024/10/28/why-could-a-silent-asthma-epidemic-be-sweeping-africa" target="_blank">read more</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Jon Stewart</strong> has <a href="https://variety.com/2024/tv/news/jon-stewart-daily-show-host-december-2025-1236192487/" target="_blank">extended his hosting agreement</a> with “The Daily Show,” committing to host every Monday through December 2025 while continuing as an executive producer.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Real Madrid and La Liga</strong> condemn racist abuse directed at Barcelona players (<a href="https://www.dw.com/en/real-madrid-and-la-liga-condemn-abuse-of-barcelona-players/a-70614569" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Timothee Chalamet</strong> surprises fans by crashing his own lookalike contest (<a href="https://www.bbc.com/news/articles/cwy99mlg7e2o" target="_blank">watch video</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Rolls-Royce unveils a one-of-a-kind <a href="https://supercarblondie.com/rolls-royce-phantom-goldfinger/" target="_blank">Phantom inspired by James Bond’s Goldfinger</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Social Studies director Lauren Greenfield highlights the <a href="https://www.wired.com/story/dial-up-lauren-greenfield-social-studies-docuseries/#:~:text=Swallowed%20Gen%20Z.-,This%20Film%20Shows%20Exactly%20How,been%20designed%20to%20be%20addictive.%E2%80%9D" target="_blank">need for empathy toward teens online</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Jamie Oliver asks fans for help finding <a href="https://www.bbc.com/news/articles/cje004xdqx0o" target="_blank">22 tonnes of stolen cheddar cheese</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A former airline employee revealed the <a href="https://www.thrillist.com/news/nation/how-to-get-flight-information-text-message-iphone" target="_blank">most important steps to take before flying</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1929, 16 million shares of U.S. stocks were sold in a massive panic on "Black Tuesday," deepening the financial collapse that led to the Great Depression.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
