@@ -1,0 +1,223 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Understand the forces shaping the world.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+     <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">In today’s edition: Israel bans UN aid to Gaza, NATO confirms North Korean troops in Russia, Chad faces renewed militant violence, and more.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:16px !important">Israel bans UNWRA</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-30-1.jpg" alt="Israel bans UNWRA" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Israel’s Knesset has passed laws <a href="https://www.dw.com/en/israeli-knesset-votes-to-cut-off-unrwas-aid-to-palestinians/a-70614570 " target="_blank">banning</a> the UN Relief and Works Agency (<a href="https://www.bbc.com/news/articles/c8jy9v43z89o " target="_blank">UNRWA</a>) from functioning in Israeli-controlled areas, including Gaza and the West Bank. The move, which also blocks Israeli authorities from engaging with UNRWA, restricts the agency’s ability to deliver healthcare, education, food aid, and other essential services relied upon by millions of Palestinian refugees. Israeli officials justify the decision by accusing UNRWA of an anti-Israel bias and <a href=" https://www.pbs.org/newshour/world/what-to-know-about-2-new-israeli-bills-that-could-halt-unrwas-aid-delivery-to-gaza" target="_blank">ties to Hamas</a>, claims that UNRWA firmly <a href="https://www.unrwa.org/unrwa-claims-versus-facts-february-2024 " target="_blank">denies</a>. The U.S. and other international actors, including prominent Western allies, have <a href="https://edition.cnn.com/world/live-news/israel-iran-palestine-gaza-war-10-28-24#cm2scymky000n356mn6s1m39u " target="_blank">voiced serious concerns</a>, warning that limiting UNRWA could heighten humanitarian crises across the affected regions.</p>
+          <p style="font-size:16px;line-height:1.4;">The ban will likely complicate the distribution of critical UN aid, including in Gaza, where UNRWA <a href="https://www.unrwa.org/palestine-refugees " target="_blank">supports nearly two million people</a>. Many countries, even the U.S., argue that UNRWA’s role in supporting Palestinian refugees is irreplaceable, emphasizing its importance for stability in conflict-ridden regions. This legislation forms part of a broader Israeli policy agenda aimed at curbing UNRWA’s influence, raising concerns within the international community regarding the welfare of Palestinian refugees and the prospects for peace in the region.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">North Korean troops in Russia</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-30-2.jpg" alt="North Korean troops in Russia" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">NATO Secretary General Mark Rutte <a href="https://www.france24.com/en/europe/20241028-nato-chief-rutte-confirms-north-korean-troops-deployed-to-russia " target="_blank">confirmed</a> North Korean troops are now in Russia’s Kursk region, marking an escalation in <a href=" https://edition.cnn.com/2024/10/23/asia/north-korea-troops-russia-ukraine-explainer-intl-hnk/index.html" target="_blank">Russia-North Korea cooperation</a> amid the Ukraine conflict. He called it a security threat and a sign of Russia’s increasing reliance on foreign support. Ukrainian leaders urged allies to allow expanded attacks into Russia in response, emphasizing their need for more proactive military aid.</p>
+          <p style="font-size:16px;line-height:1.4;">The Kremlin hasn’t directly confirmed the deployment, but Russian President Putin stated it aligns with their bilateral partnership. North Korea is not secretive about aligning with Russia in this war. Although other parties are getting involved, there might be one that could be useful in solving the crisis. <a href=" https://www.themoscowtimes.com/2024/10/22/indian-pm-modi-calls-for-quick-end-to-ukraine-war-in-meeting-with-putin-a86774" target="_blank">India could be the peace broker</a> for the situation with Ukraine and Russia. Russian and Ukrainian leadership have acknowledged this. Indian PM Modi has also offered to step in as India has constructive relationships with both countries.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-text  padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Chad base attacked</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">In a recent assault, suspected Boko Haram militants killed at least <a href="https://www.bbc.com/news/articles/cz7wqqqvq2vo " target="_blank">40 Chadian soldiers</a> stationed on Barkaram Island near Lake Chad. The region, impacted by shrinking water levels, has become a haven for armed groups operating across the Chad-Niger-Nigeria border. This latest attack, among the deadliest since 2020, comes as Chad faces escalating violence and regional instability. President Mahamat Deby visited the site immediately and vowed a counter-offensive, emphasizing solidarity with troops. This violence underscores the challenges for Chad and the <a href=" https://mnjtffmm.org/about/" target="_blank">Multinational Joint Task Force</a> aiming to counter these militant groups.</p>
+          <p style="font-size:16px;line-height:1.4;">The situation also highlights the broader destabilization in the <a href=" https://www.aljazeera.com/program/inside-story/2024/7/7/whats-behind-the-creation-of-the-alliance-of-sahel-states" target="_blank">Sahel</a>, with nearby coups in Niger, Mali, and Burkina Faso justified by leaders as responses to militant threats. Although Chad remains a Western partner, its <a href="https://www.bbc.com/news/articles/cx2kr40nlkpo " target="_blank">recent engagement</a> with Russia has drawn Western concern, as has its contested role in arms transfers amid the ongoing <a href="https://www.rescue.org/eu/article/fighting-sudan-what-you-need-know-about-crisis " target="_blank">Sudanese conflict</a>.</p>
+        </mj-text>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+
+    <!-- Worldwide -->
+     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> WORLDWIDE </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- content section -->
+    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇱🇧 Lebanon:</strong> Hezbollah has announced <a href="https://www.euronews.com/2024/10/29/hezbollah-has-elected-naim-kassem-as-its-new-leader " target="_blank">Naim Kassem as its new leader</a> following the death of <a href="https://apnews.com/article/lebanon-israel-hezbollah-airstrikes-28-september-2024-c4751957433ff944c4eb06027885a973 " target="_blank">Hassan Nasrallah</a>, who was killed in an Israeli airstrike in September. Kassem, a longtime deputy who joined Hezbollah’s leadership under Abbas al-Musawi in 1991, had been acting leader since Nasrallah’s death. Kassem is famous for his public presence and frequent media appearances; he pledged to uphold Nasrallah’s policies. The appointment follows speculation that <a href="https://www.bbc.com/news/articles/cm242380133o " target="_blank">Hashem Safieddine</a>, a cousin of Nasrallah, might succeed, though he was also reportedly killed in an airstrike earlier in October.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇮🇷 Iran:</strong> ​Jamshid Sharmahd, a German-Iranian dual national, was <a href="https://www.dw.com/en/iran-executes-german-iranian-jamshid-sharmahd/a-70622205 " target="_blank">executed</a> on charges of "corruption on Earth," linked to a <a href=" https://pluralism.org/news/bombing-mosque-southern-iran-kills-9-and-injures-105" target="_blank">2008 attack in Shiraz</a>. Rights groups, including Amnesty International, condemned the trial as unfair, highlighting forced confessions and the lack of access to independent legal defense. Germany strongly criticized the execution, with officials labeling it as "murder" and a violation of international standards, calling for diplomatic repercussions. Sharmahd’s family and German officials advocated for compassion, emphasizing that his case exemplified Iran’s judicial practices.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Foundations-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> FOUNDATIONS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Foundation Heading sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What is the Non-Aligned Movement?</h2>
+        </mj-text>
+        </mj-colum>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-oct-30-3.jpg" alt="What is the Non-Aligned Movement?" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The <a href=" https://www.britannica.com/topic/Non-Aligned-Movement" target="_blank">Non-Aligned Movement</a> (NAM) was established in 1961 during the Cold War. It emphasized the need for countries to remain independent and not align with the United States or the Soviet Union. It arose from a desire for self-determination, especially among newly independent nations. The founders of the NAM were Jawaharlal Nehru of India, Kwame Nkrumah of Ghana, Nasser of Egypt, Sukarno of Indonesians, and Tito of Yugoslavia.</p>
+          <p style="font-size:16px;line-height:1.4;">Today, the Non-Aligned Movement consists of 120 members. After the United Nations, it is the most extensive grouping of states worldwide. The movement <a href="https://nam.go.ug/bandung-principles " target="_blank">promotes</a> mutual respect for sovereignty, non-interference in domestic affairs, and peaceful coexistence. Today, NAM advocates for global peace, disarmament, and sustainable development, representing many developing countries worldwide. The movement tries to address disparities and advocate for the interests of developing nations in a rapidly changing geopolitical landscape. All members of the Non-Aligned Movement have equal weight within its organization. </p>
+          <p style="font-size:16px;line-height:1.4;">The movement faces the challenge of redefining its identity and purpose after the Cold War. Member states often have divergent political and economic interests, leading to inconsistent policies and difficulty reaching global consensus. Also, many critics say the ability to exert influence and advocate for its members’ interests has diminished, making it less relevant in contemporary international relations.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              margin-top:35px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
