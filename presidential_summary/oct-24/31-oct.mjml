@@ -1,0 +1,353 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> global Diwali celebrations, Halloween restrictions in China, a newly uncovered Mayan city, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+
+    <!-- banner1 -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            "><strong>Breaking:</strong> Floods in Spain kill at least 51 people. Rescue operations are under way. <a href="https://www.theguardian.com/world/live/2024/oct/30/spain-floods-valencia-latest-news" target="_blank">See latest updates</a>.</p>
+        </mj-text>
+      </mj-column>
+      <mj-spacer height="14px"></mj-spacer>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Diwali lights up the world</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-31-1.jpg" alt="Diwali lights up the world" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Diwali, or Deepavali, is a <a href="https://www.npr.org/2024/10/29/nx-s1-5167938/what-is-diwali" target="_blank">festival</a> celebrated by Hindu, Sikh, and Jain communities. It honors themes of light, prosperity, and spiritual growth. In Hindu traditions, it signifies Lord Rama's return from exile and Lord Krishna's victory over the demon Narakasura. Sikhs celebrate the release of Guru Hargobind, while Jains commemorate Lord Mahavira's enlightenment. Those belonging to other religions in South Asia sometimes also celebrate it. </p>
+          <p style="font-size: 16px; line-height: 1.4">Celebrations typically involve lighting oil lamps, creating intricate rangoli designs, sharing <a href="https://www.indiatimes.com/trending/diwali-2024-quick-and-easy-sweets-you-can-make-at-home-644886.html" target="_blank">sweets</a>, and cleaning homes. Diwali is celebrated widely across India and the South Asian diaspora, blending cultural heritage with contemporary expressions worldwide. In the <a href="https://www.cbsnews.com/video/diwali-celebrations-go-mainstream-across-the-u-s-as-south-asians-mark-the-festival-of-lights/" target="_blank">United States</a>, there are approximately 5.2 million Indian Americans, making it the second-largest immigrant community. President Biden has hosted a <a href="https://www.livemint.com/news/us-news/diwali-2024-us-election-november-5-election-white-house-president-joe-biden-extends-greetings-11730169119052.html" target="_blank">Diwali celebration at the White House</a> this week.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Halloween crackdowns in China</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-oct-31-2.jpg" alt="Halloween crackdowns in China" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">This year, Halloween festivities in Shanghai were <a href="https://www.nbcnews.com/news/world/shanghai-puts-stop-spooky-season-rcna177545" target="_blank">closely monitored</a> as police cleared costumed revelers from popular nightlife areas, enforcing crowd control measures. Social media videos showed police escorting people dressed as figures, including Donald Trump, superheroes, and Buddha-inspired characters. On Saturday, discussions about a crackdown were trending on Weibo, according to Reuters. However, online censorship has effectively muted further conversation by Monday.</p>
+          <p style="font-size: 16px; line-height: 1.4">In contrast to <a href="https://edition.cnn.com/2023/11/03/economy/china-halloween-protests-economy/index.html" target="_blank">last year's</a> lively Halloween celebrations, which marked a return to public festivities after COVID-19 restrictions, this year's approach reflects a crackdown on gatherings that authorities may view as a form of dissent. There has yet to be a ban on Halloween in China. At the same time, approved celebrations, such as those at Shanghai Disney, are permitted, and street gatherings face strict limitations, highlighting China's increasing caution regarding <a href="https://www.scmp.com/news/china/politics/article/3277076/rock-n-roll-internet-are-potential-western-colour-revolution-traps-chinese-textbook" target="_blank">Western cultural influences</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Lost Mayan City</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Archaeologists uncovered an <a href="https://www.dw.com/en/lost-mayan-city-discovered-by-accident-in-mexican-jungle/a-70636302" target="_blank">ancient Maya city</a> named Valeriana in Campeche, Mexico. At its peak, the city housed between 30,000 and 50,000 people. Using <a href="https://www.synopsys.com/glossary/what-is-lidar.html#:~:text=Definition,the%20objects%20in%20the%20scene." target="_blank">lidar technology</a>, researchers identified over 6,000 structures hidden beneath dense forests, including pyramids and agricultural areas. The high-density settlement ranks among the largest Maya sites after Calakmul.</p>
+          <p style="font-size: 16px; line-height: 1.4">This discovery highlights the region’s rich cultural history, dating back to the <a href="https://www.marc.ucsb.edu/research/maya/ancient-maya-civilization/classic-period" target="_blank">Classic Period</a> (250-900 AD) when the Maya civilization flourished across <a href="https://education.nationalgeographic.org/resource/resource-library-mesoamerica/" target="_blank">Mesoamerica</a>. This unique finding challenges previous beliefs about Maya civilizations and suggests their complex societal structures. Lidar has significantly expanded archaeological discoveries in dense vegetation areas, revealing many more potential sites yet to be explored.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Russia and Ukraine</strong> engaged in <a href="https://apnews.com/article/russia-ukraine-war-north-korea-39eb411523195516dce893ce47c0faf6" target="_blank">extensive drone strikes</a> amid North Korean Foreign Minister Choe Son Hui’s visit to Russia.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Hungarian FM Péter Szijjártó</strong> faces criticism for attending a security conference in Minsk with officials from Russia, Belarus, and Syria (<a href="https://www.politico.eu/article/european-officials-react-to-hungary-joining-russia-syria-and-belarus-at-security-summit/" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China dominates Amazon’s merchant base</strong>, led by Shenzhen, with 102,588 sellers generating $35.3 billion annually, thanks to its manufacturing advantages. China’s cross-border e-commerce industry, valued at $333 billion in 2023, drives global competition with platforms like Shein and Temu (<a href="https://www.scmp.com/tech/big-tech/article/3284467/chinese-cities-dominate-amazon-seller-network-outnumbering-us-hubs-report-says?module=top_story&pgtype=section" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The U.S. economy grew at 2.8%</strong> in Q3, driven by solid consumer spending, exports, and government spending. <strong>Business investment rose</strong> while housing declined. With resilient demand and inflation concerns, the Fed’s rate-cut decision remains uncertain ahead of Election Day (<a href="https://www.axios.com/2024/10/30/gdp-report-q3-release-economy-inflation" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>BYD surpassed Tesla</strong> in Q3 revenue, achieving <a href="https://www.barrons.com/news/chinese-ev-giant-byd-beats-tesla-in-quarterly-revenue-for-first-time-30e5bbab" target="_blank">$28.2 billion</a> due to overseas solid expansion despite trade tensions. Amidst rising EU tariffs and U.S.-Canada duties on Chinese EVs (<a href="https://www.thompsonhinesmartrade.com/2024/08/following-u-s-lead-canada-announces-new-tariffs-on-chinese-evs-steel-and-aluminum/" target="_blank">read more</a>), BYD’s success highlights China’s growing EV market, bolstered by domestic demand and Beijing’s support.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>NASA reestablished contact with Voyager 1</strong> after the spacecraft’s fault protection system turned off one of its transmitters (<a href="https://scitechdaily.com/15-billion-miles-away-nasas-voyager-1-breaks-its-silence/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China successfully launched the Shenzhou-19 spacecraft</strong> with a three-person crew to its space station on October 30, 2024. <a href="https://www.npr.org/2024/10/30/g-s1-30873/china-launches-new-crew-to-its-space-station-as-it-seeks-to-expand-exploration" target="_blank">The mission</a>, which aims to expand China’s exploration efforts, will see the crew replace those aboard the Tiangong station since April (<a href="https://www.wionews.com/videos/china-sends-three-astronauts-to-tiangong-space-station-772149" target="_blank">watch video</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A newly discovered waltz</strong>, believed to have been composed by Frederic Chopin, has been found in the vault of the Morgan Library and Museum in New York (<a href="https://www.bbc.com/news/articles/c1mlr8yl40do" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Nikola Jokić</strong> made NBA history with 29 points, 18 rebounds, and 16 assists in the Nuggets’ overtime win over the Nets. He is the <a href="https://edition.cnn.com/2024/10/30/sport/nikola-jokic-history-nba-roundup-spt/index.html" target="_blank">second player in the NBA's history</a> to achieve such a stat line (the first one being <a href="https://www.basketball-reference.com/players/r/roberos01.html" target="_blank">Oscar Robertson</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Gisele Bündchen</strong> is expecting her <a href="https://people.com/pregnant-gisele-buendchen-debuts-her-baby-bump-see-the-photos-8736219" target="_blank">third child</a>, her first with boyfriend Joaquim Valente, seen showcasing her baby bump in Miami.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The UK parliament is considering limiting how young people use smartphones (<a href="https://www.wired.com/story/uk-considers-new-smartphone-bans-for-children/#:~:text=The%20UK%20parliament%20is%20considering,media%20companies%20using%20their%20data." target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Experts say food allergies and cars are the biggest dangers to trick or treat (<a href="https://thehill.com/homenews/education/4953228-halloween-safety-trick-or-treating-kids-candy-costumes/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">$20 bill found on ground leads to $1 million win for lottery player (<a href="https://www.goodnewsnetwork.org/20-bill-found-on-ground-leads-to-1-million-win-for-north-carolina-lottery-player/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A list of everything you’re entitled to if your flight gets canceled or delayed (<a href="https://www.thrillist.com/travel/nation/airline-secrets-tips-and-tricks" target="_blank">find out</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1941, the Mount Rushmore National Memorial, featuring the heads of Presidents George Washington, Thomas Jefferson, Theodore Roosevelt, and Abraham Lincoln, was completed, after nearly 15 years of work.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
