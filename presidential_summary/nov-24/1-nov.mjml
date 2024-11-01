@@ -1,0 +1,343 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> deadly floods in Spain, Dia de los Muertos celebrations, New York City's upcoming decriminalization of jaywalking, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Spanish floods</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-1-1.jpg" alt="Spanish floods" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">This week, eastern Spain was devastated by severe flash floods that have <a href="https://www.dw.com/en/spain-floods-death-toll-climbs-as-rescuers-seek-survivors/a-70646793" target="_blank">killed at least 158</a> and caused extensive damage across the region. The floods primarily impacted the <a href="https://www.britannica.com/place/Valencia-autonomous-area-Spain" target="_blank">Valencia region</a>, where torrential downpours led to significant destruction. Over 150,000 households were left without electricity, further complicating rescue efforts and worsening the crisis. Local officials are <a href="https://www.politico.eu/article/spain-floods-valencia-europe-climate-change-preparation/" target="_blank">criticized</a> for their lagging response in issuing alerts to warn residents about the impending disaster, raising concerns about readiness for extreme weather disasters.</p>
+          <p style="font-size: 16px; line-height: 1.4">Heavy floodwaters resulted from a strong storm, made worse by rising sea temperatures linked to <a href="https://www.dw.com/en/in-the-aftermath-of-flooding-in-spain-and-elsewhere-5-charts-to-help-explain-climate-science-v2/a-69289787" target="_blank">climate change</a>. Emergency teams, including military personnel, are searching for missing people in the affected areas and trying to find and help anyone who might still be trapped or in danger. As communities start to assess the damage and plan for recovery, the effects of climate change are a key topic for both officials and residents.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">NYC jaywalking</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-1-2.jpg" alt="NYC jaywalking" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">From February on, New York City will <a href="https://www.cbsnews.com/newyork/news/jaywalking-legalized-in-nyc/" target="_blank">decriminalize</a> jaywalking, allowing pedestrians to cross streets outside crosswalks without fines or criminal penalties. The change aims to address racial disparities in jaywalking citations, which have <a href="https://www.reckon.news/news/2024/05/nypd-disproportionately-cited-people-of-color-for-jaywalking-in-2023-mirroring-racist-enforcement-nationwide.html" target="_blank">disproportionately</a> impacted Black and Latino residents even though it's a common thing for most New Yorkers. When enforced, more than <a href="https://www.amny.com/transit/nyc-officially-decriminalizes-jaywalking-ending-a-66-year-ban-that-was-scarcely-enforced/" target="_blank">90% of tickets</a>, costing up to $250, were issued to Black and Latino New Yorkers.</p>
+          <p style="font-size: 16px; line-height: 1.4">Council member Mercedes Narcisse, who sponsored the bill, stated that the law shifts police focus away from minor offenses and promotes fair and equitable enforcement. It also frees up many legal and financial resources for patrolling these minor offenses. However, pedestrians who cross outside designated crosswalks won’t have the right of way, emphasizing the shared responsibility for safety among all road users.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Dia de los Muertos</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Today, many Mexicans and the Mexican diaspora observe <a href="https://eu.usatoday.com/story/graphics/2024/10/28/day-of-the-dead-dia-de-los-muertos-visual-guide/75790458007/" target="_blank">Dia de los Muertos</a>, or Day of the Dead, celebrated from October 31 to November 2. It honors departed loved ones with rituals blending Aztec and Catholic <a href="https://www.nationalgeographic.com/culture/article/top-ten-day-of-dead-mexico" target="_blank">traditions</a>. Key symbols include the ofrenda, or altar, which holds offerings like food, flowers, and sugar skulls, thought to nourish spirits with their “essence.” Skeletons playfully depict life after death, while alebrijes, colorful mythical creatures, serve as spirit guides.</p>
+          <p style="font-size: 16px; line-height: 1.4">Thirty-seven million Americans have some kind of Mexican heritage. The holiday initially stemmed from the <a href="https://www.axios.com/local/salt-lake-city/2023/11/01/dia-los-muertos-day-dead-latinos" target="_blank">Oaxaca region of Mexico</a> but became popular among Mexican communities in the 1970s thanks to the <a href="https://www.history.com/news/chicano-movement" target="_blank">Chicano movement</a>. This was a way to help Mexican Americans embrace Mexican culture and overcome the shame they felt over widespread racism.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>North Korea test-fired an intercontinental ballistic missile</strong>, marking its first such <a href="https://apnews.com/article/north-korea-missile-launch-377c07eac46ad41bda0d4445df6f51d5" target="_blank">launch</a> in nearly a year. The missile’s flight reached altitudes over 7,000 kilometers, suggesting advancements in North Korea’s missile technology, potentially with Russian assistance.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The EU is closely watching the U.S. presidential election</strong>; many <a href="https://www.dw.com/en/us-election-2024-why-the-eu-wants-kamala-harris-in-the-white-house-v2/a-70644670" target="_blank">prefer</a> the prospect of Kamala Harris, mainly based on her overall predictability in transatlantic relations.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>US unemployment claims hit a five-month low</strong>, consumer spending rose, and labor costs saw the smallest gain since 2021, reflecting economic resilience. With inflation on a downward trend, the Fed is expected to cut rates in November (<a href="https://abcnews.go.com/Business/wireStory/us-applications-jobless-benefits-fall-layoffs-remain-historically-115348959" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Siemens is acquiring Altair Engineering</strong> for over $10 billion to enhance its industrial software and AI capabilities. The <a href="https://www.euronews.com/business/2024/10/31/siemens-buys-us-software-group-in-deal-worth-billions-of-euros" target="_blank">deal</a> will integrate Altair’s simulation, high-performance computing, and data science expertise with Siemens’ existing portfolio, solidifying Siemens’ leadership in technology innovation.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Carl Icahn’s financial empire</strong> faces new struggles as CVR Energy, a key holding, suspends its dividend due to operational challenges. This setback impacts Icahn’s cash flow, risking additional losses and further intensifying scrutiny of Icahn Enterprises’ sustainability (<a href="https://www.marketwatch.com/amp/story/icahn-enterprises-stock-slides-4-as-majority-owned-cvr-energy-suspends-its-dividend-bb8fe9bf" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google Maps</strong> is set to <a href="https://www.theverge.com/2024/10/31/24284455/google-maps-enhanced-navigation-features-city-driving" target="_blank">enhance urban driving</a> in November with features like lane guidance, displaying the correct lane for turns, and highlighting nearby parking and building entrances.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Scientists discovered that methazolamide</strong>, a glaucoma drug, can help clear tau protein build-up in the brains of zebrafish and mice, which could lead to exciting new treatments for dementia like Alzheimer’s (<a href="https://scitechdaily.com/scientists-discover-common-eye-medication-could-outsmart-alzheimers/" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Scientists have discovered Argentina's oldest-known fossil of a giant tadpole</strong>, dating back over 160 million years. This <a href="https://apnews.com/article/tadpole-frog-fossil-amphibian-evolution-e59f5b95d2e35ff6d66b3bd2c4304ed4" target="_blank">fossil</a> is a whopping 20 million years older than the previous record holder.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Los Angeles Dodgers</strong> made a <a href="https://edition.cnn.com/2024/10/30/sport/yankees-dodgers-world-series-game-5-spt-intl/index.html" target="_blank">comeback</a> to grab their eighth World Series title, defeating the New York Yankees 7-6 in Game 5 at Yankee Stadium.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Radiohead’s Thom Yorke</strong>’s recent solo performance in Melbourne was marked by a <a href="https://www.bbc.com/news/articles/c5yrv2zyd22o" target="_blank">confrontation with a heckler</a> who criticized Israeli actions in Gaza. Yorke challenged the heckler to come on stage and voice his concerns directly, which led to Yorke temporarily leaving the stage before returning to perform.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">For the first time since 1938, children in Des Moines, Iowa, were allowed to go trick-or-treating on Halloween (<a href="https://edition.cnn.com/2024/10/31/us/des-moines-iowa-halloween-beggars-night/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Russia fines Google more than the world's GDP for blocking YouTube accounts (<a href="https://news.sky.com/story/russia-fines-google-more-than-worlds-entire-gdp-for-blocking-youtube-accounts-13245208" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Venice doubles its tourist tax for some visitors (<a href="https://www.thrillist.com/news/nation/venice-introducing-entry-fee-for-tourists" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Canada wants more overseas tourists to visit (<a href="https://www.bbc.com/news/articles/cp396g01g6xo" target="_blank">find out why</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">How to destress on your wellness retreat (<a href="https://www.thrillist.com/travel/how-to-actually-destress-on-vacation" target="_blank">read how</a>). </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1952, the United States tested the first thermonuclear bomb on an atoll in the Marshall Islands, led by Edward Teller and other scientists.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
