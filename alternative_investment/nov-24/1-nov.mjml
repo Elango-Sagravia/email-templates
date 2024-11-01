@@ -1,0 +1,167 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 30px !important;
+            ">Aussie PM Denies Asking Qantas for Perks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Australia’s Prime Minister Anthony Albanese <a href="https://www.bnnbloomberg.ca/business/international/2024/10/31/australia-pm-denies-asking-ex-qantas-ceo-directly-for-upgrades/" target="_blank">denied</a> asking ex-Qantas CEO Alan Joyce for flight upgrades, as public attention grows on the perks given to politicians by the airline. Albanese’s office stated that he never contacted Joyce directly for any perks. This comes amid scrutiny over Qantas’s invitation-only Chairman’s Lounge, where many politicians have exclusive access. With inflation and high interest rates causing financial strain, the timing is tough for Albanese, whose Labor government has just fallen behind in the polls.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Waymo Valued Over $45B After New Funding</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Alphabet’s autonomous driving unit, Waymo, is now <a href="https://www.bnnbloomberg.ca/business/technology/2024/10/31/alphabets-waymo-valued-at-more-than-45-billion-after-funding/" target="_blank">valued</a> at over $45 billion following a recent $5.6 billion funding round. As demand for self-driving technology grows, Waymo has been expanding its robotaxi services, offering 150,000 paid trips weekly in cities like San Francisco and Phoenix. A partnership with Uber aims to bring Waymo robotaxis to new markets, including Atlanta and Austin. This funding not only boosts Waymo’s expansion but also shows Alphabet’s commitment to self-driving despite industry hurdles, positioning Waymo at the forefront of the robotaxi market.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">KKR’s $20B Goal Tests Investor Interest</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Private equity firm KKR is testing investor appetite as it <a href="https://www.bnnbloomberg.ca/investing/2024/10/31/kkrs-20-billion-goal-tests-investor-appetite-for-buyout-funds/" target="_blank">targets</a> $20 billion for its new North American buyout fund, offering early signup discounts to attract investors. In a challenging market where private equity has underperformed, KKR aims to buck the trend. It’s also eyeing potential investors in Asia and the Middle East as some U.S. pensions show lukewarm interest. If KKR’s fundraise succeeds, it could signal renewed strength for buyouts, particularly as private equity expands into new alternative assets.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Broadway Songwriter Lists $4.3M LA Home</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Songwriter Ingrid Michaelson, known for her hit "Girls Chase Boys," has put her Hollywood Hills home up for sale. Bought for $3.6 million in 2019, the house now lists at <a href="https://www.bloomberg.com/news/articles/2024-10-31/-4-3-million-hollywood-hills-home-of-the-notebook-s-ingrid-michaelson-lists?embedded-checkout=true" target="_blank">$4.3 million</a>. The Spanish revival-style property, built in the late 1920s, offers stunning city views, a newly renovated kitchen, and multiple outdoor areas. Michaelson, who initially moved to be near family, says she rarely spends time there due to work on Broadway. Describing the house as a "beautiful jewel," she hopes the next owner appreciates its vintage charm.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Pyth Launches Liquid Staking, Stablecoins</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Pyth has <a href="https://www.hedgeweek.com/pyth-launches-liquid-staking-yield-bearing-stablecoins/" target="_blank">launched</a> new crypto asset classes, including liquid staking tokens (LSTs) and yield-bearing stablecoins. Their Crypto Redemption Rate Feeds provide live valuations of these assets, allowing decentralized platforms to match traditional finance clarity. With LSTs and yield-bearing stables gaining traction in DeFi over the past year, Pyth’s expanded feed options now cover commodities, equities, FX, and more. By giving precise asset feeds to on-chain markets, Pyth aims to push DeFi further into the mainstream, rivaling the data accuracy of traditional financial institutions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Blackstone Near $7B Rogers Infrastructure Deal</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-nov-1-1.jpg" alt="Blackstone Near $7B Rogers Infrastructure Deal" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Blackstone is nearing a <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/30/blackstone-close-to-c7-billion-investment-deal-with-rogers/" target="_blank">$7 billion</a> deal to buy a minority stake in Rogers Communications’ wireless infrastructure. This move would help Rogers reduce debt as it looks to acquire a stake in Maple Leaf Sports & Entertainment. CEO Tony Staffieri emphasized that the transaction will keep Rogers in full control of its network, calling it a “first-of-its-kind” deal in Canada. If completed, this investment could mark a new era in structured-equity transactions in Canadian telecom, showing Blackstone’s interest in infrastructure as a steady-return asset.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Chinese Quant Hedge Funds Lose Their Edge</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">China’s quant hedge funds are <a href="https://www.bnnbloomberg.ca/business/international/2024/10/30/quant-hedge-funds-are-losing-their-edge-in-china-as-models-fail/" target="_blank">facing</a> a tough year as stock surges driven by government stimulus disrupted their models. These funds, known for market-beating returns, lost ground when small-cap stocks fell sharply in February and again in September, trailing the 22% market jump. As models struggle to adapt to rapid policy-driven shifts, quant strategies are being questioned. While some firms are shifting toward AI-driven models, this year highlights the limits of traditional quant strategies in China’s volatile, policy-sensitive market.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">SEC Probes Freeport Over Indonesia Smelter Risks</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-nov-1-2.jpg" alt="SEC Probes Freeport Over Indonesia Smelter Risks" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The SEC is <a href="https://www.bnnbloomberg.ca/business/international/2024/10/31/freeport-probed-by-sec-over-quake-risk-at-indonesia-copper-plant/" target="_blank">investigating</a> Freeport-McMoRan over earthquake risk disclosures for its $3.7 billion smelter complex in Indonesia. A former contractor alleges the complex, built on reclaimed coastal land, may not withstand a significant quake and could collapse. Freeport denies these claims, asserting the facility meets all Indonesian codes. The SEC probe may take months, but with copper demand rising, any disruption to Freeport’s operations could impact the metal’s global supply. Freeport’s shares have quadrupled in five years, making this development one to watch for investors.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">MetLife Sees Real Estate Market Improving in 2025</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">MetLife’s CFO John McCallion <a href="https://www.bnnbloomberg.ca/business/company-news/2024/10/31/commercial-real-estate-outlook-will-improve-in-2025-metlife-says/" target="_blank">believes</a> 2025 will bring better days for commercial real estate. He cited solid economic growth, potential interest rate declines, and increased deal activity as reasons for optimism. While office spaces remain a challenge, other segments have hit their low point, according to McCallion. Though no “V-shaped” recovery is expected, MetLife’s recent profitable property sales signal a more stable outlook.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size: 22px; line-height: 1.2; font-weight: 500">Pfizer CEO Defends Strategy Amid Criticism</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Pfizer CEO Albert Bourla <a href="https://www.hedgeweek.com/pfizer-ceo-defends-strategy-amid-starboard-pressure/" target="_blank">defended</a> the company’s recent strategy shifts against activist hedge fund Starboard Value’s criticism. Following better-than-expected Q3 profits driven by strong Paxlovid sales, Bourla highlighted recent acquisitions, including a $43 billion buy of cancer-focused Seagen, as transformative. Starboard has raised concerns over Pfizer’s drug development potential, pushing for improved shareholder returns. In response, Pfizer has pursued cost cuts and raised its revenue forecasts for Covid treatments, aiming to assure investors of its long-term growth plans in oncology and beyond.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
