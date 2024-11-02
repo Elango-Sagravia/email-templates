@@ -15,9 +15,11 @@
     <mj-section background-color="#ffffff"  >
     <mj-spacer height="10px" />
       <mj-column  padding="10px 12px 10px 12px" width="100%" > 
-        <mj-spacer height="20px" />
+        <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
         <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+            <mj-spacer height="6px" />
+
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
