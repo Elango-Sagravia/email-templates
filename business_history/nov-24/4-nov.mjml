@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Behind the scenes of legendary businesses. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding-top="50px">
+      <mj-column>
+        <mj-spacer height="60px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="250px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">The Cola Wars</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The rivalry between Coca-Cola and Pepsi has shaped the beverage industry for over a century, leading to some of the most memorable marketing strategies in history.</p>
+          <p style="font-size: 16px; line-height: 1.4">In 1975, Pepsi ignited the flames of rivalry with the Pepsi Challenge, a blind taste test in which consumers overwhelmingly preferred Pepsi’s sweeter flavor over Coca-Cola. This bold marketing move forced Coca-Cola to rethink its strategy and sparked fierce competition that would define the following decades.</p>
+          <p style="font-size: 16px; line-height: 1.4">In response to Pepsi’s growing market share, Coca-Cola made a significant gamble in 1985 by launching New Coke, a reformulated version of its classic beverage. However, this decision backfired dramatically. Consumers were outraged, leading to a public outcry for the return of the original formula. The backlash was so intense that Coca-Cola was compelled to reintroduce its classic recipe as Coca-Cola Classic, ultimately reigniting consumer loyalty and boosting sales.</p>
+          </mj-text>
+          <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-nov-4-1.jpg" alt="The Cola Wars" href="https://www.businesshistory.co" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Pepsi didn’t rest on its laurels. In the 1980s, it captured the youth market with its partnership with Michael Jackson. The "Pepsi Generation" campaign, featuring Jackson’s electrifying performances, solidified Pepsi’s image as the drink of choice for young, vibrant consumers. This approach contrasted with Coca-Cola's emphasis on nostalgia and tradition.</p>
+          <p style="font-size: 16px; line-height: 1.4">As the 1990s rolled in, the Cola Wars evolved into a global competition for market dominance. Both companies expanded their product lines to include diet sodas, energy drinks, and bottled water. Despite the fierce competition, Coca-Cola maintained its lead, benefiting from its deep-rooted brand identity and extensive distribution network. Pepsi, however, continued to innovate and challenge Coca-Cola with new flavors and bold marketing tactics.</p>
+          <p style="font-size: 16px; line-height: 1.4">Fast forward to today, and the Cola Wars are still alive, albeit in a changing landscape. With health-conscious consumers moving away from sugary sodas, both companies have diversified into healthier beverage options while retaining their cola roots.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">The LEGO Group, famous for its colorful building blocks, started as a wooden toy company in Denmark in 1932.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- divider sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2">
+            <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
