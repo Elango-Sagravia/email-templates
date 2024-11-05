@@ -1,0 +1,351 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-spacer height="6px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> Americans cast votes, Iran faces backlash over a student protest arrest, China’s declining marriage rates, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Election showdown</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-5-1.jpg" alt="Election showdown" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The upcoming 60th <a href="https://www.theguardian.com/us-news/ng-interactive/2024/nov/03/us-presidential-election-trump-harris" target="_blank">US presidential election</a> will be a defining moment in American politics, determining not only the 47th president but also the 50th vice president. This year has seen record-breaking fundraising for campaigns. The media landscape is intensely polarized, featuring extensive coverage across various platforms. In addition to the presidential race, all 435 House and 34 Senate seats are contested, alongside numerous state and local elections, highlighting the election’s far-reaching implications.</p>
+          <p style="font-size: 16px; line-height: 1.4">Voters in 41 states will vote on 159 ballot initiatives. Florida voters will decide on legalizing <a href="https://abcnews.go.com/US/wireStory/florida-vote-marijuana-abortion-election-test-gops-dominance-115458592" target="_blank">marijuana</a>, while Puerto Rico’s <a href="https://apnews.com/article/puerto-rico-election-dalmau-pnp-ppd-cf7543357d219fb695a96b863b5fcf11" target="_blank">independence movement</a> candidate is gaining traction. Ten states have abortion rights on the ballot. It’s very likely a decision will not be reached tonight. The ballots will take some time to count and possibly recount, especially in crucial swing states.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Iran student protes</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-5-2.jpg" alt="Iran student protes" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A female student in Tehran was recently <a href="https://www.france24.com/en/video/20241104-woman-strips-off-clothes-at-iran-university-in-apparent-protest" target="_blank">arrested</a> after protesting Iran’s strict dress code by stripping her underwear in public. The student, whose identity remains undisclosed, reportedly took this action after members of the Basij paramilitary force allegedly harassed her at Islamic Azad University by tearing her headscarf and clothes. In response, she removed her clothes in defiance, sitting outside the university and later walking in public.</p>
+          <p style="font-size: 16px; line-height: 1.4">Videos of her protest circulated widely on social media, showing the woman’s arrest by plainclothes officers who reportedly handled her with force. Amnesty International called for her immediate and unconditional <a href="https://www.bbc.com/news/articles/c9vngeezwvno" target="_blank">release</a>, urging authorities to investigate alleged abuses and protect her from mistreatment. This protest recalls the <a href="https://www.france24.com/en/asia-pacific/20240916-two-years-after-death-mahsa-amini-quiet-revolution-in-iran-women-protest-reformers" target="_blank"> 2022 Mahsa Amini demonstrations</a>, where thousands protested the death of a young woman arrested for violating Iran’s dress code.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">China’s marriages</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">China’s marriage rates are <a href="https://edition.cnn.com/2024/11/04/china/china-marriages-on-track-low-intl-hnk/index.html#:~:text=Some%204.74%20million%20Chinese%20couples,of%20Civil%20Affairs%20on%20Friday." target="_blank">plummeting</a>, with 4.74 million marriages recorded in the first three quarters of 2024—a 16.6% decline from the previous year. This trend, which began after a peak in 2013, poses challenges for China as marriages correlate directly with birth rates, impacting the country’s aging workforce and economy. Government <a href="https://www.sixthtone.com/news/1016078" target="_blank">campaigns </a> to boost marriage and childbirth, such as offering incentives, organizing matchmaking events, and addressing dowry costs, have had limited success.</p>
+          <p style="font-size: 16px; line-height: 1.4">Many young people are choosing not to marry. They cite economic instability, high living costs, and shifting social values as some of the reasons. Young women, in particular, are prioritizing education and independence, diverging from traditional roles. This trend mirrors similar struggles in Japan and South Korea, where birth-encouraging policies have met with limited success. These patterns are uncommon in Western countries; marriage and birth rates are also decreasing in the US and Europe.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Turkish government</strong> has removed <a href="https://www.middleeasteye.net/news/turkey-unseats-three-pro-kurdish-mayors" target="_blank">three pro-Kurdish mayors</a> from Mardin, Batman, and Halfeti, replacing them with government-appointed trustees due to alleged terrorism-related charges.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A political scandal</strong> has <a href="https://www.nbcnews.com/news/world/israel-leak-scandal-netanyahu-aide-arrested-gaza-hostage-talks-rcna178617" target="_blank">erupted in Israel</a> after it was revealed that Eliezer Feldstein, an aide to Prime Minister Benjamin Netanyahu, may have leaked classified intelligence related to hostage negotiations with Hamas.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Indonesia and Russia</strong> have commenced their first joint military exercises in the Java Sea, marking a significant step in the deepening of defense ties under Indonesia’s new president, Prabowo Subianto (<a href="https://www.dw.com/en/indonesia-and-russia-hold-first-joint-naval-exercises/a-70684385" target="_blank">read more</a>)</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>US factory orders fell 0.5%</strong> in September, marking a second consecutive monthly decline after a revised 0.8% drop in August. Business spending on equipment slowed in the third quarter, though core capital goods orders rose 0.7%, exceeding the initial estimate (<a href="https://finance.yahoo.com/news/us-factory-orders-fall-second-152253214.html" target="_blank">read more</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Private Equity firm Stonepeak</strong> will take Air Transport Services Group (ATSG) private in a $3.1 billion deal, boosting ATSG shares by 27%. Stonepeak's $22.5 per share offer reflects a 29.3% premium. The deal, expected to close next year, includes committed equity and debt financing (<a href="https://stonepeak.com/news/atsg-to-be-acquired-by-stonepeak-for-3-1-billion" target="_blank">press release</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A Trump re-election could severely impact Europe's economy</strong> through proposed 10% US tariffs, potentially reducing GDP by up to 1.5% (€260bn). Key sectors like autos and chemicals face significant risks, prompting ECB rate cuts, euro weakness, and recession concerns (<a href="https://www.euronews.com/business/2024/11/04/how-much-could-trumps-tariffs-damage-europes-economy" target="_blank">full report</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Boeing is reportedly considering selling parts</strong> of its space business, including its Starliner program and ISS operations, to streamline its portfolio. The Starliner has faced delays and cost overruns. Boeing’s CEO aims to focus on fewer, more efficient programs (<a href="https://www.foxbusiness.com/markets/boeing-looking-sell-space-business-report" target="_blank">read more</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A recent study published in Science has found a significant link between <strong>high sugar consumption in early childhood and increased risks of diabetes</strong> and high blood pressure in adulthood (<a href="https://www.nature.com/articles/d41586-024-03535-7" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A series of <a href="https://apnews.com/article/indonesia-mount-lewotobi-laki-laki-volcano-eruption-73f898102d514b9bd093be65b8188002" target="_blank">volcanic eruptions</a> on Flores Island in Indonesia has resulted in the <strong>deaths of at least ten people</strong>, with many more affected by the natural disaster.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Kim Kardashian</strong> debuted a <a href="https://edition.cnn.com/2024/11/04/style/kim-kardashian-wears-diana-crucifix-intl-scli/index.html" target="_blank">diamond cross pendant</a> once owned by Princess Diana at the LACMA Art+Film Gala, marking its first public appearance since Diana died in 1997.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Legendary musician Quincy Jones</strong>, who was 91, <a href="https://people.com/music/quincy-jones-dead/" target="_blank">passed away</a> on November 3, 2024, at his home in Los Angeles. His family announced his death, celebrating his remarkable life and contributions to music. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Vanity Fair</strong> made a comprehensive list of who has endorsed Kamala Harris—or Donald Trump (<a href="https://www.vanityfair.com/style/story/celebrity-endorsements-harris-trump?srsltid=AfmBOooigF-a-u0JfJEKnQ8PqCR11R27_LkUXLVe7MohCFZxeX5ORF9I" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Lyft continues its “Lyft Up Voting Access” program, providing discounted or free rides to polling places for the tenth consecutive year (<a href="https://www.goodnewsnetwork.org/lyft-ride-hailing-service-to-lyft-up-voters-offering-discounted-or-free-rides-to-the-polls/" target="_blank">read more</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Collins Dictionary’s Word of the Year for 2024 is “brat,” now defined as someone with a “confident, independent, and hedonistic attitude” (<a href="https://ca.news.yahoo.com/not-just-summer-brat-collins-102145465.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">At Portland International Airport, Beni the llama and Captain Jack the alpaca delight travelers as part of the airport’s animal therapy program (<a href="https://www.npr.org/sections/shots-health-news/2024/11/03/nx-s1-5173755/therapy-animals-portland-airport-llama-alpaca" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Experts give some last-minute advice on how to deal with election stress (<a href="https://www.cbsnews.com/news/election-2024-stress-anxiety-tips-experts/" target="_blank">read more</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 2013, India launched its first interplanetary spacecraft, the unmanned Mars Orbiter Mission.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
