@@ -107,19 +107,18 @@
           <p style="font-size: 16px; line-height: 1.4">- <strong>Special editions</strong> for our most inquisitive readers.</p>
           
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <mj-text padding="10px 12px" font-family="Roboto" >
           <p style="
-              color:black;
-              border: 1px solid black;
+             background:#6b705c;
               font-size: 16px;
               line-height: 1.5;
               font-weight: 250;
               padding: 10px;
               text-align: center;
-              max-width: 190px; 
+              max-width: 100%; 
               margin: 0 auto;
-              border-radius: 30px;
-            "><a href="https://www.altdaily.co/" target="_blank">Check out our latest issue</a></p>
+              border-radius: 0px;
+            "><a href="https://www.altdaily.co/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Check out our latest issue</a></p>
         </mj-text>
        <mj-spacer height="3px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
@@ -163,8 +162,8 @@
       <mj-social-element 
         padding="12px 12px"
         icon-size="30px"
-        href="https://www.facebook.com"
-        src="https://www.presidentialsummary.com/icons/social/facebook.svg"
+        href=" https://www.facebook.com/profile.php?id=61563115340167"
+        src="https://www.presidentialsummary.com/icons/social/facebook.png"
        >
       </mj-social-element>
 
@@ -172,8 +171,8 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://x.com"
-        src="https://www.presidentialsummary.com/icons/social/x.svg"
+        href="https://x.com/readaltdaily"
+        src="https://www.presidentialsummary.com/icons/social/x.png"
         >
       </mj-social-element>
 
@@ -181,7 +180,7 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://instagram.com"
+        href=" https://www.instagram.com/readaltdaily/"
         src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
       </mj-social-element>
 
@@ -189,22 +188,22 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/reddit.svg"
+        href="https://www.reddit.com/user/AltInvestmentNews/"
+        src="https://www.presidentialsummary.com/icons/social/reddit.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/linkedin.svg"
+        href="https://www.linkedin.com/showcase/altdailynews/"
+        src="https://www.presidentialsummary.com/icons/social/linkedin.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/threads.svg"
+        href="https://www.threads.net/@readaltdaily"
+        src="https://www.presidentialsummary.com/icons/social/threads.png"
         >
       </mj-social-element>
     </mj-social>
@@ -217,17 +216,24 @@
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
-        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif" color="#333">
-          <p style="font-size: 14px; color: #667085; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2">
-            <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+           <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2"> 30 <span>N</span> <span>Gould</span>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
             <span>St, Ste N, Sheridan, WY 82801, United States</span>
           </p>
-          <p style="font-size: 14px; color: #667085; line-height: 2"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
         </mj-text>
       </mj-column>
     </mj-section>

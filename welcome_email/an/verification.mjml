@@ -1,0 +1,262 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+     
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+      <mj-column  padding="10px 12px 10px 12px" width="100%"> 
+      <mj-spacer height="22px" />
+
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+
+      <mj-spacer height="6px" />
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know that some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Welcome to <strong><i>AltDaily News!</i></strong></p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">VERIFY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+ <mj-section background-color="#ffffff">
+      <mj-column>
+        <!-- Main Instructions -->
+        <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000" >
+          <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
+        </mj-text>
+
+        <!-- Verify Button -->
+        <mj-text padding="0px 12px" font-family="Roboto" align="center">
+          <p style="
+              background: #6b705c;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 250;
+              padding: 10px;
+              text-align: center;
+              max-width: 200px;
+              margin: 0 auto;
+              border-radius: 0px;">
+            <a href="https://www.altdaily.co/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Verify</a>
+          </p>
+        </mj-text>
+
+        <mj-spacer height="16px" />
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; ">
+            To ensure every issue of AltDaily News reaches your inbox, simply reply with <strong>‘hello’</strong> or follow the steps below to whitelist our email address.
+          </p>
+          </mj-text>
+          <mj-spacer height="4px" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;  ">
+            <strong>Gmail users:</strong> Move us to your Primary inbox.
+          </p>
+        </mj-text>
+        <mj-spacer height="4px" />
+
+      <mj-group width="100%">
+        <mj-column width="10%">
+          <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+            <p style="font-size: 16px; line-height: 1.4;">-</p>
+          </mj-text>
+        </mj-column>
+        
+        <mj-column width="90%">
+          <mj-text padding="0 10px" font-family="Roboto+Serif">
+            <p style="font-size: 16px; line-height: 1.4;">
+              <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+
+      <mj-group width="100%">
+        <mj-column width="10%">
+          <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+            <p style="font-size: 16px; line-height: 1.4;">-</p>
+          </mj-text>
+        </mj-column>
+        
+        <mj-column width="90%">
+          <mj-text padding="0 10px" font-family="Roboto+Serif">
+            <p style="font-size: 16px; line-height: 1.4;">
+              <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
+            </p>
+          </mj-text>
+        </mj-column>
+      </mj-group>
+      <mj-spacer height="10px" />
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;">
+            <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
+          </p>
+          </mj-text>
+          <mj-spacer height="4px" />
+          <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;">
+            For everyone else, check out our safelist instructions <a href="https://www.altdaily.co/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    
+     <!-- Spotlight 3-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" >
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOLLOW US ON SOCIAL MEDIA</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+   <mj-column>
+    <mj-spacer height="24px" />
+    <mj-social font-size="15px" mode="horizontal">
+
+      <!-- Facebook Icon -->
+      <mj-social-element 
+        padding="12px 12px"
+        icon-size="30px"
+        href=" https://www.facebook.com/profile.php?id=61563115340167"
+        src="https://www.presidentialsummary.com/icons/social/facebook.png"
+       >
+      </mj-social-element>
+
+      <!-- X (Twitter) Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://x.com/readaltdaily"
+        src="https://www.presidentialsummary.com/icons/social/x.png"
+        >
+      </mj-social-element>
+
+      <!-- Instagram Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href=" https://www.instagram.com/readaltdaily/"
+        src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
+      </mj-social-element>
+
+      <!-- Reddit Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://www.reddit.com/user/AltInvestmentNews/"
+        src="https://www.presidentialsummary.com/icons/social/reddit.png"
+        >
+      </mj-social-element>
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://www.linkedin.com/showcase/altdailynews/"
+        src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+        >
+      </mj-social-element>
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href=" https://www.threads.net/@readaltdaily"
+        src="https://www.presidentialsummary.com/icons/social/threads.png"
+        >
+      </mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+
+
+<!-- footer section -->
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>. </a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+           <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

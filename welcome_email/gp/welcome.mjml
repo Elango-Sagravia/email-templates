@@ -108,19 +108,18 @@
           <p style="font-size: 16px; line-height: 1.4">Most importantly, expect to learn the WHY behind the current events.</p>
          
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <mj-text padding="10px 12px" font-family="Roboto" >
           <p style="
-              color:black;
-              border: 1px solid black;
+              background:#06266D;
               font-size: 16px;
               line-height: 1.5;
               font-weight: 250;
               padding: 10px;
               text-align: center;
-              max-width: 190px; 
+              max-width: 100%; 
               margin: 0 auto;
-              border-radius: 30px;
-            "><a href="https://www.geopolitics.world/" target="_blank">Check out our latest issue</a></p>
+              border-radius: 0px;
+            "><a href="https://www.geopolitics.world/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Check out our latest issue</a></p>
         </mj-text>
        <mj-spacer height="3px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
@@ -164,8 +163,8 @@
       <mj-social-element 
         padding="12px 12px"
         icon-size="30px"
-        href="https://www.facebook.com"
-        src="https://www.presidentialsummary.com/icons/social/facebook.svg"
+        href="https://www.facebook.com/profile.php?id=61562847449514"
+        src="https://www.presidentialsummary.com/icons/social/facebook.png"
        >
       </mj-social-element>
 
@@ -173,8 +172,8 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://x.com"
-        src="https://www.presidentialsummary.com/icons/social/x.svg"
+        href="https://x.com/readgeopolitics"
+        src="https://www.presidentialsummary.com/icons/social/x.png"
         >
       </mj-social-element>
 
@@ -182,7 +181,7 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://instagram.com"
+        href="https://www.instagram.com/geopoliticsummary/"
         src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png">
       </mj-social-element>
 
@@ -190,22 +189,22 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/reddit.svg"
+        href="https://www.reddit.com/user/GeopoliticsWorld/"
+        src="https://www.presidentialsummary.com/icons/social/reddit.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/linkedin.svg"
+        href="https://www.linkedin.com/showcase/geopoliticsworld/"
+        src="https://www.presidentialsummary.com/icons/social/linkedin.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://reddit.com"
-        src="https://www.presidentialsummary.com/icons/social/threads.svg"
+        href=" https://www.threads.net/@geopoliticsummary"
+        src="https://www.presidentialsummary.com/icons/social/threads.png"
         >
       </mj-social-element>
     </mj-social>
