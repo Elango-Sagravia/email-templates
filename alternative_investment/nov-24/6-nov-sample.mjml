@@ -17,7 +17,7 @@
       <mj-column  padding="10px 12px 10px 12px" width="100%" > 
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
-        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
         <mj-spacer height="6px" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
@@ -29,11 +29,27 @@
           <p style="
               font-size: 16px;
               line-height: 1.4;
-            "><strong>In today’s edition:</strong> Hedge funds bet on the dollar, Europe’s dividend shake-up, Goldman Sachs backs Aussie Real Estate Fund, and more.</p>
-            <p style="
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Global leaders react to Trump’s victory</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Ukraine reports clashes with North Korean troops</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Netanyahu dismisses his defense minister </p>
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               margin-bottom: 0px;
+              margin-top:20px;
             ">Was this email forwarded to you? <a href="https://www.altdaily.co/" target="_blank">Subscribe for free</a>.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
@@ -242,7 +258,7 @@
               font-weight: 500;
               margin-top: 2px !important;">Why is Japan’s yen falling?</h2>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-nov-7-3.jpg" alt="Why is Japan’s yen falling?" href="https://www.altdaily.co" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-nov-7-2.jpg" alt="Why is Japan’s yen falling?" href="https://www.altdaily.co" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4">The Japanese yen has recently fallen to its lowest level against the US dollar since April 1990, hitting 160.17 before recovering to 155.01. This decline is primarily driven by a significant interest rate differential between Japan and the United States; while the US Federal Reserve’s rate is between 5.25% and 5.50%, Japan’s Bank of Japan maintains a rate of just 0-0.1%. This disparity, compounded by differing inflation environments—Japan struggling with stagnation while the US faces inflation—encourages investors to offload yen for higher returns in the US.</p>
           <p style="font-size: 16px; line-height: 1.4">The yen's continuous slide, having lost over a third of its value since early 2021, presents mixed implications for Japan's economy. While it boosts exporters and attracts foreign tourists, it also raises the cost of imports, straining household budgets. Japanese authorities have expressed concerns over the yen's depreciation and may intervene through market purchases or interest rate adjustments. However, such interventions historically have not reversed the yen's downward trend, leading analysts to predict ongoing weakness unless there are significant changes in monetary policy or external conditions.</p>

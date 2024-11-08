@@ -11,17 +11,12 @@
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
-     
     <!-- Logo Header -->
-    <mj-section background-color="#ffffff"  >
-      <mj-column  padding="10px 12px 10px 12px" width="100%"> 
-      <mj-spacer height="22px" />
-
+    <mj-section background-color="#ffffff">
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="22px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
-        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
-
-      <mj-spacer height="6px" />
-
+        <mj-spacer height="8px" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
@@ -37,9 +32,7 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
     </mj-section>
-
     <mj-spacer height="10px"></mj-spacer>
-
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
@@ -60,97 +53,81 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- Spotlight contents-->
-
     <!-- Content sections -->
- <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff">
       <mj-column>
         <!-- Main Instructions -->
-        <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000" >
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
         </mj-text>
-
         <!-- Verify Button -->
-        <mj-text padding="0px 12px" font-family="Roboto" align="center">
+        <mj-text padding="10px 12px" font-family="Roboto" >
           <p style="
-              background: #06266D;
-              color: #FFFFFF;
-              font-size: 20px;
-              line-height: 1.4;
+              background:#06266D;
+              font-size: 16px;
+              line-height: 1.5;
               font-weight: 250;
               padding: 10px;
               text-align: center;
-              max-width: 200px;
+              width: 150px; 
               margin: 0 auto;
-              border-radius: 0px;">
-            <a href="https://www.geopolitics.world/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Verify</a>
-          </p>
+              border-radius: 0px;
+            "><a href="https://www.geopolitics.world/" target="_blank" style="color: #FFFFFF; text-decoration: none;">verify</a></p>
         </mj-text>
-
         <mj-spacer height="16px" />
-
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4; ">
-            To ensure every issue of Geopolitics World reaches your inbox, simply reply with <strong>‘hello’</strong> or follow the steps below to whitelist our email address.
-          </p>
-          </mj-text>
-          <mj-spacer height="4px" />
-          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; "> To ensure every issue of Geopolitics World reaches your inbox, simply reply with <strong>‘hello’</strong> or follow the steps below to whitelist our email address. </p>
+        </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;  ">
             <strong>Gmail users:</strong> Move us to your Primary inbox.
           </p>
         </mj-text>
         <mj-spacer height="4px" />
-
-      <mj-group width="100%">
-        <mj-column width="10%">
-          <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-            <p style="font-size: 16px; line-height: 1.4;">-</p>
-          </mj-text>
-        </mj-column>
-        
-        <mj-column width="90%">
-          <mj-text padding="0 10px" font-family="Roboto+Serif">
-            <p style="font-size: 16px; line-height: 1.4;">
-              <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
-            </p>
-          </mj-text>
-        </mj-column>
-      </mj-group>
-
-      <mj-group width="100%">
-        <mj-column width="10%">
-          <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-            <p style="font-size: 16px; line-height: 1.4;">-</p>
-          </mj-text>
-        </mj-column>
-        
-        <mj-column width="90%">
-          <mj-text padding="0 10px" font-family="Roboto+Serif">
-            <p style="font-size: 16px; line-height: 1.4;">
-              <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
-            </p>
-          </mj-text>
-        </mj-column>
-      </mj-group>
-      <mj-spacer height="10px" />
-      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <mj-group width="100%">
+          <mj-column width="10%">
+            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">-</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 10px" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">
+                <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="10%">
+            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">-</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 10px" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">
+                <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">
             <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
           </p>
-          </mj-text>
-          <mj-spacer height="4px" />
-          <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">
-            For everyone else, check out our safelist instructions <a href="https://www.geopolitics.world/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
-          </p>
+        </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.geopolitics.world/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
-    
-     <!-- Spotlight 3-->
+    <!-- Spotlight 3-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
@@ -170,74 +147,36 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- Spotlight contents-->
-
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
-   <mj-column>
-    <mj-spacer height="24px" />
-    <mj-social font-size="15px" mode="horizontal" padding="0px">
-
-      <!-- Facebook Icon -->
-      <mj-social-element 
-        padding="12px 12px"
-        icon-size="30px"
-        href="https://www.facebook.com/profile.php?id=61562847449514"
-        src="https://www.geopolitics.world/icons/social/facebook.png"
-       >
-      </mj-social-element>
-
-      <!-- X (Twitter) Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://x.com/readgeopolitics"
-        src="https://www.geopolitics.world/icons/social/x.png"
-        >
-      </mj-social-element>
-
-      <!-- Instagram Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.instagram.com/geopoliticsummary/"
-        src="https://www.geopolitics.world/icons/social/instagram.png">
-      </mj-social-element>
-
-      <!-- Reddit Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.reddit.com/user/GeopoliticsWorld/"
-        src="https://www.geopolitics.world/icons/social/reddit.png"
-        >
-      </mj-social-element>
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.linkedin.com/showcase/geopoliticsworld/"
-        src="https://www.geopolitics.world/icons/social/linkedin.png"
-        >
-      </mj-social-element>
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.threads.net/@geopoliticsummary"
-        src="https://www.geopolitics.world/icons/social/threads.png"
-        >
-      </mj-social-element>
-    </mj-social>
-  </mj-column>
-</mj-section>
-
-
-
-<!-- footer section -->
-     <!-- 2 columns section -->
+      <mj-column>
+        <mj-spacer height="24px" />
+        <mj-social font-size="15px" mode="horizontal" padding="0px">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.instagram.com/geopoliticsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.linkedin.com/showcase/geopoliticsworld/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.threads.net/@geopoliticsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="
               color:#000;
               font-size:12px;
@@ -255,22 +194,22 @@
             ">
             <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
-          <p style="
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+            <p style="
               margin-top:25px;
                text-align:center;
               font-size:10px;
               color: #667085;
               line-height: 1.5;
             ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
-          <p style="
+            <p style="
               text-align:center;
               font-size:10px;
               color: #667085;
               line-height: 0;
               margin-bottom:14px;
             ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
-        </mj-text>
+          </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="15px"></mj-spacer>
