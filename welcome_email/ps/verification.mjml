@@ -62,18 +62,22 @@
           <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
         </mj-text>
         <!-- Verify Button -->
-        <mj-text padding="10px 12px" font-family="Roboto">
-          <p style="
+        <mj-text font-family="Roboto" >
+          <a style="
+              display:block;
               background:#4D3060;
               font-size: 16px;
               line-height: 1.5;
-              font-weight: 250;
               padding: 10px;
               text-align: center;
-              width: 150px; 
+              width: 100px; 
               margin: 0 auto;
               border-radius: 0px;
-            "><a href="https://www.presidentialsummary.com/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Verify</a></p>
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.presidentialsummary.com/" 
+              target="_blank"
+             >Verify</a>
         </mj-text>
         <mj-spacer height="16px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">

@@ -72,19 +72,22 @@
         </mj-text>
 
         <!-- Verify Button -->
-        <mj-text padding="0px 12px" font-family="Roboto" align="center">
-          <p style="
+        <mj-text font-family="Roboto" >
+          <a style="
+              display:block;
               background: #8C3321;
-              font-size: 20px;
-              line-height: 1.4;
-              font-weight: 250;
+              font-size: 16px;
+              line-height: 1.5;
               padding: 10px;
               text-align: center;
-              max-width: 200px;
+              width: 100px; 
               margin: 0 auto;
-              border-radius: 0px;">
-            <a href="https://www.businesshistory.co/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Verify</a>
-          </p>
+              border-radius: 0px;
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.businesshistory.co/" 
+              target="_blank"
+             >Verify</a>
         </mj-text>
 
         <mj-spacer height="16px" />

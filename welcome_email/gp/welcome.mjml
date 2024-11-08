@@ -108,18 +108,22 @@
           <p style="font-size: 16px; line-height: 1.4">Most importantly, expect to learn the WHY behind the current events.</p>
          
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" >
-          <p style="
+        <mj-text font-family="Roboto" >
+          <a style="
+              display:block;
               background:#06266D;
               font-size: 16px;
               line-height: 1.5;
-              font-weight: 250;
               padding: 10px;
               text-align: center;
-              max-width: 100%; 
+              width: 200px; 
               margin: 0 auto;
               border-radius: 0px;
-            "><a href="https://www.geopolitics.world/" target="_blank" style="color: #FFFFFF; text-decoration: none;">Check out our latest issue</a></p>
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.geopolitics.world/" 
+              target="_blank"
+             >Check the latest issue</a>
         </mj-text>
        <mj-spacer height="3px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
