@@ -1,0 +1,243 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+            <mj-spacer height="6px" />
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s weekend edition:</strong></p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Azerbaijan’s deteriorating oil city</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Math prodigy scandal</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Updates on Liam Payne’s case</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG ONE</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- THE BIG ONE contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Trump’s big win </h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-9-1.jpg" alt="Trump’s big win" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Donald Trump has <a href="https://apnews.com/live/trump-harris-election-updates-11-5-2024" target="_blank">secured the keys</a> to the White House. He has taken Wisconsin and Pennslyvania, the two states that made up the “<a href="https://www.business-standard.com/external-affairs-defence-security/news/us-presidential-poll-terms-like-electoral-college-blue-wall-explained-124110501320_1.html" target="_blank">blue wall</a>” Harris would have needed to secure the White House. He is the first politician since the late <a href="https://www.lemonde.fr/en/international/article/2024/11/02/grover-cleveland-the-only-former-us-president-to-make-a-successful-comeback_6731366_4.html" target="_blank">1800s</a> to lose re-election and later mount a successful run. He won nearly every single demographic except Black and Jewish voters.</p>
+          <p style="font-size: 16px; line-height: 1.4">Kamala Harris officially <a href="https://www.dw.com/en/us-election-result-donald-trump-wins-over-kamala-harris-v2/live-70708290" target="_blank">conceded</a> to Republican Donald Trump in a <a href="https://www.youtube.com/watch?v=fnUouF8oDbs" target="_blank">speech</a> at Howard University on Wednesday. In it, she thanked her supporters and urged them to continue their efforts to bring about change. Trump also won the popular vote, becoming the first Republican since George W. Bush in 2004. Trump <a href="https://www.npr.org/2024/11/06/nx-s1-5181584/trump-celebrates-historic-win-in-speech" target="_blank">celebrated</a> his historic win, promising to usher in a “golden age of America.”</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Oil city</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Neft Daslari, or “Oil Rocks,” is a vast <a href="https://edition.cnn.com/2024/11/06/climate/oil-rocks-neft-daslari-caspian-sea-city/index.html?iid=cnn_buildContentRecirc_end_recirc" target="_blank">offshore oil city</a> in the Caspian Sea, about 60 miles from Azerbaijan’s capital, Baku. This unique structure, built during the Soviet era, is the world’s oldest offshore oil platform and stretches across the sea with a network of oil wells, bridges, and platforms. Throughout the 20th century, <a href="https://www.google.com/maps/place/Neft+Da%C5%9Flar%C4%B1,+Azerbaijan/@41.2263442,45.0915273,5.48z/data=!4m6!3m5!1s0x40302fdb81385615:0x24169709e061efc4!8m2!3d40.2873604!4d50.7204608!16zL20vMGJsbm4y?entry=ttu&g_ep=EgoyMDI0MTEwNi4wIKXMDSoASAFQAw%3D%3D" target="_blank">Neft Daslari</a> grew into a bustling city with over 5,000 residents. Now, parts of Neft Daslari are crumbling, and environmental concerns such as oil spills and waste discharge into the Caspian are frequent issues. The platform’s fate is uncertain, with options including dismantling, repurposing it as a tourist attraction, or converting it into a museum.</p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Math whiz cheating</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Liang Ping, a 17-year-old from rural China, was initially celebrated as a <a href="https://www.bbc.com/news/articles/c87xj8d0131o" target="_blank">mathematical prodigy</a> after placing 12th in the qualifiers of an international math contest run by Alibaba. Her success story drew attention to show that a vocational school student could compete academically with top university students. However, suspicions soon arose regarding the authenticity of her achievement, with other finalists requesting an investigation and suggesting she seemed unfamiliar with mathematical symbols and concepts. On Sunday, competition organizers revealed that Jiang’s teacher, Wang Runqiu, had assisted her in the preliminary round.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Liam Payne case</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><a href="https://apnews.com/article/liam-payne-death-what-to-know-83bd8655c4c70332d4a847b9d167f1fa" target="_blank">Liam Payne</a>, former One Direction member, died on October 16 after falling from a hotel balcony in Buenos Aires. Argentinian prosecutors <a href="https://apnews.com/article/argentina-payne-death-charged-e73f589a37a4a8f0e80e0b0e71d0f0f4" target="_blank">charged three individuals</a> in connection with his death, including a hotel employee and a suspected drug dealer, accusing them of abandonment leading to death and providing drugs. A toxicology report indicated traces of alcohol, cocaine, and an antidepressant in his system.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> PHOTO OF THE WEEK </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-9-2.jpg" alt="PHOTO OF THE WEEK" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+          Donald and Melania Trump cast their votes on Nov 5th in Palm Beach, Florida. 
+          </p>
+        </mj-text>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1989, the Berlin Wall, a long-standing symbol of the Cold War, was opened by the East German government.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-text 
+        padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com.</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2">Photo by Brian Snyder/Reuters.</p>
+          <p style="font-size: 12px; color: #000; line-height: 2">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+          margin-top:25px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:14px;
+          text-align:center;
+          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
