@@ -1,0 +1,430 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ The global traditions on 11/11 </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ the return of Notre Dame's iconic bells</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ how extreme weather shapes migration patterns, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">What happened on 11/11?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-11-1.jpg" alt="What happened on 11/11?" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">In the US, <a href="https://www.usatoday.com/story/news/nation/2024/11/09/what-is-veterans-day-2024/76095394007/" target="_blank">Veterans Day</a> honors all military veterans. In 2024, Veterans Day falls on a Monday, with many government services closed but businesses offering discounts for veterans. It used to be Armistice Day to mark the <a href="https://www.abmc.gov/multimedia/videos/day-history-november-11-1918-world-war-i-ends" target="_blank">1918 World War I armistice</a>. It became a federal holiday in 1938. 1954, the name was changed to Veterans Day to recognize all living and deceased veterans. European countries like the UK, Belgium, and France still observe Armistice Day or <a href="https://www.britishlegion.org.uk/get-involved/remembrance/about-remembrance" target="_blank">Remembrance Day</a>.</p>
+          <p style="font-size: 16px; line-height: 1.4">In some other European countries, <a href="https://www.iamexpat.de/expat-info/german-expat-news/history-saint-martins-day" target="_blank">St. Martin’s Day</a>, celebrated on November 11, honors Saint Martin of Tours, known for his acts of kindness and compassion. In countries like Germany, traditions include lantern processions, bonfires, and feasts, particularly with roast goose. While not a public holiday, it marks the end of harvest and is a time for communities to come together with songs and festivities.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">The bells of Notre Dame</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-11-2.jpg" alt="The bells of Notre Dame" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The bells of Notre Dame, a symbol of Paris, <a href="https://www.france24.com/en/europe/20241108-bells-notre-dame-cathedral-ring-first-time-since-2019-fire" target="_blank">rang for the first time</a> since the devastating <a href="https://www.friendsofnotredamedeparis.org/notre-dame-cathedral/fire/" target="_blank">fire</a> in April 2019 that caused significant damage to this historic cathedral. All eight bells chimed in unison for approximately five minutes, creating a resonant sound that filled the air and signified a significant milestone in the ongoing restoration process—this moment marked a return to a cherished tradition and a hopeful step towards the cathedral's revival.</p>
+          <p style="font-size: 16px; line-height: 1.4">After five years of <a href="https://rebatirnotredamedeparis.fr/en" target="_blank">restoration work</a>, Notre Dame will reopen to the public on December 8, 2024. This significant event will feature ceremonies honoring the cathedral's cultural importance and performances by renowned artists, creating a lively atmosphere. The reopening aims to revitalize this iconic landmark and ensure it remains a cherished destination for generations.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Extreme weather and migration</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">New research published in Proceedings of the National Academy of Sciences shows that <a href="https://apnews.com/article/us-mexico-migration-climate-change-drought-2716b712e1f87cb66985412f0f7c4c89#:~:text=Scientists%20predict%20migration%20will%20grow,Panel%20on%20Climate%20Change%20report." target="_blank">extreme weather</a>, especially drought, significantly influences illegal migration from rural Mexico to the U.S. Researchers analyzed data from over 48,000 residents in 84 Mexican farming communities, finding that migration increases during severe droughts. Conversely, extreme wet conditions discourage migrants from returning.</p>
+          <p style="font-size: 16px; line-height: 1.4">As climate change worsens, migration patterns driven by weather events may become more severe, particularly affecting regions reliant on rain-fed agriculture, such as corn farming. These findings highlight climate change's significant role in <a href="https://edition.cnn.com/2024/11/08/americas/weather-migration-us-mexico-study/index.html" target="_blank">driving displacement</a> and potentially dangerous migration routes. The impacts of climate change vary across populations, with vulnerable communities experiencing more significant pressures to migrate due to changing weather patterns. At the same time, those with more resources can adapt more swiftly.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="15px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Elon Musk joins Trump and Zelensky in a call</strong>, with Ukraine thanking him for Starlink's support amid the ongoing conflict (<a href="https://edition.cnn.com/2024/11/08/europe/ukraine-trump-elon-musk-zelensky-intl-latam/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The U.S. and U.K. airstrikes in Yemen</strong> targeted advanced weapon storage sites, reportedly used by <a href="https://www.bbc.com/news/world-middle-east-67614911" target="_blank">Houthi rebels</a> to launch attacks on vessels in the Red Sea and Gulf of Aden (<a href="https://www.aljazeera.com/news/2024/11/10/uk-us-carry-out-strikes-on-yemen-including-sanaa" target="_blank">read more</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Bitcoin hit a record high of $80,000</strong>. Smaller tokens also rose, driven by optimism for <a href="https://amp.cnn.com/cnn/2024/11/10/investing/bitcoin-record-trump" target="_blank"> crypto-friendly regulations</a> under Trump’s administration.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Exosonic</strong>, a startup pioneering supersonic commercial air travel and unmanned flight technology, is shutting down after five years, citing low customer demand. Despite completing test flights and gaining government grants, it couldn’t acquire enough defense contracts (<a href="https://exosonic.com/exosonic-announces-that-the-company-is-undergoing-the-shutdown-process/" target="_blank">closure notice</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Indian food delivery giant Swiggy</strong>’s IPO was subscribed 2.38x, with high interest from institutional investors. The IPO price band is ₹371 to ₹390 ($4.46 to $4.69), aiming to raise ₹11,327 crores ($1.36 billion). Funds will be used for debt repayment and dark warehouse expansion (<a href="https://in.benzinga.com/markets/equities/24/11/41836996/swiggy-ipo-fully-subscribed-on-last-day-gmp-slips-further" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Bill Ackman</strong>, billionaire hedge fund manager, aims to <a href="https://edition.cnn.com/2024/11/08/business/bill-ackman-amsterdam-universal-music-group/index.html" target="_blank">delist</a> Pershing Square Holdings and Universal Music Group from Amsterdam’s stock exchange after attacks on Israeli soccer fans there, favoring London and U.S. exchanges.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>2024 is set to be the hottest year on record</strong>, surpassing 2023’s record-high temperatures. Global <a href="https://www.theverge.com/2024/11/8/24291309/2024-hottest-year-heat-record-climate-change-goals" target="_blank">average temperatures</a> have likely risen more than 1.5°C above pre-industrial levels, exceeding the <a href="https://unfccc.int/process-and-meetings/the-paris-agreement" target="_blank">Paris Agreement’s</a> target.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Over one-third of the world’s tree species are now <strong>at risk of extinction</strong>, according to the IUCN Red List (<a href="https://www.euronews.com/green/2024/10/28/frightening-statistic-more-than-1-in-3-tree-species-worldwide-at-risk-of-extinction" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The second part of <i>Yellowstone</i> Season 5 </strong><a href="https://eu.usatoday.com/story/entertainment/tv/2024/11/10/yellowstone-season-5-part-2/76111266007/" target="_blank">premiered</a> last night on the Paramount Network.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Pep Guardiola is facing his first major crisis at Manchester City</strong>, and a four-game losing streak has marked a significant setback in his managerial career (<a href="https://www.espn.com/soccer/story/_/id/42304501/manchester-citys-recent-struggles-pep-guardiola" target="_blank">read more</a>). </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>“Saturday Night Live”</strong> is preparing for a <a href="https://www.ctvnews.ca/entertainment/saturday-night-live-to-take-on-a-second-trump-term-after-focusing-on-harris-1.7104436" target="_blank">shift in tone</a> as it returns for its first episode since Donald Trump’s election victory. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Dozens were detained in Amsterdam after a banned protest following violent antisemitic attacks on Maccabi Tel Aviv soccer fans (<a href="https://www.bbc.com/news/articles/cx243z69w4no" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">For nearly 10 years, the Seoul municipal government has partnered with luxury hotels to collect used furniture and donate it to low-income residents and homeless shelters (<a href="https://www.goodnewsnetwork.org/14-luxury-hotels-are-donating-outdated-furniture-to-low-income-families-in-need/" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Travelers have embraced the “TSA tray display” trend, where they meticulously arrange their items for a picture-perfect shot. However, TSA doesn’t advise it (<a href="https://www.thrillist.com/news/nation/tsa-bin-tray-photo-travel-trend-expert-comment" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">On Veterans Day, many restaurants and businesses offer free meals, discounts, and special deals for veterans and active-duty military personnel (<a href="https://eu.usatoday.com/story/money/food/2024/11/10/veterans-day-deals-2024/76072069007/" target="_blank">check here</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--thank you!-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1918, the Allied powers and Germany signed an armistice, ending World War I six hours later.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
