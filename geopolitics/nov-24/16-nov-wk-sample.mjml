@@ -1,6 +1,17 @@
 <mjml>
   <mj-head>
-    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-style>
+     h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}
+
+     /* Add hover effect for the buttons */
+      .hover-link:hover {
+        background-color: #06266D !important;
+        color: #ffffff !important;
+        border-color:  #06266D !important;
+      }
+    
+
+      </mj-style>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
@@ -266,7 +277,7 @@
 
   <mj-spacer height="15px"></mj-spacer>
     <!-- Photo of the week -->
-     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+     <mj-section  background-color="#ffffff" >
       <mj-column background-color="#ffffff" width="100%">
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
@@ -286,7 +297,7 @@
     </mj-section>
 
     <!-- Content sections -->
-    <mj-section  css-class="mj_section" background-color="#ffffff">
+    <mj-section  background-color="#ffffff">
       <mj-column >
         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-9-5.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopolitics.world" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
@@ -302,8 +313,8 @@
     </mj-section>
 
     <mj-spacer height="15px"></mj-spacer>
-    <!-- Photo of the week -->
-     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+    <!-- Guess the flag -->
+     <mj-section  background-color="#ffffff" >
       <mj-column background-color="#ffffff" width="100%">
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
@@ -323,55 +334,57 @@
     </mj-section>
 
     <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-  <mj-column>
+    <mj-section  background-color="#ffffff" >
+   <mj-column background-color="#ffffff" >
     <mj-image 
+    border="1px solid black"
       padding="10px 12px" 
-      width="400px" 
-      src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" 
+      width="600px" 
+     src="https://www.geopolitics.world/email/images/flag-sample.jpg" 
       alt="Switzerland Flag" 
       href="https://www.geopolitics.world" 
     />
     <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
-      <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:16px; text-align:center; ">Do you know which country this flag belongs to ?</h2>
+      <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:16px;">Do you know which country this flag belongs to ?</h2>
     </mj-text>
+    <mj-spacer height="20px"/>
   </mj-column>
 </mj-section>
 
 
-   <mj-section css-class="mj_section" background-color="#ffffff">
-  <mj-column width="40%">
-    <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
-      <a href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-         style="color:black;font-size:16px;line-height:1.4; text-decoration:none; border:1px solid black; padding:8px 16px">
-        <span style="border: 1px solid black; border-radius: 50%;  margin-right: 8px; display:inline-block; width:10px; height:10px;"></span> Serbia
-      </a>
-    </mj-text>
-    <mj-spacer height="20px"/>
-    <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
-      <a href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-         style="color:black;font-size:16px;line-height:1.4; text-decoration:none; border:1px solid black; padding:8px 16px">
-        <span style="border: 1px solid black; border-radius: 50%;  margin-right: 8px; display:inline-block; width:10px; height:10px;"></span> Ottoman Empire
-      </a>
-    </mj-text>
-  </mj-column>
-
-  <mj-column width="30%">
-    <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
-     <a href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-         style="color:black;font-size:16px;line-height:1.4; text-decoration:none; border:1px solid black; padding:8px 16px">
-        <span style="border: 1px solid black; border-radius: 50%;  margin-right: 8px; display:inline-block; width:10px; height:10px;"></span> Serbia
-      </a>
-    </mj-text>
-    <mj-spacer height="20px"/>
-    <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
-      <a href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-         style="color:black;font-size:16px;line-height:1.4; text-decoration:none; border:1px solid black; padding:8px 16px">
-        <span style="border: 1px solid black; border-radius: 50%;  margin-right: 8px; display:inline-block; width:10px; height:10px;"></span> Serbia
-      </a>
-    </mj-text>
+<!-- Flag content section -->
+<mj-section  background-color="#ffffff" >
+  <mj-column  padding="10px 12px" >
+    <mj-raw >
+      <div style="display:flex; width:100%; " >
+        <div style="width:50%; margin-left:20px;">
+          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:20px; 
+             padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;">
+            Serbia
+          </a>
+          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:10px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;
+             ">
+            Ottoman Empire
+          </a>
+        </div>
+        <div style="width:20%; margin-left:0px;">
+          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:20px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px; ">
+            Byzantine Empire
+          </a>
+          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:10px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;">
+            Flag of Oklahoma
+          </a>
+        </div>
+      </div>
+    </mj-raw>
   </mj-column>
 </mj-section>
+
+
 
 
 
