@@ -193,85 +193,7 @@
       </mj-column>
     <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" width="96%"/>
   </mj-section>
-  <!-- s3-->
-  <mj-section css-class="mj_section" background-color="#ffffff">
-    <!-- coloumn1 -->
-      <mj-column width="34%" >
-        <mj-text>
-          <h1 style="line-height:1; margin:0px 0px 0px -16px;">1953</h1>
-        </mj-text>
-      </mj-column>
-        <!-- coloumn 2 -->
-      <mj-column width="66%">
-        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
-          
-          <p style="font-size:16px; line-height:1.4;">
-            Cambodia gained independence from France, ending nearly a century of colonial rule and marking the start of its journey as a sovereign nation under King Norodom Sihanouk.
-          </p>
-        </mj-text>
-
-        <!-- group section coloumn3-->
-       <mj-group direction="ltr" width="100%" vertical-align="bottom">
-          <mj-column width="30%" vertical-align="middle" padding="10px 10px 10px 10px">
-            <mj-image
-              padding="10px 30px 5px 3px"
-              width="50px"
-              height="30px"
-              src="https://www.geopolitics.world/email/images/gp-nov-9-3.jpg" alt="ON THIS DAY3" href="https://www.geopolitics.world"
-            />
-          </mj-column>
-          <mj-column width="70%" vertical-align="middle" padding="10px 0px 10px 0px" >
-            <mj-text> 
-              <p style="font-size:14px; line-height:1.2; margin-left:-60px; margin-top:15px;">
-                <a href="https://www.bbc.com/news/world-asia-pacific-13006539" target="_blank">Cambodia</a>
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-      </mj-column>
-      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" width="96%"/>
-
-  </mj-section>
-
-
-
- <!-- s4-->
-  <mj-section css-class="mj_section" background-color="#ffffff">
-    <!-- coloumn1 -->
-      <mj-column width="34%" >
-        <mj-text>
-          <h1 style="line-height:1; margin:0px 0px 0px -16px;">1989</h1>
-        </mj-text>
-      </mj-column>
-        <!-- coloumn 2 -->
-      <mj-column width="66%">
-        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
-          
-          <p style="font-size:16px; line-height:1.4;">
-            East German government made a historic announcement that the Berlin Wall would be opened, allowing free movement between East and West Berlin for the first time in nearly three decades. The wall, stretching 28 miles, had been a powerful symbol of the Cold War, representing the ideological divide between the communist East and the democratic West.
-          </p>
-        </mj-text>
-
-        <!-- group section coloumn3-->
-       <mj-group direction="ltr" width="100%" vertical-align="bottom">
-          <mj-column width="30%" vertical-align="middle" padding="10px 10px 10px 10px">
-            <mj-image
-              padding="10px 30px 5px 3px"
-              width="50px"
-              height="30px"
-              src="https://www.geopolitics.world/email/images/gp-nov-9-4.jpg" alt="ON THIS DAY3" href="https://www.geopolitics.world"
-            />
-          </mj-column>
-          <mj-column width="70%" vertical-align="middle" padding="10px 0px 10px 0px" >
-            <mj-text> 
-              <p style="font-size:14px; line-height:1.2; margin-left:-60px; margin-top:15px;">
-                <a href="https://www.britannica.com/topic/Berlin-Wall" target="_blank">Berlin Wall</a>
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-      </mj-column>
-  </mj-section>
+  
 
 
 
@@ -354,28 +276,29 @@
 
 <!-- Flag content section -->
 <mj-section  background-color="#ffffff" >
-  <mj-column  padding="10px 12px" >
+  <mj-column   >
     <mj-raw >
-      <div style="display:flex; width:100%; " >
-        <div style="width:50%; margin-left:20px;">
-          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:20px; 
-             padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;">
+      <div style="display: flex;  ">
+        <!-- Left Column -->
+        <div style="width: 150px; margin-right:20px">
+          <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="display: block; width: 120px; border: 1px solid #06266D; margin-bottom: 10px; padding: 8px 10px; color: black; line-height: 1.4; text-align: center; text-decoration: none; font-size: 14px; margin:0px 10px 10px 10px">
             Serbia
           </a>
-          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:10px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;
-             ">
+          <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="display: block; width: 120px; border: 1px solid #06266D; margin-bottom: 10px; padding: 8px 10px; color: black; line-height: 1.4; text-align: center; text-decoration: none; font-size: 14px; margin:0px 10px 10px 10px">
             Ottoman Empire
           </a>
         </div>
-        <div style="width:20%; margin-left:0px;">
-          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:20px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px; ">
+        
+        <!-- Right Column -->
+        <div style="width: 150px;">
+          <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="display: block; width: 120px; border: 1px solid #06266D; margin-bottom: 10px; padding: 8px 10px; color: black; line-height: 1.4; text-align: center; text-decoration: none; font-size: 14px;margin:0px 10px 10px 10px">
             Byzantine Empire
           </a>
-          <a class="hover-link desktop-button" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
-             style="width:120px; display:block; border:1px solid #06266D; margin-bottom:10px; padding:8px 2px 8px 10px; color:black; line-height:1.4; text-decoration:none; font-size:14px;">
+          <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" 
+             style="display: block; width: 120px; border: 1px solid #06266D; margin-bottom: 10px; padding: 8px 10px; color: black; line-height: 1.4; text-align: center; text-decoration: none; font-size: 14px;margin:10px 10px 10px 10px">
             Flag of Oklahoma
           </a>
         </div>
