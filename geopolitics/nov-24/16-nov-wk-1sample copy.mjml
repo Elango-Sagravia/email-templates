@@ -1,19 +1,9 @@
 <mjml>
   <mj-head>
     <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
-
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
-
-    <mj-style >
-      /* Hover effect for buttons */
-      .button-style:hover {
-        background-color: #06266d !important;
-        color: #ffffff !important;
-        cursor: pointer;
-      }
-    </mj-style>
-
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #06266d !important; color: #ffffff !important; cursor: pointer; } </mj-style>
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
@@ -28,7 +18,6 @@
       <mj-column padding="10px 12px 10px 12px" width="100%">
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
-        
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4"> Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning? </p>
@@ -198,7 +187,7 @@
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4"> The Russian colony of Alaska officially joined the United States in 1867, when Washington bought it using this check for <strong>$7.2 million</strong> (around <strong>$153 million</strong> in today’s dollars). </p>
           <p style="font-size: 16px; line-height: 1.4"> Russia sold Alaska because the Crimean War had drained Russia's finances, leaving the empire struggling to recover economically. Additionally, Tsar Alexander II realized that Alaska would be nearly impossible to defend in the event of conflict with the British, who controlled nearby Canada. </p>
-        </mj-text> 
+        </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="15px"></mj-spacer>
@@ -237,13 +226,13 @@
     <!-- Flag content section -->
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="100%" align="center">
-        
         <!-- Button 1 -->
         <mj-text align="center" font-family="Roboto">
           <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
               display: inline-block;
-              max-width:500px;
-              width: 60%; 
+              max-width:600px;
+              width: 100%;
+              min-width:280px;
               margin-bottom: 10px;
               padding: 8px 10px;
               text-decoration: none;
@@ -255,13 +244,12 @@
               
               ">Serbia</a>
         </mj-text>
-
         <!-- Button 2 -->
         <mj-text align="center" font-family="Roboto">
           <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
               display: inline-block;
-              max-width:500px;
-              width: 60%;
+              max-width:600px;
+              width: 100%;                                                             min-width:280px;
               margin-bottom: 10px;
               padding: 8px 10px;
               text-decoration: none;
@@ -273,13 +261,13 @@
               
               ">Ottoman Empire</a>
         </mj-text>
-
         <!-- Button 3 -->
         <mj-text align="center" font-family="Roboto">
           <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
               display: inline-block;
-              max-width:500px;
-              width: 60%;
+              max-width:600px;
+              width: 100%;
+              min-width:280px;
               margin-bottom: 10px;
               padding: 8px 10px;
               text-decoration: none;
@@ -291,13 +279,13 @@
          
               ">Byzantine Empire</a>
         </mj-text>
-
         <!-- Button 4 -->
         <mj-text align="center" font-family="Roboto">
           <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
               display: inline-block;
-              max-width:500px;
-              width: 60%;
+              max-width:600px;
+              width: 100%;
+              min-width:280px;
               margin-bottom: 10px;
               padding: 8px 10px;
               text-decoration: none;
@@ -309,11 +297,8 @@
               
               ">Flag of Oklahoma</a>
         </mj-text>
-
       </mj-column>
     </mj-section>
-
-    
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
