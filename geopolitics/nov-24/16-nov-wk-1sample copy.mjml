@@ -1,8 +1,19 @@
 <mjml>
   <mj-head>
-    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} /* Add hover effect for the buttons */ .hover-link:hover { background-color: #06266D !important; color: #ffffff !important; border-color: #06266D !important; } </mj-style>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+
+    <mj-style >
+      /* Hover effect for buttons */
+      .button-style:hover {
+        background-color: #06266d !important;
+        color: #ffffff !important;
+        cursor: pointer;
+      }
+    </mj-style>
+
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
@@ -187,7 +198,7 @@
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4"> The Russian colony of Alaska officially joined the United States in 1867, when Washington bought it using this check for <strong>$7.2 million</strong> (around <strong>$153 million</strong> in today’s dollars). </p>
           <p style="font-size: 16px; line-height: 1.4"> Russia sold Alaska because the Crimean War had drained Russia's finances, leaving the empire struggling to recover economically. Additionally, Tsar Alexander II realized that Alaska would be nearly impossible to defend in the event of conflict with the British, who controlled nearby Canada. </p>
-        </mj-text>
+        </mj-text> 
       </mj-column>
     </mj-section>
     <mj-spacer height="15px"></mj-spacer>
@@ -213,7 +224,7 @@
     <mj-section background-color="#ffffff">
       <mj-column background-color="#ffffff">
         <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/flag-sample.jpg" alt="Switzerland Flag" href="https://www.geopolitics.world" />
-        <mj-text padding="10px 12px" font-family="Roboto, sans-serif" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="
               font-size: 20px;
               line-height: 1.2;
@@ -224,72 +235,85 @@
       </mj-column>
     </mj-section>
     <!-- Flag content section -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-raw>
-          <div style="display: flex">
-            <!-- Left Column -->
-            <div style="width: 150px; margin-right: 10px">
-              <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" style="
-                  display: block;
-                  width: 120px;
-                  border: 1px solid #06266d;
-                  margin-bottom: 10px;
-                  padding: 8px 10px;
-                  color: black;
-                  line-height: 1.4; 
-                  text-align: center;
-                  text-decoration: none;
-                  font-size: 14px;
-                  margin: 0px 10px 10px 10px;
-                "> Serbia </a>
-              <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" style="
-                  display: block;
-                  width: 120px;
-                  border: 1px solid #06266d;
-                  margin-bottom: 10px;
-                  padding: 8px 10px;
-                  color: black;
-                  line-height: 1.4;
-                  text-align: center;
-                  text-decoration: none;
-                  font-size: 14px;
-                  margin: 0px 10px 10px 10px;
-                "> Ottoman Empire </a>
-            </div>
-            <!-- Right Column -->
-            <div style="width: 150px">
-              <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" style="
-                  display: block;
-                  width: 120px;
-                  border: 1px solid #06266d;
-                  margin-bottom: 10px;
-                  padding: 8px 10px;
-                  color: black;
-                  line-height: 1.4;
-                  text-align: center;
-                  text-decoration: none;
-                  font-size: 14px;
-                  margin: 0px 10px 10px 10px;
-                "> Byzantine Empire </a>
-              <a class="hover-link" href="https://www.instagram.com/geopoliticsummary/" target="_blank" style="
-                  display: block;
-                  width: 120px;
-                  border: 1px solid #06266d;
-                  margin-bottom: 10px;
-                  padding: 8px 10px;
-                  color: black;
-                  line-height: 1.4;
-                  text-align: center;
-                  text-decoration: none;
-                  font-size: 14px;
-                  margin: 10px 10px 10px 10px;
-                "> Flag of Oklahoma </a>
-            </div>
-          </div>
-        </mj-raw>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="100%" align="center">
+        
+        <!-- Button 1 -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 60%; 
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Serbia</a>
+        </mj-text>
+
+        <!-- Button 2 -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 60%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Ottoman Empire</a>
+        </mj-text>
+
+        <!-- Button 3 -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 60%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+         
+              ">Byzantine Empire</a>
+        </mj-text>
+
+        <!-- Button 4 -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 60%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Flag of Oklahoma</a>
+        </mj-text>
+
       </mj-column>
     </mj-section>
+
+    
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
