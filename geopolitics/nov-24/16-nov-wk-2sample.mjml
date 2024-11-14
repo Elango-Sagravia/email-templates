@@ -1,0 +1,371 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+
+    <mj-style >
+      /* Hover effect for buttons */
+      .button-style:hover {
+        background-color: #06266d !important;
+        color: #ffffff !important;
+        cursor: pointer;
+      }
+    </mj-style>
+
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning? </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px"> → Geopolitical summary of the week </p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px"> → On this day </p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px"> → Photo of the week </p>
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>Bolivian hostages:</strong> The recent hostage crisis in Bolivia highlights the growing tensions between former President Evo Morales and current President Luis Arce, both prominent figures within the ruling <a href="https://www.britannica.com/topic/Movement-Toward-Socialism-political-party-Bolivia" target="_blank">MAS party</a>. Armed supporters of Morales reportedly <a href="https://www.bbc.com/news/articles/c937kekx3nqo" target="_blank">seized</a> a military facility near Cochabamba, holding at least 200 soldiers hostage and seizing weapons and ammunition. This escalation is linked to ongoing blockades organized by Morales’ followers, signaling rising unrest ahead of the <a href="https://www.usip.org/publications/2024/06/can-bolivia-avoid-renewed-election-violence-2025" target="_blank">2025 presidential election.</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>Pakistan seeks climate diplomacy:</strong> Punjab, Pakistan, has made a rare call for <a href="https://edition.cnn.com/2024/11/04/asia/pakistan-punjab-climate-diplomacy-india-smog-intl-hnk/index.html" target="_blank">collaboration</a> with India to combat the severe air pollution affecting both Lahore and Delhi. <a href="https://www.google.com/maps/place/Lahore,+Punjab,+Pakistan/@31.4831276,74.1695796,11z/data=!3m1!4b1!4m6!3m5!1s0x39190483e58107d9:0xc23abe6ccc7e2462!8m2!3d31.5203696!4d74.3587473!16zL20vMHhudDU?entry=ttu&g_ep=EgoyMDI0MTAyOS4wIKXMDSoASAFQAw%3D%3D" target="_blank">Lahore</a>, just 15 miles from the Indian border, recorded hazardous air quality levels, with its <a href="https://www.iqair.com/pakistan/punjab/lahore?srsltid=AfmBOorhz4UKG1uUIX1kFTFulUv7BAzY5iWUuZrHlGa0woG0R2z53re3" target="_blank">Air Quality Index</a> surpassing 1,900 in some areas, well above the safe threshold. Raja Jahangir Anwar, Punjab’s Secretary for Environment and Climate Change, emphasized the need for “climate diplomacy” to address this cross-border issue.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>Indonesia-Russia partnership:</strong> Indonesia’s recent <a href="https://www.dw.com/en/indonesia-and-russia-hold-first-joint-naval-exercises/a-70684385" target="_blank">joint naval drills</a> with Russia signal a strategic move under President <a href="https://www.dw.com/en/indonesia-ex-general-prabowo-subianto-sworn-in-as-president/a-70544838" target="_blank">Prabowo Subianto</a> to deepen defense ties with Moscow while maintaining the country’s long-standing <a href="https://moderndiplomacy.eu/2024/06/29/indonesias-non-aligned-foreign-policy-limitation-or-opportunity/" target="_blank">non-aligned foreign policy</a>. Despite ongoing Western tensions over Russia’s actions in Ukraine, Prabowo’s administration revives essential trade and defense agreements, such as a $1.1 billion fighter jet <a href="https://tass.com/economy/1129571" target="_blank">deal</a> that potential U.S. sanctions had previously stalled. This engagement is part of Indonesia’s broader strategy to enhance its geopolitical autonomy and preserve neutrality.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>Moldova pro-EU:</strong>
+            <a href="https://presedinte.md/eng/biography" target="_blank">Maia Sandu</a>, a pro-European Union leader, was <a href="https://www.aa.com.tr/en/world/meeting-of-turkic-states-foreign-ministers-begins-in-kyrgyzstan/3385581" target="_blank">reelected</a> as Moldova’s president in a tight runoff despite accusations of <a href="https://balkaninsight.com/2024/10/09/european-parliament-condemns-malicious-russian-interference-in-moldova/" target="_blank">Russian interference</a>. Her victory was praised by European and U.S. leaders, including German Chancellor Scholz, EU officials, and President Biden, who commended her resistance to Russian pressure. Ukraine’s President Zelenskyy also celebrated the result. Sandu’s win signals Moldova’s continued commitment to EU alignment, which is crucial in a region affected by the Ukraine war and rising authoritarianism.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>World reacts to Trump:</strong> Global leaders reacted differently to Donald Trump’s presidential victory. Leaders such as India’s Narendra Modi and Hungary’s Viktor <a href="https://www.youtube.com/watch?v=D-1vKzOYWe8" target="_blank">Orban</a> welcomed his return, emphasizing the potential for stronger alliances. In contrast, European figures like <a href="https://ec.europa.eu/commission/presscorner/detail/en/statement_24_5701" target="_blank">Ursula von der Leyen</a> and Olaf Scholz expressed cautious optimism, hoping for constructive cooperation between the U.S. and the EU, especially in tackling shared challenges. Middle Eastern leaders, including Israel’s Netanyahu, were enthusiastic about the prospect of renewed regional stability and security, while Ukraine’s President <a href="https://www.theguardian.com/us-news/video/2024/nov/07/volodymyr-zelenskyy-congratulates-donald-trump-on-election-victory-video" target="_blank">Zelenskyy</a> appreciated Trump’s “peace through strength” stance. <a href="https://www.politico.eu/article/vladimir-putin-not-planning-congratulate-donald-trump-election-victory-kremlin-us-russia-relations/" target="_blank">Russia’s</a> response was more reserved, reflecting ongoing geopolitical tensions and suggesting that while some leaders hoped for improved relations, the underlying U.S.-Russia issues remained unresolved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ON THIS DAY contents-->
+    <!-- s1 -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <!-- coloumn1 -->
+      <mj-column width="34%">
+        <mj-text>
+          <h1 style="line-height: 1; margin: 0px 0px 0px -16px">1923</h1>
+        </mj-text>
+      </mj-column>
+      <!--ON THIS DAY1 -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> The Beer Hall Putsch, led by Adolf Hitler in 1923, ended after 16 Nazis were killed during a march toward Marienplatz, located in the center of Munich, Germany. The failed coup, intended to overthrow the Weimar government, was a significant turning point in Hitler’s rise to power. </p>
+        </mj-text>
+        <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="40%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image padding="10px 30px 5px 3px" width="200px" src="https://www.geopolitics.world/email/images/gp-nov-9-1.jpg" alt="ON THIS DAY1" href="https://www.geopolitics.world" />
+          </mj-column>
+          <mj-column width="60%" vertical-align="middle" padding="10px 0px 10px 0px">
+            <mj-text>
+              <p style="
+                  font-size: 14px;
+                  line-height: 1.2;
+                  margin-left: -60px;
+                  margin-top: 15px;
+                ">
+                <a href="https://encyclopedia.ushmm.org/content/en/article/beer-hall-putsch-munich-putsch" target="_blank">Beer Hall Putsch</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" width="96%" />
+    </mj-section>
+    <!-- s2 -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <!-- ON THIS DAY2 -->
+      <mj-column width="34%">
+        <mj-text>
+          <h1 style="line-height: 1; margin: 0px 0px 0px -16px">1938</h1>
+        </mj-text>
+      </mj-column>
+      <!-- coloumn 2 -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> On this night in 1938, Kristallnacht (“Night of Broken Glass”) unfolded across Nazi Germany and Austria, with violent anti-Jewish pogroms orchestrated by the Nazi regime. Jewish homes, businesses, and synagogues were destroyed, and thousands of Jewish men were arrested and sent to concentration camps. The violence marked a significant escalation in Nazi persecution leading up to the Holocaust. </p>
+        </mj-text>
+        <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="40%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image padding="10px 30px 5px 3px" width="200px" src="https://www.geopolitics.world/email/images/gp-nov-9-2.jpg" alt="ON THIS DAY2" href="https://www.geopolitics.world" />
+          </mj-column>
+          <mj-column width="60%" vertical-align="middle" padding="10px 0px 10px 0px">
+            <mj-text>
+              <p style="
+                  font-size: 14px;
+                  line-height: 1.2;
+                  margin-left: -60px;
+                  margin-top: 15px;
+                ">
+                <a href="https://encyclopedia.ushmm.org/content/en/article/kristallnacht" target="_blank">Kristallnacht</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-9-5.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> The Russian colony of Alaska officially joined the United States in 1867, when Washington bought it using this check for <strong>$7.2 million</strong> (around <strong>$153 million</strong> in today’s dollars). </p>
+          <p style="font-size: 16px; line-height: 1.4"> Russia sold Alaska because the Crimean War had drained Russia's finances, leaving the empire struggling to recover economically. Additionally, Tsar Alexander II realized that Alaska would be nearly impossible to defend in the event of conflict with the British, who controlled nearby Canada. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> Guess the flag? </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/flag-sample.jpg" alt="Switzerland Flag" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 16px;
+            "> Do you know which country this flag belongs to ? </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Flag content section -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column width="100%" align="center">
+        
+        <!-- Button 1 -->
+        <mj-text align="left" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 50%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Serbia</a>
+        </mj-text>
+ 
+        <!-- Button 2 -->
+        <mj-text align="left" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 50%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Ottoman Empire</a>
+        </mj-text>
+
+        <!-- Button 3 -->
+        <mj-text align="left" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 50%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+         
+              ">Byzantine Empire</a>
+        </mj-text>
+
+        <!-- Button 4 -->
+        <mj-text align="left" font-family="Roboto">
+          <a href="https://www.instagram.com/geopoliticsummary/" class="button-style" style="
+              display: inline-block;
+              max-width:500px;
+              width: 50%;
+              margin-bottom: 10px;
+              padding: 8px 10px;
+              text-decoration: none;
+              border: 1px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              
+              ">Flag of Oklahoma</a>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+    
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Photos by history.com, Brittanica/United States Holocaust Memorial Museum, Getty Images, AP Images </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticsworld/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.threads.net/@geopoliticsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
