@@ -18,7 +18,7 @@
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
         <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
-            <mj-spacer height="6px" />
+            
 
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
@@ -208,6 +208,7 @@
         <p style="font-size: 16px; line-height: 1.4">In these last weeks, President Biden may prioritize issuing executive orders and administrative actions to protect environmental regulations, improve healthcare access, and advance civil rights. He could also bolster U.S. foreign policy commitments by securing international alliances and finalizing support packages, especially in regions like <a href="https://www.euronews.com/2024/11/14/biden-sending-aid-for-ukraine-to-keep-fighting-next-year-blinken-says" target="_blank">Ukraine</a>.</p>
        <p style="font-size: 16px; line-height: 1.4">Specifically, he could impose further restrictions on fossil fuel extraction on federal lands, tighten emissions standards, and establish funding for clean energy projects, building on his administration’s climate agenda. In healthcare, he might streamline enrollment in the Affordable Care Act and allocate funding toward programs that support low-income Americans, thereby strengthening critical social safety nets.</p>
       <p style="font-size: 16px; line-height: 1.4">Additionally, Biden could push through essential infrastructure grants and educational funding initiatives, which would take much work to reverse. While significant legislative changes may be limited by time constraints, these executive and administrative actions represent his final efforts to reinforce the core values of his presidency and ensure that his policy achievements endure.</p>
+        </mj-text>
     </mj-column>
   </mj-section>
 

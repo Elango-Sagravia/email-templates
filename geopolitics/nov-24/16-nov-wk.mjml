@@ -18,6 +18,7 @@
       <mj-column padding="10px 12px 10px 12px" width="100%">
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4"> Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning? </p>
@@ -270,7 +271,7 @@
               font-size: 14px;
                                                                                  background-color: rgba(6,38,109,0.2)
               
-              ">Norway</a>
+              ">Finland</a>
         </mj-text>
       </mj-column>
       <mj-column css-class="remove-padding">
@@ -288,7 +289,7 @@
               font-size: 14px;
                                                                                              background-color: rgba(6,38,109,0.2)
               
-              ">Island</a>
+              ">Denmark</a>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -310,7 +311,7 @@
               font-size: 14px;
                                                                                              background-color: rgba(6,38,109,0.2)
               
-              ">Denmark</a>
+              ">Norway</a>
         </mj-text>
       </mj-column>
       <mj-column css-class="remove-padding">
@@ -328,7 +329,7 @@
               font-size: 14px;
                                                                                              background-color: rgba(6,38,109,0.2)
               
-              ">Finland</a>
+              ">Island</a>
         </mj-text>
       </mj-column>
     </mj-section>
