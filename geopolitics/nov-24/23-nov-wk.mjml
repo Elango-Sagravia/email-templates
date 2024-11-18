@@ -1,0 +1,378 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning? </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Geopolitical summary of the week</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ The big question</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Photo of the week, and more.</p>
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇶🇦 Qatar pulls back:</strong> Qatar recently <a href="https://edition.cnn.com/2024/11/09/politics/qatar-gaza-ceasefire-pause-mediator/index.html" target="_blank">suspended</a> its mediation efforts for a ceasefire between Israel and Hamas, halting negotiations after a lack of progress, particularly in releasing hostages. In a significant move, Qatar closed Hamas’ political office in Doha, a decision aligning with U.S. interests that had <a href="https://edition.cnn.com/2024/03/21/politics/blinken-qatar-hamas-gaza-negotiations/index.html" target="_blank">urged</a> Qatar to use its influence over Hamas. However, Qatari Foreign Ministry spokesperson Majed Al-Ansari labeled some media reports “inaccurate,” clarifying that the office closure does not bar its future reopening if negotiations with Israel genuinely resume. Qatar’s decision reflects its influential <a href="https://time.com/7022826/qatar-diplomacy-history/" target="_blank">role</a> in regional diplomacy and follows a similar April closure when Hamas officials were moved to Turkey.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇪🇺 Europe Trump-proofs:</strong> Poland, led by Prime Minister Donald Tusk, is <a href="https://kyivindependent.com/polish-pm-to-hold-talks-with-leaders-of-uk-france-nato-on-protecting-ukraine-after-trump-victory/" target="_blank">partnering</a> with the United Kingdom to support Ukraine amid potential changes in U.S. policy if Donald Trump returns to office in 2025. Trump has <a href="https://www.bbc.com/news/articles/czxrwr078v7o" target="_blank">indicated</a> he might pursue a quick resolution to the conflict, possibly requiring Ukrainian concessions to Russia while not fully endorsing Ukraine's victory. Concerned about diminished U.S. support affecting Poland's security, Tusk is seeking President Biden's approval for Ukraine to conduct deeper strikes into Russian territory with Western weapons. Meanwhile, EU foreign policy chief Josep Borrell recently visited Kyiv, highlighting Europe’s commitment to providing <a href="https://www.politico.eu/article/poland-donald-tusk-meet-eu-uk-leaders-nato-ukraine-after-donald-trump-win/" target="_blank">$125 billion</a> in aid to Ukraine, surpassing the U.S. contribution of $90 billion.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇯🇵 Japanese PM reelected:</strong> Japanese Prime Minister Shigeru Ishiba has been <a href="https://apnews.com/article/japan-politics-ishiba-cabinet-5945feb06a07730a98ebb3e0b46905bd" target="_blank">reelected</a> by parliament despite his coalition suffering a significant loss in the recent election, marking its worst defeat in over a decade. The <a href="https://www.aa.com.tr/en/asia-pacific/historic-election-defeat-for-japan-s-ruling-party-what-next/3379725" target="_blank">coalition</a> lost its Lower House majority due to scandals and criticism of its handling of economic issues. Ishiba, who narrowly defeated opposition leader Yoshihiko Noda, opted to keep most of his Cabinet but made strategic adjustments to address public dissatisfaction. Seeking stability, Ishiba is open to collaborating on policy with Yuichiro Tamaki’s Democratic Party for the People, which has grown in popularity for its economic reform stance.
+          </p>
+          </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇳🇱 Dutch polarization:</strong> In Amsterdam, violence erupted at ’40-’45 Square as a group armed with sticks and firecrackers <a href="https://www.dw.com/en/dutch-tram-set-on-fire-in-new-amsterdam-unrest/a-70759392" target="_blank">set fire</a> to an empty tram, with no injuries reported. This follows tensions during a recent match between Maccabi Tel Aviv and Ajax Amsterdam, where <a href="https://www.bbc.com/news/articles/ckgv4mdr9y8o" target="_blank">clashes</a> occurred between Israeli fans and locals. Dutch Prime Minister Dick Schoof condemned the tram attack as an “antisemitic act,” although both fan groups contributed to the unrest. Political polarization in the Netherlands has increased, with right-wing parties blaming migration for social issues while some pro-Palestine advocates resort to extreme protests. Others, however, are calling for a balanced approach to Dutch foreign policy, reflecting the complexities of the political climate.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇮🇶 Iraqi prisoners get compensation for abuse:</strong> U.S. jury has awarded <a href="https://www.middleeasteye.net/news/jury-awards-42mn-abu-ghraib-survivors-us-contractor-held-liable-torture" target="_blank">$42 million</a> to three Iraqi men—Suhail al-Shimari, Salah al-Ejaili, and Asa’ad Zuba’e—who endured torture and abuse at Abu Ghraib prison, marking the first time a private contractor has been held responsible for such actions. The verdict against CACI International, a contractor providing interrogation services during the <a href="https://www.bbc.com/news/world-64980565" target="_blank">U.S. occupation of Iraq</a>, represents a significant milestone in wartime accountability. The plaintiffs faced severe abuse, including beatings, sexual humiliation, and other inhumane treatment, leading them to file a 2008 lawsuit under the <a href="https://www.law.cornell.edu/wex/alien_tort_statute" target="_blank">Alien Tort Statute</a>.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;"> Why does the Middle East not do more for Palestine?</h2>
+        </mj-text>
+        </mj-colum>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">At an <a href="https://www.aljazeera.com/news/2024/11/11/israeli-wars-in-gaza-lebanon-on-arab-islamic-summit-agenda-in-saudi-arabia" target="_blank">Arab-Islamic summit</a> in Riyadh, Saudi Crown Prince Mohammed bin Salman (MBS) called for an immediate ceasefire to end Israel’s military operations in Gaza and Lebanon, condemning the violence as a “massacre.” A thing that has come into conversation is why many Arab countries lack considerable action in helping the Palestinians. Palestinian refugees in <a href="https://www.aljazeera.com/news/2017/12/16/palestinians-in-lebanon-its-like-living-in-a-prison" target="_blank">Lebanon</a> and Jordan have little rights. While Egypt has shown some initiative, it has been <a href="https://carnegieendowment.org/posts/2023/11/jordans-redline-on-admitting-palestinians-is-unlikely-to-change?lang=en" target="_blank">reluctant</a> to make it easier for Gazans to enter Egypt freely. The Palestinian Authority passport doesn’t give the holders of this <a href="https://www.passportindex.org/passport/palestinian-territories/" target="_blank">visa-free</a> access to countries in the Middle East and North Africa. </p>
+          <p style="font-size:16px;line-height:1.4;">Many believe it is up to those responsible for the problem with Israel and Palestine to find a solution, not them. Some of the countries have their own internal and economic issues to reckon with. Several countries, like UAE and Morocco, already had <a href="https://www.vox.com/world-politics/2023/10/14/23914904/arab-world-israel-palestine-conflict-middle-east" target="_blank">normalized relations</a> with Israel, and Saudi Arabia was in the process before October 7th, 2023. Although many of the governments have been at a standstill, many of the citizens held views different from the official stances of the government. There is also one more issue that remains as well: if the situation with Israel-Palestine does get resolved, many of the countries in the Middle East have one less party to blame for friction in the Middle East.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- today ago-->
+    <!-- s1 -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <!-- year coloumn -->
+      <mj-column width="34%">
+        <mj-text>
+          <h1 style="line-height: 1; margin: 0px 0px 0px -16px">1988</h1>
+        </mj-text>
+      </mj-column>
+      <!-- coneten column -->
+      <mj-column width="66%">
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> Benazir Bhutto was elected Prime Minister of Pakistan, making history as the first woman in modern times to lead a Muslim-majority country. She served two non-consecutive terms, from 1988 to 1990 and 1993 to 1996.</p>
+        </mj-text>
+        <!-- image with link group -->
+        <mj-group direction="ltr" width="100%" vertical-align="bottom">
+          <mj-column width="40%" vertical-align="middle" padding="10px 10px 10px 10px">
+            <mj-image padding="10px 30px 5px 3px" width="200px" src="https://www.geopolitics.world/email/images/gp-nov-16-1.jpg" alt="ON THIS DAY1" href="https://www.geopolitics.world" />
+          </mj-column>
+          <mj-column width="60%" vertical-align="middle" padding="10px 0px 10px 0px">
+            <mj-text>
+              <p style="
+                  font-size: 14px;
+                  line-height: 1.2;
+                  margin-left: -60px;
+                  margin-top: 15px;
+                ">
+                <a href="https://www.britannica.com/biography/Benazir-Bhutto" target="_blank">Benazir Bhutto</a>
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-16-2.jpg" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> Activists protested and called on developed nations to finance the fight against climate change at the COP29 conference in Baku, Azerbaijan.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-16-3.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 16px;
+            ">Do you know which country this flag belongs to?</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCbS8E6KEA5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+                                                                                 background-color: rgba(6,38,109,0.2)
+              
+              ">Finland</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCbS8E6KEA5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+                                                                                             background-color: rgba(6,38,109,0.2)
+              
+              ">Denmark</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCbS8E6KEA5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+                                                                                             background-color: rgba(6,38,109,0.2)
+              
+              ">Norway</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCbS8E6KEA5/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+                                                                                             background-color: rgba(6,38,109,0.2)
+              
+              ">Island</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Images by: benazirbhutto.com, REUTERS/Murad Sezer</p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticsworld/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.threads.net/@geopoliticsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
