@@ -61,8 +61,8 @@
 <!-- breaking news1  -->
 
     <!-- Content sections -->
-     <mj-section css-class="mj_section" background-color="#210E27">
-      <mj-column background-color="#210E27" >
+     <mj-section css-class="mj_section" background-color="#4D3060">
+      <mj-column background-color="#4D3060" >
       <mj-text padding="10px 12px" font-family="Roboto" color="white">
         <h2 style="
           color: #ffac12;
@@ -139,7 +139,7 @@
                     font-size: 12px; 
                     padding: 2px 5px; 
                     background-color:#BF83E5;
-                    color: #4D3060; 
+                    color:#ffffff; 
                     height:100%;
                     font-weight:bold;
                     margin-top:16px;
@@ -380,7 +380,7 @@
     <!--thank you!-->
 
     <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column background-color="#210E27" width="96%">
+      <mj-column background-color="#4D3060" width="96%">
         <mj-text padding="10px 12px" font-family="Roboto" color="white">
           <p style="
               font-size: 18px;
