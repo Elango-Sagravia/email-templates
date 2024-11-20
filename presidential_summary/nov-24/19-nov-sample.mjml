@@ -55,10 +55,46 @@
       </mj-column> 
     </mj-section>
 
-<mj-spacer height="10px" />
+  <mj-spacer height="10px" />
+
+
+<!-- breaking news1  -->
+
+    <!-- Content sections -->
+     <mj-section css-class="mj_section" background-color="#210E27">
+      <mj-column background-color="#210E27" >
+      <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <h2 style="
+          color: #ffac12;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #ffac12;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">Breaking News</h2>
+        </mj-text>
+        <mj-spacer height="20px"/>
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              text-align: left;
+            ">Trump is to meet Biden at the White House to discuss the power transfer. This will be their first meeting since their controversial debate in June.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- breaking news 1 -->
+
+   <mj-spacer height="10px" />
+
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
@@ -78,43 +114,47 @@
     </mj-section>
 
     <!-- Spotlight contents-->
+     <!-- Content sections -->
 
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-raw>
-        <div style="display: flex;">
-          <h2 style="
-            font-size: 20px;
-            line-height: 1.4;
-            font-weight: 500;
-            margin-top: 2px !important;
-            margin-bottom: 0;
-            font-family:Roboto;
-            padding: 10px 12px;">
-            Russians against war
-            
-          </h2><span style="
-            display: inline-block;
-            font-size: 12px; 
-            padding: 2px 5px; 
-            background-color:#BF83E5;
-            color: #4D3060; 
-           	height:100%;
-            font-weight:bold;
-            margin-top:16px;
-            ">
-            Breaking News
-            </span></div>
-        </mj-raw>
-        
-
-        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-19-1.jpg" alt="Russians against war" href="https://www.presidentialsummary.com" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">In Berlin, prominent Russian opposition figures—Yulia Navalnaya, Vladimir Kara-Murza, and Ilya Yashin—led a <a href="https://www.dw.com/en/russian-opposition-in-exile-holds-berlin-protest-march/a-70804993" target="_blank">demonstration</a> calling for an end to the war in Ukraine and the removal of President Vladimir Putin. Hundreds gathered at Potsdamer Platz, marching to the Russian Embassy with banners saying “No Putin. No War” and “Victory for Ukraine.” <a href="https://www.bbc.com/news/articles/ce9g4ln2d8eo" target="_blank">Navalnaya</a>, whose husband Alexei Navalny died in prison, is committed to continuing his opposition work.</p>
-          <p style="font-size: 16px; line-height: 1.4">The situation with the Ukraine war has been a challenging subject for Russians abroad. While many are vocal about it, some might not share the same distaste for Putin. For example, tensions flared in Vienna on May 9th, as pro-Russian and pro-Ukrainian groups <a href="https://www.newsweek.com/russians-ukrainians-face-off-vienna-over-9th-may-victory-day-1799284" target="_blank">clashed</a> during “Victory Day” celebrations. Some of the Russian supporters said this was only about the Nazi defeat in 1945, while some said they were against all wars and it is partly NATOS fault. This reflects conflicting narratives about history and the ongoing war in Ukraine.</p>
+     <!-- breaking news 2 -->
+    
+      <mj-section background-color="#ffffff">
+        <mj-column>
+          <mj-raw>
+            <div style="display: flex; ">
+                  <h2 style="
+                  color:#000000;
+                    font-size: 20px;
+                    line-height: 1.4;
+                    font-weight: 500;
+                    margin-top: 2px !important;
+                    margin-bottom: 0;
+                    font-family:Roboto;
+                    padding: 10px 12px;">
+                    Russians against war
+                  
+                  </h2>
+                  <span style="
+                    display: inline-block;
+                    font-size: 12px; 
+                    padding: 2px 5px; 
+                    background-color:#BF83E5;
+                    color: #4D3060; 
+                    height:100%;
+                    font-weight:bold;
+                    margin-top:16px;
+                    ">
+                    Breaking News
+                  </span>
+              </div>
+            </mj-raw>
+          
+          <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-19-1.jpg" alt="Russians against war" href="https://www.presidentialsummary.com" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 1.4">In Berlin, prominent Russian opposition figures—Yulia Navalnaya, Vladimir Kara-Murza, and Ilya Yashin—led a <a href="https://www.dw.com/en/russian-opposition-in-exile-holds-berlin-protest-march/a-70804993" target="_blank">demonstration</a> calling for an end to the war in Ukraine and the removal of President Vladimir Putin. Hundreds gathered at Potsdamer Platz, marching to the Russian Embassy with banners saying “No Putin. No War” and “Victory for Ukraine.” <a href="https://www.bbc.com/news/articles/ce9g4ln2d8eo" target="_blank">Navalnaya</a>, whose husband Alexei Navalny died in prison, is committed to continuing his opposition work.</p>
+            <p style="font-size: 16px; line-height: 1.4">The situation with the Ukraine war has been a challenging subject for Russians abroad. While many are vocal about it, some might not share the same distaste for Putin. For example, tensions flared in Vienna on May 9th, as pro-Russian and pro-Ukrainian groups <a href="https://www.newsweek.com/russians-ukrainians-face-off-vienna-over-9th-may-victory-day-1799284" target="_blank">clashed</a> during “Victory Day” celebrations. Some of the Russian supporters said this was only about the Nazi defeat in 1945, while some said they were against all wars and it is partly NATOS fault. This reflects conflicting narratives about history and the ongoing war in Ukraine.</p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
     <!-- Content sections -->
