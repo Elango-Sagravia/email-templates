@@ -1,0 +1,438 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Google might have to sell its Chrome browser</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Number of Americans seeking golden visas rise</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Hong Kong hears from jailed media tycoon, and more.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Google monopoly</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-22-1.jpg" alt="Google monopoly" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">US prosecutors have <a href="https://www.dw.com/en/google-must-divest-chrome-to-end-monopoly-us-regulators-say/a-70838012" target="_blank">demanded</a> that Google sell its Chrome browser, share data and search results with competitors, and end its dominance in the online search market. The Department of Justice’s proposal aims to break Google’s control over 90% of the search engine market by removing its ability to use Chrome as a gateway for personalized ads. </p>
+          <p style="font-size: 16px; line-height: 1.4">This move follows Google's significant <a href="https://www.dw.com/en/us-court-rules-google-is-monopoly-in-antitrust-case/a-69863869" target="_blank">antitrust loss</a> in August when a US court ruled that the company’s payments to secure default search positions on mobile devices were anti-competitive. If the court agrees to the Justice Department’s plan, it could significantly impact Google’s business model, though the company has argued against such drastic actions. A trial on the issue is set for April 2025, with a ruling expected by September.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Golden visas</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-22-2.jpg" alt="Golden visas" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Interest in “golden visas” has <a href="https://edition.cnn.com/2024/11/20/business/golden-visas-americans-trump-election/index.html" target="_blank">surged</a> among Americans since the recent US election, as many are seeking backup options for Trump’s next presidency. These visas offer residence and often have paths to citizenship in exchange for significant investments, and have seen a notable uptick in inquiries from wealthy individuals. Popular destinations include <a href="https://www.expatden.com/global/comparing-greece-vs-portugal-golden-visa-which-one-is-better/" target="_blank">European countries</a>, particularly Portugal, which offers an affordable and fast-tracked route to EU citizenship. In some countries in the <a href="https://www.expatden.com/global/antigua-and-barbuda-vs-dominica-investment-program/" target="_blank">Caribbean</a>, one can invest in citizenship.</p>
+          <p style="font-size: 16px; line-height: 1.4">While wealthy individuals may pursue expensive programs in some places, ordinary Americans also explore ways to move abroad due to political instability and social tensions. Many marginalized groups, including LGBTQ+ individuals and families with transgender children, are especially concerned about their safety under a potential second Trump term. This has led to a surge in inquiries, as many look to relocate while maintaining their US citizenship.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Hong Kong democracy</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Jimmy Lai, the 77-year-old Hong Kong media mogul and pro-democracy advocate, <a href="https://www.japantimes.co.jp/news/2024/11/20/asia-pacific/politics/jimmy-lai-stand-hong-kong/" target="_blank">took the stand</a> for the first time in his trial on Wednesday. He faces charges of conspiring to collude with foreign forces and advocating secession, which could lead to life imprisonment. Known for criticizing China’s Communist Party, Lai’s newspaper, <a href="https://www.bbc.com/news/world-asia-china-53734887" target="_blank">Apple Daily</a>, supported Hong Kong’s 2019 protests and championed democracy and free speech.</p>
+          <p style="font-size: 16px; line-height: 1.4">Lai defended his work in his testimony, stating it reflects the values of Hong Kong’s people. He denied supporting secession and denounced independence movements as “crazy.” His case is a testament to the political crackdown in Hong Kong following <a href="https://www.bbc.com/news/world-asia-china-52765838" target="_blank">China’s national security law in 2020</a>. Lai has been detained for nearly four years, and his health is raising concerns. His trial exemplifies the tensions between the pro-democracy movement and Beijing’s control over the region.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The International Criminal Court</strong> (ICC) has <a href="https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa#https://apnews.com/article/icc-israel-hamas-warrants-netanyahu-palestinian-arrest-73c854d072e0a1a41b19b2cb2cdd07fa" target="_blank">issued</a> arrest warrants for Israeli Prime Minister Netanyahu, former defense minister Yoav Gallant, and Hamas leaders over alleged war crimes linked to the Gaza conflict and the October 2023 attacks.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The U.S. has <a href="https://www.bbc.com/news/articles/cjr4p9rg8zlo" target="_blank">vetoed</a> a draft resolution at the UN Security Council that called for an immediate, unconditional <strong>ceasefire in Gaza</strong>, marking its fourth veto in the ongoing conflict. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>US arrest warrants were issued for Gautam Adani</strong> and nephew Sagar Adani after a New York grand jury indicted them and others on $265 million <a href="https://www.reuters.com/legal/chair-indias-adani-group-indicted-united-states-2024-11-20/" target="_blank">bribery</a> charges. This indictment initiates their criminal trial process, including potential arraignment and jury trial.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Temu owner PDD Holdings' shares fell over 10%</strong> despite a 44% Q3 revenue rise as China's slowing economy and e-commerce competition intensified. The company is being <a href="https://finance.yahoo.com/news/temu-owner-pdd-sees-10-093000379.html" target="_blank">criticized</a> for predatory pricing strategies and poor product quality.</p>
+            <p style="
+            
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Onion's bid to acquire Infowars</strong>, part of Alex Jones's bankruptcy case to pay Sandy Hook damages, faces challenges from First United American, a company linked to Jones. First United claimed they were not given a fair chance to counter Onion's bid. Court hearings will determine the sale's outcome (<a href="https://www.npr.org/2024/11/19/g-s1-34985/alex-jones-infowars-onion-auction-bankruptcy-sandy-hook" target="_blank">read more</a>).</p>
+            <p style="
+            
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Northvolt, Europe's leading EV battery startup</strong>, <a href="https://www.ft.com/content/47b1084f-a423-4c21-bad6-3d666428f5d4" target="_blank">filed for US Chapter 11 bankruptcy</a> with $5.8 billion in debt. Facing production and safety concerns, it seeks new investors and plans to restructure by early 2025.  Swedish truck maker Scania said it will lend $100 under the restructuring plan.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Reykjanes Peninsula</strong> in Iceland has experienced its seventh volcanic eruption since December 2023 (<a href="https://edition.cnn.com/2024/11/21/europe/iceland-volcano-erupts-reykjanes-intl/index.html#:~:text=A%20new%20volcanic%20eruption%20that,%2C%20Nov.20%2C%202024.&text=A%20volcano%20near%20Iceland's%20capital,in%20the%20area%20since%20December." target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Researchers have created</strong> a pioneering early map of the estimated <a href="https://apnews.com/article/cell-atlas-brain-microbiome-cancer-f67154e18db8db7385721a958999eaa4" target="_blank">37.2 trillion cells</a> in the human body, focusing on how these cells function and interact. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Two-time Olympic triathlon gold medalist</strong> Alistair Brownlee has <a href="https://www.skysports.com/athletics/news/15233/13257661/alistair-brownlee-two-time-olympic-triathlon-champion-announces-retirement-from-competition" target="_blank">announced his retirement</a> at 36, reflecting on a career that fulfilled his childhood dreams and looking forward to new adventures.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Post Malone, Travis Scott, Green Day, and Lady Gaga</strong> are the headliners for <a href="https://www.usatoday.com/story/entertainment/music/2024/11/20/coachella-2025-lineup-lady-gaga-green-day-post-malone/76461792007/#:~:text=Lady%20Gaga%2C%20Green%20Day%20and,Polo%20Club%20in%20Indio%2C%20California." target="_blank">Coachella 2025</a>. The festival will be held April 11-13 and April 18-20 at the Empire Polo Club in Indio, California.</p>
+            
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Nicole Kidman</strong> has <a href="https://edition.cnn.com/2024/11/19/entertainment/nicole-kidman-debunks-divorce-meme-scli-intl/index.html" target="_blank">debunked</a> the popular theory that one of her most famous memes, showing her celebrating in a pink top, was taken after finalizing her divorce from Tom Cruise. She revealed that it was a scene from a film.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Italian village offers $1 homes to Americans upset by the US election result (<a href="https://edition.cnn.com/2024/11/19/travel/italian-village-ollolai-wants-americans-election-one-dollar-homes/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The fourth tourist dies after suspected mass tainted alcohol poisoning in Laos (<a href="https://www.france24.com/en/live-news/20241121-four-tourists-die-after-suspected-laos-methanol-poisoning" target="_blank">read more</a>) .</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Duct-taped banana artwork sells for $6.2m in NYC (<a href="https://www.bbc.com/news/articles/cy87202v43no" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The 17-year-old girl passes the bar exam, just like her brother did the previous year (<a href="https://abcnews.go.com/GMA/Living/teen-sophia-park-passes-california-bar/story?id=115865056" target="_blank">read more</a>). </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1963, U.S. President John F. Kennedy was assassinated in Dallas, Texas, while riding in an open car.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
