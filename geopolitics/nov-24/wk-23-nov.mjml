@@ -21,7 +21,7 @@
         <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4"> Did you know that the King of England receives daily updates on government affairs through a red dispatch box every morning? </p>
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
           <p style="font-size: 16px; line-height: 1.4">
             <strong>In today’s weekend edition:</strong>
           </p>
@@ -94,10 +94,11 @@
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
     <!-- the big quesstion -->
+    
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
           color:#06266D;
             text-align: left;
@@ -119,11 +120,7 @@
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;"> How far will Russia go after US missile use?</h2>
         </mj-text>
-        </mj-colum>
-    </mj-section>
-    <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
+        
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size:16px;line-height:1.4;">This week, Joe Biden gave Ukraine the right to use American long-range missiles—this, of course, angers Russia, which has already retaliated. Putin promptly <a href="https://apnews.com/article/russia-nuclear-doctrine-putin-91f20e0c9b0f9e5eaa3ed97c35789898" target="_blank">lowered</a> the threshold for the use of nuclear weapons, permitting retaliation against conventional attacks from nations supported by nuclear powers in his nuclear doctrine. Strikes in Ukraine have taken a more brutal toll this week, which resulted in <a href="https://www.newsweek.com/us-embassy-kyiv-closes-attack-threat-russia-ukraine-war-latest-1988714" target="_blank">embassy closures</a> in Kyiv. Russia has <a href="https://www.cbsnews.com/news/russia-ukraine-war-missiles-kyiv-claims-icbm-dnipro-after-atacams-strike/" target="_blank">ballistic missiles</a> and has already used them as well.</p>
           <p style="font-size:16px;line-height:1.4;">As for the long term, it remains to be seen. But it will likely continue the pattern it has been taking for the last 1000 days. Russia could recruit <a href="https://www.theguardian.com/world/2024/nov/08/ukrainians-ready-for-north-korean-troops-russia-war" target="_blank">Northern Korean troops</a> who are mostly going to die at the front due to a lack of expertise, experience, and language barriers. Russia’s <a href="https://www.pbs.org/newshour/show/russias-ethnic-minorities-disproportionately-conscripted-to-fight-the-war-in-ukraine" target="_blank">vulnerable minorities</a> will continue to be conscripted at higher rates than ethnic Russians. </p>
@@ -185,7 +182,7 @@
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
-        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-23-2.jpg" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-23-1.png" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4">Protesters assembled outside the parliament building of the Georgian separatist region of Abkhazia before the president’s resignation.</p>
         </mj-text>
@@ -213,7 +210,7 @@
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column background-color="#ffffff">
-        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-23-3.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-23-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
       </mj-column>
     </mj-section>
     <!-- buttons section -->
@@ -301,7 +298,7 @@
           <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="color: #000; font-size: 12px; line-height: 2"> Photo by AIASHARA Independent Agency/AP.</p>
           <p style="color: #000; font-size: 12px; line-height: 2">
-            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
         </mj-text>
         <mj-spacer height="12px"></mj-spacer>
