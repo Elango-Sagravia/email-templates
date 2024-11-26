@@ -1,0 +1,431 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Menendez brothers' court appearance</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Laotian methanol poisoning</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Tulsi Gabbard controversies</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Menendez brothers</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-26-1.jpg" alt="Menendez brothers" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Erik and Lyle Menendez <a href="https://abcnews.go.com/US/menendez-brothers-case-back-court-hearing-petition-review/story?id=116127153" target="_blank">attended</a> a court hearing regarding their habeas corpus petition, which cites new <a href="https://www.euronews.com/2024/11/25/judge-to-decide-if-new-evidence-could-set-menendez-brothers-free" target="_blank">evidence</a> of abuse by their father, Jose Menendez. The petition includes testimony from a former Menudo member and a letter from Erik to his cousin, revealing abuse that was not available during their 1996 trial. </p>
+          <p style="font-size: 16px; line-height: 1.4">Two <a href="https://www.nbcnews.com/news/us-news/menendez-brothers-free-resentencing-rcna181428" target="_blank">paths</a> for their potential release are being explored: outgoing Los Angeles DA George Gascón recommended resentencing for parole eligibility, while DA-elect Nathan Hochman plans a full review. The brothers also seek clemency from Governor Gavin Newsom, pending Hochman’s assessment. The next court hearing is set for December 11. The View hosts discussed the case, emphasizing the broader issue of abuse awareness, with <a href="https://www.newsweek.com/whoopi-goldberg-view-cases-reviewed-menendez-brothers-released-1991378" target="_blank">Whoopi Goldberg</a> noting, “This conversation is bigger than just the Menendez brothers.”</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Laos methanol spirits</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-26-2.jpg" alt="Laos methanol spirits" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Six tourists died in Vang Vieng, Laos, from <a href="https://www.bbc.com/news/articles/c624kd71dj3o" target="_blank">suspected methanol poisoning</a> in alcohol, sparking fear among backpackers. The victims, five young women and a 57-year-old American man, all stayed at the Nana Backpackers hostel, now closed amid investigations. Methanol, a toxic chemical sometimes found in unregulated alcohol, is believed to have caused the deaths.</p>
+          <p style="font-size: 16px; line-height: 1.4">Vang Vieng, famous for “tubing” and a <a href="https://edition.cnn.com/2024/11/22/travel/laos-methanol-deaths-vang-vieng-intl-hnk/index.html" target="_blank">lively backpacker scene</a>, remains busy, though tourists avoid spirits and stick to bottled drinks. Despite concerns, many travelers continue visiting and taking precautions. The tragedy highlights safety risks in popular tourist spots. Once a quiet town, Vang Vieng has transformed into a booming tourist hub, balancing luxury developments with its free-spirited charm. Stricter oversight may follow, but the town’s tourism scene grapples with the shock for now.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Gabbard controversy</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Donald Trump’s pick to lead the <a href="https://edition.cnn.com/2024/11/22/politics/tulsi-gabbard-government-watch-list-travel-connections/index.html?iid=cnn_buildContentRecirc_end_recirc" target="_blank">intelligence community</a>, Tulsi Gabbard, was briefly placed on the TSA’s “<a href="https://www.tsa.gov/blog/2018/08/22/facts-about-quiet-skies" target="_blank">Quiet Skies</a>” list, triggering additional security screening before flights. This occurred because her overseas travel and foreign connections raised red flags in a government algorithm. Although Gabbard claimed her placement was linked to her criticism of Kamala Harris, two sources disputed this.</p>
+          <p style="font-size: 16px; line-height: 1.4">The Quiet Skies program is a risk-based screening tool, not a terrorist watchlist. Gabbard’s inclusion has led to <a href="https://www.ndtv.com/world-news/tulsi-gabbard-trumps-intelligence-pick-set-to-face-tough-questions-7099454" target="_blank">increased scrutiny</a> of her foreign policy history. As a former Democratic representative from Hawaii who switched parties, her meeting with Syrian President Bashar al-Assad and her controversial statements on Russia are likely to be focal points during her confirmation hearings.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Thousands of supporters of <strong>former Pakistani Prime Minister Imran Khan</strong> <a href="https://apnews.com/article/pakistan-lockdown-imran-khan-rally-clashes-belarus-ec6cb96753c83be24b20cd32588ead71" target="_blank">defied</a> heavy police resistance, lockdown measures, and widespread arrests to march toward Islamabad, demanding his release.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Taiwan</strong> has detected a <a href="https://www.reuters.com/world/asia-pacific/taiwan-reports-chinese-balloon-first-time-six-months-2024-11-25/" target="_blank">Chinese balloon</a> off its northern coast, the first incident since April. Spotted near Keelung port at 33,000 feet, the balloon disappeared after two hours without entering Taiwanese airspace, according to Taiwan's Ministry of Defense.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google's antitrust trial nears conclusion</strong>. Prosecutors allege Google monopolized ad tech markets while Google defends its actions as fair innovation. <a href="https://www.msn.com/en-us/news/us/google-s-us-antitrust-trial-over-online-ad-empire-draws-to-a-close/ar-AA1uJaFo" target="_blank">Publishers testified</a> they were trapped by Google’s overwhelming dominance.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Elon Musk's <a href="https://x.com/elonmusk/status/1860591666941558854?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1860591666941558854%7Ctwgr%5E2444fd1b911199f75783e858e537bbc2cd289e60%7Ctwcon%5Es1_c10&ref_url=https%3A%2F%2Fwww.vanityfair.com%2Fnews%2Fstory%2Felon-musk-jokes-msnbc-purchase" target="_blank">joking interest</a> in buying MSNBC stirs anxiety among staff</strong> during Comcast's spinoff restructuring. While Musk's allies fuel speculation, experts highlight tax barriers to a sale. Critics warn of "media capture," likening it to authoritarian strategies abroad.</p>
+            <p style="
+            
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Somalia’s $1.14 Bn debt was forgiven by the USA</strong>, World Bank, IMF, and other countries, concluding global debt relief efforts that reduced Somalia’s debt from 64% of GDP in 2018 to <a href="https://www.theguardian.com/global-development/2024/nov/06/somalia-debt-relief-us-cancels-billion-dollar-loans-hipc#:~:text=According%20to%20the%20World%20Bank,loan%20provided%20by%20Saudi%20Arabia." target="_blank">6% today</a>. Despite governance and security challenges, debt relief drove state-building, reform, and economic revival.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The bunkbed conjecture in probability theory</strong> was recently disproven by a team of mathematicians (<a href="https://www.wired.com/story/maths-bunkbed-conjecture-has-been-debunked/" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Archaeologists</strong> have made a groundbreaking discovery of <a href="https://apnews.com/article/maya-fish-canal-civilization-pyramids-ebec21901049b634ab910d8190cf89ef" target="_blank">4,000-year-old fish-trapping canals in Belize</a>, uncovering evidence of early landscape manipulation by the predecessors of the ancient Maya civilization.</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Harry Kane</strong> has broken Erling Haaland’s record to <a href="https://edition.cnn.com/2024/11/23/sport/harry-kane-erling-haaland-goalscoring-record-spt-intl/index.html" target="_blank">become the fastest player</a> to score 50 goals in the Bundesliga. The England striker achieved the milestone in just 43 games, surpassing Haaland’s previous record of 50 goals in 50 matches.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Cher</strong> reveals a surprising <a href="https://edition.cnn.com/2024/11/23/entertainment/cher-first-name-memoir/index.html" target="_blank">discovery about her name</a>. When she went to change her name in 1979 legally, she was “shocked” to find that her birth certificate listed her first name as <i>Cheryl</i>, not what she had always believed, which was <i>Cherilyn</i>.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Universal’s <i>Wicked</i></strong> soared to an impressive <a href="https://www.cnbc.com/2024/11/24/wicked-soars-with-114-million-domestic-opening-gladiator-snares-55point5-million.html" target="_blank">$114 million</a> domestic opening, marking the highest debut ever for a Broadway adaptation in cinematic history.</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Macon, Georgia, is planning a dramatic way to ring in 2025. On New Year’s Eve, at midnight, the Macon-Bibb County Commission has approved a plan to implode the vacant 16-story Hotel Gordon (<a href="https://apnews.com/article/macon-georgia-new-years-hotel-implosion-demolition-ff2a2bcdb4dec5a66b536a682855ba4a" target="_blank">read more</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A DHL cargo plane operating on behalf of the logistics company crashed near Vilnius International Airport in Lithuania early on Monday, killing at least one person (<a href="https://www.dw.com/en/dhl-cargo-plane-crashes-near-vilnius-airport-in-lithuania/a-70875160" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A recent stabbing spree in New York City has highlighted critical issues within the city’s criminal justice and mental health systems (<a href="https://edition.cnn.com/2024/11/24/us/ramon-rivera-nyc-stabbings/index.html" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Why you should pick a ski holiday in Turkey (<a href="https://www.thrillist.com/travel/nation/visit-kaya-palazzo-kartalkaya-ski-resort-turkiye" target="_blank">read more</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1942, Casablanca premiered, directed by Michael Curtiz and starring Humphrey Bogart, Ingrid Bergman, and Paul Henreid, becoming one of Hollywood's most-revered films.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
