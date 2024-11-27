@@ -1,0 +1,438 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Federal charges against Trump dismissed</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ 20 years for Dominque Pelicot</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Haiti surge in child recruitment by gangs</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Trump charges dropped</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-27-1.jpg" alt="Trump charges dropped" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A federal judge has <a href="https://www.cbsnews.com/news/jack-smith-dismiss-charges-trump-d-c-election-case/" target="_blank">dismissed</a> charges in the 2020 election case against President-elect Donald Trump following a <a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.258149/gov.uscourts.dcd.258149.281.0_5.pdf" target="_blank">request</a> from special counsel Jack Smith. Smith cited Justice Department policy prohibiting the prosecution of a sitting president, regardless of the allegations’ gravity. U.S. District Judge Tanya Chutkan approved dismissing the case without prejudice, allowing it to be refiled after Trump leaves office in 2029.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump’s team hailed the decision as a victory for justice, while critics pointed to the policy’s impact on accountability. Smith, who led investigations into Trump’s conduct, is expected to file a final report and resign. The decision ended federal prosecution but left ongoing <a href="https://www.axios.com/2024/11/25/trump-legal-cases-status" target="_blank">state cases</a> in Georgia and New York. Trump’s <a href="https://www.bbc.com/news/articles/cp9zjl2d3m7o" target="_blank">plans</a> to appoint key legal allies to the Justice Department raise questions about future case handling.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Dominque Pelicot case</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-27-2.jpg" alt="Dominque Pelicot case" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">French prosecutors have <a href="https://www.france24.com/en/live-news/20241125-court-moves-to-sentencing-in-french-mass-rape-trial" target="_blank">requested</a> the maximum 20-year sentence for Dominique Pelicot, accused of drugging and orchestrating the repeated rape of his ex-wife, <a href="https://www.bbc.com/news/articles/cje0g8x5pggo" target="_blank">Gisele Pelicot</a>, by 49 men. The trial, held in Avignon, revealed Pelicot drugged Gisele from 2011 to 2020, facilitating over 200 assaults, many documented in photos and videos. Prosecutor Laure Chabaud called the crimes profoundly grave, stating, “20 years is both too much and too little.”</p>
+          <p style="font-size: 16px; line-height: 1.4">The case exposed societal failures in addressing consent, with defendants claiming belief in fabricated consent scenarios. Gisele’s courage in demanding public hearings and revealing evidence has made her a <a href="https://www.france24.com/en/video/20241125-collages-as-a-reminder-the-dedicated-women-supporting-gis%C3%A8le-pelicot" target="_blank">feminist icon</a>. Prosecutors also requested a <a href="https://efe.com/en/uncategorized/2024-11-25/prosecution-seeks-4-to-17-years-for-dominique-pelicots-co-defendants-in-mass-rape-case/" target="_blank">17-year sentence</a> for another man accused of similar crimes. Judges will deliver their ruling in December, marking a critical moment in France’s fight against sexual violence.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Haiti’s children</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Haiti’s gang crisis is escalating; Haiti has seen a <a href="https://abcnews.go.com/International/wireStory/number-children-recruited-gangs-haiti-soars-70-unicef-116191187" target="_blank">70% rise</a> in child recruitment by armed groups over the past year, according to UNICEF. Children, some as young as 12, now comprise half of all gang members. They are coerced or forced into gangs due to pervasive poverty, violence, and the near-collapse of critical services. <a href="https://www.google.com/maps/place/Port-au-Prince,+Haiti/@18.6075969,-72.3472438,11.24z/data=!4m6!3m5!1s0x8eb9dd57503eaa91:0x3cd5815df929aa08!8m2!3d18.594395!4d-72.3074326!16zL20vMGZzMXY?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank">Port-au-Prince</a> is a hotspot where 1.2 million children live under constant threat. Armed groups exploit children, using them as fighters or subjecting them to horrific abuses, including sexual violence against girls.</p>
+          <p style="font-size: 16px; line-height: 1.4"><a href="https://www.unicef.org/press-releases/number-children-haiti-recruited-armed-groups-soars-70-cent-one-year-unicef" target="_blank">UNICEF</a> calls this trend a grave violation of human rights, urging authorities to prioritize child protection. Meanwhile, vigilantism is surging, with residents fighting back against gang violence. The crisis continues to leave children with deep psychological scars, robbing them of their childhood and future.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The United Arab Emirates</strong> has arrested three Uzbek nationals for the killing of Rabbi Zvi Kogan, an Israeli-Moldovan citizen, in Dubai (<a href="https://apnews.com/article/uae-israel-rabbi-killed-arrests-e4e2d0f54fd81d8f7693605639a594bd" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The eviction of Palestinian families</strong> in the West Bank is intensifying, with fears mounting that <a href="https://edition.cnn.com/2024/11/25/middleeast/west-bank-evictions-trump-intl-cmd/index.html" target="_blank">Donald Trump’s return to the presidency</a> could accelerate annexation efforts. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Yamandu Orsi of Uruguay’s leftist Broad Front coalition</strong> has <a href="https://www.dw.com/en/uruguay-election-left-wing-candidate-orsi-wins-presidency/a-70874926" target="_blank">won the presidential election</a>, defeating Alvaro Delgado of the center-right National Party in a tightly contested run-off, with nearly 90% voter turnout.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Eli Lily and Novo Nordisk stocks rose</strong> on the news that the Biden administration <a href="https://www.biopharmadive.com/news/medicare-medicaid-obesity-drug-coverage-rule-biden/734060/" target="_blank">proposed a rule</a> to allow Medicare and Medicaid to cover anti-obesity drugs like Wegovy, Mounjaro, and Ozempic, expanding access for 7.4 million Americans. This shift, costing $40 billion over a decade, recognizes obesity as a chronic disease.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Jefferies’ close ties with India’s Adani Group</strong>, despite fraud allegations and US bribery charges, have fueled its rapid expansion in India. However, the relationship now poses risks as Adani faces legal scrutiny and declining investor confidence (<a href="https://www.ft.com/content/795d9162-4020-4061-b2d5-c4d47708485d" target="_blank">read more</a>).</p>
+            <p style="
+            
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>At the African Economic Conference</strong>, African leaders highlighted <strong>undervalued carbon credits</strong>, sold below $10 per tonne compared to over $100 elsewhere, urging reforms to align valuations with global standards. Proposed policies include integrating Africa’s <a href="https://african.business/2024/11/politics/policymakers-demand-bold-policy-steps-at-botswana-meeting" target="_blank">green wealth into GDP calculations</a> and enhancing the region’s capacity to market carbon credits independently.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Salmon</strong> have returned to Oregon’s Klamath River Basin for the first time in over a century following the historic removal of four dams, marking a significant <a href="https://www.bbc.com/future/article/20241122-salmon-return-to-californias-klamath-river-after-dam-removal" target="_blank">ecological and cultural revival</a> for local tribes.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Strava’s</strong> recent <a href="https://press.strava.com/articles/updates-to-stravas-api-agreement" target="_blank">API changes</a> have sparked a backlash from users who rely on the platform to consolidate fitness data from various apps and devices (<a href="https://www.theverge.com/2024/11/19/24301056/strava-api-ai-data-sharing-policy-change-fitness-tracking" target="_blank">read more</a>).</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Vaibhav Suryavanshi</strong>, a 13-year-old Indian batsman, made history as <a href="https://www.dw.com/en/cricket-13-year-old-becomes-youngest-ipl-auction-signing/a-70882497" target="_blank">the youngest player ever</a> sold at the IPL auction, fetching 11 million rupees (approximately €125,000) from Rajasthan Royals.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The World Chess Championship</strong>, a grueling contest that requires intense concentration and endurance, is considered the <a href="https://edition.cnn.com/2024/11/25/sport/chess-world-championship-pressure-spt-intl/" target="_blank">pinnacle of the sport</a>. Only 17 players have held the title in 138 years.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Adele</strong> wrapped up her two-year Las Vegas residency with an <a href="https://www.huffingtonpost.co.uk/entry/adele-thanks-son-fiance-rich-paul-las-vegas-residency-ends_uk_67443a62e4b04cfaefbbf1a3" target="_blank">emotional farewell</a> on Saturday night, tearfully thanking her son Angelo and partner Rich Paul for their support.</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The Trans Dinarica, a 5,500 km bike trail, opens to <a href="https://www.bbc.com/travel/article/20241122-the-trans-dinarica-a-new-5500km-trail-connecting-one-of-europes-most-remote-regions" target="_blank">connect remote Balkan countries</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">TikTok influencer arrested for shoplifting <a href="https://www.nbcnews.com/news/us-news/tiktok-influencer-arrested-posting-videos-allegedly-shoplifted-target-rcna181810" target="_blank">after posting a video of her Target haul</a>.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Biden pardons two turkeys in a Thanksgiving tradition (<a href="https://www.bbc.com/news/videos/c4gxvq5pygdo" target="_blank">watch video</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">This is why we keep falling for the “Instagram traps” (<a href="https://www.thrillist.com/travel/nation/instagram-trap-museums-hotels" target="_blank">find out</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1895, the Nobel Prizes were established through the will of Alfred Bernhard Nobel, the Swedish chemist and inventor of dynamite.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
