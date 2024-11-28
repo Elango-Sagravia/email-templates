@@ -1,0 +1,426 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Word of the year revealed</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Thanksgiving trends</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Israeli outlet sanctioned</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Very demure</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-28-1.jpg" alt="Very demure" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          “Demure,” a word that surged in popularity over the summer, has been named Dictionary.com’s 2024 <a href="https://edition.cnn.com/2024/11/26/style/demure-dictionary-2024-word-of-the-year-hnk-intl/index.html" target="_blank">word of the year</a>. Usage of the word skyrocketed by 1,200% from January to August, mainly due to TikToker Jools Lebron’s <a href="https://www.cosmopolitan.com/entertainment/celebs/a61865984/very-demure-tiktok-trend/" target="_blank">viral videos</a>. In these satirical clips, Lebron humorously describes her appearance and behavior as “very demure, very mindful” while exaggerating how she presents herself in various situations.</p>
+          <p style="font-size: 16px; line-height: 1.4">Traditionally, the term is used to describe reserved or modest behavior. It was most commonly cited in Victorian literature read in high school. Now, the word has taken on a new meaning, especially regarding a person’s appearance and actions in public. <a href="https://www.axios.com/2024/08/25/demure-tiktok-trend-business-bandwagon" target="_blank">Celebrities</a> like Kim Kardashian and Jennifer Lopez have also embraced the trend. “<a href="https://www.theguardian.com/books/2024/nov/01/brat-wins-collins-dictionary-word-of-the-year-2024#:~:text=Though%20Collins%20already%20defined%20%E2%80%9Cbrat,independent%2C%20and%20hedonistic%20attitude%E2%80%9D." target="_blank">Brat</a>” was named Collins Dictionary’s 2024 word.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Turkey isn’t that popular</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-28-2.jpg" alt="Turkey isn’t that popular" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A recent survey from Campbell’s <a href="https://nypost.com/2024/11/04/lifestyle/most-people-prefer-this-thanksgiving-food-over-turkey-survey-reveals/" target="_blank">reveals</a> that side dishes are the true stars of Thanksgiving, with 55% of Americans preferring them over the turkey. Nearly 40% of participants said they’d be content with just side dishes. The report also highlights that 60% of people enjoy preparing side dishes more than the turkey. Stuffing/dressing claimed the top spot as the favorite side dish in 2024, surpassing mashed potatoes, which dropped to second place. Sweet potatoes and green bean casserole rounded out the top four, while mac and cheese, beloved by Gen Z, slipped from third to fifth place this year.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Another emerging trend with Thanksgiving is that more people <a href="https://www.lex18.com/news/covering-kentucky/more-americans-opting-to-eat-out-or-order-pre-cooked-meals-for-thanksgiving" target="_blank">opt not</a> to make dinner themselves traditionally; Thanksgiving traditions are evolving as families adapt to a changing economy and lifestyle. Last year, nearly one-third of Americans opted for takeout or delivery, and 20% dined out at restaurants for their holiday meal.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Haaretz sanctioned</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Israel’s government <a href="https://edition.cnn.com/2024/11/25/middleeast/israel-sanctions-haaretz-over-comments-intl-hnk/index.html" target="_blank">approved a proposal</a> by Communications Minister Shlomo Karhi on November 24, 2024, mandating that any government-funded body refrain from communicating with or advertising in <a href="https://www.britannica.com/topic/Haaretz" target="_blank">Haaretz</a>. This decision came in response to editorials criticized for undermining Israel’s legitimacy and self-defense.</p>
+          <p style="font-size: 16px; line-height: 1.4">The immediate trigger was remarks made by Haaretz publisher Amos Schocken during a conference in London, where he expressed support for Palestinian “<a href="https://www.middleeasteye.net/news/haaretz-disavows-own-publisher-calling-palestinians-freedom-fighters" target="_blank">freedom fighters</a>” and criticized Israeli policies. Schocken later clarified that he was not referring to Hamas but to a broader group. The move has sparked controversy, with Haaretz denouncing it as an attack on press freedom, likening it to authoritarian tactics used by leaders like Putin and Erdogan. Media freedom is one of the talking points used to defend Israel. </p>
+          <p style="font-size: 16px; line-height: 1.4">Israel used to have the <a href="https://rsf.org/en/region/middle-east-north-africa" target="_blank">highest ranking</a> in terms of media freedom in the Middle East and Northern Africa. However, it lost its spot to Qatar this year.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The ceasefire</strong> between <a href="https://www.bbc.com/news/articles/cx2d3gj9ewxo" target="_blank">Israel and Hezbollah</a> came into effect early Wednesday and has sparked a range of <a href="https://www.bbc.com/news/videos/c2k0ezg2p3go" target="_blank">reactions</a>. In Lebanon, residents expressed cautious optimism but noted the devastation caused by the conflict, highlighting destroyed homes and businesses.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The arrest of a 27-year-old Norwegian</strong> man on <a href="https://www.newsweek.com/norwegian-student-arrested-spying-us-embassy-russia-iran-1990293" target="_blank">espionage charges</a> for allegedly aiding Russia and Iran has sparked widespread concern and highlighted Norway’s strategic vulnerabilities. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>French markets tumbled as political tensions escalated</strong> over Prime Minister Michel Barnier's €60bn budget plan, risking a government collapse. Rising bond yields, opposition from Marine Le Pen, and EU deficit warnings amplified concerns over France's debt and economic stability (<a href="https://www.ft.com/content/d056bfb5-81ce-40c2-ac2c-757ccccdb8fe" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>SoftBank plans to invest $1.5bn in OpenAI</strong> via a <a href="https://www.reuters.com/technology/openai-allows-employees-sell-15-bln-stock-softbank-cnbc-reports-2024-11-27/" target="_blank">tender offer</a>, reinforcing its AI leadership ambitions. The money will be used to buy our employee stock options from current and past employees.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Over half of long-form LinkedIn posts are AI-generated</strong>, according to a recent <a href="https://readwrite.com/over-half-of-linkedin-long-form-posts-are-ai-generated-study-finds/" target="_blank">study</a>.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Three people tragically <a href="https://www.ladbible.com/news/world-news/sat-nav-unfinished-bridge-three-killed-india-977224-20241126" target="_blank">lost their lives</a> in India when their car, guided by <strong>outdated sat nav data</strong>, drove off an unfinished bridge.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Microsoft</strong> addressed concerns surrounding its use of customer data for training AI models, clarifying that it <a href="https://www.theverge.com/2024/11/27/24307284/microsoft-debunks-office-ai-data-scraping-rumors" target="_blank">does not use</a> data from Microsoft 365 apps like Word and Excel.</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">2024 marks 100 years of the <strong>Macy's Thanksgiving Day Parade</strong> in New York City (<a href="https://www.vogue.com/article/thanksgiving-day-parade-photos?utm_source=chatgpt.com" target="_blank">see photos</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Paris Olympic bronze medalists</strong> Ilona Maher and Stephen Nedoroscik <a href="https://www.nbcsports.com/olympics/news/dancing-with-the-stars-ilona-maher-stephen-nedoroscik" target="_blank">had standout performances</a> on the 33rd season finale of Dancing with the Stars, finishing in second and fourth place, respectively.</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">What life is like for turkeys at a farm sanctuary (<a href="https://eu.usatoday.com/story/news/nation/2024/11/27/thanksgiving-turkeys-roam-farm-sanctuary/76575534007/" target="_blank">read here</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Elon Musk publicly names government employees he wants to cut (<a href="https://edition.cnn.com/2024/11/27/business/elon-musk-government-employees-targets/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Thanksgiving travel is expected to break records this tear (<a href="https://apnews.com/travel-expected-to-break-records-this-thanksgiving-holiday-000001936a64d02ca99ffaf5f2540000" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The world’s largest chicken-shaped building is also a hotel (<a href="https://edition.cnn.com/travel/philippines-guinness-world-records-chicken-hotel-intl-hnk/index.html" target="_blank">read more</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1943, the Tehrān Conference, attended by Franklin D. Roosevelt, Winston Churchill, and Joseph Stalin, opened, with Stalin pressing for an invasion of France.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
