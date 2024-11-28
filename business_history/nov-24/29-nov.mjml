@@ -1,0 +1,255 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Behind the scenes of legendary businesses. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:10px;
+            ">Was this email forwarded to you? <a href="https://www.businesshistory.co" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Trader Joe's journey</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-nov-29-1.jpg" alt="Trader Joe's journey" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Trader Joe’s, now a beloved grocery chain, didn’t start out as the powerhouse it is today. In the late 1950s, Joe Coulombe ran a small convenience store chain called Pronto Markets in Pasadena, California. Facing rising competition from giants like 7-Eleven, Coulombe knew he needed a new strategy to stay competitive. He decided to pivot and create something entirely different—a store for educated, budget-conscious shoppers who wanted unique products without the high price tag. In 1967, Trader Joe’s was born.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          The first Trader Joe’s store stood out with its bold Tiki theme, inspired by the cultural trend of the time. This unconventional approach turned shopping into a fun and memorable experience. But it wasn’t just the store’s look that set it apart. Coulombe focused on curating high-quality, unique products that customers couldn’t find elsewhere. Rather than filling shelves with national brands, Trader Joe’s began offering specialty items at affordable prices, building a loyal fanbase of adventurous shoppers.</p>
+          <p style="font-size: 16px; line-height: 1.4">A game-changer came when Coulombe switched to private-label products. This allowed Trader Joe’s to offer a wide range of exclusive items without the markup that comes with branded goods. Today, around 80% of the store’s products are private-label, including favorites like Mandarin Orange Chicken and Everything but the Bagel Seasoning.</p>
+          <p style="font-size: 16px; line-height: 1.4">Unlike traditional supermarkets with vast inventories, Trader Joe’s keeps its selection lean, with only around 4,000 products. This focus on quality and freshness ensures products quickly cycle in and out, keeping customers eager to return for new finds. The lack of conventional advertising is another part of the strategy—word-of-mouth, fan pages, and a friendly in-store experience are Trader Joe’s marketing tools.</p>
+          <p style="font-size: 16px; line-height: 1.4">With more than 500 stores and a $19 billion valuation, Trader Joe’s is a testament to the power of vision, creativity, and community-focused retail.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+
+     <!-- B I L L I O N N A I R E   W A T C H -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BILLIONNAIRE WATCH</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Mukesh Ambani</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-nov-29-2.jpg" alt="Mukesh Ambani" href="https://www.businesshistory.co" />
+        <mj-spacer height="14px"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Net Worth:</strong> $93.7B</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Rank:</strong> #9th in the world toda</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>About:</strong> As chairman of Reliance Industries, Ambani is India’s wealthiest person, with interests in petrochemicals, telecom, and retail. His Jio telecom venture disrupted the Indian market by making mobile data affordable and connecting millions. Ambani’s leadership has seen Reliance transform from a textile company to a dominant energy, retail, and digital services force.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Need to Know:</strong> Known for his grand lifestyle, Ambani’s $2 billion home, Antilia, has as many floors as Buckingham Palace and requires a team of over 600 to run it. Rivalries in India’s competitive telecom sector have seen Ambani and his once-estranged brother Anil spar publicly and privately, creating one of India’s most prominent corporate dramas.​</p>
+          
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- banner -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">"I find that the harder I work, the more luck I seem to have." — Thomas Jefferson</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Fortune India</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.businesshistory.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/BizHistory/"
+              src="https://www.businesshistory.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
