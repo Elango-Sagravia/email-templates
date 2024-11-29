@@ -1,0 +1,453 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Missing Hawaiian woman’s father died</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ 4B movement surge</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ US-China swap</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Missing Hawaiian woman</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-29-1.jpg" alt="Missing Hawaiian woman" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          The unresolved Hannah Kobayashi’s two-week disappearance, followed by the recent suicide of her father, Ryan Kobayashi, is a <a href="https://edition.cnn.com/2024/11/26/us/hannah-kobayashi-missing-woman-what-we-know/index.html" target="_blank">heartbreaking tragedy</a>. The family grieved Mr. Koyayashi’s death and said it was from a “broken heart.” Hannah was reported missing days after she failed to board her connecting flight to New York on November 8 and was last seen in Los Angeles, where she sent disturbing messages about identity theft and feeling unsafe. Despite a diligent search, Mr. Kobayashi, who was estranged from his daughter, took his own life after nearly two weeks of searching.</p>
+          <p style="font-size: 16px; line-height: 1.4">As they continue the search for Hannah, the case raises questions about her circumstances, including her distressing communications and who she was with during her last known sightings. The family is urging the community to support the ongoing search for Hannah and come forward with any information that could be helpful.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">4B movement’s influence on America</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-29-2.jpg" alt="4B movement’s influence on America" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The 4B movement, originating from South Korea, has recently <a href="https://www.politico.com/news/magazine/2024/11/16/4b-movement-america-political-protest-00189314" target="_blank">gained attention</a> in the U.S. as a response to the victory of Donald Trump. The rollback of reproductive rights and the cultural acceptance of sexual rhetoric are frustrating young women. This movement is gaining in both Korea and the U.S. because women are agitated by growing violence against women, and societal pressures are increasingly rejecting traditional gender roles. The movement’s core principles are no marriage, no dating, no childbirth, and no sex. </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          For many women, the 4B mindset offers a sense of empowerment and autonomy, especially amid political polarization and rising misogyny. However, its radical nature has sparked backlash and division, with some fearing that it could deepen <a href="https://www.france24.com/en/americas/20241030-gender-gap-how-the-us-election-is-becoming-a-battle-of-the-sexes" target="_blank">gender divides</a> and lead to further alienation, which could be deconstructive. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">US and China swap prisoners</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The recent prisoner swap between the US and China resulted in the <a href="https://www.euronews.com/2024/11/28/china-releases-three-us-citizens-in-rare-prisoner-swap" target="_blank">release of three US citizens</a> held in China. In exchange, China received four individuals, including three Chinese nationals. The swap happened just ​​after Biden discussed the issue with Xi Jinping during the <a href="https://www.euronews.com/2024/11/17/biden-and-xi-hold-talks-in-peru-but-no-mention-of-north-korean-troops-in-russia" target="_blank">APEC conference</a> in Peru. </p>
+          <p style="font-size: 16px; line-height: 1.4">The US detainees included Mark Swidan, who faced a death sentence on drug charges, and Kai Li and John Leung, imprisoned for espionage. American government designated all three as “wrongfully detained.” The lawmakers were happy about the release, especially of Kai Li, who had been detained since 2016. Despite ongoing trade, human rights, and security tensions, this rare agreement is a minor relief in tense <a href="https://www.bbc.com/news/topics/cxw7qng7vx8t" target="_blank">US-China relations</a>. The development precedes Trump’s anticipated presidency, which promises a more rigid stance on China.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A Russian <a href="https://www.france24.com/en/europe/20241128-ukraine-s-energy-facilities-under-massive-enemy-attack-minister-says" target="_blank">aerial assault</a> on <strong>Ukraine’s energy infrastructure</strong> has left over a million households without power, marking the 11th such attack this year. The strikes targeted facilities nationwide, triggering emergency outages across multiple regions, including Kyiv, Lviv, and Odesa. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The European Parliament</strong> has <a href="https://www.dw.com/en/eu-lawmakers-greenlight-von-der-leyens-top-team/a-70899620" target="_blank">approved</a> the new European Commission, led by Ursula von der Leyen, with 370 votes in favor, 282 against, and 36 abstentions. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The ICC's chief prosecutor, Karim Khan</strong>, has sought an <a href="https://www.dw.com/en/myanmar-icc-prosecutor-seeks-arrest-warrant-for-junta-chief/a-70897488" target="_blank">arrest warrant</a> for Myanmar's junta leader, Min Aung Hlaing, citing reasonable grounds for his criminal responsibility for crimes against humanity against the Rohingya Muslim minority.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>French bond yields briefly surpassed Greece’s</strong> as political turmoil deepened. Macron’s weakened government struggles with reforms, facing no-confidence threats from far-right leader Le Pen. Investors fear rising deficits and <a href="https://www.morningstar.com/news/marketwatch/20241128229/frances-bond-yields-rise-above-greeces-for-first-time-amid-political-instability-in-paris" target="_blank">economic instability</a>, eroding confidence in the Eurozone’s second-largest economy.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The FTC has launched an antitrust probe into Microsoft</strong>, investigating <a href="https://techcrunch.com/2024/11/27/ftc-reportedly-opens-antitrust-investigation-into-microsoft/" target="_blank">potential violations</a> in its cloud, AI, and cybersecurity sectors, focusing on product bundling. This comes amid uncertainty about future antitrust efforts under a potential Trump administration.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Heineken will open the Middle East’s first large-scale brewery in Dubai</strong> by 2027, meeting growing demand fueled by tourism. The move follows Dubai’s <a href="https://www.bbc.com/news/world-middle-east-64142652" target="_blank">relaxed alcohol regulations</a> and tax cuts, positioning the city as a tourism and business hub (<a href="https://www.al-monitor.com/originals/2024/11/heineken-draft-gulfs-first-large-scale-brewery-dubai#:~:text=The%20joint%20venture%2C%20called%20Sirocco,made%20at%20the%20Dubai%20facility." target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">New research using <strong>fossilized dinosaur droppings</strong> (coprolites) sheds light on how dinosaurs <a href="https://edition.cnn.com/2024/11/27/science/fossilized-poop-dinosaurs/index.html" target="_blank">rose to dominance</a> 200 million years ago.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The catastrophic flooding in Valencia, Spain</strong>, reveals how climate change, urbanization, and delayed risk communication <a href="https://www.wired.com/story/how-the-world-can-cope-better-with-extreme-rainfall-and-flooding/" target="_blank">amplify natural disasters</a>. Addressing these challenges requires improved forecasting, restoring natural water systems, and better public awareness to mitigate future risks.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Thanksgiving drowsiness isn’t all about turkey’s tryptophan</strong>. The carb-heavy side dishes and <a href="https://www.wired.com/story/whats-up-with-that-the-real-causes-of-the-thanksgiving-sleepies/#:~:text=In%20the%20brain%2C%20it%20gets,induce%20that%20foggy%2Dbrain%20feeling." target="_blank">overeating</a> trigger insulin response, allowing tryptophan to convert into melatonin and cause sleepiness.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Seoul experienced its heaviest November snowfall since 1907</strong>, with 16.1 cm (6.3 inches) <a href="https://edition.cnn.com/2024/11/27/asia/seoul-korea-record-snow-intl-hnk/index.html" target="_blank">recorded</a> on Wednesday, delighting residents but causing significant disruption.</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The Netflix documentary It’s All Over The Kiss That Changed Spanish Soccer <strong>sheds light on the deeper systemic issues within Spanish women’s soccer</strong>, amplified by the <a href="https://edition.cnn.com/2024/11/26/sport/luis-rubiales-spain-netflix-documentary-spt-intl/index.html" target="_blank">infamous kiss</a> between Luis Rubiales and Jennifer Hermoso during the 2023 World Cup final.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Alabama A&M University has <a href="https://www.cbsnews.com/news/medrick-burnett-jr-alabama-a-m-player-alive/" target="_blank">retracted its earlier announcement</a> of football player Medrick Burnett Jr.’s death, confirming that the redshirt freshman <strong>remains alive and in stable condition</strong> at UAB Hospital. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Kansas City Chiefs’ rising fame</strong>, fueled by Travis Kelce and Taylor Swift’s relationship, <a href="https://time.com/7198667/taylor-swift-travis-kelce-hallmark-lifetime-movies/" target="_blank">inspired</a> two holiday films.</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">How a dog contest became a Thanksgiving tradition (<a href="https://www.npr.org/2024/11/27/nx-s1-5207906/westminster-national-dog-show-thanksgiving-akc" target="_blank">read more</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A social media ban for under-16s passes the Australian Senate (<a href="https://people.com/australia-passes-social-media-ban-for-kids-under-16-8753204" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Zuckerberg dines with Trump in Mar-a-Lago (<a href="https://www.news18.com/world/grateful-for-the-invitation-mark-zuckerberg-dines-with-trump-after-years-of-strained-ties-9138876.html" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Travel TikTok accounts to scroll while your flight is delayed (<a href="https://www.thrillist.com/news/nation/best-travel-tiktok-accounts-traveltok" target="_blank">read more</a>). .</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1947, the United Nations General Assembly adopted a resolution calling for the partition of Palestine into separate Arab and Jewish states.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
