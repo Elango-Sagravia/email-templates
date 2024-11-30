@@ -1,0 +1,344 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ $300 billion pledged at COP29</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Trump’s tariff plan</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Why is the EU making an envoy to Syria?</p>
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🌍 COP pledges $300 billion:</strong> 
+            At COP29 in Baku, delegates reached a <a href="https://www.dw.com/en/cop29-world-agrees-to-300bn-deal-for-developing-countries/a-70865529" target="_blank">climate finance deal</a>, committing developed nations to provide $300 billion annually by 2035 to support poorer countries in tackling climate change. Reactions were mixed; while the EU viewed it as a step forward, India and the <a href="https://www.un.org/development/desa/dpad/least-developed-country-category.html" target="_blank">Least Developed Countries</a> labeled it insufficient. UN Secretary-General António Guterres stressed the need for swift implementation, calling it a foundation for future efforts. COP29 President Mukhtar Babayev celebrated the agreement despite intense negotiations and delays, stating, “People doubted we could deliver.”
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇷🇴 Romania picks Ultra nationalist:</strong> 
+            Ultranationalist Calin Georgescu, a far-right pro-Russia candidate, <a href="https://www.bbc.com/news/articles/c9dlw5pq967o" target="_blank">led the first round</a> of Romania's presidential election with 23% of the vote, surprising many as he initially polled at just 5%. The race for second place is tight, with Elena Lasconi of the center-right Save Romania Union narrowly ahead of Prime Minister Marcel Ciolacu, who has resigned as Social Democrat leader after his disappointing performance. The December 8 runoff will likely feature Georgescu and Lasconi. Georgescu, backed by George Simion’s AUR party, has capitalized on nationalist sentiment and opposition to NATO. At the same time, the election has highlighted divisions among voters, particularly Social Democrats, who may hesitate to support the progressive Lasconi.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇵🇰 Thousands march on Karachi:</strong> 
+            Thousands of supporters of former Pakistani Prime Minister <a href="https://www.bbc.com/news/world-asia-india-19844270" target="_blank">Imran Khan</a> defied heavy police resistance to <a href="https://apnews.com/article/pakistan-lockdown-imran-khan-rally-clashes-belarus-ec6cb96753c83be24b20cd32588ead71" target="_blank">march toward Islamabad</a>, demanding his release. Clashes resulted in one police officer dead and several injured, while tear gas and roadblocks failed to deter protesters. Khan’s party, Pakistan Tehreek-e-Insaf (PTI), led the march, with his wife, Bushra Bibi, speaking to crowds 30 miles from the capital. Khan has been jailed since August 2023, facing over 150 criminal cases that his party claims are politically motivated. The march coincided with a visit by Belarusian President Alexander Lukashenko, amplifying tensions as the government criticized the demonstrations for negatively impacting Pakistan’s fragile economy.
+          </p>
+          </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇺🇸 Trump’s tariff plan:</strong> 
+            President-elect Donald Trump plans to impose tariffs of <a href="https://www.france24.com/en/americas/20241126-trump-tariffs-mexico-canada-china" target="_blank">25% on imports from Mexico and Canada and 10% on Chinese goods</a>, citing national security concerns related to fentanyl smuggling and immigration. He reiterated his trade policies from his first term, and his incoming commerce secretary, <a href="https://edition.cnn.com/2024/11/19/politics/howard-lutnick-commerce-secretary/index.html" target="_blank">Howard Lutnick</a>, advocates for even higher tariffs on China. Economists warn that these <a href="https://www.theguardian.com/us-news/2024/nov/27/trump-tariffs-explained" target="_blank">tariffs</a> may increase consumer prices and hinder economic growth, while critics believe they could undermine global trade norms. Mexico's President Claudia Sheinbaum downplayed the threat, and retaliatory measures from affected countries are expected, along with potential legal challenges.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇮🇱 Ceasefire deal between Israel and Hezbollah:</strong> 
+            A <a href="https://www.bbc.com/news/articles/cx2d3gj9ewxo" target="_blank">ceasefire</a> took effect early Wednesday, eliciting mixed <a href="https://www.bbc.com/news/videos/c2k0ezg2p3go" target="_blank">reactions</a>. In Beirut, some residents are cautiously optimistic, while others express skepticism and call for accountability and rebuilding. In Israel, opinions vary, with some hopeful for peace and the return of displaced residents, while others fear Hezbollah may regroup. The ceasefire does not affect <a href="https://www.bbc.com/news/articles/c0j8063plvdo" target="_blank">Gaza</a>, but President Biden expressed hope for a similar resolution. <a href="https://www.timesofisrael.com/liveblog_entry/hamas-says-group-ready-for-gaza-ceasefire-after-hezbollah-appears-to-lay-down-arms/" target="_blank">Hamas</a> has indicated readiness for a ceasefire, and the U.S. aims for the Lebanon truce to pressure Hamas into concessions, though Israel's broader goals in Gaza remain unresolved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">Why is the EU making an envoy to Syria?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The European Union (EU) is establishing a <a href="https://www.thenationalnews.com/news/europe/2024/10/28/eu-commission-to-appoint-special-envoy-to-syria-amid-push-for-refugee-returns/" target="_blank">special envoy</a> to Syria to help navigate the country's and the broader region's complex and evolving situation. Some EU members support this move as an easy way to deal with <a href="https://english.aawsat.com/arab-world/5075913-eu-preparing-appoint-envoy-syria-address-migration-crisis" target="_blank">Syrian migration</a>, while others want a strengthened EU presence.</p>
+          <p style="font-size:16px;line-height:1.4;">Syrian activists and refugees <a href="https://www.dw.com/en/eu-syria-foreign-policy-special-envoy-bashar-assad-government-v2/a-70890825" target="_blank">argue</a> that any move to engage with Assad, even through a special envoy, could be interpreted as an EU endorsement of a regime that has been accused of war crimes, including chemical attacks on civilians and severe repression of political dissent. They fear it could weaken international pressure for accountability and justice for the crimes committed by <a href="https://www.britannica.com/biography/Bashar-al-Assad" target="_blank">Assad</a> and his government. Many Syrian refugees worry that this will further the drive to send some of them back home. The lack of action from the EU in the past towards Syria drives this anger, so some of them are wondering why now. </p>
+          <p style="font-size:16px;line-height:1.4;">One reason for supporting it is that the Syrian conflict involves multiple <a href="https://www.theguardian.com/world/2018/apr/14/syria-conflict-assad-putin-russia-iran-israel" target="_blank">international players</a>, including Russia, Iran, and Turkey, and these actors have challenged the EU’s influence in the region. A special envoy could strengthen the EU’s diplomatic presence, enabling it to assert its role in any future peace process and ensure that European interests are represented in discussions about Syria’s future.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 1939, after Finland rejected Soviet demands in late 1939, the Soviet Union invaded, igniting the <a href="https://www.britannica.com/event/Russo-Finnish-War" target="_blank">Russo-Finnish War</a>, or Winter War. Finland’s smaller forces defended against the larger but disorganized Soviet army using guerrilla tactics and their knowledge of the harsh winter terrain. Despite their resistance, Finland ultimately signed the <a href="https://www.prlib.ru/en/history/619090" target="_blank">Moscow Peace Treaty</a> in March 1940, ceding significant territory while maintaining its independence.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-30-1.png" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">In Rio de Janeiro, Brazil, giant portraits of global leaders have been submerged in water as a protest against the climate crisis.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-nov-30-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DC9mbi5OK50/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Argentina</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCtNYfcBQk4/?igsh=MTAycjQ0Y2wwZTIyZw==" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Nicaragua</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCtNYfcBQk4/?igsh=MTAycjQ0Y2wwZTIyZw==" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                                 background-color: rgba(6,38,109,0.2);
+              ">El Salvador</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DCtNYfcBQk4/?igsh=MTAycjQ0Y2wwZTIyZw==" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Quatemala</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Photo by Pablo Porciuncula / Getty Images.</p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticsworld/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.threads.net/@geopoliticsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
