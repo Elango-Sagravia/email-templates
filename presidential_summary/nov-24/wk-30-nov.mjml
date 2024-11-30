@@ -1,0 +1,362 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+            
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s weekend edition:</strong></p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Trump’s federal charges dismissed</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Native American Heritage Month</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ What can get more expensive with the new tariffs? </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG ONE</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- THE BIG ONE contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Cleared of charges</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-30-1.jpg" alt="Cleared of charges" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A federal judge has <a href="https://www.cbsnews.com/news/jack-smith-dismiss-charges-trump-d-c-election-case/" target="_blank">dismissed</a> charges in the 2020 election case against President-elect Donald Trump following a <a href="https://storage.courtlistener.com/recap/gov.uscourts.dcd.258149/gov.uscourts.dcd.258149.281.0_5.pdf" target="_blank">request</a> from special counsel Jack Smith. Smith cited Justice Department policy prohibiting the prosecution of a sitting president, regardless of the allegations’ gravity. U.S. District Judge Tanya Chutkan approved dismissing the case without prejudice, allowing it to be refiled after Trump leaves office in 2029.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump’s team hailed the decision as a victory for justice, while critics pointed to the policy’s impact on accountability. Smith, who led investigations into Trump’s conduct, is expected to file a final report and resign. The decision ended federal prosecution but left ongoing <a href="https://www.axios.com/2024/11/25/trump-legal-cases-status" target="_blank">state cases</a> in Georgia and New York. Trump’s <a href="https://www.bbc.com/news/articles/cp9zjl2d3m7o" target="_blank">plans</a> to appoint key legal allies to the Justice Department raise questions about future case handling.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Native American Heritage Month</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Native American Heritage Month is <a href="https://www.today.com/life/holidays/when-is-native-american-heritage-month-rcna178125" target="_blank">celebrated</a> every November to honor the contributions of Native American peoples in the U.S. It provides a platform for sharing their cultural heritage and contemporary lives. It also serves as a way to honor the contributions of Native Americans in many aspects of US culture and livelihood (<a href="https://www.axios.com/2024/11/28/in-photos-native-american-heritage-month" target="_blank">see photos</a>). Established in 1990 by President George H.W. Bush’s proclamation, evolved from “American Indian Week” in 1986. The month coincides with Thanksgiving, which represents colonization for many Native Americans. Activities include powwows, storytelling, and cultural exhibitions to promote a broader understanding of Native experiences.</p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Germany needs workers</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Germany is experiencing a significant <a href="https://www.dw.com/en/germany-needs-288000-foreign-workers-annually-until-2040-study/a-70885279#:~:text=Germany%3A%20288%2C000%20foreign%20workers%20needed%20annually%20until%202040,-11%2F26%2F2024&text=Despite%20recent%20reforms%20to%20labor,to%20be%20filled%20by%20immigrants." target="_blank">labor shortage</a>, projected to worsen due to a shrinking workforce, which could decline by 10% by 2040. The Bertelsmann Foundation estimates that Germany will need around 288,000 skilled immigrant workers annually and possibly up to 368,000 by 2060. Despite <a href="https://www.dw.com/en/germanys-new-immigration-law-promises-easier-visa-process/a-66000520" target="_blank">reforms to labor migration laws</a> in 2023, barriers and discrimination remain, hindering the attraction of skilled workers. Regions like <a href="https://www.google.com/maps/place/Saxony-Anhalt,+Germany/@51.9841583,10.5549464,8z/data=!3m1!4b1!4m6!3m5!1s0x47a5f099e8512481:0xd11dc516e80ede74!8m2!3d51.9502649!4d11.6922734!16zL20vMDlocmM?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank">Thuringia and Saxony-Anhalt</a> will face the most challenges, while cities like Berlin and Hamburg may be less impacted due to higher immigration levels. While immigration remains a hot issue in Germany, it turns out that immigrants are still needed. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Lost hiker found</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">What began as a routine workday in northeast British Columbia became an <a href="https://edition.cnn.com/2024/11/27/americas/canada-british-columbia-lost-hiker-intl-latam/index.html" target="_blank">incredible rescue</a> when two men found hiker Sam Benastick, missing for over a month. Last seen on October 17 after starting a 10-day camping trip, he was discovered weak but alive, using two walking sticks and a makeshift sleeping bag for warmth. Benastick had spent weeks in the wilderness, initially in his car, then camping by a creek, and finally in a dried-out creek bed. Despite suffering from frostbite and smoke inhalation, he was rescued and taken to the hospital, reuniting with his relieved family.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+   
+   <mj-spacer height="10px"></mj-spacer>
+
+    <!-- the big question -->
+
+   <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">What can get more expensive with Trump's new tariffs? </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">Many voters for Donald Trump did not vote for him because of his MAGA policies and social issues; they voted for him based on <a href="https://apnews.com/article/trump-harris-economy-immigration-11db37c033328a7ef6af71fe0a104604" target="_blank">economic factors</a>. However, will these be relieved by his <a href="https://www.theguardian.com/us-news/2024/nov/27/trump-tariffs-explained" target="_blank">tariff plans</a>, particularly the ones he plans to have with China, Mexico, and Canada, the US's largest trading partners? </p>
+        <p style="font-size: 16px; line-height: 1.4">President-elect Donald Trump’s proposed 25% tariff on goods from Mexico and Canada could significantly <a href="https://edition.cnn.com/2024/11/26/business/tariffs-mexico-canada-more-expensive/index.html" target="_blank">impact American consumers</a>. Gas prices could rise by 25 to 75 cents per gallon as the U.S. imports much of its oil from Canada. Food prices would also increase, especially for items like avocados, which the U.S. imports heavily from Mexico. Cars and car parts from Mexico, valued at nearly $45 billion in 2023, would become more expensive, affecting manufacturers and consumers. Alcohol imports, including Mexican beer and tequila, would also increase prices. With Mexico now the <a href="https://www.forbes.com/sites/kenroberts/2024/02/07/2023-results-are-in-us-has-new-top-port-trade-partner-export-import/" target="_blank">U.S.’s top trading partner</a>, these tariffs would disrupt supply chains, leading to higher costs for a wide range of goods, ultimately burdening U.S. consumers and businesses.</p>
+       <p style="font-size: 16px; line-height: 1.4">Donald Trump was democratically elected and will have a chance to prove himself to voters in January. So, many of his plans and effectiveness remain to be seen. However, when examining the impact of tariffs, it seems that the “voters for economic reasons” did not have this in mind when casting a vote.</p>
+      
+        </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> PHOTO OF THE WEEK </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-nov-30-2.jpg" alt="PHOTO OF THE WEEK" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+         Seoul has experienced its heaviest November snowfall since record-keeping began in 1907. 
+          </p>
+        </mj-text>
+    </mj-section>
+    <!-- banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#210E27" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1982, Michael Jackson released <i>Thriller</i>, which became the best-selling album in the world and won a record-setting eight Grammy Awards.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by AFP via Getty Images.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
