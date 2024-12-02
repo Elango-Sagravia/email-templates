@@ -1,0 +1,256 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Behind the scenes of legendary businesses. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:10px;
+            ">Was this email forwarded to you? <a href="https://www.businesshistory.co" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">The passion for sound</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-2-1.jpg" alt="The passion for sound" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Amar Gopal Bose’s story is one of persistence and visionary brilliance. Born in 1929 to an Indian freedom fighter and an American schoolteacher, Bose’s passion for electronics began early. By age 13, he was repairing radios during World War II to support his family. This early tinkering sparked a lifelong fascination with sound.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          In 1964, Bose founded the Bose Corporation after a frustrating experience with his purchased stereo system. The sound quality fell far below expectations, inspiring him to revolutionize audio technology. His breakthrough came with the 901 Direct/Reflecting Speaker System, a design that mimicked how sound is experienced in a live concert by reflecting audio off walls. It set a new benchmark for home audio and established Bose as a brand synonymous with premium sound.</p>
+          <p style="font-size: 16px; line-height: 1.4">Bose didn’t just stop at home speakers. Over the years, the company delved into diverse innovations like noise-canceling headphones, a game-changer for travelers and professionals alike. Initially developed for pilots, this technology was adapted for consumers, cementing Bose’s reputation as an acoustic pioneer.</p>
+          <p style="font-size: 16px; line-height: 1.4">Amar Bose’s ethos was always about reinvestment in innovation. A professor at MIT for over 45 years, he believed in solving practical problems through research, not chasing profits. In 2011, Amar Bose made an unexpected move: he donated most of Bose Corporation’s shares to MIT, ensuring the company remained private and focused on innovation rather than shareholder demands.</p>
+          <p style="font-size: 16px; line-height: 1.4">Following Bose’s passing in 2013, the company faced challenges adapting to the tech-dominated landscape. New competitors like Sony and Apple entered the audio market, often delivering comparable quality at lower prices. Bose pivoted toward smart speakers, immersive sound systems, and advanced wearables like the Bose Frames to stay relevant, combining audio with augmented reality.</p>
+          <p style="font-size: 16px; line-height: 1.4">Today, Bose operates in over 50 countries, maintaining its core commitment to research. While it no longer dominates the market, its focus on premium sound and niche products keeps it a respected name in audio technology.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+
+     <!-- B I L L I O N N A I R E   W A T C H -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BILLIONNAIRE WATCH</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Andre Esteves</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-2-2.jpg" alt="Andre Esteves" href="https://www.businesshistory.co" />
+        <mj-spacer height="14px"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Net Worth:</strong> $5.2 billion</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Rank:</strong> 417th in the world</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>About:</strong> Esteves is a Brazilian banking magnate and a key figure at BTG Pactual, Latin America’s largest independent investment bank. His expertise in risk management and deal-making has earned him a reputation as one of the sharpest financial minds. Esteves rebuilt his career after facing legal troubles, proving his resilience. Under his leadership, BTG expanded globally, influencing markets far beyond Brazil.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Need to Know:</strong> Esteves returned to BTG after being cleared of legal charges, making a spectacular comeback. Known as a "finance gladiator," he operates boldly and precisely. His love for soccer often sees him connecting sports with high-stakes business deals.​​</p>
+          
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- banner -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">"If you don't build your dream, someone else will hire you to help build theirs." — Dhirubhai Ambani</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Luiz Prado/ LUZ.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.businesshistory.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/BizHistory/"
+              src="https://www.businesshistory.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
