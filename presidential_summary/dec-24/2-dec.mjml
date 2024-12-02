@@ -1,0 +1,473 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Trump picks FBI chief</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Greenland gets it’s airport</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ FIFA report on Qatar </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+    <mj-spacer height="10px" />
+
+
+    <!-- breaking news1  -->
+
+    <!-- Content sections -->
+     <mj-section css-class="mj_section" background-color="#4D3060">
+      <mj-column background-color="#4D3060" >
+      <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <h2 style="
+          color: #DB91EF;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #DB91EF;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">Breaking News</h2>
+        </mj-text>
+        <mj-spacer height="20px"/>
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <p style=" 
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              text-align: left;
+            ">President Joe Biden issued a full pardon for his son, Hunter Biden, covering federal gun and tax convictions. Biden cited selective prosecution and political motivations, emphasizing his belief in justice but acknowledging raw politics influenced the cases (<a href="https://www.whitehouse.gov/briefing-room/statements-releases/2024/12/01/statement-from-president-joe-biden-11/" target="_blank">official statement</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- /breaking news 1 -->
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">New FBI director</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-2-1.jpg" alt="New FBI director" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Trump’s <a href="https://edition.cnn.com/2024/11/30/politics/kash-patel-fbi-director-trump/index.html" target="_blank">nomination</a> of Kash Patel as FBI director has been the latest significant controversy surrounding his nominations. <a href="https://www.aljazeera.com/news/2024/12/1/who-is-kash-patel-the-trump-loyalist-tapped-to-run-the-fbi" target="_blank">Patel</a> is a Trump loyalist who gained prominence as an aide to Representative Devin Nunes. He has been a vocal critic of the FBI, particularly regarding its investigations into Trump and the Russia probe. In his book, “<a href="https://www.google.co.in/books/edition/Government_Gangsters/CBZrzwEACAAJ?hl=en" target="_blank">Government Gangsters</a>”, Patel alleges that the FBI and the Justice Department have shown bias against Trump and the Republican Party, claiming they are part of a "deep state" that undermines democracy.</p>
+          <p style="font-size: 16px; line-height: 1.4">He has openly called for a "housecleaning" of the Justice Department, raising concerns about his potential to politicize the FBI. Following his nomination, Kash Patel <a href="https://www.msn.com/en-us/news/politics/what-kash-patel-has-said-about-the-fbi/ar-AA1v4uDz?ocid=BingNewsSerp" target="_blank">expressed</a> his gratitude to Trump by claiming that “it is the honor of the lifetime and returning the FBI to its rightful mission: protecting the American people.”</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Greenland opens international airport</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-2-2.jpg" alt="Greenland opens international airport " href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Greenland is becoming more <a href="https://edition.cnn.com/2024/11/27/travel/greenland-nuuk-international-airport-new/index.html" target="_blank">accessible</a> with the opening of Nuuk International Airport on November 28. With its 2,200-meter runway, the new airport will be able to accommodate larger planes, improving connectivity and boosting tourism. Starting in June, United Airlines will offer nonstop seasonal flights from Newark, New Jersey, cutting travel time to just over four hours. The airport, which will serve as a hub for Air Greenland, is expected to add $200,000 to the local economy with each flight.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          While tourism numbers are expected to rise, officials are focused on finding a balance to avoid <a href="https://www.msn.com/en-us/travel/news/greenland-is-gorgeous-and-uncrowded-now-here-come-the-americans/ar-AA1sIp4J" target="_blank">overwhelming</a> the region. The opening of Nuuk’s airport is just the first step, as two more airports are planned for 2026, further opening up Greenland for exploration while preserving its unique and remote charm.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">FIFA should compensate </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A FIFA-commissioned report has concluded that FIFA is <a href="https://www.npr.org/2024/11/30/nx-s1-5211297/soccer-qatar-world-cup-saudi-arabia-human-rights" target="_blank">responsible</a> for compensating migrant workers harmed during the construction of the 2022 World Cup venues in Qatar. The report, released on November 30, acknowledged severe human rights abuses, including worker deaths, injuries, unpaid wages, and crippling debts due to recruitment fees. While FIFA took steps to address human rights concerns, the report found that it indirectly contributed to some of the negative impacts.</p>
+          <p style="font-size: 16px; line-height: 1.4">The study recommends that FIFA use its $50 million <a href="https://inside.fifa.com/about-fifa/official-documents/qatar-2022-legacy-fund-plan#legacy-fund-overview" target="_blank">Qatar legacy fund</a> to support migrant workers, but FIFA has instead allocated the fund to global development projects. <a href="https://www.amnesty.org.uk/press-releases/fifa-must-secure-binding-human-rights-safeguards-2030-and-2034-world-cup-hosts-new" target="_blank">Amnesty International</a> and other human rights organizations are pushing for FIFA to take direct action to compensate the workers who suffered during the World Cup preparations.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The conflict in northern Syria</strong> has <a href="https://edition.cnn.com/2024/12/01/middleeast/syrian-regime-airstrikes-opposition-forces-intl/index.html" target="_blank">escalated</a> sharply, with intensified bombing campaigns by Syrian and Russian jets targeting opposition forces after a surprise offensive from the rebels that captured Aleppo.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Canadian Prime Minister Justin Trudeau</strong> met U.S. President-elect Donald Trump at Mar-a-Lago amid tensions over Trump’s <a href="https://time.com/7199118/canadian-prime-minister-trudeau-flies-to-florida-to-meet-with-trump-after-tariffs-threat/" target="_blank">threat</a> to impose a 25% tariff on Canadian goods, citing border and drug concerns.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>In Ireland’s recent election</strong>, the outgoing centrist government parties, Fianna Fail and Fine Gael, are poised to <a href="https://www.bbc.com/news/articles/cdxyx5704xeo" target="_blank">return to power</a>, defying global election trends. Analysts project 80 seats for the center-right parties, putting them closer to the 88 mark.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Black Friday spending in the U.S. shifted online</strong>, with e-commerce sales <a href="https://www.msn.com/en-us/money/other/total-us-black-friday-spending-in-stores-and-online-rose-34-year-over-year-data-shows/ar-AA1v2GPn?ocid=BingNewsSerp" target="_blank">growing</a> 14.6% year-over-year, while in-store sales increased only 0.7% or declined when adjusted for inflation. </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Elon Musk filed an injunction against OpenAI to halt its transition to a for-profit</strong>. Musk <a href="https://techcrunch.com/2024/11/30/elon-musk-files-for-injunction-to-halt-openais-transition-to-a-for-profit/" target="_blank">alleges</a> anticompetitive practices, stating that OpenAI required investors in its latest funding round to avoid funding its rivals, including xAI. Musk donated $44 million to OpenAI when it was a non-profit and asserts that its conversion to a for-profit undermines the terms of his donation.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The China Development Bank has partnered with over 40 African nations</strong> to advance the Belt and Road Initiative, supporting infrastructure, manufacturing, and SMEs. Projects include the Lekki Port, Nairobi Expressway, and the TEDA Suez Zone, boosting economic growth. Earlier, President Xi Jinping <a href="https://www.nbcnews.com/news/world/china-africa-summit-us-xi-jinping-rcna169673" target="_blank">pledged</a> over $50 billion in financing for Africa's energy and agricultural infrastructure (<a href="https://www.chinadaily.com.cn/a/202411/29/WS67498428a310f1265a1d0504.html" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The chocolate industry faces significant sustainability challenges</strong>, driven by reduced cocoa yields and rising prices. In <a href="https://www.wired.com/story/chocolate-has-a-sustainability-problem-science-thinks-its-found-the-answer/#:~:text=a%20Sustainability%20Problem.-,Science%20Thinks%20It%27s%20Found%20the%20Answer,and%20improve%20farmer%20revenue%20streams." target="_blank">response</a>, a team at ETH Zurich has developed an innovative chocolate-making method.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The 2024 Atlantic hurricane season</strong> was record-breaking, <a href="https://www.theverge.com/2024/11/26/24306445/atlantic-hurricane-season-end-2024-noaa" target="_blank">highlighting</a> the urgent need for reliable forecasting and disaster response amid growing political and climate-related challenges.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Researchers have <a href="https://edition.cnn.com/2024/11/26/science/egyptian-bes-mug-hallucinogens/index.html" target="_blank">discovered</a> residues of <strong>psychedelic drugs, bodily fluids, and alcohol</strong> in a 2,000-year-old Egyptian mug, revealing that ancient Egyptians may have consumed hallucinogenic beverages during rituals.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Mikaela Shiffrin’s pursuit of her 100th World Cup win was <a href="https://edition.cnn.com/2024/11/30/sport/mikaela-shiffrin-world-cup-win-100-spt-intl/index.html" target="_blank">interrupted</a> on Saturday after <strong>she crashed out of the giant slalom</strong> at the Stifel Killington Cup in Vermont.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Mohammad Rasoulof, an Iranian director and outspoken critic of the regime, risked his life to make “<a href="https://www.nbcnews.com/pop-culture/the-seed-of-the-sacred-fig-interview-iranian-director-rasoulof-rcna180183" target="_blank">The Seed of the Sacred Fig</a>” while facing an eight-year prison sentence for his activism.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Crypto entrepreneur eats banana artwork bought for $6.2m (<a href="https://www.bbc.com/news/articles/cqj051glrr9o" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Vietnam approves north-south highspeed rail link (<a href="https://www.dw.com/en/vietnam-greenlights-north-south-highspeed-rail-link/a-70928215" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A Russian stowaway flew from New York to Paris and caused a disturbance (<a href="https://edition.cnn.com/2024/11/30/us/delta-stowaway-passenger-return-flight/index.html" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The most European city in North America (<a href="https://dailypassport.com/most-european-city-north-america-quebec-city-canada/" target="_blank">read more</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1993, Colombian drug lord Pablo Escobar, head of the Medellín cartel and one of the most powerful drug traffickers of the 1980s and early '90s, was killed in a shoot-out with authorities.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
