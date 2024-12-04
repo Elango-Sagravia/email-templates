@@ -1,0 +1,98 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding="10px 0px">
+      <mj-column padding="0px 10px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-text padding="0px 0px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ SingPost trades FMH</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ $5.1B Calisen acquisition </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ AVJennings buyout</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">PEP to acquire SingPost’s FMH</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-3-1.jpg" alt="PEP to acquire SingPost’s FMH" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Singapore Post Limited has <a href="https://www.privateequitywire.co.uk/pep-to-acquire-to-acquire-singposts-australia-business-fmh-for-505m/" target="_blank">agreed</a> to sell its Australian logistics business, Freight Management Holdings (FMH), to Pacific Equity Partners (PEP) for $505.4 million. The deal values FMH at AUD1.02B and is expected to bring SingPost a gain of $233.1 million. PEP’s Managing Director expressed excitement about FMH’s growth potential. On the other hand, SingPost plans to use proceeds to repay AUD-denominated debt and may consider a special dividend.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">EQT and GIC acquire Calisen</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-3-2.jpg" alt="EQT and GIC acquire Calisen" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter:blur(5px)">EQT and GIC are <a href="https://pitchbook.com/news/articles/eqt-gic-acquire-uk-smart-meter-group-calisen-at-5-1b-valuation#:~:text=EQT%20and%20GIC%20are%20set,according%20to%20the%20Financial%20Times." target="_blank">acquiring</a> UK-based smart meter group Calisen, valuing it at £4B ($5.1B). Calisen, which specializes in smart metering, solar, EV charging, and data services, will exit from its current owners, BlackRock, Goldman Sachs Alternatives, and Mubadala. GIC’s interest follows its recent €6.7B acquisition of Techem, a German metering firm. The clean energy sector hit a record European PE deal value of €21B in 2024.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    
+  </mj-body>
+</mjml>

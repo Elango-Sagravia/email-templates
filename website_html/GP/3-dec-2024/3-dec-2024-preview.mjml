@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff" padding="10px 0px">
+      <mj-column padding="0px 10px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-text padding="0px 0px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ UN Aid trucks suspended</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ German FM warns China</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Iranian militias enter Syria</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">UN aid halted</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-3-1.jpg" alt="UN aid halted" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">UNRWA has <a href="https://www.bbc.com/news/articles/c1ln5592v46o" target="_blank">suspended</a> aid deliveries through Gaza's <a href="https://www.google.com/maps/place/Kerem+Shalom+check-point/@31.2187718,34.2716332,15z/data=!4m6!3m5!1s0x14fded5a787b5811:0x87f384d8c2a9944f!8m2!3d31.219044!4d34.2724963!16s%2Fg%2F11rc9wn5vh?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank">Kerem Shalom crossing</a> due to escalating theft and insecurity. This announcement is a result of two recent loots by armed gangs near the crossing and the death of three people employed by the <a href="https://wck.org/" target="_blank">World Central Kitchen</a>. On 16 November, a convoy of 107 trucks was attacked by masked men and looted 97 lorries. The locals and aid workers have accused the gang of operating in plain sight of the Israel Defense Forces in a restricted area. UNRWA chief Philippe Lazzarini has called on Israel to restore law and order to ensure the safe passage of humanitarian aid.</p>
+          <p style="font-size:16px;line-height:1.4;">Israel accuses Hamas of stealing and profiting from the aid. The Coordinator of Government Activities in the Territories <a href="https://x.com/cogatonline/status/1863250932378501351" target="_blank">mentioned</a> that only 7% of the aid that came to the Gaza Strip was coordinated by UNRWA and there were other humanitarian organizations delivering aid in response to the announcement. The situation continues to deteriorate in Gaza, which is now facing a potential famine as aid shipments are at their lowest levels since the conflict began in October 2023.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Warning for China</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-3-2.jpg" alt="Warning for China" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">During a visit to Beijing, German Foreign Minister Annalena Baerbock <a href="https://www.dw.com/en/germanys-baerbock-warns-china-over-russia-support/a-70934902" target="_blank">warned</a> that Russian President Vladimir Putin is pulling Asia into the Ukraine conflict. She expressed concerns about China potentially supplying drones or components to Russia and stated that such actions could damage the relationship between China and Germany. Baerbock criticized China and North Korea's <a href="https://edition.cnn.com/2024/10/24/asia/russia-china-north-korea-iran-new-axis-intl-hnk/index.html" target="_blank">support</a> for Russia, calling it a threat to European security.</p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">Trade was also another key topic. Baerbock urged China to work on electric vehicle (EV) tariffs with the EU. While Germany opposes the <a href="https://www.euronews.com/business/2024/11/29/eu-and-china-advance-towards-alternative-solution-for-ev-tariffs#:~:text=The%20European%20Commission%20decided%20to,reductions%20on%20the%20proposed%20tariffs." target="_blank">EU’s tariffs</a> on Chinese EVs, fearing repercussions for German carmakers in the Chinese market, China argues the tariffs violate fair trade principles and has hinted at retaliatory measures.​</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Content sections -->
+  </mj-body>
+</mjml>

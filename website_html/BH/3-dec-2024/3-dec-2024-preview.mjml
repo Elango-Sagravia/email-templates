@@ -1,0 +1,58 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+   
+ <mj-spacer height="15px"></mj-spacer>
+    
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">The passion for sound</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-3-1.jpg" alt="The passion for sound" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Amar Gopal Bose’s story is one of persistence and visionary brilliance. Born in 1929 to an Indian freedom fighter and an American schoolteacher, Bose’s passion for electronics began early. By age 13, he was repairing radios during World War II to support his family. This early tinkering sparked a lifelong fascination with sound.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">
+          In 1964, Bose founded the Bose Corporation after a frustrating experience with his purchased stereo system. The sound quality fell far below expectations, inspiring him to revolutionize audio technology. His breakthrough came with the 901 Direct/Reflecting Speaker System, a design that mimicked how sound is experienced in a live concert by reflecting audio off walls. It set a new benchmark for home audio and established Bose as a brand synonymous with premium sound.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">Bose didn’t just stop at home speakers. Over the years, the company delved into diverse innovations like noise-canceling headphones, a game-changer for travelers and professionals alike. Initially developed for pilots, this technology was adapted for consumers, cementing Bose’s reputation as an acoustic pioneer.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">Amar Bose’s ethos was always about reinvestment in innovation. A professor at MIT for over 45 years, he believed in solving practical problems through research, not chasing profits. In 2011, Amar Bose made an unexpected move: he donated most of Bose Corporation’s shares to MIT, ensuring the company remained private and focused on innovation rather than shareholder demands.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">Following Bose’s passing in 2013, the company faced challenges adapting to the tech-dominated landscape. New competitors like Sony and Apple entered the audio market, often delivering comparable quality at lower prices. Bose pivoted toward smart speakers, immersive sound systems, and advanced wearables like the Bose Frames to stay relevant, combining audio with augmented reality.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">Today, Bose operates in over 50 countries, maintaining its core commitment to research. While it no longer dominates the market, its focus on premium sound and niche products keeps it a respected name in audio technology.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
