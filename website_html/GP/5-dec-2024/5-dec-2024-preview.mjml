@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 5th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Belgium loses case</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Baltics sanction Georgian officials</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Martial law trigger</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:16px !important">Belgium crimes</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-5-1.jpg" alt="Belgium crimes" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">In a landmark decision, Belgium’s appeals court <a href="https://www.france24.com/en/europe/20241202-belgian-court-rules-against-state-over-abduction-of-mixed-race-children-in-colonial-era-congo" target="_blank">ruled</a> against the state that five mixed-race women, abducted as children from Belgian-ruled Congo and placed in Catholic institutions, were victims of systematic persecution constituting a crime against humanity. The women, now in their 70s, were forcibly separated from their mothers due to their mixed-race origins. The court found this inhumane and immune to statutes of limitation under post-WWII UN resolutions. </p>
+          <p style="font-size:16px;line-height:1.4;">The Belgian state was ordered to pay reparations for the moral damage, recognizing the harm caused to their identity and familial ties. The women also demanded compensation of 50,000 euros ($55,200) each. While Belgium formally apologized to the mixed-race descendants of its white colonists in 2019, it is yet to issue an official <a href="https://www.politico.eu/article/belgium-still-struggling-with-its-colonial-ghosts/" target="_blank">apology</a> for slavery and the atrocities committed by King Leopold II.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Baltics against Georgia</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-5-2.jpg" alt="Baltics against Georgia" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4; filter:blur(5px);">Estonia, Latvia, and Lithuania have <a href="https://www.vm.ee/en/news/foreign-minister-tsahkna-bans-11-georgian-officials-entering-estonia" target="_blank">imposed</a> sanctions on Georgia’s ruling officials, including influential oligarch Bidzina Ivanishvili and Interior Minister Vakhtang Gomelauri, in response to the violent suppression of anti-government protests in Tbilisi. These officials are now barred from entering the three Baltic states because of “their participation in serious human rights violations by aggressively suppressing legitimate protests,” Estonia’s foreign ministry stated.</p>
+          <p style="font-size:16px;line-height:1.4; filter:blur(5px);">Estonian Foreign Minister Margus Tsahkna criticized the ruling party for lying to its citizens and suppressing their rights, emphasizing that the use of disproportionate force against peaceful demonstrations violates human rights. Newly appointed EU foreign policy chief Kaja Kallas <a href="https://www.politico.eu/article/estonia-latvia-lithuania-baltic-countries-sanctions-georgian-officials-protests-violence-georgia-eu-accession-enlargement/" target="_blank">warned</a> that Georgia’s democratic backsliding would have “direct consequences” for its EU aspirations.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

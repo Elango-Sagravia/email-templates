@@ -1,0 +1,510 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 5th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Hedge funds bet on yen</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ TPG’s $1.5B sale</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ ESR goes private</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Hedge funds short euro-yen </h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-5-1.jpg" alt="Hedge funds short euro-yen" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Hedge funds are <a href="https://www.bnnbloomberg.ca/investing/2024/12/04/hedge-funds-pivot-to-selling-euro-against-yen-on-japan-rate-bets/" target="_blank">increasingly</a> betting on a stronger yen as speculation mounts over a potential Bank of Japan rate hike. Euro-yen options trading surged in recent weeks, with three-month implied volatility near its August peak. The shift away from dollar-yen trades stems from hawkish comments by BOJ Governor Kazuo Ueda and fears surrounding a no-confidence vote in France. Investors are favoring cheaper option structures like put butterflies to hedge risks. The yen is trading near its strongest level since December 2023, making it a preferred currency against the struggling euro.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">TPG’s potential sale</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-5-2.jpg" alt="TPG’s potential sale" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Private equity giant TPG is <a href="https://www.privateequitywire.co.uk/tpg-warming-up-for-1-5bn-plus-sale-of-crunch-fitness/" target="_blank">preparing</a> to sell Crunch Fitness for over $1.5 billion, including debt. Partnering with Jefferies, the sale could kick off in early 2025, attracting interest from other PE firms. Crunch Fitness, founded in 1989, now boasts 460+ locations globally and $100M EBITDA. Recent sector deals include L Catterton buying Solidcore and 26North acquiring OneLife Fitness. Crunch’s valuation could exceed 15x EBITDA.
+          </p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Learning Technologies goes private</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          General Atlantic is taking Learning Technologies Group <a href="https://pitchbook.com/news/articles/general-atlantic-to-take-learning-technologies-private#:~:text=General%20Atlantic%20has%20agreed%20to,take%2Dprivates%20in%20the%20UK." target="_blank">private</a> in a $1 billion deal, offering a 34% premium at 100 pence per share. The UK-listed ed-tech firm faced declining revenues as companies embraced generative AI and cut custom training budgets. LTG is delisting amid a wave of UK take-privates, with PE activity doubling to £14.7 billion this year. The move mirrors Just Eat’s delisting and follows high-profile acquisitions like EQT’s Dechra deal.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- ----- -->
+  <mj-spacer height="10px" />
+
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Bath & Body Works rebounds with strong earnings outlook</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-5-3.jpg" alt="Bath & Body Works rebounds with strong earnings outlook" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Bath & Body Works stock surged following an upbeat earnings report, signaling potential recovery for the retailer. The company posted $1.61 billion in revenue for Q3, marking a 3% increase year-over-year, while same-store sales declined by only 1.5%, the smallest drop since 2022 when the metric turned negative.</p>
+          <p style="font-size: 16px; line-height: 1.4">In a further positive move, the company raised its earnings-per-share guidance to $3.15–$3.28, up from $3.06–$3.26, reflecting improved confidence ahead of the crucial holiday season, traditionally the strongest period for retail.</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BRIEFS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Private Equity</h2>
+        </mj-text>
+    
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>ESR accepts $7B buyout bid:</strong>   
+            Hong Kong-listed ESR Group is set to go <a href="https://www.bnnbloomberg.ca/business/international/2024/12/04/esr-buyout-group-is-said-close-to-making-7-billion-binding-bid/" target="_blank">private</a> in a $7 billion deal. A consortium led by Starwood Capital, Sixth Street, and Qatar Investment Authority will pay HK$13 per share, a 55% premium. The logistics real estate firm manages $154 billion in assets, focusing on warehouses and data centers in Asia-Pacific. ESR’s fragmented ownership delayed negotiations, but major shareholders, including Omers, agreed to sell.</p>
+            </mj-text>
+
+           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Carlyle plans $324M debt for acquisition:</strong>   
+          Carlyle Group is <a href="https://www.bnnbloomberg.ca/investing/2024/12/04/carlyle-mulls-at-least-324-million-debt-for-waste-firm-purchase/" target="_blank">raising</a> A$500 million ($324M) in debt to acquire Waste Services Group, an Australian recycling firm. The deal, valued at A$1 billion, highlights rising activity in Australia’s leverage buyout market. Carlyle is weighing bank loans or private credit for financing, following similar deals like Affinity’s A$515M Lumus Imaging takeover.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Dubai billionaire invests $3B in Asia data:</strong>   
+          Dubai’s Damac Group, backed by Hussain Sajwani, is <a href="https://www.bnnbloomberg.ca/business/technology/2024/12/04/dubai-billionaire-plans-to-build-data-centers-across-asia/" target="_blank">investing</a> $3 billion in data centers across Southeast Asia. The initiative focuses on Thailand, Malaysia, and Indonesia to meet growing AI and cloud service demands. Damac’s unit, Edgnex Data Centers, is partnering with Nvidia to use its high-end Blackwell chips. With plans to expand globally, Edgnex aims to build a $5 billion digital infrastructure market.</p>
+          </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Hedge Funds</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Balyasny hires Nomura rates trader:</strong> Olek Gajowniczek, a senior Nomura rates trader, has <a href="https://www.hedgeweek.com/balyasny-bags-noumra-senior-rates-trader/#:~:text=Olek%20Gajowniczek%20has%20become%20the,a%20report%20by%20eFinancial%20Careers." target="_blank">joined</a> hedge fund Balyasny as a rates portfolio manager. The move follows multiple high-profile exits from Nomura’s rates desk, including EMEA head Ali Khan. Industry buzz suggests Khan might also join Balyasny.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>BlackRock invests $1.3B to keep talent:</strong> BlackRock is <a href="https://www.bnnbloomberg.ca/investing/2024/12/04/blackrocks-new-deals-task-fink-with-hanging-onto-key-talent/" target="_blank">spending</a> $1.3 billion on retention packages after acquiring HPS Investment Partners and Global Infrastructure Partners. The deals, valued at $25 billion, aim to expand its private credit and infrastructure assets to $600 billion. With top executives receiving equity incentives, CEO Larry Fink is focused on integrating new talent.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Venture Capital</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>SpaceX plans $350B tender offer:</strong>   
+           SpaceX is <a href="https://pitchbook.com/news/articles/spacex-tender-offer-secondary-sales-vc" target="_blank">preparing</a> a $350 billion tender offer, marking a record year for secondary sales in VC-backed firms. The valuation reflects a $140 billion jump since its last sale. With $88 billion raised globally for secondaries in 2024, SpaceX’s move underscores the trend of unicorns tapping private markets for liquidity.</p>
+        </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Kardashians raise $10M for Khloud:</strong>   
+           Khloé Kardashian and Kris Jenner are <a href="https://techcrunch.com/2024/12/04/khloe-kardashian-and-kris-jenner-are-raising-money-for-a-new-consumer-startup/" target="_blank">raising</a> $10 million for their new venture, Khloud. Already securing $4.49M, the startup’s trademarks hint at protein supplements in the form of popcorn and snack products. Bryan Baum of K5 Global is listed as CEO, with Michael Kives playing a key role. The Kardashian-Jenner family’s business acumen, seen with Kendall Jenner’s 818 Tequila, suggests another consumer hit.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Others</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Sabadell wins €358M lawsuit vs Cerberus:</strong>  
+          Banco Sabadell <a href="https://www.bnnbloomberg.ca/business/company-news/2024/12/04/sabadell-wins-358-million-in-uk-property-dispute-with-cerberus/" target="_blank">scored</a> a legal victory over Cerberus, winning €358 million in a London court. The dispute centered on a 2018 real estate joint venture, with Sabadell alleging Cerberus failed to honor investment agreements. Cerberus plans to appeal, claiming the court misinterpreted the contracts. For Sabadell, this win strengthens its financial standing as it fends off BBVA’s takeover attempts.</p>
+        </mj-text>
+ 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Italian tycoon ups stake in Monte Paschi:</strong>  
+           Francesco Caltagirone has <a href="https://www.bnnbloomberg.ca/business/2024/12/04/italian-tycoon-caltagirone-raises-stake-in-monte-paschi-to-5/" target="_blank">increased</a> his stake in Banca Monte dei Paschi di Siena SpA to 5%, surpassing Banco BPM SpA as a top shareholder. This move aligns with the Italian government’s strategy to privatize the bank and build a third major banking group.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+   
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Why do tech companies often trade at high price-to-earnings (P/E) ratios?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-5-4.jpg" alt="Why do tech companies often trade at high price-to-earnings (P/E) ratios?" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Tech companies frequently trade at high price-to-earnings (P/E) ratios because investors expect significant future growth. Unlike mature industries, many tech firms operate in innovative and rapidly expanding sectors, such as artificial intelligence, cloud computing, or biotechnology. This exponential revenue and earnings growth potential justify higher valuations today based on future profitability.</p>
+          <p style="font-size: 16px; line-height: 1.4">High P/E ratios also reflect the market's optimism about a company's scalability. Tech companies often have low marginal costs—once a product is developed, distributing it (e.g., software) can generate high returns without proportionally increasing expenses. For example, firms like Amazon and Tesla traded at elevated P/E ratios during their growth phases as investors priced in their long-term potential.</p>
+          <p style="font-size: 16px; line-height: 1.4">However, these valuations can also be risky. If growth slows or expectations aren’t met, stock prices may decline sharply. High P/E ratios signal optimism but should be evaluated alongside other metrics, such as cash flow and competitive positioning.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+
+    
+    <!-- fun friday -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">what is</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+      <h2 style="             
+             font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Vertical analysis</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+         Vertical analysis is a way to analyze financial statements by showing each line item as a percentage of a base figure. For example, on an income statement, you might show each expense as a percentage of total sales. Imagine you’re running a lemonade stand, and you find that sugar costs are 10% of your total sales–that’s vertical analysis. It helps you understand where your money is going relative to your overall revenue.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#6b705c" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">"Time is the friend of the wonderful company, the enemy of the mediocre." – Warren Buffett</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This newsletter is for informational purposes only and does not constitute financial advice.
+          </p>
+          
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
