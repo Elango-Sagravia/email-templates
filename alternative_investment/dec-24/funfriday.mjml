@@ -1,0 +1,107 @@
+<mj-spacer height="10px" />
+<mj-section
+  css-class="mj_fsection"
+  background-color="#ffffff"
+  css-class="mj_fsection"
+>
+  <mj-spacer height="0px"></mj-spacer>
+  <mj-column
+    background-color="#ffffff"
+    width="100%"
+  >
+    <mj-text
+      padding="10px 12px 0px 12px"
+      font-family="Roboto"
+      color="white"
+    >
+      <h2
+        style="
+          color: #6b705c;
+          text-align: left;
+          letter-spacing: 6px;
+          border-bottom: 2px solid
+            #6b705c;
+          text-transform: uppercase;
+          font-size: 20px;
+          line-height: 1.2;
+          font-weight: 300;
+          padding: 18px 8px 10px 8px;
+        "
+      >
+        FUN FRIDAYS
+      </h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<!-- Spotlight contents-->
+
+<!-- Content sections -->
+<mj-section
+  css-class="mj_section"
+  background-color="#ffffff"
+>
+  <mj-column>
+    <mj-text
+      padding="10px 12px"
+      font-family="Roboto"
+      color="#000000"
+    >
+      <h2
+        style="
+          font-size: 20px;
+          line-height: 1.2;
+          font-weight: 500;
+          margin-top: 2px !important;
+        "
+      >
+        Thinking Fast and Slow
+      </h2>
+    </mj-text>
+    <mj-image
+      padding="10px 12px"
+      width="600px"
+      src="https://www.altdaily.co/email/images/an-dec-6-5.jpg"
+      alt="Thinking Fast and Slow"
+      href="https://www.altdaily.co"
+    />
+    <mj-text
+      padding="10px 12px"
+      font-family="Roboto+Serif"
+      color="#000000"
+    >
+      <p
+        style="
+          font-size: 16px;
+          line-height: 1.4;
+        "
+      >
+        On the surface, this Nobel
+        laureate’s groundbreaking 2011
+        book is a deep dive into human
+        psychology, exploring how we
+        think, decide, and act. But in
+        fact, Thinking, Fast and Slow is
+        a cornerstone for understanding
+        the behavioral economics that
+        drive financial markets.
+        Kahneman masterfully unpacks how
+        our two thinking systems—fast,
+        instinctive reactions and slow,
+        deliberate reasoning—shape
+        investment decisions, risk
+        perception, and market behavior.
+        It reveals how cognitive biases,
+        like overconfidence and loss
+        aversion, lead to irrational
+        financial choices. Packed with
+        insights applicable to both
+        personal finance and
+        institutional investing, it’s a
+        must-read for anyone looking to
+        navigate the unpredictable world
+        of money.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
