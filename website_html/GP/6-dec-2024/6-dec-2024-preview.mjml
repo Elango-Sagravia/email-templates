@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Understand the forces shaping the world.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 6th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Israeli airstrike raises questions</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Romanian runoff elections</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Hungarian funds at stake</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Caught in conflict</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-6-1.jpg" alt="Caught in conflict" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The Israeli military recently <a href="https://edition.cnn.com/2024/12/04/middleeast/israel-hostages-airstrike-hamas-intl-latam/index.html" target="_blank">announced</a> that a February 14 airstrike in <a href="https://maps.app.goo.gl/wtsS1LrUYGJSZwzZ6" target="_blank">Khan Younis</a>, southern Gaza, may have indirectly contributed to the deaths of six Israeli captives whose remains were found in August. An investigation revealed that they likely survived the initial strike but were subsequently killed by militants, who themselves perished from the secondary effects of the attack. IDF spokesperson Daniel Hagari said they were not able to determine the cause of death due to the amount of time passed between the shooting and the forensic examination.</p>
+          <p style="font-size:16px;line-height:1.4;">The broader conflict, now over 14 months long, has <a href="https://edition.cnn.com/2024/07/06/middleeast/palestinians-displaced-gaza-israel-intl/index.html" target="_Blank">displaced</a> most of Gaza’s population, many of whom face famine-like conditions, especially in the north. International aid deliveries have been severely <a href="https://www.aljazeera.com/news/2024/12/1/unrwa-pauses-aid-through-key-gaza-crossing-as-hunger-stalks-palestinians#:~:text=The%20UN%20agency%20for%20Palestinian%20refugees%20has%20halted,as%20widespread%20hunger%20and%20deadly%20Israeli%20bombardments%20continue." target="_Blank">restricted</a>, compounding the suffering of civilians. Amidst the chaos, the Israeli army has released an official <a href="https://www.aa.com.tr/en/middle-east/israeli-army-admits-targeting-humanitarian-area-in-gaza-s-khan-younis/3414654#:~:text=The%20Israeli%20army%20on%20Thursday%20admitted%20that%20it,airstrike%20killed%2023%20Palestinians%20and%20injured%20dozens%20more." target="_Blank">statement</a> that it has carried out a “precise air attack” against a Hamas operative, which saw the death of 23 Palestinians, including women and children. Calls for a <a href="https://apnews.com/article/israel-hamas-gaza-geasefire-negotiations-qatar-d09bb192b298adb3fa76d0e819721fdf" target="_Blank">ceasefire</a> have gained momentum from the truce in Lebanon with Hezbollah.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Social media polarization</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-6-2.jpg" alt="Social media polarization" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">Romania’s recent parliamentary elections saw the leftist Social Democrats (PSD) win 21% of the vote, with far-right AUR gaining 18%, revealing the rising <a href="https://www.euronews.com/my-europe/2024/12/03/romanias-elections-show-pro-eu-victory-and-rise-of-the-far-right" target="_Blank">polarization</a>. Pro-European centrists, supported by a Hungarian minority party, are expected to form a majority coalition. Meanwhile, the upcoming presidential runoff on Saturday between pro-EU Elena Lasconi and nationalist Calin Georgescu will be pivotal.</p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">Social media amplifies the increasing anti-EU and pro-Kremlin narratives, fueling populist sentiment. Calin Geogescu rose to fame on <a href="https://www.rferl.org/a/tiktok-calin-georgescu-presidential-candidate-romania/33216735.html" target="_Blank">TikTok</a> and gained support from young voters who initially were seen as more progressive than the previous generations. However, the far-right movements in Europe have seen many supporters from younger generations for various <a href="https://www.euronews.com/my-europe/2024/06/21/why-is-the-far-right-gaining-popularity-among-young-people" target="_Blank">reasons</a>, including getting rid of technocrats, returning to a “Europe of nations,” and weakening “ineffective and corrupt” traditional parties. Some are dissatisfied with the status quo and feel reactionary messages offer simple solutions to changing it. Romania joins the European trend, where many countries struggle between pro-EU forces and nationalist movements.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

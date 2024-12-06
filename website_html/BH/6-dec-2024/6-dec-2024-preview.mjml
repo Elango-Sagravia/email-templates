@@ -1,0 +1,70 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Brick by brick</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-6-1.jpg" alt="Brick by brick" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> Founded in 1932 by Ole Kirk Christiansen, a Danish carpenter, LEGO started as a wooden toy company. The name "LEGO" came from the Danish phrase leg godt, meaning "play well." By the 1950s, the company introduced its iconic plastic interlocking bricks, revolutionizing playtime with limitless creative possibilities.</p>
+          <p style="font-size: 16px; line-height: 1.4;"> For decades, LEGO thrived as a beloved toy brand. However, by the late 1990s and early 2000s, trouble loomed. The company overextended itself with diverse product lines, theme parks, and video games, leading to costs and declining profits. Children shifted their attention to video games and electronic gadgets, leaving LEGO bricks to gather dust. In 2003, LEGO reported a $220 million loss, teetering on the brink of bankruptcy.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">Faced with an existential crisis, LEGO made drastic changes under the leadership of CEO Jørgen Vig Knudstorp, appointed in 2004. The company trimmed its bloated product lines, cutting out underperforming items. Factories were streamlined, and LEGO refocused on its core strength—bricks that fueled imagination.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">The turning point came through strategic partnerships and licensing deals. Collaborations with blockbuster franchises like Star Wars, Harry Potter, and Marvel revitalized LEGO’s appeal, bringing beloved characters into the brick-building world. The LEGO Star Wars sets, launched in 1999, became an instant hit, creating a template for future partnerships that merged storytelling with creativity.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">LEGO also embraced digital transformation. The launch of LEGO Mindstorms, combining robotics and coding, captured the attention of tech-savvy kids and educators. The company further solidified its cultural relevance with The LEGO Movie in 2014, a box-office triumph that reinforced LEGO’s position as a toy and an experience.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">By 2015, LEGO became the world's largest toy maker, surpassing Mattel. Today, with a strong focus on sustainability and innovation, LEGO remains a global icon, proving that even in the most challenging times, the right partnerships and a return to core values can rebuild an empire brick by brick.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- B I L L I O N N A I R E   W A T C H -->
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
