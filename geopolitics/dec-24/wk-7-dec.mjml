@@ -1,0 +1,353 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ South Korea’s martial move</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ France’s no-confidence</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ What exactly is going on with Syria?</p>
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇰🇷 Martial Law:</strong> 
+            South Korean President Yoon Suk Yeol declared <a href="https://www.bbc.com/news/articles/c0lgw1pw5zpo" target="_blank">martial law</a> but canceled it six hours later after the National Assembly rejected it, citing the need to combat "pro-North Korea forces" without providing evidence. Former politician Kim Sang-woo suggested that the opposition party, which holds a majority, abuses its power over legislation seen as against national interests, prompting Yoon's actions. The year has been politically challenging for Yoon, with 22 impeachments against government officials since he took office in 2022 and his approval ratings plummeting to 19%. His party was also upset by a 45.7 million euro cut to the defense budget. South Korea will probably face instability as the legislature and executive tensions continue.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇫🇷 French government collapse:</strong> 
+            France's Prime Minister Michel Barnier was <a href="https://www.france24.com/en/europe/20241204-live-french-government-faces-collapse-as-historic-no-confidence-vote-approaches" target="_blank">ousted</a> after a historic no-confidence vote, with 331 MPs against his government. This leaves President Emmanuel Macron searching for a new prime minister to secure a majority in the fractured National Assembly, complicating his final two years in office. Opposition leaders, like Mathilde Panot of France Unbowed, have <a href="https://www.nzherald.co.nz/world/french-left-calls-for-macron-to-resign-hold-early-elections-after-government-ousted/S6JQWPKITJHYVMFUTBJGGXD62I/" target="_blank">called</a> for early presidential elections, but Macron labeled this as "political fiction." The turmoil may delay France's defense budget and impact military support for Ukraine, with Defense Minister Sebastien Lecornu acknowledging potential consequences. As of now, any elections would have to wait until July due to regulations, highlighting the growing political crisis and concerns over stability in the EU.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇬🇪 Tbilisi erupts:</strong> 
+            Thousands of Georgians <a href="https://www.bbc.com/news/articles/cp878819l8wo" target="_blank">protested</a> in Tbilisi for a week against the government's decision to delay EU membership talks. Clashes broke out as protesters aimed fireworks at parliament, and police responded with tear gas, rubber bullets, and water cannons. Barricades were erected, and an effigy of <a href="https://www.theguardian.com/world/2024/oct/27/who-is-bidzina-ivanishvili-the-shadowy-billionaire-founder-of-georgian-dream" target="_blank">Bidzina Ivanishvili</a> was burned. This marked the largest protest since last October's contested <a href="https://apnews.com/article/georgia-election-protest-opposition-eu-russia-9620f502bf500de38f32c148c657fc4c" target="_blank">parliamentary elections</a>, which led to injuries among protesters, police, and media workers. Authorities described the protests as “violent” and threatened legal action. Prime Minister Irakli Kobakhidze defended the police response amid international <a href="https://ec.europa.eu/commission/presscorner/detail/en/statement_24_6161" target="_blank">criticism</a>, while President Salome Zourabichvili supported the protesters' call for new elections. Police forcibly removed opposition leader <a href="https://www.bbc.com/news/articles/clyj2e57r70o" target="_blank">Nika Gvaramia</a> as tensions escalated.
+          </p>
+          </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇵🇸 UN AID suspended:</strong> 
+           UNRWA has <a href="https://www.bbc.com/news/articles/c1ln5592v46o" target="_blank">halted</a> aid deliveries through Gaza's <a href="https://www.google.com/maps/place/Kerem+Shalom+check-point/@31.2187718,34.2716332,15z/data=!4m6!3m5!1s0x14fded5a787b5811:0x87f384d8c2a9944f!8m2!3d31.219044!4d34.2724963!16s%2Fg%2F11rc9wn5vh?entry=ttu&g_ep=EgoyMDI0MTEyNC4xIKXMDSoASAFQAw%3D%3D" target="_blank">Kerem Shalom crossing</a> due to rising theft and insecurity, following two recent loots by armed gangs. On November 16, a convoy of 107 trucks was attacked, with 97 lorries looted, leading to the death of three World Central Kitchen employees. Local aid workers claim the gang operates near the Israel Defense Forces. UNRWA chief Philippe Lazzarini urged Israel to restore order and ensure safe humanitarian aid passage. Israel accuses Hamas of profiting from the aid, while only 7% of assistance to Gaza is <a href="https://x.com/cogatonline/status/1863250932378501351" target="_blank">coordinated</a> by UNRWA, as other organizations continue to respond. The situation in Gaza is worsening, with aid shipments at their lowest since the conflict began in October 2023, raising concerns about potential famine.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇸🇾 Syrian loses Aleppo:</strong> 
+           The <a href="https://www.france24.com/en/live-news/20241205-%F0%9F%94%B4-syrian-army-says-it-has-lost-control-of-central-city-of-hama-amid-rebel-offensive" target="_blank">escalation</a> in Syria has seen the fall of the strategically crucial city of Hama to a new coalition of rebel forces led by Hayat Tahrir al-Sham (HTS). This marks a dramatic shift in the long-standing civil war, which has been in a stalemate since 2020. After a week of intense fighting, the insurgents captured Aleppo, Syria’s second-largest city, and rapidly pushed southward to Hama despite heavy bombardments from Syrian and Russian air forces. Iran-backed militia fighters have <a href="https://www.cbc.ca/news/world/iran-backed-militia-fighters-enter-syria-to-help-government-forces-fight-off-rebels-1.7398412#:~:text=Hundreds%20of%20fighters%20from%20Iran-backed%20Iraqi%20militias%20crossed,and%20Tehran%20pledged%20to%20aid%20the%20Damascus%20government." target="_blank">joined</a> the Syrian frontline to fight off the rebels.
+          </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇷🇴 Romanian elections:</strong> 
+           Romania’s constitutional court <a href="https://www.dw.com/en/romania-top-court-annuls-presidential-election-results/a-70985606" target="_blank">annulled</a> the presidential election, citing concerns over fairness following intelligence reports of Russian interference. Independent candidate Gheorghe Georgescu, a pro-Russian figure, surged unexpectedly from single-digit polling to nearly 23% of the vote. Authorities revealed coordinated disinformation <a href="https://www.politico.eu/article/tiktok-removed-3-influence-campaigns-during-romania-elections-european-parliament/" target="_blank">campaigns</a> on TikTok and Telegram promoting him, prompting scrutiny from the EU. As an EU and NATO member, Romania is key to countering Russian influence. The court ordered a complete election re-run to ensure integrity, leaving uncertainty about leadership as the current President’s term ends on December 21.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What exactly is going on with Syria?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The Syrian civil war has intensified as a rebel group launched a surprise attack and taken control of important cities, including Aleppo and Hama. This escalation breaks a long period of stalemate in a <a href="https://edition.cnn.com/2024/11/30/middleeast/syrian-civil-war-reignited-explainer-intl/index.html" target="_blank">conflict</a> that has killed over 300,000 people and forced millions to flee.</p>
+          <p style="font-size:16px;line-height:1.4;">The war started in 2011 during the Arab Spring protests when Syrians demanded the removal of President Bashar al-Assad. The response was violent repression, which led to an armed opposition made up of militias, military defectors, and groups supported by countries like the U.S., Turkey, and Gulf nations. Syria's government <a href="https://english.alarabiya.net/News/middle-east/2024/12/02/russia-iran-pledge-unconditional-support-to-syria-s-al-assad" target="_blank">received</a> support from Russia and Iran. At the same time, extremist groups like ISIS also gained power. Although U.S.-backed Kurdish forces largely <a href="https://www.pbs.org/wgbh/frontline/article/flashback-how-us-backed-kurds-defeated-isis-in-kobani-syria/" target="_blank">defeated</a> ISIS, the overall conflict remains unresolved, with areas like Idlib still under rebel control.</p>
+          <p style="font-size:16px;line-height:1.4;">A new coalition of rebel groups led by <a href="https://www.bbc.com/news/articles/ce313jn453zo" target="_blank">Hayat Tahrir al-Sham</a> (HTS), which used to be linked to al-Qaeda, has launched a significant offensive. They quickly captured Aleppo and Hama, aiming to reclaim what they saw as occupied lands. Meanwhile, Assad’s government struggles to respond effectively because its main allies, Russia and Iran, are busy with other conflicts in the region. Russia, Assad’s key ally, is focused on the <a href="https://www.bbc.com/news/war-in-ukraine" target="_blank">war in Ukraine</a>, and Iran faces challenges at home and <a href="https://www.theweek.in/news/middle-east/2024/11/26/the-israel-iran-proxy-war-escalation-through-hamas-and-its-regional-fallout.html" target="_blank">pressure</a> from Israel. </p>
+
+          <p style="font-size:16px;line-height:1.4;">In response, Syrian and Russian <a href="https://www.aljazeera.com/news/2024/12/2/syria-russia-forces-step-up-air-raids-in-a-bid-to-slow-opposition-advance" target="_blank">airstrikes</a> have increased, but it remains unclear how well Assad's forces can counterattack, especially in Aleppo, which is strategically important. The conflict affects more than just Syria; it influences regional stability and international relations.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 1941, the surprise attack on <a href="https://www.britannica.com/event/Pearl-Harbor-attack" target="_blank">Pearl Harbor</a> took place when Japanese bombers launched a devastating assault on the U.S. naval base located in Oahu, Hawaii. This attack destroyed numerous ships and aircraft, along with significant loss of life, killing over 2,300 Americans. The attack was a strategic move by Japan to prevent the U.S. from interfering with its expansion efforts in the Pacific. As a direct result, the United States declared war on Japan the following day, marking its entry into <a href="https://www.britannica.com/event/World-War-II" target="_blank">World War II</a>.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300; 
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-7-1.png" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Fireworks illuminate the sky as protesters clash with police outside the Georgian parliament during a demonstration in Tbilisi on December 1, 2024.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-7-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDPSgaezTLe/?igsh=MTFyc2d1NmV1d2ky" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Sudan</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDPSgaezTLe/?igsh=MTFyc2d1NmV1d2ky" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Palestine</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDPSgaezTLe/?igsh=MTFyc2d1NmV1d2ky" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Kuwait</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDPSgaezTLe/?igsh=MTFyc2d1NmV1d2ky" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Jordan</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">Photo by Photo by Giorgi Arjevanidze/AFP/Getty Images.</p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticsworld/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.threads.net/@geopoliticsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
