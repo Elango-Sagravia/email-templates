@@ -1,0 +1,76 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>On 7th Dec 2024 weekend edition:</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ South Korea’s martial move</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ France’s no-confidence</p>
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ What exactly is going on with Syria?</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; ">
+            <strong>🇰🇷 Martial Law:</strong> 
+            South Korean President Yoon Suk Yeol declared <a href="https://www.bbc.com/news/articles/c0lgw1pw5zpo" target="_blank">martial law</a> but canceled it six hours later after the National Assembly rejected it, citing the need to combat "pro-North Korea forces" without providing evidence. Former politician Kim Sang-woo suggested that the opposition party, which holds a majority, abuses its power over legislation seen as against national interests, prompting Yoon's actions. The year has been politically challenging for Yoon, with 22 impeachments against government officials since he took office in 2022 and his approval ratings plummeting to 19%. His party was also upset by a 45.7 million euro cut to the defense budget. South Korea will probably face instability as the legislature and executive tensions continue.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;filter: blur(5px);">
+            <strong>🇫🇷 French government collapse:</strong> 
+            France's Prime Minister Michel Barnier was <a href="https://www.france24.com/en/europe/20241204-live-french-government-faces-collapse-as-historic-no-confidence-vote-approaches" target="_blank">ousted</a> after a historic no-confidence vote, with 331 MPs against his government. This leaves President Emmanuel Macron searching for a new prime minister to secure a majority in the fractured National Assembly, complicating his final two years in office. Opposition leaders, like Mathilde Panot of France Unbowed, have <a href="https://www.nzherald.co.nz/world/french-left-calls-for-macron-to-resign-hold-early-elections-after-government-ousted/S6JQWPKITJHYVMFUTBJGGXD62I/" target="_blank">called</a> for early presidential elections, but Macron labeled this as "political fiction." The turmoil may delay France's defense budget and impact military support for Ukraine, with Defense Minister Sebastien Lecornu acknowledging potential consequences. As of now, any elections would have to wait until July due to regulations, highlighting the growing political crisis and concerns over stability in the EU.
+          </p>
+          </mj-text>
+
+          
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    
+       <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

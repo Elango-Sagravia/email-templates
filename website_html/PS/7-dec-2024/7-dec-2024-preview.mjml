@@ -1,0 +1,150 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+            
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 7th Dec 2024 edition:</strong></p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Bitcoin hits a milestone</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Tennessee transgender case</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ What are the issues surrounding Hunter Biden’s pardon?</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG ONE</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- THE BIG ONE contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Bitcoin record</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-7-1.jpg" alt="Bitcoin record" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Bitcoin has just hit a huge milestone, crossing the <a href="https://www.bbc.com/news/articles/cqj0wkwv1x2o" target="_blank">$100,000</a> mark for the first time. The surge in price has been fueled by President Donald Trump's new policies that <a href="https://www.nbcnews.com/business/markets/trump-claims-credit-bitcoin-reaches-100000-crypto-policies-rcna182994" target="_blank">support</a> cryptocurrency. The price reached this milestone when Trump announced his plan to nominate <a href="https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4" target="_blank">Paul Atkins</a>, a known crypto supporter, to lead the Securities and Exchange Commission.</p>
+          <p style="font-size: 16px; line-height: 1.4">This spike in Bitcoin’s value highlights its importance in the vast $3.3 trillion digital asset market. Since the U.S. election, Bitcoin’s value has <a href="https://abcnews.go.com/Business/bitcoin-races-past-100000-dollars-fueled-post-election-rally/story?id=116127616#:~:text=Bitcoin%20has%20climbed%20more%20than%2040%25%20since%20Election,period%2C%20while%20the%20tech-heavy%20Nasdaq%20has%20jumped%202.6%25." target="_blank">jumped</a> by 40%. The president-elect has promised to make the U.S. “the crypto-capital of the planet,” a stark deviation from his 2021 stand where he called crypto a scam.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">U.S. v. Skrmetti</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">The Supreme Court had its first hearing of the <a href="https://abcnews.go.com/Politics/landmark-supreme-court-case-weighs-gender-affirming-care/story?id=116232587" target="_blank">U.S. v. Skrmetti</a> case. The case challenges Tennessee’s ban on gender-affirming medical care for minors, with significant implications for transgender rights. The plaintiffs include families of transgender teens. They argue the law discriminates based on sex, which violates the <a href="https://www.law.cornell.edu/wex/equal_protection" target="_blank">Equal Protection</a> Clause. Tennessee defends the ban as safeguarding minors from unproven medical interventions. Major U.S. medical groups <a href="https://www.aap.org/en/news-room/news-releases/aap/2021/american-academy-of-pediatrics-speaks-out-against-bills-harming-transgender-youth/" target="_blank">speak</a> out against the bill, while critics cite potential risks and insufficient long-term data. A ruling is expected by June 2025, although many expect the court will uphold the ban.</p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Hunter pardoned</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">President Joe Biden’s decision to <a href="https://edition.cnn.com/2024/12/02/politics/hunter-biden-pardon-analysis/index.html" target="_blank">pardon</a> his son, Hunter Biden, sparked political and legal controversy by blurring the lines between politics and justice in the United States. The pardon clears Hunter of <a href="https://edition.cnn.com/2024/06/11/politics/hunter-biden-gun-trial-verdict/index.html" target="_blank">charges</a> related to gun possession and tax evasion, marking a departure from Biden's earlier stance of <a href="https://www.nbcnews.com/politics/joe-biden/biden-says-will-not-pardon-son-hunter-biden-convicted-gun-related-char-rcna155920" target="_blank">not interfering</a> in his son's legal matters.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+        <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

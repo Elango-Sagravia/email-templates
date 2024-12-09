@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Making iPhone smaller... and better</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-9-1.jpg" alt="Making iPhone smaller... and better" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Steve Jobs was always one to settle for perfection. The story of him tossing an early iPhone prototype into an aquarium is now the stuff of legend, embodying his relentless drive for innovation and simplicity. But what happened, and how did this dramatic moment shape the iPhone we know today?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          The incident reportedly occurred during the development of the first iPhone in the mid-2000s. Engineers presented Jobs with a prototype they claimed was as compact as possible. Jobs, unconvinced, grabbed the device and dropped it into a nearby aquarium. He pointed at them as air bubbles floated to the surface and famously said, “Those are air bubbles. That means there’s space in there. Make it smaller.”</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">This wasn’t just a theatrical stunt—it was a challenge. Jobs believed the iPhone could be more efficient, sleeker, and revolutionary. His obsession with compactness and minimalism wasn’t about aesthetics alone but about creating a seamless user experience.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">Under his watch, Apple engineers painstakingly reduced the internal components, optimized battery design, and rethought assembly techniques to shave off millimeters without compromising performance. This rigorous attention to detail led to the sleek, elegant design of the first iPhone, launched in 2007, and set the gold standard for future iterations.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">Jobs’ philosophy extended beyond hardware. He insisted on eliminating physical keyboards, favoring an intuitive touchscreen interface. The result was a device that looked revolutionary and felt revolutionary to use. He pushed for every millimeter and every pixel to serve a purpose, removing anything unnecessary.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">This approach paid off. The original iPhone redefined the smartphone industry, combining compact hardware with innovative software to create a product that was truly ahead of its time. Its success laid the groundwork for Apple’s meteoric rise, making the iPhone its flagship product.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section> 
+
+        <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

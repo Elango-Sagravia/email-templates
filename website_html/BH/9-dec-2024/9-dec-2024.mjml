@@ -1,0 +1,240 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BUSINESS HISTORY</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Making iPhone smaller... and better</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-9-1.jpg" alt="Making iPhone smaller... and better" href="https://www.businesshistory.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Steve Jobs was always one to settle for perfection. The story of him tossing an early iPhone prototype into an aquarium is now the stuff of legend, embodying his relentless drive for innovation and simplicity. But what happened, and how did this dramatic moment shape the iPhone we know today?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          The incident reportedly occurred during the development of the first iPhone in the mid-2000s. Engineers presented Jobs with a prototype they claimed was as compact as possible. Jobs, unconvinced, grabbed the device and dropped it into a nearby aquarium. He pointed at them as air bubbles floated to the surface and famously said, “Those are air bubbles. That means there’s space in there. Make it smaller.”</p>
+          <p style="font-size: 16px; line-height: 1.4">This wasn’t just a theatrical stunt—it was a challenge. Jobs believed the iPhone could be more efficient, sleeker, and revolutionary. His obsession with compactness and minimalism wasn’t about aesthetics alone but about creating a seamless user experience.</p>
+          <p style="font-size: 16px; line-height: 1.4">Under his watch, Apple engineers painstakingly reduced the internal components, optimized battery design, and rethought assembly techniques to shave off millimeters without compromising performance. This rigorous attention to detail led to the sleek, elegant design of the first iPhone, launched in 2007, and set the gold standard for future iterations.</p>
+          <p style="font-size: 16px; line-height: 1.4">Jobs’ philosophy extended beyond hardware. He insisted on eliminating physical keyboards, favoring an intuitive touchscreen interface. The result was a device that looked revolutionary and felt revolutionary to use. He pushed for every millimeter and every pixel to serve a purpose, removing anything unnecessary.</p>
+          <p style="font-size: 16px; line-height: 1.4">This approach paid off. The original iPhone redefined the smartphone industry, combining compact hardware with innovative software to create a product that was truly ahead of its time. Its success laid the groundwork for Apple’s meteoric rise, making the iPhone its flagship product.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section> 
+
+    <mj-spacer height="10px"></mj-spacer>
+
+     <!-- B I L L I O N N A I R E   W A T C H -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BILLIONNAIRE WATCH</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Mohed Altrad</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-dec-9-2.jpg" alt="Mohed Altrad" href="https://www.businesshistory.co" />
+        <mj-spacer height="14px"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Net Worth:</strong> $3.2 billion</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Rank:</strong> 949th in the world today</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>About:</strong> Born in Syria and orphaned young, Altrad built a construction empire in France, focusing on scaffolding and equipment rentals. His rags-to-riches journey is one of Europe’s most inspiring stories. Altrad Group dominates the construction and maintenance industry, working on massive infrastructure projects worldwide. A published author, Altrad blends business with cultural contributions.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Need to Know:</strong> Altrad’s life inspired a biography highlighting his improbable rise from Bedouin roots to billionaire. His firm sponsors France’s rugby team, combining personal interests with branding. Despite his wealth, Altrad advocates for simple living and using business as a force for societal change.​</p>
+          
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- banner -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">"The only thing worse than starting something and failing is not starting something." — Seth Godin</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Sylvain Thomas/AFP/Getty Images.</p>
+          
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/BizHistory/"
+              src="https://www.businesshistory.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

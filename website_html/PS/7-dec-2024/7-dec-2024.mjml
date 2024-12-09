@@ -1,0 +1,347 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+            
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 7th Dec 2024 edition:</strong></p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Bitcoin hits a milestone</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ Tennessee transgender case</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ What are the issues surrounding Hunter Biden’s pardon?</p>
+            
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG ONE</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- THE BIG ONE contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Bitcoin record</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-7-1.jpg" alt="Bitcoin record" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Bitcoin has just hit a huge milestone, crossing the <a href="https://www.bbc.com/news/articles/cqj0wkwv1x2o" target="_blank">$100,000</a> mark for the first time. The surge in price has been fueled by President Donald Trump's new policies that <a href="https://www.nbcnews.com/business/markets/trump-claims-credit-bitcoin-reaches-100000-crypto-policies-rcna182994" target="_blank">support</a> cryptocurrency. The price reached this milestone when Trump announced his plan to nominate <a href="https://apnews.com/article/sec-chair-atkins-gensler-investors-financial-markets-d1c544f1846071b33c75b9f2dd0c1ba4" target="_blank">Paul Atkins</a>, a known crypto supporter, to lead the Securities and Exchange Commission.</p>
+          <p style="font-size: 16px; line-height: 1.4">This spike in Bitcoin’s value highlights its importance in the vast $3.3 trillion digital asset market. Since the U.S. election, Bitcoin’s value has <a href="https://abcnews.go.com/Business/bitcoin-races-past-100000-dollars-fueled-post-election-rally/story?id=116127616#:~:text=Bitcoin%20has%20climbed%20more%20than%2040%25%20since%20Election,period%2C%20while%20the%20tech-heavy%20Nasdaq%20has%20jumped%202.6%25." target="_blank">jumped</a> by 40%. The president-elect has promised to make the U.S. “the crypto-capital of the planet,” a stark deviation from his 2021 stand where he called crypto a scam.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">U.S. v. Skrmetti</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The Supreme Court had its first hearing of the <a href="https://abcnews.go.com/Politics/landmark-supreme-court-case-weighs-gender-affirming-care/story?id=116232587" target="_blank">U.S. v. Skrmetti</a> case. The case challenges Tennessee’s ban on gender-affirming medical care for minors, with significant implications for transgender rights. The plaintiffs include families of transgender teens. They argue the law discriminates based on sex, which violates the <a href="https://www.law.cornell.edu/wex/equal_protection" target="_blank">Equal Protection</a> Clause. Tennessee defends the ban as safeguarding minors from unproven medical interventions. Major U.S. medical groups <a href="https://www.aap.org/en/news-room/news-releases/aap/2021/american-academy-of-pediatrics-speaks-out-against-bills-harming-transgender-youth/" target="_blank">speak</a> out against the bill, while critics cite potential risks and insufficient long-term data. A ruling is expected by June 2025, although many expect the court will uphold the ban.</p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Hunter pardoned</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">President Joe Biden’s decision to <a href="https://edition.cnn.com/2024/12/02/politics/hunter-biden-pardon-analysis/index.html" target="_blank">pardon</a> his son, Hunter Biden, sparked political and legal controversy by blurring the lines between politics and justice in the United States. The pardon clears Hunter of <a href="https://edition.cnn.com/2024/06/11/politics/hunter-biden-gun-trial-verdict/index.html" target="_blank">charges</a> related to gun possession and tax evasion, marking a departure from Biden's earlier stance of <a href="https://www.nbcnews.com/politics/joe-biden/biden-says-will-not-pardon-son-hunter-biden-convicted-gun-related-char-rcna155920" target="_blank">not interfering</a> in his son's legal matters.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Nun arrested</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Sister Anna Donelli, a Catholic nun affiliated with the Sisters of Charity Institute in Milan, was arrested as part of a significant <a href="https://edition.cnn.com/2024/12/05/europe/catholic-nun-25-arrested-italy-intl-latam/index.html" target="_blank">mafia bust</a> in northern Italy. She is accused of acting as an intermediary for the ’Ndrangheta crime syndicate, passing messages and aiding criminal operations between prison inmates and outside associates. The police operation also led to the confiscation of $1.9 million in cash and special dogs identified drugs. Among the other arrests was a physician tied to the Brothers of Italy party, who allegedly treated mobsters’ injuries. Donelli is presently under house arrest.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+   
+   <mj-spacer height="10px"></mj-spacer>
+
+    <!-- the big question -->
+
+   <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">What are the issues surrounding Hunter Biden’s pardon?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">The recent <a href="https://apnews.com/article/biden-hunter-biden-pardon-son-9307d6bade834df77c265cae7d3b7c25" target="_blank">pardon</a> of Hunter Biden has received mixed reactions from both sides of the political aisle, even among some <a href="https://edition.cnn.com/2024/12/02/politics/biden-allies-disappointed-pardon/index.html" target="_blank">Democrat loyalists</a>. Critics <a href="https://x.com/TheSourceCNN/status/1863780202452590776" target="_blank">argue</a> that putting personal interests ahead of duty erodes the system's integrity and raises questions about fairness and timing. Some worry it sets a precedent where individuals connected to a president can feel above the law.</p>
+        <p style="font-size: 16px; line-height: 1.4">Speculation surrounds Kamala Harris’s potential impact on Biden’s decision. White House press secretary Karine Jean-Pierre <a href="https://edition.cnn.com/2024/12/02/politics/video/hunter-biden-pardon-jean-pierre-air-force-one-sot-digvid" target="_blank">suggested</a> that Biden might not have pardoned Hunter had Harris won the election. Historically, presidential pardons for <a href="https://www.newsweek.com/full-list-presidents-who-have-pardoned-relatives-joe-hunter-biden-1993960" target="_blank">family members</a> aren't new—Bill Clinton pardoned his half-brother, and Donald Trump pardoned Charles Kushner, Ivanka's father-in-law. Charles Kushner was additionally picked as the <a href="https://www.france24.com/en/americas/20241130-trump-picks-real-estate-mogul-charles-kushner-father-of-his-son-in-law-as-france-envoy" target="_blank">ambassador</a> to France.</p>
+       <p style="font-size: 16px; line-height: 1.4">In summary, Biden's pardon mirrors Republican's <a href="https://www.bbc.com/news/world-us-canada-65007991" target="_blank">claims</a> of politically motivated prosecution, raising broader concerns about politicized justice and public distrust in institutions. Hunter Biden was proven guilty of gun possession and tax evasion charges. Both cases stemmed in 2019 when he struggled with alcohol and drug abuse.</p>
+      
+        </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> PHOTO OF THE WEEK </h2>
+        </mj-text>
+      </mj-column> 
+  </mj-section>
+
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-7-2.jpg" alt="PHOTO OF THE WEEK" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+         Migratory birds fly over Hongze Lake Wetland National Nature Reserve, in Suqian, Jiangsu province, China.
+          </p>
+        </mj-text>
+    </mj-section>
+    <!-- banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1941, Japanese bombers launched a surprise attack on Pearl Harbor, Hawaii, prompting the United States to enter World War II.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by CFoto / Future Publishing / Getty.
+          </p>
+          
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
