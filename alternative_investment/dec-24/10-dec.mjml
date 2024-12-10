@@ -1,0 +1,501 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ BlackStone’s bidding race</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Boliden acquires Lundin Mining</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Bankers bet on Unilever</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.altdaily.co/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Blackstone and EQT’s acquisition</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-10-1.jpg" alt="Blackstone and EQT’s acquisition" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Blackstone and EQT are in a fierce race to <a href="https://www.privateequitywire.co.uk/blackstone-and-eqt-advance-in-bidding-war-for-waste-firm-urbaser/" target="_blank">acquire</a> Urbaser, a global waste management giant valued at €5 billion. Platinum Equity, Urbaser’s owner, kicked off the sale earlier this year with Citi and Santander leading the process. KKR and Macquarie initially showed interest but bowed out. Urbaser, active in 15 countries, reported a €2.5 billion turnover in 2023. With due diligence underway, final offers are due by February.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Boliden’s $1.5B mine deal</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-10-2.jpg" alt="Boliden’s $1.5B mine deal" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Boliden is <a href="https://www.bnnbloomberg.ca/investing/2024/12/09/lundin-to-sell-mines-in-portugal-sweden-for-up-to-152-billion/" target="_blank">acquiring</a> Lundin Mining’s zinc and copper mines in Sweden and Portugal for $1.5 billion, doubling its zinc output and upping copper production by 43%. The strategic purchase ensures raw material supplies for its smelters, which have faced tight margins recently. Boliden plans to finance the deal through a bridge loan and share issue. Lundin, meanwhile, will focus on growth in Latin America.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+  <mj-spacer height="10px" />
+
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Luckin Coffee outpaces Starbucks in China as it eyes US expansion</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-10-3.jpg" alt="Luckin Coffee outpaces Starbucks in China as it eyes US expansion" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Luckin Coffee has rapidly overtaken Starbucks in China, boasting 20,000 stores compared to Starbucks’ 7,300 as of 2024. Despite being delisted from the Nasdaq in 2020 due to an accounting scandal, Luckin rebounded by aggressively expanding its footprint, far outpacing Starbucks’ steady growth. This expansion highlights Luckin’s strategy of saturating China’s coffee market with its affordable pricing model, offering beverages significantly cheaper than Starbucks.</p>
+           <p style="font-size: 16px; line-height: 1.4">
+          Now, Luckin is turning its sights on the US, aiming to undercut Starbucks with drinks priced between $2 and $3. This move could resonate with inflation-weary American consumers, as Starbucks recently reported a 10% drop in US transaction volumes. Luckin’s aggressive pricing and rapid expansion model, which helped it dominate in China, may pose a serious challenge to Starbucks in its home market.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BRIEFS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Private Equity</h2>
+        </mj-text>
+    
+           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Unilever’s ice cream sale might heat up:</strong>   
+          Bankers are <a href="https://www.bnnbloomberg.ca/investing/2024/12/09/bankers-prep-9-billion-debt-in-case-of-unilever-ice-cream-sale/" target="_blank">prepping</a> €9 billion in debt financing in case Unilever opts to sell its ice cream business rather than spin it off. The division, valued at £15 billion, owns brands like Ben & Jerry’s and Magnum. While an IPO is planned for late 2025, some private equity firms are still vying for a deal. Leveraged debt investors recently supported a similar deal for Froneri, showing confidence in the sector.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Italian toymaker Giochi Preziosi restructures debt:</strong>   
+          Giochi Preziosi’s €250 million debt is being <a href="https://www.bnnbloomberg.ca/business/2024/12/09/italian-banks-cut-exposure-to-toy-maker-amid-restructuring-talks/" target="_blank">restructured</a>, with banks like UniCredit and Intesa offloading exposure to alternative asset managers like DeA Capital and Sagitta SGR. The toymaker, facing debt maturities and pandemic loan repayments, has been in talks for months with lenders after its $265 million debt came due earlier this year.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Growtheum invests $121M in Philippine cold storage:</strong>   
+         Singapore’s Growtheum Capital Partners is <a href="https://www.bnnbloomberg.ca/business/international/2024/12/09/growtheum-invests-121-million-in-philippine-cold-storage-chain/" target="_blank">investing</a> $121 million in Mets Logistics, a major player in the Philippines’ cold storage sector. With food security being a government priority, this funding will help expand Mets’ facilities in the Philippines, addressing rising demand and stabilizing prices.</p>
+          </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Hedge Funds</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Australian dollar faces further bearish pressure:</strong> The Aussie dollar is on shaky ground, with hedge funds <a href="https://www.bnnbloomberg.ca/investing/2024/12/09/beleaguered-aussie-faces-risk-of-further-losses-as-bearish-bets-rise/" target="_blank">ramping up</a> bearish bets amid weak growth data and trade tensions. Leveraged funds now hold their largest short positions since September, and analysts predict the currency could drop to 62 cents by Q1 2025. The Reserve Bank of Australia is expected to maintain rates, but its tone may turn more dovish.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Five9 nears activist settlement with Anson Funds:</strong> Five9, a call center software provider, is close to <a href="https://www.hedgeweek.com/five9-nears-settlement-with-activist-anson-funds/" target="_blank">settling</a> with activist investor Anson Funds. Sagar Gupta from Anson is likely to join the board, reflecting growing shareholder pressure. Five9’s stock, down 44% YTD, has rallied 15% recently on better-than-expected earnings. Five9 previously rejected an acquisition bid from Zoom, but this shake-up could pave the way for strategic changes to boost its valuation.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Jane Street and Millennium settle trade secret lawsuit:</strong> Jane Street and Millennium Management have settled a <a href="https://www.hedgeweek.com/jane-street-and-millennium-settle-dispute-over-alleged-trading-strategy-theft/" target="_blank">lawsuit</a> involving allegations of trading strategy theft. Jane Street had accused two former traders of taking a profitable India options strategy to Millennium. Jane Street was making $1 billion from the strategy in 2023.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Venture Capital</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Dimension raises $500M to fund tech and life sciences:</strong>   
+           Dimension Capital, which invests at the intersection of tech and life science, <a href="https://techcrunch.com/2024/12/09/dimension-raises-500m-second-fund-for-investing-at-the-intersection-tech-and-life-sciences/" target="_blank">raised</a> a $500 million fund, exceeding its $400 million target. The VC firm backs startups like Chai Discovery and Enveda Biosciences, leveraging AI in drug discovery. Dimension’s stage-agnostic approach allows investments from $1 million to $30 million, fostering innovation at all levels.</p>
+        </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Cala Health secures $50M for tremor therapy:</strong>   
+           Cala Health, a leader in bioelectronic medicine, <a href="https://www.prnewswire.com/news-releases/cala-health-closes-oversubscribed-50-million-financing-to-propel-growth-302325704.html" target="_blank">raised</a> $50 million to expand its Cala kIQ device for hand tremor relief. The wearable uses personalized neuro-stimulation to counteract tremors, offering a non-invasive alternative to drugs and surgery. Backed by investors like Vertex Growth and Google Ventures, Cala is poised for rapid growth, transforming chronic disease management.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Others</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Italian tycoon ups stake in asset manager Anima:</strong>  
+          Francesco Caltagirone <a href="https://www.bnnbloomberg.ca/business/company-news/2024/12/09/italian-tycoon-caltagirone-raises-stake-in-asset-manager-anima/" target="_blank">increased</a> his stake in Anima Holding to 5.29%, signaling intent to influence Italy’s financial sector. Anima faces a takeover bid from Banco BPM, which itself may be acquired by UniCredit. Caltagirone’s moves align with his broader strategy of positioning in key financial entities, including stakes in Mediobanca and Generali.</p>
+        </mj-text>
+ 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>US mulls backing Brazilian nickel mine with $550M loan:</strong>  
+          The US may <a href="https://www.bnnbloomberg.ca/investing/2024/12/09/us-mulls-backing-brazilian-nickel-plant-with-up-to-550-million/" target="_blank">provide</a> $550 million to the Brazilian Piauí Nickel project, aiming to secure critical minerals for EV batteries. Producing nickel and cobalt, the project aligns with efforts to reduce reliance on China. The financing would cover 40% of the project’s costs, with production slated for 2028.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What is Endogenous Growth Theory in Economics?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-10-4.jpg" alt="What is Endogenous Growth Theory in Economics?" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Endogenous Growth Theory explains that economic growth is driven by factors within the economy, like innovation, education, and investment in people and technology, rather than relying only on external forces. It emphasizes that economies can grow over time by improving skills, creating new ideas, and developing better technology.</p>
+          <p style="font-size: 16px; line-height: 1.4">For example, if a country invests in education, its workers become more skilled and productive, leading to higher output and income. Similarly, businesses that spend money on research and development (R&D) create new products or improve efficiency, boosting the economy.</p>
+           <p style="font-size: 16px; line-height: 1.4">This theory highlights the importance of policies that support innovation, education, and infrastructure, as these help economies grow sustainably. Unlike older theories that focus on external factors like natural resources, endogenous growth theory suggests that smart investments and good policies can create lasting growth by improving the economy from within.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+    <!-- fun friday -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">what is</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+      <h2 style="             
+             font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Earnings Per Share</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+        Earnings Per Share (EPS) is the amount of profit a company makes for each share of its stock. It’s calculated by dividing the company’s net income by the total number of shares. For example, if a company earns $1 million and has 1 million shares, the EPS is $1.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#6b705c" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">"Wide diversification is only required when investors do not understand what they are doing." — Warren Buffett</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This newsletter is for informational purposes only and does not constitute financial advice.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
