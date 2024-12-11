@@ -5,11 +5,6 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3"> 
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
     <mj-section background-color="#ffffff"  > 
@@ -17,7 +12,6 @@
       <mj-column  padding="10px 12px 10px 12px" width="100%" > 
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
-                <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
 
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
@@ -29,27 +23,22 @@
           <p style="
               font-size: 16px;
               line-height: 1.4;
-            "><strong>In today’s edition:</strong> </p>
+            "><strong>On 10th Dec 2024 edition:</strong> </p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               padding-left: 10px;
-            ">→ An explosion shakes The Hague</p>
+            ">→ Trump immigration changes</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               padding-left: 10px;
-            ">→ Trump NASA's choice</p>
+            ">→ Australia deals with attacks</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               padding-left: 10px;
-            ">→ Assad’s regime falls in Syria</p>
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              margin-bottom: 0px;
-            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+            ">→ What's next for TikTok</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column> 
@@ -95,12 +84,12 @@
               line-height: 1.2;
               font-weight: 500;
               margin-top: 2px !important; 
-            ">The Hague explosion</h2>
+            ">Citizenship consideration</h2>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-9-1.jpg" alt="The Hague explosion" href="https://www.presidentialsummary.com" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-10-1.jpg" alt="Citizenship consideration" href="https://www.presidentialsummary.com" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">At least five people have been <a href="https://www.euronews.com/my-europe/2024/12/08/at-least-five-killed-after-explosion-rips-through-apartment-in-dutch-city-the-hague" target=="_blank">killed</a> in a devastating explosion that leveled an entire apartment block in The Hague, Netherlands. Emergency responders acted swiftly, managing to rescue four individuals from the debris; however, it remains uncertain how many others might still be trapped inside the wreckage. Investigators are currently exploring the circumstances surrounding the explosion, mainly focusing on identifying a suspicious vehicle that was seen speeding away from the scene immediately after the blast occurred.</p>
-          <p style="font-size: 16px; line-height: 1.4">As search and rescue efforts carry on, authorities are now focusing on salvage operations to assess damage and recover any remaining individuals. About 40 nearby apartments have been evacuated for resident safety. A specialized rescue team with prior experience in Türkiye's 2023 earthquakes has been deployed to aid recovery. Prime Minister Dick Schoof <a href="https://twitter.com/MinPres/status/1865329825193271362?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1865329825193271362%7Ctwgr%5E0df8e288a5f86c7be3b7579f7a5cda4d180905fc%7Ctwcon%5Es1_&ref_url=https%3A%2F%2Fwww.euronews.com%2Fmy-europe%2F2024%2F12%2F08%2Fat-least-five-killed-after-explosion-rips-through-apartment-in-dutch-city-the-hague" target=="_blank">said</a>, “My thoughts go out to the victims, all other people involved, and the emergency services who are now working on the scene.”</p>
+          <p style="font-size: 16px; line-height: 1.4">President-elect Donald Trump <a href="https://www.politico.com/news/2024/12/08/trump-end-birthright-citizenship-00193184" target="_blank">reiterated</a> his intent to end birthright citizenship once he assumes office. However, he needed to clarify how he would circumvent the <a href="https://www.britannica.com/topic/Fourteenth-Amendment" target="_blank">14th Amendment</a>, which guarantees citizenship to those born on U.S. soil. Despite claiming executive action as a potential avenue, there are many legal hurdles, including the constitutional amendment process requiring state ratification.</p>
+          <p style="font-size: 16px; line-height: 1.4">The US is one of the countries that provides citizenship by <a href="https://www.britannica.com/topic/jus-soli" target="_blank">Jus soli</a>, meaning 'right of soil,' which gives anyone born in the territory of the state automatic nationality or citizenship with a few exceptions. This is a typical pattern between most countries in the Western Hemisphere. While Trump did speak on making harsher immigration stances, he did express openness to working with Democrats on a solution for <a href="https://www.newsweek.com/donald-trump-reveals-key-issue-where-he-wants-work-democrats-1997309" target="_blank">Dreamers</a>, highlighting their long-standing ties to the U.S. Many <a href="https://www.uscis.gov/DACA" target="_blank">DACA</a> recipients have been in the country for years and likely have no connection to their country of birth.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
@@ -113,13 +102,13 @@
               font-size: 20px;
               line-height: 1.2;
               font-weight: 500;
-              margin-top: 2px !important;">Space Odyssey</h2>
+              margin-top: 2px !important;">Synagogue arson attack</h2>
         </mj-text>
-        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-9-2.jpg" alt="Space Odyssey" href="https://www.presidentialsummary.com" />
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-10-2.jpg" alt="Synagogue arson attack" href="https://www.presidentialsummary.com" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Jared Isaacman, CEO of Shift4 Payments and a prominent figure in private spaceflight, has been <a href="https://edition.cnn.com/2024/12/06/science/nasa-chief-trump-pick-jared-isaacman/index.html" target=="_blank">nominated</a> by President-elect Trump as NASA Administrator. Isaacman, known for founding and leading the historic <a href="https://inspiration4.com/mission" target=="_blank">Inspiration4</a> space mission with SpaceX, brings a blend of entrepreneurial and spaceflight experience. He would succeed outgoing NASA administrator <a href="https://www.nasa.gov/people/nasa-administrator-bill-nelson/" target=="_blank">Bill Nelson</a>, a former space shuttle astronaut and Democratic senator for Florida appointed by Joe Biden in 2021.</p>
+          <p style="font-size: 16px; line-height: 1.4">Australian authorities are <a href="https://edition.cnn.com/2024/12/09/australia/melbourne-australia-synagogue-attack-investigation-intl-hnk/index.html" target="_blank">investigating</a> last week’s arson attack on the Adass Israel Synagogue in Melbourne as a terrorist incident, marking it as a significant act of antisemitism. A joint counter-terrorism team, including Victoria Police, the Australian Federal Police, and ASIO, handles the investigation. Three suspects are being sought, while the federal government has launched Operation Avalite to address a surge in antisemitic incidents and committed $21 million for increased security at Jewish community sites.</p>
           <p style="font-size: 16px; line-height: 1.4">
-          However, concerns have risen over his close ties with SpaceX and Elon Musk, raising potential conflicts of interest as NASA collaborates extensively with private companies. This position is also usually given to a scientist or aerospace engineer rather than a businessman. Isaacman’s vision for NASA, emphasizing commercial partnerships and extraterrestrial exploration, may reshape the agency’s direction amid ongoing challenges like the <a href="https://www.nasa.gov/humans-in-space/artemis/" target=="_blank">Artemis program</a> and the <a href="https://www.nasa.gov/reference/space-launch-system/" target=="_blank">Space Launch System</a>.</p>
+          Australian Prime Minister Anthony Albanese noted this event as the third antisemitic incident that has occurred in Australia in recent months. Antisemitism has <a href="https://finance.yahoo.com/news/1-open-hatred-jews-surges-150233311.html" target="_blank">surged</a> globally, inflamed by the Gaza war, with recent events highlighting its dangerous resurgence. In the U.S., Jewish communities face <a href="https://edition.cnn.com/2023/10/31/politics/antisemitism-unstable-world-analysis/index.html" target="_blank">threats</a>, such as Cornell University students fearing for their safety after death threats.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
@@ -132,11 +121,11 @@
               font-size: 20px;
               line-height: 1.2;
               font-weight: 500;
-              margin-top: 2px !important;">A shift in Syria</h2>
+              margin-top: 2px !important;">TikTok’s time ticks</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">The reported fall of Bashar al-Assad’s regime marks a <a href="https://abcnews.go.com/International/syrian-rebels-claimed-4-cities-24-hours-now/story?id=116562929" target=="_blank">dramatic shift</a> in the Syrian Civil War. After a lightning advance by rebel forces, particularly Hayat Tahrir al-Sham (HTS), Assad’s government appears to have collapsed. HTS declared Damascus free, claiming Assad had fled the capital and the country. Russian authorities confirmed Assad’s decision to step down and leave Syria. He is being <a href="https://www.politico.eu/article/russia-asylum-bashar-assad-kremlin-syria-bloody-civil-war-middle-east-moscow/" target=="_blank">granted</a> asylum in Russia. This marks the end of Bashar al-Assad's 24-year rule, which began in 2000 after his father, Hafez al-Assad, came to power in 1971.</p>
-          <p style="font-size: 16px; line-height: 1.4">Assad's regime relied heavily on foreign support from Russia and Iran, but reports indicate that both countries have reduced their involvement. The Syrian Civil War, which started in 2011, has resulted in immense human suffering, with hundreds of thousands dead and millions displaced. The rebel push has been rapid, with major cities like Homs, Daraa, and Sweida falling, and the Syrian military has reportedly surrendered. The Syrian refugees have started to move towards their homeland.</p>
+          <p style="font-size: 16px; line-height: 1.4">The future of TikTok in the U.S. hangs in the balance following a recent <a href="https://edition.cnn.com/2024/12/07/tech/tiktok-ban-law-ruling-whats-next/index.html" target="_blank">court ruling</a> upholding a law that would require ByteDance, TikTok’s Chinese parent company, to divest ownership of the app or face a nationwide ban by January 19, 2025.</p>
+          <p style="font-size: 16px; line-height: 1.4">TikTok plans to appeal to the Supreme Court, possibly requesting a stay to delay enforcement. While the ruling increases the chances of a ban, there are still options for delay, including political intervention from President-elect Donald Trump, who could seek to protect TikTok. If the ban proceeds, app stores could face fines, and users may experience functionality issues without updates. TikTok creators and businesses are concerned about losing their audiences and revenue, while others remain cautiously hopeful that a ban won’t happen.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -178,14 +167,21 @@
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">Hundreds <a href="https://apnews.com/article/chad-protest-france-military-agreement-0436a6c9a914c0dd007d603e279e44c8" target=="_blank">protested</a> in Chad on Friday, <strong>calling for the withdrawal of French troops</strong> following the country’s decision to end a defense cooperation agreement with France. Last week, Chad released a statement calling for the <strong>termination of the agreement</strong> but didn’t specify when they had to leave.</p>
+            "><strong>Australia and Nauru</strong> have signed a landmark <a href="https://www.dw.com/en/australia-seeks-to-block-china-with-nauru-security-deal/a-70998063" target="_blank">security treaty</a> to counter China’s growing influence in the Pacific. It prevents third countries from making security and infrastructure deals with Nauru.</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>French President Emmanuel Macron</strong> hosted <a href="https://www.france24.com/en/france/20241207-macron-trump-zelensky-hold-trilateral-on-sidelines-of-notre-dame-ceremony" target=="_blank">trilateral talks</a> in Paris with Ukrainian President Volodymyr Zelensky and U.S. President-elect Donald Trump on the sidelines of the Notre Dame Cathedral reopening ceremony.</p>
+            "><strong>Mexican President Claudia Sheinbaum</strong> hopes to <a href="https://edition.cnn.com/2024/12/05/americas/mexico-sheinbaum-trump-deportation-intl-latam/index.html" target="_blank">negotiate</a> with U.S. President-elect Donald Trump to limit third-country deportees to Mexico, prioritizing Mexican nationals.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Former Bangladesh Prime Minister Sheikh Hasina</strong>, in her first public speech since stepping down in August, <a href="https://indianexpress.com/article/world/sheikh-hasina-1st-public-address-muhammad-yunus-minorities-bangladesh-9706822/" target="_blank">accused</a> interim government head Muhammad Yunus of “genocide” and failing to protect minorities.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -203,28 +199,28 @@
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>A US appeals court upheld a law banning TikTok</strong> unless its Chinese parent, ByteDance, sells its stake. The court ruled that national security outweighed concerns about free speech. Officials fear China could misuse user data or manipulate content. The law takes effect on Jan. 19 (<a href="https://www.cbsnews.com/amp/news/tiktok-ban-appeals-court-congress/" target=="_blank">read more</a>).</p>
+            "><strong>Omnicom Group will acquire Interpublic Group, creating the world's largest ad agency</strong> with $25,600 million in revenue. The stock-for-stock deal gives Omnicom shareholders 60.6% ownership. The merger is set to close in late 2025 (<a href="https://www.omnicomgroup.com/newsroom/omnicom-to-acquire-interpublic-group-to-create-premier-marketing-and-sales-company/" target="_blank">read more</a>).</p>
              <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Coffee prices have surged to a 47-year high</strong>, with Arabica futures reaching $3.36 per pound. This <a href="https://finance.yahoo.com/video/why-coffee-prices-trading-near-154921955.html" target=="_blank">increase</a> is mainly due to extreme weather, including droughts and heavy rains in Brazil and Vietnam, which have disrupted coffee production and harvests, creating supply concerns.</p>
+            "><strong>Mondelez is exploring a potential Hershey acquisition</strong>, reviving past efforts. Hershey shares rose 15% amid <a href="https://edition.cnn.com/2024/12/09/food/hershey-mondelez/index.html" target="_blank">speculation</a>, though negotiations remain preliminary.</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Trump recently dismissed the possibility of removing Fed Chair Jerome Powell</strong> but claimed Powell would step down if ordered. Trump has criticized Powell over interest rate decisions and opposed Fed independence. Powell reaffirmed the Fed’s statutory independence despite political pressure (<a href="https://edition.cnn.com/2024/12/08/business/trump-fed-chair-jerome-powell/index.html" target=="_blank">read more</a>).</p>
+            "><strong>India's government replaced Reserve Bank of India governor Shaktikanta Das</strong> with Revenue Secretary Sanjay Malhotra amid slowing GDP growth and rising inflation. Analysts expect potential interest rate cuts under Malhotra, sparking concerns about RBI independence and economic stability (<a href="https://timesofindia.indiatimes.com/business/india-business/revenue-secretary-sanjay-malhotra-appointed-new-rbi-governor/amp_articleshow/116141141.cms" target="_blank">read more</a>).</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Hong Kong’s $2.7 billion infrastructure bond offering was undersubscribed</strong>, raising <a href="https://www.scmp.com/business/article/3289759/hong-kong-us27-billion-infrastructure-bond-offering-undersubscribed?module=top_story&pgtype=section" target=="_blank">$2.28 billion</a> as investors favored IPOs and stable-return projects. The government will announce the allocation results on December 13, and the bonds will be released on December 17.</p>
+            "><strong>Rupert Murdoch loses battle to control succession to his media empire</strong> as a Nevada court rules his three adult children will retain equal power over the family trust. The court <a href="https://amp.theguardian.com/media/2024/dec/09/rupert-murdochmedia-empire-children" target="_blank">condemned</a> his attempt to favor his eldest son, Lachlan Murdoch, as acting in “bad faith.”</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -242,21 +238,14 @@
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>The most expensive dinosaur fossil ever discovered</strong>, a nearly complete stegosaurus named “Apex,” will be on display at the American Museum of Natural History in New York starting this weekend (<a href="https://apnews.com/article/stegosaurus-apex-skeleton-ken-griffin-nyc-40bfa41cd8e05b7aba54bab27ac69b34" target=="_blank">read more</a>).</p>
+            ">A study finds that <strong>Black plastics can leach toxic fire retardants into food</strong>, especially when <a href="https://www.cbc.ca/radio/whitecoat/black-plastic-the-dose-explainer-1.7390842" target="_blank">heated</a>. Using brominated fire retardants in household products raises serious health and regulatory concerns.</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Scientists at the Field Museum in Chicago used a mobile CT scanner</strong>, a non-destructive technology, to explore 26 ancient <a href="https://edition.cnn.com/2024/11/09/science/field-museum-egyptian-mummies-ct-scans/index.html" target=="_blank">Egyptian mummies</a>, uncovering insights into their mummification practices, personal details, and afterlife preparations.</p>
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              border-left: 3px solid #4c305f;
-              padding-left: 14px;
-              margin-bottom: 15px;
-            "><strong>Climate change</strong> could drive up to <a href="https://www.npr.org/2024/12/06/nx-s1-5218583/how-many-species-could-go-extinct-from-climate-change-it-depends-on-how-hot-it-gets#:~:text=If%20countries%20meet%20the%20shared,species%20could%20be%20at%20risk." target=="_blank">30% of species</a> to extinction by the end of the century as habitats shrink and species are forced to move uphill with nowhere to go. </p>
+            "><strong>Progress on a global plastics treaty remains stalled</strong> as nations debate financing, production caps, and chemical safety regulations. Major oil-producing countries oppose key measures to curb plastic pollution (<a href="https://theconversation.com/global-plastic-pollution-talks-have-stalled-but-a-treaty-is-possible-if-countries-can-agree-on-these-three-things-244849" target="_blank">read more</a>).</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -274,14 +263,21 @@
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>The Yellowjackets season 3 trailer</strong> reveals the survivors are still <a href="https://people.com/hilary-swank-makes-a-bloody-debut-in-yellowjackets-season-3-trailer-8757854" target=="_blank">haunted</a> by their traumatic past. Danger resurfaces with mysterious threats, a bloodied Hilary Swank, and dark secrets coming to light.</p>
+            ">Taylor Swift’s record-breaking <a href="https://www.bbc.com/news/articles/ckg1r0v838vo" target="_blank">Eras Tour</a> <strong>concludes this weekend in Vancouver,</strong> leaving a bittersweet void as fans eagerly await her next chapter.</p>
             <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>The NBA is returning to the Chinese market</strong> by <a href="https://edition.cnn.com/2024/12/06/sport/nba-preseason-games-macao-china-spt-intl/index.html" target=="_blank">hosting</a> preseason games in Macao next October. The games will feature the Brooklyn Nets and Phoenix Suns, marking the league’s first games in China since 2019, when political tensions halted its operations.</p>
+            "><strong>The parody musical Raygun: The Musical,</strong> inspired by Olympic breakdancer Rachael “Raygun” Gunn, <a href="https://edition.cnn.com/2024/12/09/sport/raygun-the-musical-canceled-spt-intl-scli/index.html" target="_blank">was canceled</a> hours before its debut after Gunn’s legal team intervened, citing concerns over brand damage and intellectual property infringement.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Lily Yohannes, the 17-year-old midfielder and rising star of international soccer,</strong> has made headlines for her decision to <a href="https://www.espn.com/soccer/story/_/id/42742257/how-uswnt-us-womens-national-team-beat-netherlands-fight-lily-yohannes" target="_blank">represent the U.S.</a> Women’s National Team (USWNT) over the Netherlands.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -299,21 +295,28 @@
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">Search for UnitedHealthcare CEO’s killer reveals evidence, but few answers (<a href="https://www.politico.com/news/2024/12/08/search-for-unitedhealthcare-ceos-killer-yields-evidence-but-few-answers-00193180" target=="_blank">read more</a>).</p>
+            ">Trump plans to pardon Jan 6th insurrectionists (<a href="https://www.theguardian.com/us-news/2024/dec/08/trump-january-6-capitol-attack-promise-pardon-rioters" target="_blank">read more</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">The holidays are a peak time for volunteers, but are they around for the rest of the year? (<a href="https://www.npr.org/2024/12/05/nx-s1-5205508/holiday-volunteers-thanksgiving-christmas-food-pantry#:~:text=Trump's%20Terms-,Volunteering%20during%20the%20holidays%20might%20not%20be%20as%20helpful%20as,other%20times%20of%20the%20year." target=="_blank">read more</a>).</p>
+            ">Polarization: Merriam-Webster’s word of the year 2024 (<a href="https://edition.cnn.com/2024/12/09/us/polarization-merriam-websters-word-of-the-year-is-2024-in-a-nutshell/index.html" target="_blank">read more</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.4;
               border-left: 3px solid #4c305f;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">Why Airplane seats must be upright for takeoff and landing (<a href="https://dailypassport.com/why-airplane-seat-upright-takeoff-landing/" target=="_blank">read more</a>).</p>
+            ">Guyanese government wants to bring in tourism for the Jonestown massacre site (<a href="https://edition.cnn.com/2024/12/08/travel/guyana-jonestown-tourist-attraction-murder-suicide/index.html" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A guide to Marrakech, Morocco (<a href="https://www.thrillist.com/travel/nation/things-to-do-marrakech-morocco" target="_blank">read more</a>). </p>
         </mj-text> 
       </mj-column>
     </mj-section>
@@ -330,7 +333,7 @@
               font-weight: 250;
               padding: 25px 12px 12px 12px;
               text-align: center;
-            ">On this day in 1998, the United Nations General Assembly declared anti-Semitism a form of racism.</p>
+            ">On this day in 1996, South African President Nelson Mandela signed a new constitution, completing the transition from apartheid to full democracy.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -352,13 +355,6 @@
               font-size:12px;
               line-height: 2;
             "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            ">
-            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
           </mj-text>
            <mj-spacer height="12px"></mj-spacer>
 

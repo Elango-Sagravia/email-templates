@@ -1,0 +1,98 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 10th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Nations react to Syria</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Australia-Nauru treaty</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Mexico’s immigration conditions</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">The West reacts</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-10-1.jpg" alt="The West reacts" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">President Joe Biden <a href="https://apnews.com/article/trump-syria-biden-ukraine-russia-putin-assad-cbb3ad1fe14ccd32452aa118140e23cf" target="_blank">described</a> the fall of Bashar Assad’s regime as a “fundamental act of justice.” However, he warned of risks in the Middle East; the U.S. is monitoring Assad’s reported escape to Russia and securing chemical weapons left by his regime. Biden emphasized vigilance against terrorist threats, noting HTS’s history as an al-Qaida affiliate.</p>
+          <p style="font-size:16px;line-height:1.4;">Germany and Austria have put Syrian asylum applications <a href="https://www.euronews.com/my-europe/2024/12/09/germany-and-austria-freeze-syrian-asylum-applications-local-media-report" target="_blank">on pause</a> and cited instability as their reason. Local authorities estimate that 47,270 applications were impacted by the freeze but assured that applications already processed will not be affected. Austria is also considering <a href="https://www.msn.com/en-in/news/world/major-european-nations-suspend-syrian-asylum-decisions-after-assads-fall/ar-AA1vxXPw" target="_blank">deporting</a> Syrians and halting family reunifications, impacting nearly 100,000 residents. With a history of welcoming Syrian refugees, Germany is exploring return incentives amidst uncertainty. Kaja Kallas <a href="https://x.com/kajakallas/status/1865735009770082422" target="_blank">noted</a> that the recent collapse of Bashar al-Assad’s regime in Syria has revealed vulnerabilities in Russia and Iran, key allies of the Syrian government.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Australia-Nauru deal</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-10-2.jpg" alt="Australia-Nauru deal" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">Australia and Nauru have <a href="https://www.dw.com/en/australia-nauru-ink-landmark-security-deal/a-70998063" target="_blank">signed</a> a landmark security treaty to counter China’s growing influence in the Pacific. The treaty requires Nauru to consult Australia before making agreements on security, defense, or critical infrastructure and grants Canberra oversight of Nauru’s ports, airfields, and banking sector. In exchange, Australia will provide nearly $64 million in financial aid over five years and ensure access to banking services for Nauru. </p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px);">Australian Prime Minister Anthony Albanese emphasized the treaty’s importance for regional stability as China strengthens <a href="https://theconversation.com/chinas-increasing-political-influence-in-the-south-pacific-has-sparked-an-international-response-222105" target="_blank">ties</a> with Pacific nations, including the <a href="https://apnews.com/article/china-solomon-islands-us-taiwan-pacific-dc2e984ec5045060524c644ebf62b910" target="_blank">Solomon Islands</a> and <a href="https://english.www.gov.cn/statecouncil/leaders/202205/27/content_WS6290d195c6d02e533532b6c5.html" target="_blank">Kiribati</a>. For security and partly economic reasons, the South Pacific is an area of <a href="https://edition.cnn.com/2022/06/06/asia/china-pacific-islands-wang-yi-intl-hnk/index.html" target="_blank">competition</a> between China and the West, particularly Australia and the US.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
