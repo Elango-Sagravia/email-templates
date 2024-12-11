@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+   
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  > 
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 11th Dec 2024 edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ CEO shooter caught</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Haiti mourns brutal gang violence</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Nobel laureates oppose RFK Jr.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+ 
+
+
+    <!-- breaking news1  -->
+
+
+    <!-- /breaking news 1 -->
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">CEO shooter arrested</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-11-1.jpg" alt="CEO shooter arrested" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Luigi Mangione has been <a href="https://abcnews.go.com/US/unitedhealthcare-ceo-shooting-latest-net-closing-suspect-new/story?id=116591169" target="_blank">charged</a> with murdering UnitedHealthcare CEO Brian Thompson on December 4, 2024. He was arrested in Altoona, Pennsylvania. The 26-year-old from Maryland initially faced gun charges before the NYPD charged him with murder. He also faces charges for possession of a loaded firearm, a forged New Jersey driver's license, and criminal possession of a weapon. He was recognized by a McDonald's employee while traveling on a Greyhound bus.</p>
+          <p style="font-size: 16px; line-height: 1.4">Authorities found a ghost gun, a suppressor, and multiple fake IDs in his possession. Mangione's handwritten document hinted at his motivations and resentment toward corporate America. The details of his arrest have <a href="https://tribune.com.pk/story/2515033/internet-turns-alleged-unitedhealthcare-ceos-killer-luigi-mangione-into-a-viral-meme" target="_blank">gone viral</a> on social media, with memes and posts praising him due to the many's frustrations with the <a href="https://apnews.com/article/unitedhealthcare-delay-deny-depose-insurance-online-criticism-2d9c9a1a2a551876e72a11a93fc7624c" target="_blank">insurance industry</a>. But his arrest has also brought closure to his family and colleagues. The governor of Pennsylvania <a href="https://www.independent.co.uk/news/world/americas/crime/luigi-mangione-arrest-pennsylvania-reaction-health-insuranc-b2661599.html" target="_blank">remarked</a> that the celebrations are disturbing and not the way to deal with the frustrations of the healthcare system.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Haiti gang massacre</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">Gang members have <a href="https://english.elpais.com/international/2024-12-10/terror-massacre-and-voodoo-in-the-latest-episode-of-gang-violence-in-haiti.html" target="_blank">murdered</a> at least 180 elderly people in the Haitian capital of Port-au-Prince. The killings were instigated by a local gang leader whose son fell ill and died. After consulting a voodoo priest, he blamed elderly people practicing “witchcraft” were responsible for the boy’s illness. In retaliation, gang members rounded up residents aged over 60 from their homes and murdered them in the streets.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">
+          Recent months have seen a <a href="https://www.aljazeera.com/news/2024/10/30/haitis-gangs-inflict-extreme-brutality-as-casualties-rise-un-report" target="_blank">surge</a> in gang attacks on ordinary residents in Haiti, following a brief decline earlier this year due to a temporary truce. Gangs <a href="https://www.voanews.com/a/un-haitian-children-account-for-about-half-of-country-s-armed-gang-members-/7884775.html" target="_blank">control</a> around 85% of Port-au-Prince and many rural areas, displacing over 700,000 Haitians, including half a million children. This is not the first act of violence linked to religion; in 2021, the gang killed 12 women, accusing them of following witchcraft.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+   
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
