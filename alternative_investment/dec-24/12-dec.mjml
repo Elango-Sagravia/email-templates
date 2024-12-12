@@ -1,0 +1,489 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ MicroStrategy NASDAQ 100 inclusion</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ VC newcomers challenge</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Portfolio diversification</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.altdaily.co/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">BlackRock’s private markets platform</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-1.jpg" alt="BlackRock’s private markets platform" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">BlackRock has become the first asset manager to <a href="https://pitchbook.com/news/articles/blackrock-first-to-launch-global-wealth-platform-under-revised-eltif-2-0" target="_blank">launch</a> a global evergreen private markets platform under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0606" target="_blank">ELTIF 2.0</a> framework. The platform is intended to provide investors in Europe with exposure to a diverse range of alternative assets. The platform will initially launch with two new funds, the BlackRock Private Equity Fund and the Multi-Alternative Growth Fund. The launch comes just a few days after BlackRock announced its <a href="https://pitchbook.com/news/articles/blackrock-hps-purchase-record-year-gp-consolidation" target="_blank">acquisition</a> of HPS Investment Partners.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Nippon Life considers $8.2 bn acquisition</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-2.jpg" alt="Nippon Life considers $8.2 bn acquisition" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Nippon Life Insurance Company is in <a href="https://pitchbook.com/news/articles/nippon-life-in-talks-to-acquire-resolution-life-for-8-2b" target="_blank">discussions</a> to acquire Resolution Life Group Holdings for $8.2 billion, potentially creating the largest insurance transaction by a Japanese company. Bermuda-based Resolution Life, currently valued at $10.6 billion, already has an existing relationship with Nippon Life, which holds a 23% stake in the company. This comes amid a robust period of Japanese investment activity, with private equity deals nearing a 10-year high. Blackstone, which established a strategic partnership with Resolution Life in 2022, is expected to maintain its investment management agreement if the acquisition proceeds.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+  <mj-spacer height="10px" />
+
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Experienced VC firms dominate fundraising as newcomers struggle</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-3.jpg" alt="Experienced VC firms dominate fundraising as newcomers struggle" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          The venture capital landscape in 2024 shows a sharp decline in capital raised by emerging managers, who have captured only 23% of fund value year-to-date—a 10-year low. Emerging firms, defined as those with fewer than four funds launched, are facing significant challenges as limited partners (LPs) prioritize experience amid economic uncertainty, elevated interest rates, and muted exit opportunities.</p>
+        <p style="font-size: 16px; line-height: 1.4">
+         In contrast, experienced firms are consolidating their dominance, raising the majority of VC capital. This trend reflects the risk-averse approach of investors, who are leaning toward established players with proven track records. While the VC ecosystem raised $80.5 billion across 632 funds in the first half of 2024, the total number of new funds is expected to fall far short of the 2021 peak.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BRIEFS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Private Equity</h2>
+        </mj-text>
+    
+           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Blackstone transforms London office into student housing:</strong>   
+          Blackstone's iQ Student Accommodation has <a href="https://www.bnnbloomberg.ca/investing/2024/12/11/blackstone-buys-defaulted-london-office-project-at-big-discount/" target="_blank">acquired</a> a 1.4-acre plot in Southwark, London, previously a Blackfriars Crown Court site, at a significant discount. The property, originally valued at £50 million, will be converted from a planned office development to student dormitories. This comes amid London's critical student housing shortage, with 105,000 full-time students facing accommodation challenges. The site, initially designed as a 430,000-square-foot office project with a roof garden and swimming pool, now represents a strategic pivot in real estate development.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Bain raises takeover offer for Fuji Soft:</strong>   
+         Bain Capital has <a href="https://www.bnnbloomberg.ca/investing/2024/12/11/bain-raises-offer-for-fuji-soft-extending-takeover-war-with-kkr/" target="_blank">raised</a> its offer for Fuji Soft Inc. to $4.3 billion, proposing ¥9,600 per share in a competitive acquisition battle with KKR. This represents a 1.6% increase over KKR's previous offer of ¥9,451. The development occurs just before KKR's tender offer concludes on December 19, with uncertainty about the potential transaction impact. The move is part of a broader trend driven by a weaker yen and regulatory encouragement of corporate governance reforms, with Fuji Soft's shares having jumped 64% this year.</p>
+          </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Hedge Funds</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Hedge Funds Deliver Steady 10% Returns in 2024:</strong> Hedge funds showcased their value in 2024, <a href="https://www.hedgeweek.com/hedge-funds-return-10-globally-in-2024-while-proving-diversification-worth-says-preqin/" target="_blank">delivering</a> a 10% return through Q3 and proving their worth as portfolio diversifiers. Preqin's Global Hedge Fund Report reveals the asset class grew to $4.9 trillion, an 8% increase from the year's start. While lagging global equities' 19% return, hedge funds outperformed public debt at 4%. Niche strategy funds led performance, returning 16%, with cryptocurrency-focused sub-strategies driving growth. North America dominated the market, holding 81% of global assets at $3.95 trillion. Despite historical net outflows, 2024 saw $19.2 billion in net subscriptions, highlighting renewed investor confidence in alternative investments.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Venture Capital</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Reveal Technology raises $11 million for military tech:</strong>   
+           Reveal Technology, a six-year-old startup has <a href="https://techcrunch.com/2024/12/11/reveal-technology-raises-11m-to-scale-decision-dominance-tools-for-dod/#:~:text=Military%20operators%20need%20to%20rapidly,accurate%20information%20about%20their%20surroundings." target="_blank">secured</a> $11.2 million in Series A funding to scale its military decision support technologies. The company's flagship product, Farsight, converts drone video into real-time 3D smartphone maps for military operators.</p>
+        </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Capstan Medical secures $110 million in Series C funding:</strong>   
+           Capstan Medical has successfully <a href="https://vcnewsdaily.com/capstan-medical/venture-capital-funding/mvxtsvjzpt" target="_blank">raised</a> $110 million in an oversubscribed Series C funding round to advance its robotic-enabled minimally invasive heart valve disease solutions. The Santa Cruz-based company attracted investments from Eclipse as the lead investor, with participation from existing investors Yu Galaxy and Intuitive Ventures, and new investment from Gideon Strategic Partners.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Others</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>MicroStrategy's Nasdaq inclusion under question:</strong>  
+          MicroStrategy, led by Michael Saylor, is currently navigating a complex <a href="https://www.bnnbloomberg.ca/business/company-news/2024/12/11/microstrategys-bitcoin-play-raises-questions-about-nasdaq-100-inclusion/" target="_blank">potential inclusion</a> in the Nasdaq 100 Index. The company, which has transformed itself into a Bitcoin investment vehicle, holds over $40 billion in cryptocurrency and has seen its stock surge more than 500% this year. With a market capitalization of $98 billion, MicroStrategy technically qualifies for index inclusion, though analysts debate its appropriateness. The company's underlying software business has reported a net loss of $340 million in the third quarter, yet its Bitcoin holdings have driven significant market interest. Nasdaq's potential inclusion would trigger substantial passive investment from approximately $451 billion in exchange-traded funds. The decision, expected on December 23rd, hinges on whether MicroStrategy will be viewed as a technology company or a financial investment entity, with potential significant implications for its future market positioning and investment strategy.</p>
+        </mj-text>
+ 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Luxury brokers arrested on serious sex trafficking charges:</strong>  
+          Prominent luxury real estate brokers Oren, Tal, and Alon Alexander have been <a href="https://www.bnnbloomberg.ca/business/company-news/2024/12/11/star-real-estate-brokers-alexander-brothers-arrested-by-fbi/" target="_blank">arrested</a> and charged with federal sex trafficking. The three brothers, known for working with ultra-wealthy and celebrity clients in New York and Miami, are accused of systematically drugging and sexually assaulting dozens of women over a decade. Federal prosecutors allege the Alexanders used their wealth, social connections, and professional status to create opportunities for sexual assault, often working with party promoters and procuring drugs to facilitate their crimes. If convicted, they face potential life sentences.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Why is diversification considered the cornerstone of portfolio management?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-4.jpg" alt="Why is diversification considered the cornerstone of portfolio management?" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Diversification is essential in portfolio management because it helps reduce risk without necessarily sacrificing returns. By spreading investments across a variety of asset classes, industries, and geographic regions, the impact of poor performance from any single investment is diversified.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          The concept relies on the principle of non-correlation—assets that respond differently to market events can offset each other. For example, during a stock market downturn, bonds or commodities like gold might perform well, balancing the portfolio’s overall returns.</p>
+           <p style="font-size: 16px; line-height: 1.4">Diversification also helps investors capture opportunities across various sectors and geographies. While technology stocks might dominate in one period, energy or healthcare may lead in another.</p>
+           <p style="font-size: 16px; line-height: 1.4">However, over-diversification can dilute returns, so the key is to maintain a balanced portfolio tailored to individual goals and risk tolerance. By mitigating unsystematic risk, diversification ensures a smoother investment journey and remains a cornerstone of sound portfolio management.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+    <!-- fun friday -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">what is</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+      <h2 style="             
+             font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Short Selling</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+        Short selling is a strategy where you borrow a stock, sell it, and hope the price drops so you can buy it back cheaper, returning it to the lender and keeping the difference. It’s like borrowing a jacket, selling it, and planning to buy the same jacket later at a discount, hoping to make a profit.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#6b705c" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">“If you find three wonderful businesses in your life, you’ll get very rich.” Warren Buffett</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This newsletter is for informational purposes only and does not constitute financial advice.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
