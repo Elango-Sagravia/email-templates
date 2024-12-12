@@ -1,0 +1,482 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  > 
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Brazilian President recovers</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Albertsons end Kroger merger</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Google unveils Project Mariner</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+    <!-- breaking news1  -->
+
+
+    <!-- /breaking news 1 -->
+
+  <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Trump’s legal games</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-12-1.jpg" alt="Trump’s legal games" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Manhattan prosecutors have <a href="https://www.france24.com/en/americas/20241211-prosecutors-restate-opposition-to-trump-bid-to-dismiss-hush-money-conviction" target="_blank">opposed</a> President-elect Donald Trump’s latest attempt to dismiss his conviction for concealing hush money payments to an adult film star during his 2016 campaign. While rejecting his motion to vacate the guilty verdict, they agreed to pause the case during his presidency to avoid interference with his second term, set to begin on January 20. Judge Juan Merchan postponed sentencing after Trump’s November 5 election victory.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump’s legal team cited a Supreme Court <a href="https://edition.cnn.com/2024/07/01/politics/presidents-immunity-supreme-court-what-matters/index.html" target="_blank">ruling</a> granting presidents broad immunity as justification. Still, prosecutors argued that a stay of proceedings is sufficient and that Trump's bid to have the case thrown out was "well beyond" what was needed to protect the presidency.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+
+
+<!-- ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+               
+            ">ad</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-sample.png" alt="Trump’s legal games" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Manhattan prosecutors have <a href="https://www.france24.com/en/americas/20241211-prosecutors-restate-opposition-to-trump-bid-to-dismiss-hush-money-conviction" target="_blank">opposed</a> President-elect Donald Trump’s latest attempt to dismiss his conviction for concealing hush money payments to an adult film star during his 2016 campaign. While rejecting his motion to vacate the guilty verdict, they agreed to pause the case during his presidency to avoid interference with his second term, set to begin on January 20. Judge Juan Merchan postponed sentencing after Trump’s November 5 election victory.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- /ad -->
+
+
+
+    <mj-spacer height="10px" />
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Infowars sale</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-12-2.jpg" alt="Infowars sale" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A bankruptcy judge <a href="https://edition.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html" target="_blank">blocked</a> The Onion’s bid for Alex Jones’ Infowars platform, citing flaws in the auction process that failed to maximize value. Judge Christopher Lopez expressed concern about transitioning from a live auction to sealed bids. <a href="https://theonion.com/" target="_blank">The Onion</a>, backed by <a href="https://apnews.com/article/onion-buys-infowars-alex-jones-6496f198d141c991087dcd937b3588e9" target="_blank">Sandy Hook victims’ families</a>, offered $1.75 million in cash, valued at $7 million, while First United American Companies, linked to Jones, bid $3.5 million.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Although the judge found no fault with The Onion’s bid, he criticized the auction handling and ordered the trustee to reconsider the process without reopening the auction. Jones, facing nearly <a href="https://www.theguardian.com/us-news/2022/dec/07/alex-jones-infowars-bankruptcy" target="_blank">$1.5 billion</a> in defamation damages, celebrated the ruling as the “right thing.” Jones had used Infowars to spread conspiracy theories into public disclosure.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Going back to Syria</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">At the Syria-Lebanon border, a group of men <a href="https://www.france24.com/en/middle-east/20241210-the-road-to-damascus-syrian-exiles-return-home-to-celebrate-fall-of-assad" target="_blank">return</a> to their homeland after more than 10 years in exile. They thanked their god for the fall of Bashar al-Assad, the dictator they blame for sowing division among them and butchering Syrians. As they crossed the border, there were no Syrian soldiers in sight, only armed rebels who welcomed the families back.</p>
+          <p style="font-size: 16px; line-height: 1.4">Thousands have gathered at Turkey’s border with Syria, eager to go back. However, nearly three million Syrians remain in Turkey, and many are <a href="https://www.bbc.com/news/articles/cvg6eeg87lqo" target="_blank">uncertain</a> about the situation in their home country. The rebuilding process will be lengthy and costly. Experts warn against pushing refugees to return too quickly due to the country’s ongoing challenges of rebuilding. Syrians in Germany are faced with a <a href="https://www.theguardian.com/world/2024/dec/11/syrians-living-in-berlin-debate-return" target="_blank">dilemma similar</a> to those in Turkey. Many have built lives in Germany, and many became German citizens. While many are eager to return, the situation remains uncertain, and they worry about the risks.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Brazilian President Luiz Inácio Lula da Silva is recovering in intensive care</strong> after undergoing <a href="https://www.dw.com/en/brazilian-president-lula-doing-well-after-brain-surgery/a-71009169" target="_blank">brain surgery</a> to address a bleeding. His surgery followed a fall at his home in October.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Syria has <a href="https://www.bbc.com/news/articles/c5yxrpkx00yo" target="_blank">established</a> a <strong>transitional government led by Mohammed al-Bashir</strong>, previously associated with the rebel administration in northwestern Syria. He said it was time for the people to enjoy stability and calm after the overthrow of Bashar al-Assad.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+             <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Albertsons ended its $25B merger with Kroger after courts blocked the deal</strong>, citing antitrust concerns over reduced competition and higher prices. Albertsons <a href="https://www.albertsonscompanies.com/newsroom/press-releases/news-details/2024/Albertsons-Files-Lawsuit-Against-Kroger-for-Breach-of-Merger-Agreement/default.aspx" target="_blank">sued</a> Kroger for breaching the agreement, seeking damages and a $600M termination fee.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China aims to foster globally competitive firms by driving M&A in key sectors</strong> like integrated circuits and biopharmaceutical, targeting $41.4 billion in transactions by 2027. Critics warn that policy-driven goals may conflict with market dynamics amid economic challenges (<a href="https://www.scmp.com/business/banking-finance/article/3290269/china-pushes-ma-build-10-hi-tech-listed-firms-can-compete-globally-2027?module=top_story&pgtype=section" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>David Bonderman dies at 82</strong>. He <a href="https://www.tpg.com/news-and-insights/remembering-david-bonderman/" target="_blank">owned</a> Seattle Kraken and co-founded one of the world's largest alternative asset management companies, TPG. Known for the Continental Airlines and Ducati buyout, he transitioned from law to finance, shaping landmark deals and securities law. He once evaded authorities over a $700M tax bill by living on a superyacht off the coast of Australia.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google’s DeepMind unveiled Project Mariner, an AI agent</strong> powered by Gemini that navigates websites like humans. Initially <a href="https://deepmind.google/technologies/project-mariner/" target="_blank">released</a> to testers, it represents a UX paradigm shift, enabling users to interact with AI instead of websites, potentially reshaping web engagement and business models.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>As New Delhi continues to battle severe smog</strong>, the global travel industry is <a href="https://www.bbc.com/travel/article/20241209-welcome-to-smog-season-how-will-air-pollution-change-where-and-when-we-travel" target="_blank">concerned</a> about the impact of worsening air quality on future tourism.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Alex Smith, who lost his arm in a boating accident, is hopeful that Phantom Neuro’s innovative <strong>muscle implant technology will revolutionize prosthetics</strong> by providing faster, more natural control for amputees (<a href="https://www.wired.com/story/amputees-could-control-prosthetics-with-just-their-thoughts-no-brain-surgery-required-phantom-neuro/" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Japanese judokas dominated the 2024 Tokyo Grand Slam</strong>, winning 13 out of 14 gold medals (<a href="https://www.euronews.com/2024/12/08/tokyo-grand-slam-a-spectacular-finale-for-the-2024-season-of-the-international-judo-federa" target="_blank">read more</a>).  </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>FIFA announced the hosts for the 2030 and 2034 Men’s World Cups</strong>, with Spain, Portugal, and Morocco as the joint hosts for 2030 and Saudi Arabia as <a href="https://edition.cnn.com/2024/12/11/sport/saudi-arabia-2034-world-cup-fifa-bid-spt-intl/index.html" target="_blank">the sole candidate</a> for 2034.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Jamie Foxx reveals he suffered a brain bleed and stroke</strong> in April 2023, sharing how his family supported him through recovery <a href="https://www.bbc.com/news/articles/cn8g94p070lo" target="_blank">while using humor</a> to cope with the challenges.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">CEO shooting suspect in angry outburst as he tries to fight extradition to New York (<a href="https://www.cbsnews.com/video/suspected-unitedhealthcare-ceo-killer-fighting-extradition/" target="_blank">watch video</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Trending treat 'Dubai chocolate,' but is everyone allowed to use the name (<a href="https://www.dw.com/en/dubai-chocolate-as-a-tasty-trend-goes-viral-who-owns-the-trademark/a-70987768" target="_blank">read more</a>)?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Teenage mother in Detroit who became a Ghanaian ‘Queen’ (<a href="https://edition.cnn.com/world/africa/us-queen-ghana-tamale-kennedy-johnson-spc/index.html" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">5 of the biggest holiday markets around the world (<a href="https://dailypassport.com/biggest-holiday-markets/" target="_blank">read more</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 2000, the U.S. Supreme Court effectively awarded the presidency to George W. Bush by halting the Florida ballot recount.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
