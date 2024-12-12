@@ -111,6 +111,12 @@
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
           color:#4D3060;
@@ -119,11 +125,12 @@
             border-bottom:2px solid #4D3060;
             text-transform:uppercase;
               font-size: 20px;
-              line-height: 1.2;
+              line-height: 1.4;
               font-weight: 300;
-              padding: 18px 8px 10px 8px;
+              padding: 10px 0px 0px 0px;
+              
                
-            ">ad</h2>
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
         </mj-text>
       </mj-column>
     </mj-section> 
