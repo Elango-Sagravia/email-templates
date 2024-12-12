@@ -1,0 +1,111 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 12th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ MicroStrategy NASDAQ 100 inclusion</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ VC newcomers challenge</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Portfolio diversification</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">BlackRock’s private markets platform</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-1.jpg" alt="BlackRock’s private markets platform" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">BlackRock has become the first asset manager to <a href="https://pitchbook.com/news/articles/blackrock-first-to-launch-global-wealth-platform-under-revised-eltif-2-0" target="_blank">launch</a> a global evergreen private markets platform under the <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32023R0606" target="_blank">ELTIF 2.0</a> framework. The platform is intended to provide investors in Europe with exposure to a diverse range of alternative assets. The platform will initially launch with two new funds, the BlackRock Private Equity Fund and the Multi-Alternative Growth Fund. The launch comes just a few days after BlackRock announced its <a href="https://pitchbook.com/news/articles/blackrock-hps-purchase-record-year-gp-consolidation" target="_blank">acquisition</a> of HPS Investment Partners.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Nippon Life considers $8.2 bn acquisition</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-12-2.jpg" alt="Nippon Life considers $8.2 bn acquisition" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">
+          Nippon Life Insurance Company is in <a href="https://pitchbook.com/news/articles/nippon-life-in-talks-to-acquire-resolution-life-for-8-2b" target="_blank">discussions</a> to acquire Resolution Life Group Holdings for $8.2 billion, potentially creating the largest insurance transaction by a Japanese company. Bermuda-based Resolution Life, currently valued at $10.6 billion, already has an existing relationship with Nippon Life, which holds a 23% stake in the company. This comes amid a robust period of Japanese investment activity, with private equity deals nearing a 10-year high. Blackstone, which established a strategic partnership with Resolution Life in 2022, is expected to maintain its investment management agreement if the acquisition proceeds.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

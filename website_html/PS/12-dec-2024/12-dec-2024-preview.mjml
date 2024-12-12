@@ -1,0 +1,120 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+   
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  > 
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 12th Dec 2024 edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Brazilian President recovers</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Albertsons end Kroger merger</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Google unveils Project Mariner</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+ 
+
+
+    <!-- breaking news1  -->
+
+
+    <!-- /breaking news 1 -->
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Trump’s legal games</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-12-1.jpg" alt="Trump’s legal games" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Manhattan prosecutors have <a href="https://www.france24.com/en/americas/20241211-prosecutors-restate-opposition-to-trump-bid-to-dismiss-hush-money-conviction" target="_blank">opposed</a> President-elect Donald Trump’s latest attempt to dismiss his conviction for concealing hush money payments to an adult film star during his 2016 campaign. While rejecting his motion to vacate the guilty verdict, they agreed to pause the case during his presidency to avoid interference with his second term, set to begin on January 20. Judge Juan Merchan postponed sentencing after Trump’s November 5 election victory.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump’s legal team cited a Supreme Court <a href="https://edition.cnn.com/2024/07/01/politics/presidents-immunity-supreme-court-what-matters/index.html" target="_blank">ruling</a> granting presidents broad immunity as justification. Still, prosecutors argued that a stay of proceedings is sufficient and that Trump's bid to have the case thrown out was "well beyond" what was needed to protect the presidency.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Infowars sale</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-12-2.jpg" alt="Infowars sale" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">A bankruptcy judge <a href="https://edition.cnn.com/2024/12/11/media/infowars-onion-lawsuit-block-hnk-intl/index.html" target="_blank">blocked</a> The Onion’s bid for Alex Jones’ Infowars platform, citing flaws in the auction process that failed to maximize value. Judge Christopher Lopez expressed concern about transitioning from a live auction to sealed bids. <a href="https://theonion.com/" target="_blank">The Onion</a>, backed by <a href="https://apnews.com/article/onion-buys-infowars-alex-jones-6496f198d141c991087dcd937b3588e9" target="_blank">Sandy Hook victims’ families</a>, offered $1.75 million in cash, valued at $7 million, while First United American Companies, linked to Jones, bid $3.5 million.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">
+          Although the judge found no fault with The Onion’s bid, he criticized the auction handling and ordered the trustee to reconsider the process without reopening the auction. Jones, facing nearly <a href="https://www.theguardian.com/us-news/2022/dec/07/alex-jones-infowars-bankruptcy" target="_blank">$1.5 billion</a> in defamation damages, celebrated the ruling as the “right thing.” Jones had used Infowars to spread conspiracy theories into public disclosure.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

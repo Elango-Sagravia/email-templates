@@ -1,0 +1,99 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 12th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Iran is pointing fingers westward</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Israel breaches demilitarized zone</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Russia-Syria relationship</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">Interim government</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-12-1.jpg" alt="Interim government" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Syria <a href="https://www.bbc.com/news/articles/c5yxrpkx00yo" target="_blank">established</a> a transitional government led by Mohammed al-Bashir, previously associated with the rebel administration in northwestern Syria. Bashir has been given the task of overseeing governance until March 2025. He has emphasized the need for stability and unity during this critical period.</p>
+          <p style="font-size:16px;line-height:1.4;">The transitional government attempts to restore public services and institutions in areas previously affected by conflict. However, the UN and key global powers have designated <a href="https://www.bbc.com/news/articles/ce313jn453zo" target="_blank">HTS</a> a terrorist organization, which makes international engagement and recognition more complicated. But many members of the HTS are trying to distance it from its past with <a href="https://www.pbs.org/newshour/world/syrias-main-insurgent-group-seeks-to-distance-itself-from-past-al-qaida-ties" target="_blank">extremism</a> and carve a new future for Syria that is based on pluralism and religious tolerance.​</p>
+          <p style="font-size:16px;line-height:1.4;">US officials have strongly encouraged <a href="https://www.usnews.com/news/world/articles/2024-12-10/in-first-contacts-us-officials-urge-syrian-rebels-to-support-inclusive-government" target="_blank">inclusivity</a>, minority rights protection, and credible governance during this transition. Meanwhile, Damascus is showing some promising signs of <a href="https://en.protothema.gr/2024/12/11/syria-the-general-command-of-the-rebels-announces-the-lifting-of-the-curfew-in-damascus/" target="_blank">normalcy</a>, and many Syrians have already returned to their homeland. Still, the path to a peaceful and united Syria will present many challenges.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500;">Attacks in Sudan</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-12-2.jpg" alt="Attacks in Sudan" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;filter: blur(5px);">The situation in Sudan continues to deteriorate. On Monday, an airstrike <a href="https://www.bbc.co.uk/news/articles/c9wlp15400eo" target="_blank">targeted</a> a market in <a href="https://www.google.co.in/maps/place/Kabkabiya,+Sudan/@13.6475912,24.0706154,14z/data=!3m1!4b1!4m6!3m5!1s0x16cc03a837feae0d:0x228edba974755c58!8m2!3d13.6511432!4d24.0904246!16s%2Fg%2F1th45vtg?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Kabkabiya</a>, North Darfur, leaving over 100 dead. In <a href="https://www.google.co.in/maps/place/Omdurman,+Sudan/@15.6424542,32.2906706,11z/data=!3m1!4b1!4m6!3m5!1s0x168e8bf303b5ade3:0xffa2d3531b1ae48f!8m2!3d15.6475782!4d32.4806894!16zL20vMHBrX3k?entry=ttu&g_ep=EgoyMDI0MTIxMC4wIKXMDSoASAFQAw%3D%3D" target="_blank">Omdurman</a>, paramilitary shelling on Tuesday <a href="https://www.dw.com/en/sudan-war-claims-over-100-more-lives-mostly-civilians/a-71017432" target="_blank">reportedly</a> killed at least 65 people, according to the governor aligned with the army. The war, ongoing since April 2023, has killed tens of thousands and displaced 12 million, with famine declared in parts of North Darfur.</p>
+          <p style="font-size:16px;line-height:1.4;filter: blur(5px);">The IRC <a href="https://www.rescue.org/article/top-10-crises-world-cant-ignore-2025" target="_blank">described</a> it as the worst humanitarian crisis recorded and the fastest and largest displacement crisis. Refugee camps like Zamzam face <a href="https://news.un.org/en/story/2024/12/1157726" target="_blank">starvation</a> and violence while ceasefire efforts remain stalled. The UN has renewed its call for humanitarian aid and international diplomatic intervention, focusing on achieving lasting peace to end suffering.​</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
