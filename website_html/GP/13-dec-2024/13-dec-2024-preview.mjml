@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 13th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Romania and Bulgaria Schengen membership</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ French PM to be announced</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is Liberland?</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">The Horn of Africa deal</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-13-1.jpg" alt="The Horn of Africa deal" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px)">Ethiopia and Somalia agreed to <a href="https://www.dw.com/en/ethiopia-somalia-reach-compromise-to-end-feud-turkey-says/a-71029613" target="_blank">resolve</a> a tense year-long dispute rooted in Ethiopia’s controversial <a href="https://www.bbc.com/news/world-africa-67861390" target="_blank">January 2024 deal</a> with Somaliland. Ethiopia reportedly negotiated to lease a coastal stretch for a port and military base in exchange for recognition of Somaliland’s independence. This move outraged Somalia, which viewed it as a violation of its sovereignty.</p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px)">Turkish President Recep Tayyip Erdogan brokered this agreement. He mediated separate meetings with Somali President Hassan Sheikh Mohamud and Ethiopian Prime Minister Abiy Ahmed. Ethiopia and Somalia agreed to have “technical talks” to address the dispute. The discussions are likely to start around February 2025. They have a four-month deadline to ensure Ethiopia’s access to the sea. The joint declaration underlined <a href="https://apnews.com/article/turkey-somalia-ethiopia-joint-declaration-296b4f3e4e38a92f489b854a8b4e7ccd" target="_blank">mutual benefits</a>, with plans to finalize commercial arrangements granting Ethiopia secure and sustainable sea access under Somalia’s sovereignty. This is a step towards a new beginning for the Horn of Africa.​</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

@@ -1,0 +1,345 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+   
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>On 14th Dec 2024 weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Australia-Nauru security deal</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ China-Taiwan tension </p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Iran’s blame game</p>
+        
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇸🇾 Assad’s exit:</strong> 
+            Syria’s President Bashar al-Assad has <a href="https://www.usatoday.com/story/news/world/2024/12/07/syrian-president-bashar-al-assad-leaves-damascus-rebels-advance/76846432007/" target="_blank">fled</a> the country. Opposition groups have taken more towns, celebrating the end of his family’s rule. Freed prisoners have reunited with their families, fostering hopes for democracy after nearly 14 years of <a href="https://www.euronews.com/2024/12/08/after-14-years-of-conflict-assads-fall-brings-an-end-to-syrias-dynastic-rule" target="_blank">conflict</a>. Assad is now in Moscow and has <a href="https://www.aljazeera.com/news/2024/12/9/russia-gave-asylum-to-deposed-syrian-president-al-assad-kremlin-confirms" target="_blank">received</a> political asylum. International responses call for stability, with <a href="https://www.aa.com.tr/en/europe/spain-voices-support-for-peaceful-stable-syria-after-assads-fall/3418233" target="_blank">Spain</a> and <a href="https://www.rfi.fr/en/international/20241208-france-welcomes-fall-of-syria-s-assad-calls-for-peaceful-transition" target="_blank">France</a> advocating peaceful solutions. Meanwhile, Russia maintains heightened security at its bases in Syria, and Syrian rebel leaders have assured the safety of these sites. A transitional government led by Mohammed al-Bashir, linked to the northwestern rebel administration, has been <a href="https://www.dw.com/en/does-syrias-power-shift-raise-hopes-for-stability-and-democracy/a-71006195" target="_blank">established</a> to govern until March 2025, focusing on unity and stability.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇦🇺 Australia-Naru deal:</strong> 
+            Australia and Nauru have signed a significant security <a href="https://www.dw.com/en/australia-nauru-ink-landmark-security-deal/a-70998063" target="_blank">treaty</a> to counter China's influence in the Pacific. The treaty mandates that Nauru consult Australia before entering agreements on security and critical infrastructure, giving Australia oversight of Nauru’s ports and banking. In return, Australia will provide nearly $64 million in aid over five years. Prime Minister Anthony Albanese highlighted the treaty's role in maintaining regional stability amidst China's growing <a href="https://theconversation.com/chinas-increasing-political-influence-in-the-south-pacific-has-sparked-an-international-response-222105" target="_blank">ties</a> with Pacific nations. The South Pacific remains a key <a href="https://edition.cnn.com/2022/06/06/asia/china-pacific-islands-wang-yi-intl-hnk/index.html" target="_blank">competition</a> between China and Western nations, particularly Australia and the US.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇰🇷 South Korean Foreign Minister jailed:</strong> 
+            South Korean police <a href="https://www.dw.com/en/south-korea-arrests-ex-defense-minister-over-martial-law/a-70993411" target="_blank">arrested</a> former defense minister Kim Yong-hyun on Sunday for his role in President Yoon Suk Yeol’s martial law attempt. Kim Yong-Hyun, considered central to the decree, faces insurrection charges alongside Yoon and martial law commander Park An-su. Kim Yong-Hyun went on to attempt suicide while in custody but survived. The <a href="https://edition.cnn.com/2024/12/10/asia/south-korea-defense-minister-suicide-attempt-intl-hnk/index.html" target="_blank">incident</a> occurred in the bathroom, and Kim Yong-Hyun gave up on the attempt when the corrections officer came in. The officers have moved him to isolation and confirmed that he has no health issues. 
+          </p>
+          </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇨🇳 China-Taiwan war games:</strong> 
+           Tensions between China and Taiwan have <a href="https://www.dw.com/en/taiwan-says-china-deploying-largest-naval-fleet-in-decades/a-71008022" target="_blank">escalated</a>, with Taiwan’s Defense Ministry reporting the largest Chinese naval deployment near the island in nearly three decades. 47 Chinese military aircraft and 12 warships were detected, surpassing the military presence during the <a href="https://www.scmp.com/week-asia/politics/article/3187774/beijings-war-games-taiwan-after-pelosis-trip-spark-concerns" target="_blank">2022</a> war games triggered by Nancy Pelosi’s visit. Taiwan is on high alert, as Chinese forces are forming “two walls” in the Pacific, suggesting an attempt to claim the Taiwan Strait as internal waters. Relations soured after Taiwanese President Lai Ching-te <a href="https://apnews.com/article/taiwan-us-china-lai-ching-te-hawaii-guam-7abcd0e5803fdb7f20615fd394aca91b" target="_blank">visited</a> the U.S., which Beijing condemned. Taiwan maintains its sovereignty and relies on U.S. support for defense, while China views Taiwan as part of its territory. Since Lai took office, China has conducted two large-scale military drills around Taiwan.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇮🇷 Iran points fingers:</strong> 
+           Iran’s Supreme Leader, Ayatollah Ali Khamenei, <a href="https://www.euronews.com/2024/12/11/iran-blames-us-and-israel-for-bashar-al-assads-fall-from-power-in-syria" target="_blank">accuses</a> the United States and Israel of causing the collapse of Bashar al-Assad’s government in Syria, claiming he has “evidence” to support this. He suggested a neighboring country played a significant role, likely pointing to <a href="https://www.cfr.org/expert-brief/what-role-turkey-playing-syrias-civil-war" target="_blank">Turkey</a> due to its involvement in Syria. The US, Israel, and Turkey have supported various Syrian proxies and conducted <a href="https://www.theguardian.com/world/2024/dec/09/israel-us-and-turkey-launch-strikes-to-protect-interests-in-syria" target="_blank">strikes</a>. Additionally, Assad's decline may result from his main allies, Russia and Iran, being distracted by their conflicts, with Russia's support strained by the war in Ukraine and Iran focused on arming proxies against Israel.
+          </p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What is next for Syria?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Syria's future remains uncertain in the coming days, months, and even years. Much of this <a href="https://apnews.com/article/syria-future-assad-government-islamist-rebels-secular-6e55f1e1e019d4f51756605d3f931b55" target="_blank">uncertainty</a> hinges on the performance of the interim government, which must have a steady transition. The rebel group needs to gain international recognition and establish diplomatic relations.</p>
+          <p style="font-size:16px;line-height:1.4;">However, the situation is complicated by Hayat Tahrir al-Sham's (HTS) <a href="https://theconversation.com/what-is-hayat-tahrir-al-sham-and-how-did-the-islamist-group-evolve-into-a-key-player-in-syrias-civil-war-245017" target="_blank">reputation</a> as an extremist organization, as many in the international community have designated it. Nonetheless, many HTS members are trying to distance themselves from their past associations with <a href="https://www.pbs.org/newshour/world/syrias-main-insurgent-group-seeks-to-distance-itself-from-past-al-qaida-ties" target="_blank">extremism</a>. They are working to build a new future for Syria based on pluralism and religious tolerance. However, former extremists may also deviate back to old habits.</p>
+          <p style="font-size:16px;line-height:1.4;">Syria also faces challenges from various proxy forces, including Turkish and Kurdish factions in the eastern part of the country and others. Many global rivalries still have their stake in Syria, and Russia will probably try to put one back. So, while unifying against Assad was a big thing, the people must continue to find this unity in other aspects.</p>
+
+          <p style="font-size:16px;line-height:1.4;">Additionally, there is the question of how the new government will <a href="https://www.iol.co.za/news/world/russia-turkey-should-aid-syrias-democratic-transition-fair-elections-syrian-politician-61c44eaf-e862-436c-8e70-df91d1083f66" target="_blank">engage</a> with Russia. It seems unlikely that the interim government will maintain the same level of friendship with the country that supported the Assad regime. However, they must consider whether they can afford to forfeit their benefits from leasing military bases to Russia.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 1911, Norwegian explorer Roald Amundsen <a href="https://sorpolen2011.npolar.no/en/diary-amundsen/" target="_blank">braved</a> temperatures up to -28 degrees Celsius, winds, and snow showers to become the first person to reach the South Pole. Born on July 16, 1872, near Oslo, Norway, <a href="https://www.britannica.com/biography/Roald-Amundsen" target="_blank">Amundsen</a>’s name is associated with many firsts, including the first to make a ship voyage through the Northwest Passage and one of the first to cross the Arctic by air. Considered one of the greatest polar explorers, he first took to sea in 1897 on a Belgian expedition while studying medicine. Only his brother knew he was sailing to Antarctica when he set sail from Norway on June 10, 1910, intending to beat his rival Robert Falcon Scott in the race to the South Pole. He set his base in the Bay of Whales, 60 miles from the South Pole. Once the weather seemed favorable, Amundsen set out with his four companions, 52 dogs, and four sleds on Oct 19, 1911, and reached the South Pole on December 14, 1911.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300; 
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-14-1.jpg" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A damaged poster of Syria's president, Bashar al-Assad, hangs in Aleppo after the Syrian army reported that dozens of its soldiers were killed in a significant attack by rebels who entered the city.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-14-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDhRkSBq1cN/?img_index=3" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Puerto Rico</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDhRkSBq1cN/?img_index=3" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Thailand</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDhRkSBq1cN/?img_index=3" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Cuba</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDhRkSBq1cN/?img_index=3" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Costa Rica</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">Photo by Photo by Mahmoud Hassan/Reuters.</p>
+          
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
