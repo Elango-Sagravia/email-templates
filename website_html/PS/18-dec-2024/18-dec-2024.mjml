@@ -1,0 +1,426 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  > 
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 18th Dec 2024 edition:</strong> </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Syrian repatriation</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Honda-Nissan merger</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ SpaceX satellite launch</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+
+ 
+
+
+    <!-- breaking news1  -->
+
+
+    <!-- /breaking news 1 -->
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Eleventh hour push</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-18-1.png" alt="Eleventh hour push" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">TikTok and its parent company ByteDance have filed an <a href="https://amp.theguardian.com/technology/2024/dec/16/tiktok-ban-supreme-court" target="_blank">emergency appeal</a> to the US Supreme Court to block a law forcing ByteDance to divest TikTok by January 19 or face a nationwide ban. They argue the law violates First Amendment <a href="https://www.uscourts.gov/about-federal-courts/educational-resources/about-educational-outreach/activity-resources/what-does-free-speech-mean" target="_blank">free speech</a> protections, as TikTok is a central platform used by 170 million Americans. They claim the ban would harm free expression and cause irreparable economic damage, including loss of users, advertisers, and creators.</p>
+          <p style="font-size: 16px; line-height: 1.4">Some US government officials view TikTok as a national security risk. The main concerns are over ByteDance’s access to sensitive user data and potential content manipulation, which TikTok denies. The appeal comes as <a href="https://time.com/6900348/tiktok-ban-donald-trump-congress/" target="_blank">Donald Trump</a>, who previously sought to ban the app, now supports it. To avoid disruptions, a ruling has been requested by January 6.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Carbon monoxide poisoning in Georgia</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-dec-18-2.png" alt="Carbon monoxide poisoning in Georgia" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Eleven Indian nationals and one Georgian were found <a href="https://www.dw.com/en/georgia-11-indians-found-dead-at-gudauri-ski-resort/a-71081207" target="_blank">dead</a> at a <a href="https://www.google.com/maps/place/Gudauri,+Georgia/@42.4758858,44.4611023,15z/data=!3m1!4b1!4m10!1m2!2m1!1sgudauri+ski+resort!3m6!1s0x404528fdf2ee8197:0xf2c31d07053611a4!8m2!3d42.4755394!4d44.4804723!15sChJndWRhdXJpIHNraSByZXNvcnSSAQhsb2NhbGl0eeABAA!16zL20vMDhyajJw?entry=ttu&g_ep=EgoyMDI0MTIxMS4wIKXMDSoASAFQAw%3D%3D" target="_blank">Gudauri</a> ski resort in Georgia, reportedly due to suspected carbon monoxide poisoning. The victims, believed to be workers at an Indian restaurant, were discovered in a commercial building where an oil-powered generator had been turned on following a power outage. Authorities indicated that the generator was placed dangerously close to an indoor area, accumulating carbon monoxide.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          The Indian embassy in Tbilisi expressed deep condolences and assured it is working with local authorities to repatriate the victims' remains to India. The embassy also contacts the bereaved families to provide necessary support. Preliminary investigations found no signs of violence, and officials continued to assess the incident to confirm the exact cause of death.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Extradition request rejected</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Denmark has <a href="https://www.rcinet.ca/eye-on-the-arctic/2024/12/17/canadian-anti-whaling-activist-wont-be-extradited-to-face-japanese-charges/" target="_blank">rejected</a> Japan's request to extradite anti-whaling activist Paul Watson, founder of the Sea Shepherd group and Captain Paul Watson Foundation, over charges stemming from a 2010 incident in the Antarctic Ocean. Watson, 74, had been detained in Greenland since July when his ship docked there, but he was released after the decision.</p>
+          <p style="font-size: 16px; line-height: 1.4">The Danish justice ministry said the age of the case and uncertainty over whether Watson's detention time in Greenland would count toward a potential Japanese sentence. Watson's lawyer, Julie Stage, welcomed the outcome, stressing Watson's composure throughout the process. Japan had sought Watson on charges including trespassing, obstruction, and causing injury, which he denies. He had a list of high-profile supporters ranging from the French President <a href="https://www.lemonde.fr/en/france/article/2024/07/23/macron-presses-against-anti-whaling-activist-s-extradition_6695602_7.html" target="_blank">Emmanuel Macron</a>, Brigitte Bardot, and Pierce Brosnan petitioning for his release. After residing in France since 2023, Watson left Sea Shepherd in 2022 to form his conservation organization.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+    <!-- Brief -->
+   <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+  </mj-section>
+
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The recent fall of Bashar al-Assad’s regime in Syria</strong> has given hope for the <a href="https://www.france24.com/en/live-news/20241217-un-says-one-million-syrians-may-return-in-first-half-of-2025" target="_blank">return</a> of displaced citizens after over a decade of civil war. The UN Refugee Agency (UNHCR) estimates that around one million Syrians may return during the first half of 2025.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Gen. Igor Kirillov</strong>, a top <a href="https://edition.cnn.com/2024/12/17/europe/russia-bomb-kills-nuclear-protection-chief-intl-hnk/index.html" target="_blank">Russian general</a> in charge of the country's radiological, biological, and chemical protection forces, was <strong>killed in Moscow by a remotely detonated bomb planted in an electric scooter</strong> outside his apartment building.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Honda and Nissan are reportedly negotiating a merger</strong> to combat rising competition from Chinese EV makers. The potential deal could create a single holding company, including Mitsubishi Motors. It follows collaboration on EV development amid industry challenges and declining profits (<a href="https://www.theguardian.com/business/2024/dec/17/honda-and-nissan-to-start-talks-on-potential-mega-merger" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Center for American Rights petitioned the FCC to challenge Paramount's and Skydance's $8.4 billion merger</strong>, <a href="https://www.thewrap.com/paramount-skydance-merger-fcc-petition-center-for-american-rights/" target="_blank">citing concerns</a> over Tencent's (Skydance's majority shareholder) foreign influence and CBS’s (Paramount's owner) left-leaning bias. Earlier this year, a Paramount investor sued to block the deal, saying it would cost its shareholders $1.65 billion.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Trump met TikTok CEO at Mar-a-Lago</strong> amid US plans to ban the app unless ByteDance sells it by 19 January. TikTok seeks Supreme Court intervention, citing free speech. At a press conference on Monday, Trump said his administration would "take a look at TikTok" (<a href="https://www.bbc.com/news/articles/cre7vdz4npzo" target="_blank">read more</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Researchers are using zebrafish to study how ketamine</strong>, an anesthetic, <a href="https://www.sciencedaily.com/releases/2024/12/241217130747.htm" target="_blank">affects</a> the brain and potentially treats severe depression. The fish exhibit a "giving up" behavior, which researchers use to study depression.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Towana Looney became the third person to receive a kidney transplant</strong> from a <a href="https://www.technologyreview.com/2024/12/17/1108905/a-woman-in-the-us-is-the-third-person-to-receive-a-gene-edited-pig-kidney/" target="_blank">genetically engineered</a> pig at NYU Langone Health on November 25. After a couple of weeks after her surgery, she is off dialysis and in good health.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>SpaceX successfully launched two mPOWER communication satellites</strong> from Florida’s space coast today. The <a href="https://www.space.com/space-exploration/launches-spacecraft/spacex-launch-2-mpower-communication-satellites-from-florida" target="_blank">launch</a> involved a Falcon 9 rocket carrying O3b mPOWER 7 and 8 satellites toward medium Earth orbit.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A <a href="https://fifpro.org/en/player-iq/women-s-player-workload-monitoring/new-study-women-s-calendar-growth-is-fragmented-piling-too-many-games-on-some-players-but-providing-too-few-for-others" target="_blank">report</a> by FIFPRO <strong>highlights a growing disparity in women's football</strong>. Some players face overwhelming schedules of over 60 games a season while others play fewer than 10, which creates challenges for player health and development.</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The popular children's show Bluey is set to make its big-screen debut in 2027</strong>, with a feature film developed by Walt Disney Company and BBC Studios, <a href="https://eu.usatoday.com/story/entertainment/tv/2024/12/17/bluey-disney-movie-coming-in-2027/77044537007/#:~:text=%22Bluey%22%20is%20headed%20to%20the,for%20a%202027%20release%20date." target="_blank">continuing</a> the adventures of Bluey and her sister Bingo.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Jill Biden will quit teaching in the DC area (<a href="https://apnews.com/article/jill-biden-teaching-career-94e8aa4d4ec03a776c98382092a6f1f9" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Trump slams Biden’s choice to let Ukraine use long-range weapons (<a href="https://timesofindia.indiatimes.com/world/us/very-stupid-thing-to-do-trump-slams-biden-for-allowing-ukraine-to-use-us-weapons-against-russia/articleshow/116384150.cms" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Berlin to Paris high-speed train has been launched (<a href="https://www.dw.com/en/berlin-paris-high-speed-rail-route-launched/a-71069267" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Techcrunch 51 most disruptive startups of 2024 (<a href="https://techcrunch.com/2024/12/13/the-51-most-disruptive-startups-of-2024/" target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">These are the most affordable US cities to visit (<a href="https://dailypassport.com/most-affordable-u-s-cities-to-visit/" target="_blank">read more</a>).</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+
+
+    <!--banner-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1865, the Thirteenth Amendment to the U.S. Constitution, outlawing slavery, officially entered into force.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

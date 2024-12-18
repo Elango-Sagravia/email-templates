@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 17th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Russian advance in Ukraine</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Tragedy at Burkina Faso</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is the Maghreb?</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">Collapse over no-confidence</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-17-1.jpg" alt="Collapse over no-confidence" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">German Chancellor Olaf Scholz has <a href="https://www.dw.com/en/german-election-scholz-loses-confidence-vote/live-71063891" target="_blank">lost</a> a confidence vote in the Bundestag, paving the way for snap elections. His minority coalition of the Social Democrats (SPD), Greens, and Free Democrats (FDP) collapsed after the FDP exited the alliance in November, citing disputes over budget policies. The vote saw 394 lawmakers oppose Scholz, with 207 in favor and 116 abstaining, far short of the required majority. Scholz is expected to propose dissolving the Bundestag to President Frank-Walter Steinmeier, who will likely approve the proposed election date, February 23, 2025, after the holidays.</p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px)">Polls suggest <a href="https://www.france24.com/en/live-news/20241216-friedrich-merz-german-conservative-gunning-to-become-chancellor" target="_blank">Friedrich Merz’s</a> Christian Democratic Union (CDU) leads the SPD. From the far-left Sahra Wagenknecht Alliance (BSW) to the far-right AfD, critics across the political spectrum accused Scholz’s government of economic failures, mishandling energy policy, and worsening living standards. Scholz aims to serve as acting chancellor until a new government is formed.​</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

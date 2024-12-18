@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+  
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 18th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ EU restricts Georgian diplomats</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Evo Morales arrest warrant</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What was the Treaty of Versailles?</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">SBU sends a message</h2>
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-dec-18-1.png" alt="SBU sends a message" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Gen. Igor Kirillov, a top Russian general in charge of the country's radiological, biological, and chemical protection forces, was <a href="https://edition.cnn.com/2024/12/17/europe/russia-bomb-kills-nuclear-protection-chief-intl-hnk/index.html" target="_blank">killed</a> in Moscow by a remotely detonated bomb planted in an electric scooter outside his apartment building. Ukraine's SBU security service immediately claimed the attack, which comes a day after Kirillov was sentenced in absentia by Ukrainian prosecutors for Russia's use of banned chemical weapons in its invasion of Ukraine.</p>
+          <p style="font-size:16px;line-height:1.4; filter: blur(5px)">His death is the highest-profile killing of a Russian military official since the invasion began in February 2022. Ukraine's actions represent a strategic message to Russia's elites. It also brought the <a href="https://www.bbc.com/news/articles/cm2ek388yxzo" target="_blank">war situation</a> closer to home for the Russians. Many Russians reported a sense of shock from this, as most of what they read about the war in Ukraine from their electronic devices, and it feels so far away. The Russian government has called this an act of terrorism, and the officials seek to punish Ukraine.​</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
