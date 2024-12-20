@@ -1,0 +1,677 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ DLocal explores sale</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Airbus leads Boeing</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Quantitative easing and wealth inequality</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.altdaily.co/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Largest infrastructure fundraise</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-20-1.jpg" alt="Largest infrastructure fundraise" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Antin Infrastructure Partners <a href="https://pitchbook.com/news/articles/antin-infrastructure-secures-10b-for-latest-flagship-fund" target="_blank">secured</a> $10.6 billion for its fifth flagship fund, making it the largest global infrastructure fundraise in 2024. With a focus on energy, digital, transport, and social infrastructure across Europe and North America, the fund is set to write cheques between €621 million and $1.03 billion. Impressively, over 90% of commitments came from existing investors, alongside 120 new ones. This marks a significant leap from Antin's previous $6.7 billion fund, reflecting investor confidence in energy transition infrastructure.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    
+     <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 10px 0px 0px 0px;
+              
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.altdaily.co/email/images/ad-ps.png" alt="Trump’s legal games" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Expand your view with Presidential Summary,<br/>A newsletter that brings the world to thee.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Beyond the geopolitics we analyze,<br/>We cover the world with open eyes.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From politics to tech, from culture to trade,<br/>We offer the answers that others evade.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         The questions you ask, the ones few will address,<br/>We bring them to light with knowledge and finesse.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         Subscribe today, and stay well-informed,<br/>With insights to keep your mind transformed.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://www.presidentialsummary.com/" target="_blank">Subscribe to Presidential Summary.</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /PS ad -->
+
+    <mj-spacer height="10px" />
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Family supports Bain’s takeover</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-20-2.jpg" alt="Family supports Bain’s takeover" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Japanese IT company Fuji Soft's founder, Hiroshi Nozawa, is <a href="https://www.privateequitywire.co.uk/fuji-soft-backs-bain-in-pe-bidding-war/" target="_blank">rallying</a> behind Bain Capital's revised $61.09-per-share bid amid a bidding war with KKR. Despite the board favoring KKR, Nozawa, holding 18.6% of shares, criticized the privatization process and questioned the board's independence. Bain aims to acquire 50.1% of Fuji Soft while promising to respect current management. KKR, however, already secured 33.9% of shares during earlier bidding.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+  <mj-spacer height="10px" />
+
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- chart-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Airbus maintains delivery lead over Boeing despite production challenges</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-20-3.jpg" alt="Airbus maintains delivery lead over Boeing despite production challenges" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Airbus is on track to out-deliver Boeing for the sixth consecutive year, projecting 764 aircraft deliveries in 2024 compared to Boeing's 395. Despite a strong performance, including 80 jets delivered in November—a six-year high—Airbus is struggling to meet its revised target of 770 deliveries. Originally set at 800, the goal was lowered mid-year due to production delays and supply chain constraints.</p>
+         <p style="font-size: 16px; line-height: 1.4">
+         Meanwhile, Boeing has taken a more conservative approach following its 2018-2019 safety crises, focusing on rebuilding trust and reducing production rates. In contrast, Airbus has adopted an aggressive strategy, prioritizing deliveries even amid industry-wide delays. The company is negotiating with engine suppliers to prioritize Airbus over competitors to meet its targets.</p>
+         <p style="font-size: 16px; line-height: 1.4">
+         This tug-of-war underscores the contrasting strategies of the two aerospace giants, with Airbus leveraging its scale to dominate the market while navigating significant operational pressures.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BRIEFS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Private Equity</h2>
+        </mj-text>
+    
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Palliser urges Rio Tinto listing review:</strong>   
+         Activist investor Palliser Capital is <a href="https://www.bnnbloomberg.ca/business/company-news/2024/12/19/activist-palliser-pushes-rio-tinto-to-review-its-dual-listing/" target="_blank">pressing</a> Rio Tinto to review its dual listing structure, arguing it has cost investors $50 billion in value. Palliser submitted a resolution for an independent review ahead of Rio's annual meeting. While BHP ditched its dual listing in 2021, Rio CEO Jakob Stausholm remains firm that the current structure works due to its London-heavy investor base.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>MidOcean CLO equity fund surpasses target:</strong>   
+         MidOcean Partners <a href="https://www.privateequitywire.co.uk/midocean-partnerss-clo-equity-fund-surpasses-300m-target/" target="_blank">closed</a> its first CLO Equity Fund at $304 million, exceeding its $300 million target. Led by industry veterans Joseph Rotondo and Jamil Nathoo, the fund focuses on a defensive strategy, investing in diversified senior secured leveraged loans. Approximately 55% of capital has already been deployed across seven CLOs, representing $2.8 billion in assets under management. This aligns with MidOcean's broader momentum, including a recent $765 million raise for Tactical Credit III.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>DLocal considers sale amid rising interest:</strong>   
+         DLocal, the $3.6 billion Latin American payments provider, is <a href="https://www.privateequitywire.co.uk/general-atlantic-backed-dlocal-explores-sale/" target="_blank">exploring</a> a potential sale with Morgan Stanley facilitating discussions. Backed by General Atlantic, DLocal has drawn interest from private equity and fintech firms as the sector consolidates. Challenges like currency fluctuations and competition have pressured its valuation, but improved transaction volumes in some markets show resilience. This is their second attempt at selling as the previous discussion concluded in disagreement over financial terms. DLocal reported a 5% increase in gross profit in its latest quarterly earnings.</p>
+          </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Hedge Funds</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Bitcoin surge boosts hedge fund interest:
+        </strong> With Bitcoin hitting a record $107,000, London-based Nickel Digital Asset Management <a href="https://www.hedgeweek.com/nickel-digital-sees-surge-in-interest-as-bitcoin-hits-record-highs/" target="_blank">reports</a> soaring institutional investor interest. Nickel's flagship Diversified Alpha fund posted over 30% year-to-date performance, while its AUM surged 115% in 2024. First-time institutional investors, previously hesitant about digital assets, are now exploring opportunities. </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Hedge funds expect bonuses to skyrocket:
+         </strong> 
+         Hedge fund professionals <a href="https://www.hedgeweek.com/hedge-funds-bullish-on-bonus-increases/#:~:text=Hedge%20fund%20professionals%20are%20anticipating,%2Don%2Dyear%20on%20average." target="_blank">anticipate</a> a 65% bonus hike in January 2025, outpacing the global 50% average, according to eFinancialCareers. Private credit funds are particularly optimistic, with 91.3% forecasting increases, compared to just 26.6% for traditional asset managers. The Gulf region leads globally with a projected 78% jump, while UK bonuses rise 43%, driven by relaxed caps.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Venture Capital</h2>
+        </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Slow Ventures lowers fundraising goals:</strong>   
+           Slow Ventures, known for backing Robinhood and Slack, is <a href="https://pitchbook.com/news/articles/slow-ventures-robinhood-fund-launch-vc#:~:text=Its%20latest%20fundraise%20appears%20to,will%20be%20realized%20in%20full." target="_blank">targeting</a> $165 million for its sixth fund—15% below its 2022 raise. The firm is also seeking $110 million for its third opportunity vehicle. Led by Facebook alums Sam Lessin and Kevin Colleran, Slow Ventures focuses on early-stage consumer and healthcare investments.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Venture firms pledge clean capital:</strong>   
+           Over 20 VC firms, including Marlinspike and Snowpoint Ventures, have <a href="https://techcrunch.com/2024/12/19/over-20-venture-firms-pledge-to-not-take-money-from-china-russia/" target="_blank">signed</a> the Clean Capital Certification, vowing not to accept funding from adversarial nations like China and Russia. Spearheaded by Future Union, the pledge aims to protect critical technologies from foreign interference. While the initiative lacks formal vetting, it signals growing industry accountability. Defense-focused VCs are prominent signatories, with broader adoption expected to address concerns over national security and ethical investing in the tech sector.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Menlo, Anthropic invests in 18 AI startups:</strong>   
+           Menlo Ventures and Anthropic have <a href="https://techcrunch.com/2024/12/18/menlo-ventures-and-anthropic-have-picked-the-first-18-startups-for-their-100m-fund/" target="_blank">picked</a> 18 startups for their $100 million Anthology Fund, with more in stealth mode. The selected ventures span fintech, radiology, cybersecurity, and AI applications like autonomous coding. Each startup receives $100,000+ in investments and $25,000 in Anthropic credits. This incubator-style program emphasizes AI app development beyond foundational models, aligning with 2025's projected boom in next-gen AI tools.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Others</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Boeing wins $36B Pegasus aircraft deal:</strong>  
+          Turkish airline Pegasus <a href="https://www.bnnbloomberg.ca/business/2024/12/19/pegasus-buys-as-many-as-200-boeing-737-jets-in-36-billion-deal/" target="_blank">placed</a> a $36 billion order for 100 Boeing 737 Max 10 jets, with options for 100 more. The deal marked a strategic shift for Pegasus, which had previously favored Airbus. Boeing's win signals renewed confidence after production setbacks and a prolonged strike. The Max 10 certification is expected by late 2025, bolstering Pegasus's expansion plans across North Africa and the Baltics.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Korean lenders to tackle risky property loans:</strong>  
+          South Korea's financial regulator is urging lenders to <a href="https://www.bnnbloomberg.ca/business/international/2024/12/19/korean-lenders-to-clean-up-bulk-of-property-loans-amid-turmoil/" target="_blank">clean up</a> $11.2 billion troubled real estate loans by mid-2025, addressing over 70% of risky property project exposure. This follows earlier steps to stabilize the market amid political turmoil impacting economic growth. The Financial Supervisory Service emphasized stable management of these risks, encouraging swift action from financial institutions. While the regulator claims limited impact on funding markets, Bank of Korea Governor Rhee Chang-yong cautioned that the turmoil could cut growth forecasts.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">How does quantitative easing inflate asset prices and inequality?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-20-4.jpg" alt="How does quantitative easing inflate asset prices and inequality?" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Quantitative easing is a monetary policy tool where central banks purchase government bonds and other securities to inject liquidity into the economy. While QE aims to stimulate growth during economic downturns, it often inflates asset prices and exacerbates inequality.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          By lowering interest rates and increasing the money supply, QE encourages borrowing and investment. However, much of this liquidity flows into financial markets, driving up the prices of stocks, bonds, and real estate. Wealthy individuals, who are more likely to own these assets, benefit disproportionately, while those with limited exposure to investments see fewer gains.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Additionally, QE can widen the gap between wages and asset returns. While workers see slow wage growth, investors reap substantial profits from inflated asset prices. This disparity amplifies wealth inequality over time. Though QE supports economic recovery, its uneven distribution of benefits highlights the need for complementary policies addressing broader societal inequities.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+    <!-- FUN FRIDAY-->
+
+    <mj-spacer height="10px" />
+<mj-section
+  css-class="mj_fsection"
+  background-color="#ffffff"
+  css-class="mj_fsection"
+>
+  <mj-spacer height="0px"></mj-spacer>
+  <mj-column
+    background-color="#ffffff"
+    width="100%"
+  >
+    <mj-text
+      padding="10px 12px 0px 12px"
+      font-family="Roboto"
+      color="white"
+    >
+      <h2
+        style="
+          color: #6b705c;
+          text-align: left;
+          letter-spacing: 6px;
+          border-bottom: 2px solid
+            #6b705c;
+          text-transform: uppercase;
+          font-size: 20px;
+          line-height: 1.2;
+          font-weight: 300;
+          padding: 18px 8px 10px 8px;
+        "
+      >
+        FUN FRIDAYS
+      </h2>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<!-- Spotlight contents-->
+
+<!-- Content sections -->
+<mj-section
+  css-class="mj_section"
+  background-color="#ffffff"
+>
+  <mj-column>
+    <mj-text
+      padding="10px 12px"
+      font-family="Roboto"
+      color="#000000"
+    >
+      <h2
+        style="
+          font-size: 20px;
+          line-height: 1.2;
+          font-weight: 500;
+          margin-top: 2px !important;
+        "
+      >
+        Movie: Rogue Trader
+      </h2>
+    </mj-text>
+    <mj-image
+      padding="10px 12px"
+      width="600px"
+      src="https://www.altdaily.co/email/images/an-dec-20-5.jpg"
+      alt="Movie: Rogue Trader"
+      href="https://www.altdaily.co"
+    />
+    <mj-text
+      padding="10px 12px"
+      font-family="Roboto+Serif"
+      color="#000000"
+    >
+      <p
+        style="
+          font-size: 16px;
+          line-height: 1.4;
+        "
+      >
+        Rogue Trader tells the gripping true story of Nick Leeson, the young and ambitious trader whose unchecked risk-taking led to the collapse of Barings Bank, one of the world’s oldest financial institutions. Set in the 1990s, the film dives deep into the high-stakes world of derivatives trading, showing how excessive leverage and a lack of oversight can spiral into disaster.
+      </p>
+      <p
+        style="
+          font-size: 16px;
+          line-height: 1.4;
+        "
+      >
+        What makes Rogue Trader particularly fascinating is its exploration of moral dilemmas and systemic flaws in financial institutions. It vividly portrays how a single trader’s unchecked bets on the Singapore International Monetary Exchange snowballed into catastrophic losses.
+      </p>
+      <p
+        style="
+          font-size: 16px;
+          line-height: 1.4;
+        "
+      >Beyond the drama, the movie serves as a cautionary tale about risk management and the dangers of overconfidence in financial markets. Watch Rogue Trader to witness the thin line between ambition and recklessness in the high-pressure world of trading.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+
+    <!-- / FUN FRIDAY -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">what is</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+      <h2 style="             
+             font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Value at risk</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+        Value at risk (VaR) estimates the maximum potential loss an investment might face over a specific time frame, given normal market conditions at a specific confidence level. For example, if a portfolio has a VaR of $10,000 at a 95% confidence level, it means there’s a 95% chance the loss won’t exceed $10,000 in the given period. It’s a way to gauge risk.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#6b705c" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">“Price is what you pay; value is what you get.” Ben Graham</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This newsletter is for informational purposes only and does not constitute financial advice.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Rotten Tomatoes.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
