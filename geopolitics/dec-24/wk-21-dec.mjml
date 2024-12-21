@@ -1,0 +1,352 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Russian general assassination </p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ German political crisis </p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Assad public address</p>
+          
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇬🇪 Georgian footballer president:</strong> 
+            Georgian lawmakers <a href="https://www.france24.com/en/europe/20241214-georgian-lawmakers-elect-far-right-ruling-party-loyalist-mikheil-kavelashvili-as-president" target="_blank">elected</a> Mikheil Kavelashvili, a far-right loyalist of the Georgian Dream party and a former footballer, as president amid protests against the government's decision to delay EU accession talks until 2028. Opposition parties boycotted the election, citing electoral fraud. Kavelashvili, an ally of ex-Prime Minister Bidzina Ivanishvili, faces <a href="https://www.cbsnews.com/news/georgia-protests-russia-european-union-nato-what-to-know/" target="_blank">ongoing protests</a> in Tbilisi over the government’s pro-Russian stance. Outgoing President <a href="https://www.euronews.com/my-europe/2024/12/15/georgias-president-slams-her-successors-appointment-as-a-mockery-of-democracy" target="_blank">Salome Zourabichvili</a>, a pro-EU figure, refuses to recognize the election and will lead the protest movement. Western nations have expressed concerns about Georgia's shifting foreign policy and rising authoritarianism.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇷🇺 Moscow bombing:</strong> 
+            Gen. Igor Kirillov, head of Russia's radiological, biological, and chemical protection forces, was <a href="https://edition.cnn.com/2024/12/17/europe/russia-bomb-kills-nuclear-protection-chief-intl-hnk/index.html" target="_blank">killed</a> in Moscow by a remotely detonated bomb attached to an electric scooter outside his apartment. Ukraine's SBU security service claimed responsibility for the attack, which occurred a day after Kirillov was sentenced in absentia for using banned chemical weapons in Ukraine. His death marks the highest-profile killing of a Russian military official since the start of the invasion in February 2022. The incident has shocked Russians, bringing the war closer to home. The Russian government condemned the act as terrorism and vowed to retaliate against Ukraine. An Uzbek suspect has been <a href="https://apnews.com/article/russia-ukraine-war-general-killed-suspected-arrested-32e504b029d8db0b8d52474d75efc383" target="_blank">arrested</a> in the connection. 
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇩🇪 Scholz out:</strong> 
+            German Chancellor Olaf Scholz has <a href="https://www.dw.com/en/german-election-scholz-loses-confidence-vote/live-71063891" target="_blank">lost</a> a confidence vote in the Bundestag, leading to potential snap elections. His minority coalition with the Social Democrats (SPD), Greens, and Free Democrats (FDP) collapsed after the FDP withdrew over budget disputes. The vote resulted in 394 lawmakers against Scholz, 207 in favor, and 116 abstaining, leaving him without a majority. Scholz is expected to propose dissolving the Bundestag to President Frank-Walter Steinmeier, who will likely approve an election date of February 23, 2025. Polls indicate <a href="https://www.france24.com/en/live-news/20241216-friedrich-merz-german-conservative-gunning-to-become-chancellor" target="_blank">Friedrich Merz</a>’s Christian Democratic Union (CDU) is leading the SPD, with critics blaming Scholz’s government for economic issues and worsening living standards. He will act as chancellor until a new government is formed.
+          </p>
+          </mj-text>
+
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇸🇾 Assad speaks:</strong> 
+           Bashar al-Assad made his first public <a href="https://apnews.com/article/syria-war-assad-russia-news-16-december-2024-72a8e44f762da2ff78434ff76faeb633" target="_blank">comments</a> after rebels captured Damascus, claiming he had no intention of stepping down and wanted to continue fighting. However, he was evacuated by Russia to Hmeimim Airbase and later to Moscow after the base was attacked. He <a href="https://www.dw.com/en/syria-updates-assad-makes-first-statement-since-ousting/live-71064989" target="_blank">described</a> the state as falling into the hands of terrorism, presenting himself as an unwilling figurehead. Meanwhile, residents of Damascus feel he abandoned the state long ago. Russia's announcements regarding his evacuation indicate a shift in Syria’s power dynamics and raise questions about its future management of interests in the region without Assad, as it plans to <a href="https://edition.cnn.com/2024/12/16/politics/russia-military-syria-withdrawal/index.html" target="_blank">step back</a> but not entirely disengage from Syria.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇨🇦 Canadian political crisis:</strong> 
+           Canadian Prime Minister Justin Trudeau <a href="https://edition.cnn.com/2024/12/17/americas/justin-trudeau-donald-trump-canada-intl-hnk/index.html" target="_blank">faces</a> tremendous pressure to resign as his popularity diminishes due to economic issues and internal dissent within his Liberal Party. Trudeau’s leadership was questioned after Canada’s Finance Minister Chrystia Freeland resigned over disagreements on how Trudeau handled U.S. President-elect Donald Trump’s <a href="https://edition.cnn.com/2024/11/25/politics/trump-tariffs-mexico-canada-china/index.html" target="_blank">tariff threats</a>. She criticized Trudeau for putting political tactics (a 2-month <a href="https://www.cbsa-asfc.gc.ca/publications/cn-ad/cn24-43-eng.html" target="_blank">sales tax break</a> on holiday essentials and 250 Canadian dollar <a href="https://www.canada.ca/en/department-finance/news/2024/11/more-money-in-your-pocket-the-working-canadians-rebate.html" target="_blank">rebates</a> for workers) above fiscal responsibility, exposing some infighting within the Liberal Party.
+           Trudeau’s <a href="https://apnews.com/article/trudeau-canada-resign-freeland-trump-f346160f062846bbbaac73dbdd597941" target="_blank">options</a> include resigning, surviving a no-confidence vote, or clinging to power until the next election, likely in 2025.
+          </p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What are the US and China competing for in Africa?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Both the US and China see the value in Africa for many reasons. The biggest is <a href="https://www.voanews.com/a/us-china-rivalry-for-military-influence-in-africa-ramps-up/7783311.html" target="_blank">economic</a> due to Africa’s vast resources. There is also some geopolitical motive. Both countries are permanent members of the security council with vetos. They often need countries like Africa in the general assembly to vote for them. Having a political influence in African nations can be helpful.</p>
+          <p style="font-size:16px;line-height:1.4;">However, the US is more concerned about promoting democratic governance in African nations. China is more interested in signing agreements with African nations and does not encourage values-based foreign policy. China has <a href="https://www.weforum.org/stories/2024/06/why-strong-regional-value-chains-will-be-vital-to-the-next-chapter-of-china-and-africas-economic-relationship/" target="_blank">invested</a> heavily in Africa through infrastructure projects, trade partnerships, and loans, aiming to secure access to resources like oil, minerals, and rare earth metals essential for its industrial and technological growth.  The U.S. does some of the same to <a href="https://www.voanews.com/a/us-invests-in-africa-in-effort-to-counter-chinese-influence-/7399128.html" target="_blank">counter</a> China's growing presence by strengthening trade relationships, investing in development projects, and providing aid. In September, China even held a successful <a href="https://odi.org/en/insights/focac-2024-a-revival-of-china-africa-relations/" target="_blank">summit</a> with most of Africa’s nations.</p>
+          <p style="font-size:16px;line-height:1.4;">Africa comprises 54 sovereign countries and two more disputed countries, so Africa's geopolitical setup varies per region. Some areas, such as the <a href="https://www.fpri.org/article/2024/05/is-the-united-states-losing-the-sahel/" target="_blank">Sahel</a> countries, will favor any country not geopolitically close to France. The US has had a hard time holding on to these. In contrast, other countries, such as <a href="https://www.politico.com/news/2024/05/22/kenya-non-nato-ally-status-visit-00159578" target="_blank">Kenya</a>, are more pro-US. However, as a general rule, most African countries do not want competition between the US and China. Many African nations still have the legacy of the <a href="https://www.usip.org/publications/2022/12/10-things-know-about-us-china-rivalry-africa" target="_blank">Cold War</a> in their minds, which caused many problems on top of the ones caused by the European colonial legacy.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>On this day in 1988</strong>, the <a href="https://www.britannica.com/event/Pan-Am-flight-103" target="_blank">Pan Am Flight 103</a>, a transatlantic flight from London Heathrow to New York's John F. Kennedy International Airport, was tragically destroyed in a terrorist bombing on December 21, 1988, over Lockerbie, Scotland. The attack killed all 259 passengers and crew on board, as well as 11 people on the ground. The bombing was traced to an explosive device concealed in a suitcase in the cargo hold. In 2003, the Libyan government formally <a href="https://www.aljazeera.com/news/2003/8/16/libya-accepts-lockerbie-blame" target="_blank">accepted</a> responsibility for the attack, though they stopped short of admitting direct involvement. As part of efforts to end international sanctions, in 2004, Libya <a href="https://www.aljazeera.com/news/2004/1/8/libya-agrees-on-uta-bombing-payout" target="_blank">agreed</a> to pay compensation totaling $2.7 billion to the victims' families.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300; 
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-21-1.jpg" alt="photo OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">A worker adjusts the flag adopted by Syria's new rulers on the day of the first domestic flight from Damascus International Airport to Aleppo International Airport, marking the airport's re-opening following the ousting of Bashar al-Assad, in Damascus, Syria.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-dec-21-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDzROE_OFDO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Paraguay</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDzROE_OFDO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Luxembourg</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDzROE_OFDO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Netherlands</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DDzROE_OFDO/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">France</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">Photo by REUTERS/Ammar Awad.</p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
