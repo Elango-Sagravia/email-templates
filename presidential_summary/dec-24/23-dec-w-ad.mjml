@@ -60,6 +60,36 @@
 
     <!-- breaking news1  -->
 
+   <!-- breaking news -->
+        <mj-spacer height="10px" />
+    <!-- Content sections -->
+     <mj-section css-class="mj_section" background-color="#4D3060">
+      <mj-column background-color="#4D3060" >
+      <mj-text padding="10px 12px" font-family="Roboto" color="white">
+        <h2 style="
+          color: #DB91EF;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #DB91EF;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">Breaking News</h2>
+        </mj-text>
+        <mj-spacer height="20px"/>
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <p style=" 
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              text-align: left;
+            ">President Joe Biden has commuted the death sentences for 37 people out of 40 who were on federal death row. This comes during the last month before Donald Trump takes office. Read more <a href="https://apnews.com/article/biden-death-row-commutations-trump-executions-f67b5e04453cd1aa6383c516bc14f300" target="_blank">here</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <!-- /breaking news 1 -->
 
