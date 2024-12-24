@@ -1,0 +1,577 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
+        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Norway’s U.S. real estate bet</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Twitch hits plateau</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Aging population and fiscal sustainability</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.altdaily.co/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Dollar-yen to hit 165</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-24-1.jpg" alt="Dollar-yen to hit 165" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+          
+            Hedge funds are <a href="https://link.altdaily.co/ad-24-dec-2024-1-betting-big" target="_blank">betting big</a> on the dollar-yen pair, anticipating a rise to 165 after hawkish U.S. Fed and dovish BOJ decisions. Leveraged funds have piled into bullish options, driving up trading volumes to $23 billion on Dec. 19. Analysts point to U.S. dollar strength and central bank divergence as key drivers. The yen's slide has prompted warnings from Japanese authorities, but market optimism persists. While risks of intervention loom, hedge funds are focused on January's central bank decisions to assess further gains.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    
+  <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 10px 0px 0px 0px;
+              
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.altdaily.co/email/images/ad-gp.png" alt="gp-add" href="https://link.altdaily.co/ad-24-dec-2024-ad-gp" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Dive into global affairs with Geopolitical Summary,<br/>A newsletter that brings clarity, concise and visionary.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From borders to treaties, from leaders to strife,<br/>We break down the stories that shape global life.</p>
+          <p style="font-size: 16px; line-height: 1.4">Discover the ‘why’ behind the headlines you read,<br/>
+          With insights that help your mind to succeed.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         We cover the issues others fail to see,<br/>
+          Bringing you knowledge, unbiased and free.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+        Stay ahead of the curve, and grow your mind,<br/>
+        Subscribe today, and leave ignorance behind.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.altdaily.co/ad-24-dec-2024-ad-gp" target="_blank">Subscribe to Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad -->
+
+
+    <mj-spacer height="10px" />
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Apollo’s evergreen fund target</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-24-2.jpg" alt="Apollo’s evergreen fund target
+" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            Apollo Global Management is <a href="https://link.altdaily.co/ad-24-dec-2024-2-raising" target="_blank">raising</a> over $5 billion for its Total Return Investment Grade Fund. Designed as an evergreen structure, investors can redeem funds periodically. Collaborating with its Athene insurance unit, the fund targets high-grade asset-backed financing and offers returns 200 basis points above corporate bonds. Apollo's IG Capital Solutions Business, which has handled $18 billion in investment-grade deals this year, will fuel the strategy. Focused on sectors like energy transition and digital infrastructure, Apollo sees $75 trillion in corporate capital needs over the next decade, positioning the fund as a solution for institutional investors.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+  <mj-spacer height="10px" />
+
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- chart-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Stream down: Twitch struggles with slow growth after pandemic peak</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-24-3.jpg" alt="chart" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+         <p style="font-size: 16px; line-height: 1.4">
+         Twitch experienced unprecedented growth during the pandemic, with total watch hours jumping 47% in April 2020 alone, as homebound users embraced live streaming content. By May 2021, viewership peaked at 2.3 billion monthly hours, driven by a surge in gamers, vloggers, and entertainers. However, the platform has since faced a steady decline, stabilizing at 1.7 billion hours by November 2024, reflecting a post-pandemic normalization in content consumption trends.</p>
+         <p style="font-size: 16px; line-height: 1.4">
+         Despite the slowdown, Twitch remains a cornerstone of the streaming industry, with creators like Kai Cenat setting records. Cenat’s November “subathon” event generated $3.6 million in revenue and boosted the platform's visibility. However, challenges persist. Rising costs, reduced incentives for creators, and market saturation have pressured profitability, leading to decisions like exiting South Korea earlier this year. The platform’s current plateau raises questions about its ability to sustain growth and offset the significant costs of its operations under Amazon.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">BRIEFS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Private Equity</h2>
+        </mj-text>
+    
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Northern Oil pursues Granite Ridge bid:</strong>   
+         Northern Oil and Gas is <a href="https://link.altdaily.co/ad-24-dec-2024-3-chasing" target="_blank">chasing</a> Granite Ridge Resources with acquisition offers, including a recent one at a 20% premium. Granite Ridge, controlled by Grey Rock Investment Partners, rejected the proposals but remains a key target. Granite Ridge's stock surged 12%, while Northern's shares dipped slightly. Both companies operate in major U.S. basins, including Permian and Eagle Ford. The deal would mark Northern's largest acquisition, expanding its non-operating production model into new regions.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump picks Cerberus co-leader for defense role:</strong>   
+         President-elect Donald Trump has <a href="https://link.altdaily.co/ad-24-dec-2024-4-nominated" target="_blank">nominated</a> Stephen Feinberg, co-leader of Cerberus Capital Management, as Deputy Secretary of Defense. Feinberg, who previously served on Trump's intelligence advisory board, will be second in command to Pete Hegseth, a controversial pick for the position. Trump also plans to nominate Elbridge Colby, known for his hawkish stance on China, as Undersecretary of Defense for Policy.</p>
+          </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Hedge Funds</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Korean hedge fund targets governance reform:
+        </strong> Must Asset Management, a top-performing Korean hedge fund, is <a href="https://link.altdaily.co/ad-24-dec-2024-5-pressuring" target="_blank">pressuring</a> miner Young Poong Corp. to cancel treasury shares and improve governance. Young Poong held uncanceled shares for over a decade, a move criticized as hypocritical after rebuking Korea Zinc for similar practices. The fund sees Young Poong undervalued at 0.2x book value despite its 25% stake in Korea Zinc, worth $3.6 billion. Shareholder activism is gaining momentum in South Korea, with Must Asset forecasting 2025 as a pivotal year for governance improvements. Young Poong has yet to decide on reforms but faces mounting investor pressure.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Hedge funds cut exposure to nuclear tech:
+         </strong> 
+         Hedge funds are <a href="https://link.altdaily.co/ad-24-dec-2024-6-scaling-back" target="_blank">scaling back</a> investments in nuclear technology stocks after a strong rally this year. Tribeca Investment Partners and Segra Capital trimmed exposure, citing stretched valuations. According to JPMorgan analysts, stocks like NuScale and Constellation Energy saw massive gains but now face "NucleHype" risks. Despite this, uranium assets remain attractive due to supply constraints and long-term demand. Segra shifted focus to uranium producers in the U.S., Canada, and Australia. Investors anticipate Big Tech's interest in nuclear supply chains could reignite opportunities, but near-term caution prevails.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Silver Point challenges SEC allegations:
+        </strong> Silver Point Capital is <a href="https://link.altdaily.co/ad-24-dec-2024-7-rebelling" target="_blank">rebelling</a> against an SEC lawsuit alleging inadequate controls to prevent insider trading. The case concerns a consultant accused of sharing nonpublic information about Puerto Rico bonds. Silver Point denies wrongdoing, highlighting a four-year investigation that found no evidence of illegal trades. The SEC alleges trades worth $260 million during the period generated $29 million in profits. Silver Point insists its compliance policies were robust, rejecting settlement offers.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Hedge funds flock to Mideast financial hubs:
+         </strong> 
+         Abu Dhabi and Dubai are becoming <a href="https://link.altdaily.co/ad-24-dec-2024-8-hotspots" target="_blank">hotspots</a> for hedge funds, attracting heavyweights like Brevan Howard and Marshall Wace. Asian firms, including Hillhouse and Citic PE, are now eyeing expansions in the UAE, leveraging its tax-free status and sovereign wealth funds controlling $1.7 trillion. While opportunities in the region remain limited, the UAE is positioning itself as a gateway to markets like India.</p>
+        </mj-text>
+
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Venture Capital</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Juniper bets on climate biotech solutions:</strong>   
+           Juniper Ventures, a spinout from Climate Capital, has <a href="https://link.altdaily.co/ad-24-dec-2024-9-raised" target="_blank">raised</a> $10.6 million to fund synthetic biology startups tackling climate challenges. The firm focuses on industrials, chemicals, and agriculture, which account for significant carbon emissions. Juniper supports early-stage scientists, investing $100,000 to $500,000 per project. Early bets include sustainable chocolate producer California Cultured and Cache DNA, which aims to revolutionize data storage using DNA. Founders see synthetic biology as the key to addressing overlooked climate sectors.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>European AI startups attract record funding:</strong>   
+           AI startups in Europe <a href="https://link.altdaily.co/ad-24-dec-2024-10-secured" target="_blank">secured</a> 25% of the region's VC funding in 2024, totaling $13.7 billion, according to Balderton Capital. The sector's value has doubled to $508 billion in four years, with new unicorns like Poolside and Wayve emerging. Despite a flat funding year overall, AI remains a bright spot, supported by U.S. investors tapping into Europe's talent pool. Experts believe AI will continue integrating across industries, blurring the lines between standalone AI companies and traditional tech firms.</p>
+        </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Others</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Norway fund bets on U.S. prime real estate:</strong>  
+          Norway's $1.7 trillion sovereign wealth fund has <a href="https://link.altdaily.co/ad-24-dec-2024-11-acquired" target="_blank">acquired</a> eight prime U.S. properties for $976.8 million. The fund doubled down on Boston, San Francisco, and Washington, D.C., citing dislocation in the office market as a buying opportunity. Managed by TIAA's Nuveen Real Estate, the portfolio includes high-profile assets like 501 Boylston Street.</p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Nippon Life targets global asset expansion:</strong>  
+          Nippon Life Insurance is on a $12 billion <a href="https://link.altdaily.co/ad-24-dec-2024-12-acquisition-spree" target="_blank">acquisition spree</a>, eyeing a majority stake in asset manager TCW Group. Already holding 27% of TCW, the Japanese insurer aims to expand private credit strategies, committing $3.25 billion to boost growth. This follows major deals, including an $8.2 billion purchase of Resolution Life and a $3.8 billion stake in Corebridge Financial. As a mutual company, it emphasizes long-term strategies over short-term gains, leveraging its $600 billion asset base.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">How do aging populations affect productivity and fiscal stability?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-24-4.jpg" alt="foundations" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Aging populations pose significant challenges to productivity and fiscal stability for economies worldwide. As the proportion of older individuals grows, labor force participation declines, reducing overall economic output. This shift can slow productivity growth, as fewer workers support a larger dependent population, leading to a potential labor shortage and increased wage pressures.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          On the fiscal side, aging populations strain government budgets. Pension systems face mounting payouts as retirees live longer, while healthcare costs rise due to the increased demand for age-related medical services. For example, countries like Japan and many in Europe face growing fiscal deficits as their aging populations outpace younger, working-age contributors.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          To address these challenges, governments may need to reform retirement systems, encourage workforce participation among older adults, and invest in automation to boost productivity. Without proactive measures, the economic consequences of aging populations could undermine long-term growth and fiscal sustainability.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+    <!-- FUN FRIDAY-->
+ 
+    <!-- / FUN FRIDAY -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">what is</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+      <h2 style="             
+             font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Discount rate</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+        The discount rate is used to calculate the present value of future cash flows. It reflects the time value of money and risk. For example, if someone owes you $100 in a year, the discount rate helps you figure out how much that $100 is worth today.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#6b705c" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">“Successful investing is about managing risk, not avoiding it.” Ben Bernanke</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@altdaily.co</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This newsletter is for informational purposes only and does not constitute financial advice.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
