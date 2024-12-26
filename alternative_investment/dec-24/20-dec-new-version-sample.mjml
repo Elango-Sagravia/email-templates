@@ -9,7 +9,7 @@
       <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
+    </mj-raw> 
     <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
     <mj-section background-color="#ffffff"  >
@@ -94,6 +94,25 @@
           <p style="font-size: 16px; line-height: 1.4">
           Antin Infrastructure Partners <a href="https://pitchbook.com/news/articles/antin-infrastructure-secures-10b-for-latest-flagship-fund" target="_blank">secured</a> $10.6 billion for its fifth flagship fund, making it the largest global infrastructure fundraise in 2024. With a focus on energy, digital, transport, and social infrastructure across Europe and North America, the fund is set to write cheques between €621 million and $1.03 billion. Impressively, over 90% of commitments came from existing investors, alongside 120 new ones. This marks a significant leap from Antin's previous $6.7 billion fund, reflecting investor confidence in energy transition infrastructure.</p>
         </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Family supports Bain’s takeover</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Japanese IT company Fuji Soft's founder, Hiroshi Nozawa, is <a href="https://www.privateequitywire.co.uk/fuji-soft-backs-bain-in-pe-bidding-war/" target="_blank">rallying</a> behind Bain Capital's revised $61.09-per-share bid amid a bidding war with KKR. Despite the board favoring KKR, Nozawa, holding 18.6% of shares, criticized the privatization process and questioned the board's independence. Bain aims to acquire 50.1% of Fuji Soft while promising to respect current management. KKR, however, already secured 33.9% of shares during earlier bidding.
+          </p>
+        </mj-text>
       </mj-column>
     </mj-section>
 
@@ -153,26 +172,9 @@
 
   <!-- /PS ad -->
 
-    <mj-spacer height="10px" />
-    <!-- Content sections -->
-    <mj-section css-class="mj_section" background-color="#ffffff">
-      <mj-column>
-      <mj-spacer height="20px" />
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
-          <h2 style="              
-              font-size: 20px;
-              line-height: 1.2; 
-              font-weight: 500;
-              margin-top: 2px !important;">Family supports Bain’s takeover</h2>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">
-          Japanese IT company Fuji Soft's founder, Hiroshi Nozawa, is <a href="https://www.privateequitywire.co.uk/fuji-soft-backs-bain-in-pe-bidding-war/" target="_blank">rallying</a> behind Bain Capital's revised $61.09-per-share bid amid a bidding war with KKR. Despite the board favoring KKR, Nozawa, holding 18.6% of shares, criticized the privatization process and questioned the board's independence. Bain aims to acquire 50.1% of Fuji Soft while promising to respect current management. KKR, however, already secured 33.9% of shares during earlier bidding.
-          </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- ----- -->
+
+    
+  
   <mj-spacer height="10px" />
 
   <!-- Worldwide -->
