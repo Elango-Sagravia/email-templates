@@ -25,26 +25,12 @@
               font-size: 16px;
               line-height: 1.4;
               margin-top:2px;
-            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            ">We want to wish you a wonderful start to 2025. Please note that we will be taking a short break on January 1 and 2. We’ll see you back on Friday with our regular updates. <strong>Happy New Year!</strong></p>
           <p style="
               font-size: 16px;
               line-height: 1.4;
-            "><strong>In today’s edition:</strong> </p>
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              padding-left: 10px;
-            ">→ Trump calls Greenland purchase</p>
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              padding-left: 10px;
-            ">→ 50,000 YO baby mammoth</p>
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              padding-left: 10px;
-            ">→ Prince Andrew skips royal tradition</p>
+            ">In today's special edition, you'll find a summary of the biggest events of 2024. Enjoy!</p>
+           
             <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -78,7 +64,7 @@
               font-weight: 300;
               padding: 18px 8px 10px 8px;
                
-            ">SPOTLIGHT</h2>
+            ">2024 SPOTLIGHT</h2>
         </mj-text>
       </mj-column>
     </mj-section> 
@@ -306,7 +292,6 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-    
 
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
@@ -324,6 +309,20 @@
       </mj-column>
     </mj-section>
 
+    <!-- banner -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1977, Charlie Chaplin, the legendary British comedic actor and director, died in Corsier-sur-Vevey, Switzerland.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
 
     <!-- 2 columns section -->
     <mj-section background-color="white">
