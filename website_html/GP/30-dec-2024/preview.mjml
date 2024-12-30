@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->  
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>On 30th Dec 2024 edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→  Suriname’s ex-dictator died</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→  Slovakia-Ukraine tensions</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→  Who is Laura Codruta Kovesi?</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px; 
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px !important">Azerbaijan demands apology</h2> 
+        </mj-text>
+         <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-dec-30-1.jpg" alt="Azerbaijan demands apology" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Azerbaijan President Ilham Aliyev stated that the plane that crashed last week in Kazakhstan was allegedly <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-1-damaged" target="_blank">damaged</a> due to a sort of electronic jamming and was shot at by the Russian warfare system. Aliyev demanded Russia apologize, admit its guilt, punish the guilty, and compensate the Azerbaijani state. Vladimir Putin apologized to Aliyev and characterized the event as a <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-2-tragic-incident" target="_blank">tragic incident</a>. While the statement from the Kremlin said that the Russian defense systems were active as they were fighting the attacks from Ukraine, Putin didn’t mention that Russia took down the plane. Several other airlines have <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-3-suspended-flights" target="_blank">suspended flights</a> to Russian cities.</p>
+          <p style="font-size:16px;line-height:1.4;">This incident could hinder Russia-Azeri relations. Azerbaijan originally had a <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-4-tense-relationship" target="_blank">tense relationship</a> with Russia, particularly during the breakup of the Soviet Union. However, Azerbaijan developed closer ties with Russia since it <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-4b-claimed-karabakh" target="_blank">claimed Karabakh</a>. Post-war, the Russian peacekeeping forces were stationed in the region. Russia also offered to be a constructive <a href="https://link.geopoliticalsummary.com/gs-30-dec-2024-5-peace-broker" target="_blank">peace broker</a> for Azerbaijan's conflict with Armenia.​</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
