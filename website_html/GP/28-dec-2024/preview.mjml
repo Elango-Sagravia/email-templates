@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>On 28th Dec 2024 weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ China condemns the U.S.</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Trump’s controversy continues</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Syrian internal divisions</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇮🇱 Israel and Houthi spats:</strong> 
+            A rocket fired by Yemen's Houthi rebels <a href="https://link.geopoliticalsummary.com/gs-28-dec-2024-1-struck" target="_blank">struck</a> Tel Aviv overnight, injuring 16 from shattered glass and 14 during air raid sirens. The Houthis claimed they targeted a military site with a hypersonic missile. Israel's military acknowledged a breach in its aerial defense. This attack followed Israeli airstrikes on Houthi-controlled areas, which killed at least nine people. Additionally, a US fighter jet was accidentally shot down by friendly fire over the Red Sea during airstrikes against Houthi militants. Israel reported over 200 Houthi-launched missiles and drones during the Israel-Hamas war, causing significant damage to Houthi-controlled Red Sea ports crucial for Yemen’s food shipments.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇨🇳 China reprimands the U.S.:</strong> 
+            China has <a href="https://link.geopoliticalsummary.com/gs-28-dec-2024-2-condemned" target="_blank">condemned</a> the U.S. for announcing $571.3 million in military aid to Taiwan, labeling it as a “dangerous move” that undermines peace and stability. The tensions have increased recently, with China conducting <a href="https://link.geopoliticalsummary.com/gs-28-dec-2024-3-military-drills" target="_blank">military drills</a> near Taiwan. Before leaving office, President Joe Biden confirmed this aid package, which includes defense articles and training, following a previous $567 million package. This week, Taiwan received 38 new tanks, its first in 30 years, and expressed gratitude to the U.S. for its support while reaffirming its commitment to peace in the Taiwan Strait. 
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);"> 
+            <strong>🇵🇦 Trump threatens Panama:</strong> 
+            Donald Trump sparked <a href="https://link.geopoliticalsummary.com/gs-28-dec-2024-4-controversy" target="_blank">controversy</a> at Turning Point USA's AmericaFest rally by criticizing the 1999 transfer of the Panama Canal to Panama, labeling it a "foolish" decision and suggesting it should be reclaimed if tolls continue to rise. Panama's President, José Raúl Mulino, defended the country's sovereignty and the canal's economic importance. Trump's comments could strain generally positive U.S.-Panama relations. While the U.S. has some rights regarding the canal under the Torrijos-Carter treaty, it cannot reclaim it. Trump has also <a href="https://link.geopoliticalsummary.com/gs-28-dec-2024-5-selected" target="_blank">selected</a> a new ambassador to Panama and continues to criticize Panama for its mismanagement of the canal.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

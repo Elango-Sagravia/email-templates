@@ -6,11 +6,7 @@
     <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
   </mj-head>
   <mj-body background-color="#f0f1f3">  
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
-    </mj-raw>
+    
     <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
     <mj-section background-color="#ffffff">
@@ -18,12 +14,11 @@
       <mj-column padding="10px 12px 10px 12px" width="100%">
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
-        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
           <p style="font-size: 16px; line-height: 1.4">
-            <strong>In today’s weekend edition:</strong>
+            <strong>On 28th Dec 2024 weekend edition:</strong>
           </p>
 
           <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ China condemns the U.S.</p>
@@ -31,8 +26,6 @@
           <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Trump’s controversy continues</p>
 
           <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Syrian internal divisions</p>
-          
-          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
@@ -375,9 +368,6 @@
           <p style="color: #000; font-size: 12px; line-height: 2">
           Photo by Pavel Bednyakov/AP.</p>
 
-          <p style="color: #000; font-size: 12px; line-height: 2">
-            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
         </mj-text>
         <mj-spacer height="12px"></mj-spacer>
         <mj-social font-size="15px" mode="horizontal">
