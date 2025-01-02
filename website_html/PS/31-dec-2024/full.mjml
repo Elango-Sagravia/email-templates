@@ -4,21 +4,14 @@
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
-  <mj-body background-color="#f0f1f3"> 
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
-    <mj-spacer height="15px"></mj-spacer> 
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
-    <mj-section background-color="#ffffff"  > 
-    <mj-spacer height="10px" />
-      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
-        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
-        
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
@@ -26,7 +19,7 @@
               line-height: 1.4;
               margin-top:2px;
             ">We wish you a wonderful start to 2025.</p>
-            <p style="
+          <p style="
               font-size: 16px;
               line-height: 1.4;
               margin-top:2px;
@@ -35,25 +28,14 @@
               font-size: 16px;
               line-height: 1.4;
             ">In today's New Year's Eve edition, you'll find a summary of the biggest events of 2024. Enjoy!</p>
-           
-            <p style="
-              font-size: 16px;
-              line-height: 1.4;
-              margin-bottom: 0px;
-            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
-      </mj-column> 
+      </mj-column>
     </mj-section>
-
- 
-
-
     <!-- breaking news1  -->
-
     <!-- /breaking news 1 -->
-
-<mj-spacer height="10px" />
+    <mj-spacer height="10px" />
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
@@ -72,12 +54,10 @@
             ">2024 SUMMARY</h2>
         </mj-text>
       </mj-column>
-    </mj-section> 
- 
+    </mj-section>
     <!-- Spotlight contents-->
-
     <!-- Content sections -->
-    <mj-section background-color="#ffffff"> 
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="
@@ -93,13 +73,10 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
-
     <!-- Content sections -->
- 
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -108,17 +85,14 @@
               margin-top: 2px !important;">2. Global election year</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">
-           Over <a href="https://www.pewresearch.org/global/2024/12/11/global-elections-in-2024-what-we-learned-in-a-year-of-political-disruption" target="_blank">60 countries</a> held elections in 2024, with many ruling and incumbent parties losing. This marked the third consecutive US presidential election where the incumbent lost. Surveys in 34 countries revealed dissatisfaction with the economy (64%) and democracy (54%). <a href="https://www.voanews.com/a/far-right-support-rose-in-europe-in-2024/7899483.html" target="_blank">Right-wing populism</a> gained ground, especially in European countries like Austria, Belgium, France and Germany, as voters prioritized domestic issues over international challenges.
-         </p>
+          <p style="font-size: 16px; line-height: 1.4"> Over <a href="https://www.pewresearch.org/global/2024/12/11/global-elections-in-2024-what-we-learned-in-a-year-of-political-disruption" target="_blank">60 countries</a> held elections in 2024, with many ruling and incumbent parties losing. This marked the third consecutive US presidential election where the incumbent lost. Surveys in 34 countries revealed dissatisfaction with the economy (64%) and democracy (54%). <a href="https://www.voanews.com/a/far-right-support-rose-in-europe-in-2024/7899483.html" target="_blank">Right-wing populism</a> gained ground, especially in European countries like Austria, Belgium, France and Germany, as voters prioritized domestic issues over international challenges. </p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -132,10 +106,9 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -149,10 +122,9 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -166,10 +138,9 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -183,10 +154,9 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -195,15 +165,14 @@
               margin-top: 2px !important;">7. The 2024 Paris Olympic and Paralympic games</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Paris hosted one of the most <a href="https://olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field" target="_blank">record-breaking</a> Olympic and Paralympic games. It was the first Olympic Games to have its opening ceremony outside the stadium. It was also the first game to reach gender parity and one of the <a href="https://edition.cnn.com/2024/07/26/economy/olympics-economics-paris-2024/index.html" target="_blank">lowest-cost</a> Olympics in recent history because almost 95% of the infrastructure was already there. The Seine River saw a complete restoration and was put to use for the first time since 1923 after the heavy restoration works.  Compared to Rio and London, the <a href="https://olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field" target="_blank">Paris Olympics cut carbon emissions</a> by half.</p>
+          <p style="font-size: 16px; line-height: 1.4">Paris hosted one of the most <a href="https://olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field" target="_blank">record-breaking</a> Olympic and Paralympic games. It was the first Olympic Games to have its opening ceremony outside the stadium. It was also the first game to reach gender parity and one of the <a href="https://edition.cnn.com/2024/07/26/economy/olympics-economics-paris-2024/index.html" target="_blank">lowest-cost</a> Olympics in recent history because almost 95% of the infrastructure was already there. The Seine River saw a complete restoration and was put to use for the first time since 1923 after the heavy restoration works. Compared to Rio and London, the <a href="https://olympics.com/ioc/news/paris-2024-record-breaking-olympic-games-on-and-off-the-field" target="_blank">Paris Olympics cut carbon emissions</a> by half.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -217,10 +186,9 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-      <mj-spacer height="0px" />
+        <mj-spacer height="0px" />
         <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
           <h2 style="             
               font-size: 20px;
@@ -234,9 +202,6 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
-
-  
-
     <!-- banner -->
     <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column background-color="#4D3060" width="96%">
@@ -251,13 +216,12 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
     <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
-      <mj-spacer height="10px"/>
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="
               color:#000;
               font-size:12px;
@@ -268,68 +232,27 @@
               font-size:12px;
               line-height: 2;
             "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            ">
-            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
-          </mj-text>
-           <mj-spacer height="12px"></mj-spacer>
-
-          <mj-social  font-size="15px" mode="horizontal">
-
-            <!-- Facebook Icon -->
-            <mj-social-element 
-              padding="12px 10px"
-              icon-size="24px"
-              href=" https://www.facebook.com/profile.php?id=61562652791256"
-              src="https://www.presidentialsummary.com/icons/social/facebook.png"
-            >
-            </mj-social-element>
-
-            <!-- X (Twitter) Icon -->
-            <mj-social-element 
-            padding="12px 10px"
-              icon-size="24px"
-              href=" https://x.com/presidentialsum"
-              src="https://www.presidentialsummary.com/icons/social/x.png"
-              >
-            </mj-social-element>
-
-            <!-- Instagram Icon -->
-            <mj-social-element 
-            padding="12px 10px"
-              icon-size="24px"
-              href="https://www.instagram.com/presidentialsummary/"
-              src="https://www.presidentialsummary.com/icons/social/instagram.png">
-            </mj-social-element>
-
-            <!-- Reddit Icon -->
-            <mj-social-element 
-            padding="12px 10px"
-              icon-size="24px"
-              href="https://www.reddit.com/user/PresidentialSummary/"
-              src="https://www.presidentialsummary.com/icons/social/reddit.png"
-              >
-            </mj-social-element>
-            <mj-social-element 
-            padding="12px 10px"
-              icon-size="24px"
-              href="https://www.linkedin.com/showcase/presidentialsummary/"
-              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
-              >
-            </mj-social-element>
-            <mj-social-element 
-            padding="12px 10px"
-              icon-size="24px"
-              href="https://www.threads.net/@presidentialsummary"
-              src="https://www.presidentialsummary.com/icons/social/threads.png"
-              >
-            </mj-social-element>
-          </mj-social>
-          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="
               margin-top:0px;
                text-align:center;
