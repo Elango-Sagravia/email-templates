@@ -225,7 +225,7 @@
     <mj-spacer height="10px" />
 
 
-       <!-- cRISKOMETER-->
+       <!-- RISKOMETER-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
@@ -298,8 +298,26 @@
          Breaking a 23-year streak, Vistra Corp. <a href="https://link.altdaily.co/ad-03-01-2025-m1-6-led-the-s&p-500" target="_blank">led the S&P 500</a> with a 264% gain in 2024, outshining even Nvidia. Rising power needs from AI and data centers, plus nuclear energy’s resurgence, boosted independent power producers like Vistra.</p>
           </mj-text>
 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+
+<!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+
           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Crude oil edges higher on stock draw:</strong> Crude oil futures <a href="https://link.altdaily.co/ad-03-01-2025-m2-7-rose-slightly" target="_blank">rose slightly</a>, with Brent at $74.97/b and WTI at $72.06/b, supported by a 1.4-million-barrel draw in U.S. crude stocks. Geopolitical tensions in the Middle East also pushed prices up, with U.S. strikes against Yemen's Houthi rebels heightening risks in the Red Sea.</p>
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Crude oil edges higher on stock draw:</strong>   
+         Crude oil futures <a href="https://link.altdaily.co/ad-03-01-2025-m2-7-rose-slightly" target="_blank">rose slightly</a>, with Brent at $74.97/b and WTI at $72.06/b, supported by a 1.4-million-barrel draw in U.S. crude stocks. Geopolitical tensions in the Middle East also pushed prices up, with U.S. strikes against Yemen's Houthi rebels heightening risks in the Red Sea.</p>
           </mj-text>
 
           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
@@ -307,9 +325,12 @@
          European gas prices <a href="https://link.altdaily.co/ad-03-01-2025-m3-8-jumped" target="_blank">jumped</a> as Norway's Hammerfest LNG plant shut unexpectedly. Freezing weather and depleted storage have intensified demand, driving prices above €50 per megawatt-hour. While Europe’s storage buffers prevent immediate shortages, high costs loom as restocking for next winter may become expensive.</p>
           </mj-text>
 
+
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
     </mj-section>
+
+
     <!-- content section -->
     <mj-section background-color="#ffffff">
       <mj-column>
