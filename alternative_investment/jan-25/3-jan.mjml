@@ -1,0 +1,561 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw> 
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know some of the most profitable investments today aren’t on Wall Street? Private equity is becoming mainstream.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Impact of rising bond yields</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Dubai sets real estate record</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is Monopsony Power?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.longandshort.com/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+  <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Tesla misses auto deliveries target</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/ls-jan-3-1.png" alt="Tesla misses auto deliveries target" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Tesla delivered 1.8 million vehicles in 2024, <a href="https://link.altdaily.co/ad-03-01-2025-h1-1-falling-short" target="_blank">falling short</a> of expectations. The EV-maker's total sales in 2024 were 1% less than last year. Rising competition from BYD and traditional automakers and production issues were the factors behind a dip in sales in 2024. The price cuts throughout the year also weighed on the company's profitability. Despite the dip, Wall Street eyes 2025 as a potential comeback year for the EV giant.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">D.E. Shaw returns billions after big gains</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">D.E. Shaw is <a href="https://link.altdaily.co/ad-03-01-2025-h2-2-rewarding" target="_blank">rewarding</a> clients big time after stellar 2024 results. The flagship Composite fund posted an 18% gain, while the Oculus fund soared 36%, its best-ever year. The firm is expected to give back half of last year’s profits from Composite and Oculus to clients. D.E Shaw has consistently posted high returns, with Composite only recording one losing year since 2001.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px; 
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 10px 0px 0px 0px;
+              
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-gp.png" alt="gp-add" href="https://link.altdaily.co/ls-3-jan-2025-ad-gp" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Dive into global affairs with Geopolitical Summary,<br/>A newsletter that brings clarity, concise and visionary.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From borders to treaties, from leaders to strife,<br/>We break down the stories that shape global life.</p>
+          <p style="font-size: 16px; line-height: 1.4">Discover the ‘why’ behind the headlines you read,<br/>
+          With insights that help your mind to succeed.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         We cover the issues others fail to see,<br/>
+          Bringing you knowledge, unbiased and free.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+        Stay ahead of the curve, and grow your mind,<br/> 
+        Subscribe today, and leave ignorance behind.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.altdaily.co/ls-3-jan-2025-ad-gp" target="_blank">Subscribe to Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad -->
+
+  <mj-spacer height="10px" />
+
+  <!-- Worldwide -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">WORLD NEWS</h2>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+    <!-- content section -->
+    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇦🇪 UAE's Mubadala tops sovereign wealth spending:</strong>    
+          Mubadala became the <a href="https://link.altdaily.co/ad-03-01-2025-wn1-top-global-spender" target="_blank">top global spender</a> among sovereign wealth funds in 2024, investing $29.2 billion across AI, private credit, and healthcare. This marks a shift as Saudi Arabia’s PIF reduced spending to focus domestically. Notable investments include a $1.5 billion AI partnership with Microsoft and private credit ventures with Goldman Sachs.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇨🇳 Cheng family plans $2B China toll road sale:</strong>    
+          Hong Kong’s Cheng family is looking to sell <a href="https://link.altdaily.co/ad-03-01-2025-wn2-toll-road-assets" target="_blank">toll road assets</a> worth $2 billion in China. The sale aims to optimize returns amidst challenging times. Though details remain fluid, Chengs’ CTF Services is in talks with potential buyers, including Yuexiu Group. It has also discussed a deal with other buyers and has communicated that the road package could be split into smaller chunks for sale.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>🇦🇪 Dubai real estate set a record-breaking year in 2024:</strong>    
+          Dubai’s real estate market hit an <a href="https://link.altdaily.co/ad-03-01-2025-wn3-5-all-time-high" target="_blank">all-time high</a> in 2024, with 180,900 transactions worth $142.1 billion. This represents a 36% jump in volume and a 27% rise in value compared to 2023. The primary market saw a 30% YoY increase in sales, driven by off-plan properties and attractive payment plans. Average prices per square foot climbed by 10%. Secondary market activity also surged, with a 21% growth in re-sales.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+
+
+       <!-- cRISKOMETER-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">RISKOMETER</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- chart-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/ls-jan-3-2.jpg" alt="RISKOMETER" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The stock markets currently face risks from rising bond yields, which make equities less attractive, and potential policy changes under the incoming Trump administration, including proposed tariffs that could impact trade and corporate profits. Additionally, high valuations in tech stocks, which comprise almost all of the alpha the past year, raise concerns about a possible market correction.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+    
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Vistra tops S&P 500 on power demand:</strong>   
+         Breaking a 23-year streak, Vistra Corp. <a href="https://link.altdaily.co/ad-03-01-2025-m1-6-led-the-s&p-500" target="_blank">led the S&P 500</a> with a 264% gain in 2024, outshining even Nvidia. Rising power needs from AI and data centers, plus nuclear energy’s resurgence, boosted independent power producers like Vistra.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Crude oil edges higher on stock draw:</strong> Crude oil futures <a href="https://link.altdaily.co/ad-03-01-2025-m2-7-rose-slightly" target="_blank">rose slightly</a>, with Brent at $74.97/b and WTI at $72.06/b, supported by a 1.4-million-barrel draw in U.S. crude stocks. Geopolitical tensions in the Middle East also pushed prices up, with U.S. strikes against Yemen's Houthi rebels heightening risks in the Red Sea.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>European gas prices climb on Norway outage:</strong>   
+         European gas prices <a href="https://link.altdaily.co/ad-03-01-2025-m3-8-jumped" target="_blank">jumped</a> as Norway's Hammerfest LNG plant shut unexpectedly. Freezing weather and depleted storage have intensified demand, driving prices above €50 per megawatt-hour. While Europe’s storage buffers prevent immediate shortages, high costs loom as restocking for next winter may become expensive.</p>
+          </mj-text>
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>PBOC supports yuan amid year-end slump:</strong>   
+         China’s central bank boosted <a href="https://link.altdaily.co/ad-03-01-2025-m4-9-yuan-stability" target="_blank">yuan stability</a> after it hit its weakest level since 2022. The People’s Bank of China has set a stronger-than-expected reference rate, signaling a determination to control depreciation. Analysts forecast a decline of 7.5 per dollar, citing economic challenges and U.S. policy shifts.</p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>South Africa’s rand leads EM currencies:</strong>   
+         For the first time in eight years, South Africa’s rand ranked among the top five <a href="https://link.altdaily.co/ad-03-01-2025-m5-10-emerging-market-currencies" target="_blank">emerging-market currencies</a> in 2024. The currency rallied over the past year, buoyed by reforms and bond inflows. Infrastructure improvements and a strong carry appeal drove resilience despite global dollar strength. Analysts forecast a 13% gain in 2025, with the rand benefiting from lower inflation and rising investments.</p>
+          </mj-text>
+
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Do Kwon pleads not guilty in fraud case:</strong>  
+          Do Kwon, co-founder of Terraform Labs, <a href="https://link.altdaily.co/ad-03-01-2025-m6-11-pleaded-not-guilty" target="_blank">pleaded not guilty</a> to U.S. fraud charges after being extradited from Montenegro. The charges stem from the 2022 collapse of TerraUSD and Luna, which wiped out $40 billion in value. Prosecutors allege Kwon misled investors about TerraUSD’s stability and secretly propped it up with a trading firm. </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Dogecoin stalls as ETF hopes decline:</strong>  
+          Dogecoin's rally <a href="https://link.altdaily.co/ad-03-01-2025-m7-12-stalled" target="_blank">stalled</a> as Polymarket odds for a DOGE ETF approval dropped to 26%. The negative sentiment over approval reflects the lack of applications for a DOGE-specific ETF, unlike Solana and Ripple, which have pending filings. Despite DOGE’s $50 billion market cap, analysts see limited near-term catalysts without regulatory clarity.</p>
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+
+
+    <!-- ----- -->
+
+    <!-- --- -->
+
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What is monopsony power?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/ls-jan-3-3.jpg" alt="Foundation" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Monopsony power refers to the market influence exerted by a single buyer that dominates demand in a particular market. The buyer’s significant control allows them to influence pricing and buying terms, often to the disadvantage of sellers. This contrasts with monopoly power, where a single seller dominates supply.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          For example, in labor markets, a company with monopsony power—such as being the sole major employer in a region—can suppress wages because workers have few alternative employment options. Similarly, large retailers with substantial purchasing power may force suppliers to lower their prices, squeezing their profit margins.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+
+    <!-- FUN FRIDAY-->
+
+ 
+
+    <!-- / FUN FRIDAY -->
+
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">OPPORTUNITIES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ 
+    <!-- Content sections -->
+     <mj-section background-color="#ffffff"> 
+        <mj-column>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <ul style="font-size: 16px; line-height: 1.4; padding-left: 20px; margin: 0;">
+              <li>
+                  <a href="https://link.altdaily.co/ad-03-01-2025-o1-13-structured-finance-associate" target="_blank">Structured Finance Associate</a>, $235K - $435K / yr
+              </li>
+              <li style="margin-top:10px;">
+                  <a href="https://link.altdaily.co/ad-03-01-2025-o2-14-financial-advisor" target="_blank">Financial Advisor</a>, $125K to $150K / yr
+              </li>
+              <li style="margin-top:10px;">
+                  <a href="https://link.altdaily.co/ad-03-01-2025-o3-15-cfo-philanthropy" target="_blank">CFO, Philanthropy</a>, $600k to $800k / yr
+              </li>
+          </ul>
+        </mj-text>
+       </mj-column>
+    </mj-section>
+
+  
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61563115340167"
+              src="https://www.altdaily.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/readaltdaily"
+              src="https://www.altdaily.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/readaltdaily/"
+              src="https://www.altdaily.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/AltInvestmentNews/"
+              src="https://www.altdaily.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/altdailynews"
+              src="https://www.altdaily.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@readaltdaily"
+              src="https://www.altdaily.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
