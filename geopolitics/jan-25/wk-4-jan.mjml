@@ -1,0 +1,429 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopolitics.world/gp-logo-grey.png" href="https://www.geopolitics.world" alt="" />
+        <mj-image width="1px" src="https://www.geopolitics.world/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Russian gas cut-off</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Myanmar Independence</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Syrians return to normalcy</p>
+          
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopolitics.world/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇷🇺 Russian gas cutoff:</strong> 
+            Russian <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-1-gas-supplies" target="_blank">gas supplies</a> to Eastern Europe via Ukraine have halted after a five-year agreement expired. While the European Commission said that the 27-nation bloc was prepared for the scenario, some members, such as Slovakia and Austria, may experience some risk. Robert Fico, the prime minister of Slovakia, threatened to <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-2-cut-off-assistance" target="_blank">cut off assistance</a> to Ukrainian refugees as revenge. The country in Europe most heavily impacted is Moldova, a non-EU member, especially <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-3-transnistria" target="_blank">Transnistria</a>, where 450,000 residents face heating and hot water shortages.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇦🇿 Azeri-Russian row:</strong> 
+            Azerbaijan President Ilham Aliyev alleged that a plane that crashed in Kazakhstan was damaged by electronic jamming and unintentionally <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-4-shot-down" target="_blank">shot down</a> by Russian defense systems. He called for Russia to apologize, admit guilt, punish those responsible, and provide compensation. Vladimir Putin expressed condolences but did not acknowledge Russia’s involvement. Several airlines have since <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-5-suspended" target="_blank">suspended</a> flights to Russian cities, potentially straining relations between Russia and Azerbaijan. The two nations had become closer since Azerbaijan's claim over <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-6-karabakh" target="_blank">Karabakh</a> and the stationing of Russian peacekeepers in the region after the conflict with Armenia.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇬🇪 Georgian president sworn in:</strong> 
+            Mikheil Kavelashvili has been sworn in as the <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-7-president-of-georgia" target="_blank">president of Georgia</a> during political unrest. Former president Salome Zourabichvili won’t step down and has questioned his legitimacy. Zourabichvili, who supports EU integration, criticized the ruling Georgian Dream party for threatening the country's EU goals and leaning towards Russia. New Year’s Eve witnessed <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-8-major-protests" target="_blank">major protests</a> in Tbilisi against the party's choice to pause EU accession talks until 2028, as the demonstration has been going on for over a month. The European Parliament has rejected the election results, urging a rerun, while the <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-9-us-sanctioned" target="_blank">U.S. sanctioned</a> Georgian Dream's oligarch Bidzina Ivanishvili for undermining Georgia’s democratic future.​
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ 
+    <!-- 2 bh ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Business History</i>
+        </p>
+      </mj-text>
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 10px 0px 0px 0px;
+              
+               
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-bh.png" alt="bh-ad" href="https://link.geopoliticalsummary.com/gs-4-jan-2025-ad-bh" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Dive into the stories that built the greatest brands,<br/>
+              Business History brings you lessons from powerful hands.
+
+                        </p>
+                                  <p style="font-size: 16px; line-height: 1.4">
+                            From iconic deals to bold, risky moves,<br/>
+              We uncover the actions that shaped and proved.
+                        </p>
+                                  <p style="font-size: 16px; line-height: 1.4">
+                              Concise and clear, we tell it all,<br/>
+              From triumphs to failures, big or small.
+                        </p>
+                                  <p style="font-size: 16px; line-height: 1.4">
+                                Learn from the past, where success meets strife,<br/>
+              Gain the insights that guide modern life.
+
+                        </p>
+                                  <p style="font-size: 16px; line-height: 1.4"> 
+                                Stay ahead of the curve, with knowledge that sticks,<br/>
+              Subscribe today, and get the business fix.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.geopoliticalsummary.com/gs-4-jan-2025-ad-bh" target="_blank">Subscribe to Business History</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /bh ad -->
+
+   <mj-spacer height="10px" />
+    <mj-section background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇸🇾 EU members normalize relations with Syria:</strong> 
+            French and German foreign ministers have kicked off 2025 by making <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h4-10-official-visits" target="_blank">official visits</a> to Syria. Both countries want to restore relations with Syria and provide transitional justice for the suffering caused by the Assad regime. They agreed that lifting sanctions depends on the political process. However, German foreign minister Anna Baerboch stated that Europe would support Syria in the transition but <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h4-11-would-not-finance" target="_blank">would not finance</a> new Islamist structures. She also said that women and minorities' role in the new government is conditional to relations with Germany and the EU.
+          </p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"> 
+            <strong>🇩🇪 Musk gets reprimanded:</strong> 
+            German Chancellor Olaf Scholz subtly criticized <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h5-12-elon-musks-influence" target="_blank">Elon Musk’s influence</a> on President-elect Trump, stating that Germany’s future would be shaped by "the vast majority of reasonable and decent people" rather than "the owners of social media." This comes amid allegations that Musk had attempted to interfere in Germany's upcoming elections by supporting the far-right party Alternative for Germany and calling for Scholz's resignation. <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h5-13-german-politicians" target="_blank">German politicians</a> from other parties didn't take his remarks and endorsement too kindly. The German AFD leader Alice Weidel has been in touch with Elon Musk, and he will invite her for a live interview on Jan 10th on his platform X.
+          </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+
+
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What’s going on in Moldova?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Moldova is arguably one of the countries most affected by the war in Ukraine, and people see it as next in line for <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-14-conflict-with-russia" target="_blank">conflict with Russia</a>. The country had a dramatic end to 2024, with election run-offs giving the incumbent pro-EU president Maia Sandu a <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-15-narrow-victory" target="_blank">narrow victory</a>. The <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-16-eu-referendum" target="_blank">EU referendum</a> also passed by a small margin, primarily thanks to the Moldovan diaspora living and working abroad.</p>
+          <p style="font-size:16px;line-height:1.4;"><a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-17-parliamentary-elections" target="_blank">Parliamentary elections</a> will take place in Moldova in 2025. If the government of Prime Minister Dorin Recean, a Sandu ally, does not develop better social policies and more judicial and anti-corruption reforms, the country's pro-European path could be at risk. The pro-Russian contingent remains relatively high, particularly in areas such as <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-18-gagauzia" target="_blank">Gagauzia</a>, an autonomous region in southern Moldova.</p>
+          <p style="font-size:16px;line-height:1.4;">If Moldova hopes to realize its EU dreams, it must address its <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-19-situation-in-transnistria" target="_blank">situation in Transnistria</a>, which has remained at a stalemate since 1992. The separatist region and its status quo are valuable ways for Russia to keep Moldova from drifting more to the West. However, much of Russia’s focus has gone to Ukraine, which has put Transnistria on a lower footing. Despite asking for help earlier this year, they didn’t get significant <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-20-assistance-from-russia" target="_blank">assistance from Russia</a>. </p>
+          <p style="font-size:16px;line-height:1.4;">Transnistria also faces <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-21-demographic-problems" target="_blank">demographic problems</a>. Most of the population is elderly because most young people go to Moldova or Russia for better economic opportunities. Its weakened status could eventually lead to some dialogue with Moldova. Although <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-bq1-22-reintegrating" target="_blank">reintegrating</a> Transnistria would present many challenges, so does allowing the status quo to continue. Currently, they are in a state of emergency over the Russian gas issue and are trying to mitigate this by seeking alternative energy sources.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 1948, Burma, now known as Myanmar, officially <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-ta1-23-gained-independence" target="_blank">gained independence</a> from Britain. After World War II, Burmese leader Aung San took office in the provisional Burmese government formed in 1946. British Prime Minister Clement Attlee and Aung San negotiated the power transfer in 1947. However, the process took a violent turn when the opposition assassinated Aung San in July 1947. That year, Burma left the British Commonwealth, and a new constitution and government were established on January 4, 1948.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300; 
+              padding: 18px 8px 10px 8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-jan-4-1.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopolitics.world" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">People stand near a mosaic of former Syrian president Hafez al-Assad, which features graffiti of the Syrian rebels' flag, in Damascus, Syria, after the ousting of President Bashar al-Assad.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 6px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopolitics.world/email/images/gp-jan-4-2.jpg" alt="GUESS THE FLAG" href="https://www.geopolitics.world" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DEXUWPZoLgc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D&img_index=1" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Venezuela</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DEXUWPZoLgc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D&img_index=1" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Colombia</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DEXUWPZoLgc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D&img_index=1" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Ecuador</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DEXUWPZoLgc/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA%3D%3D&img_index=1" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Romania</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Photo by REUTERS/Zohra Bensemra.</p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopolitics.world/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopolitics.world/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopolitics.world/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopolitics.world/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopolitics.world/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopolitics.world/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
