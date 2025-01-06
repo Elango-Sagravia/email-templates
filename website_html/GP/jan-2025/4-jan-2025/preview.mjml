@@ -1,0 +1,80 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>On 4th Jan 2025 weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Russian gas cut-off</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Myanmar Independence</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Syrians return to normalcy</p>
+         
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>🇷🇺 Russian gas cutoff:</strong> 
+            Russian <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-1-gas-supplies" target="_blank">gas supplies</a> to Eastern Europe via Ukraine have halted after a five-year agreement expired. While the European Commission said that the 27-nation bloc was prepared for the scenario, some members, such as Slovakia and Austria, may experience some risk. Robert Fico, the prime minister of Slovakia, threatened to <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-2-cut-off-assistance" target="_blank">cut off assistance</a> to Ukrainian refugees as revenge. The country in Europe most heavily impacted is Moldova, a non-EU member, especially <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h1-3-transnistria" target="_blank">Transnistria</a>, where 450,000 residents face heating and hot water shortages.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">
+            <strong>🇦🇿 Azeri-Russian row:</strong> 
+            Azerbaijan President Ilham Aliyev alleged that a plane that crashed in Kazakhstan was damaged by electronic jamming and unintentionally <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-4-shot-down" target="_blank">shot down</a> by Russian defense systems. He called for Russia to apologize, admit guilt, punish those responsible, and provide compensation. Vladimir Putin expressed condolences but did not acknowledge Russia’s involvement. Several airlines have since <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-5-suspended" target="_blank">suspended</a> flights to Russian cities, potentially straining relations between Russia and Azerbaijan. The two nations had become closer since Azerbaijan's claim over <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h2-6-karabakh" target="_blank">Karabakh</a> and the stationing of Russian peacekeepers in the region after the conflict with Armenia.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);"> 
+            <strong>🇬🇪 Georgian president sworn in:</strong> 
+            Mikheil Kavelashvili has been sworn in as the <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-7-president-of-georgia" target="_blank">president of Georgia</a> during political unrest. Former president Salome Zourabichvili won’t step down and has questioned his legitimacy. Zourabichvili, who supports EU integration, criticized the ruling Georgian Dream party for threatening the country's EU goals and leaning towards Russia. New Year’s Eve witnessed <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-8-major-protests" target="_blank">major protests</a> in Tbilisi against the party's choice to pause EU accession talks until 2028, as the demonstration has been going on for over a month. The European Parliament has rejected the election results, urging a rerun, while the <a href="https://link.geopoliticalsummary.com/gs-04-01-2025-h3-9-us-sanctioned" target="_blank">U.S. sanctioned</a> Georgian Dream's oligarch Bidzina Ivanishvili for undermining Georgia’s democratic future.​
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

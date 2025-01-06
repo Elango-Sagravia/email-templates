@@ -1,0 +1,82 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+   
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 8px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.4;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">The accidental birth of microwave</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Rise of a genius</h2> 
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>The technology behind the microwave was originally developed to detect enemy planes during WWII, not to heat food</strong>. However, the microwave's journey began with an unexpected moment. Percy Spencer, a self-taught genius and the father of the microwave, was no stranger to ingenuity. Born in 1894 in Howland, Maine, Spencer left school at 12 to work in a weaving mill and joined the U.S. Navy at 18. By night, he taught himself calculus and physics.
+          </p>
+        </mj-text>
+
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-jan-4-1.jpg" alt="Rise of a genius" href="https://www.businesshistory.co" />
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">
+          After World War I, Spencer joined American Appliance Company, co-founded by engineer Vannevar Bush, best known for organizing the Manhattan Project. In 1925, the company changed its name to Raytheon Manufacturing Company. His popularity rose as he became the go-to problem solver in the organization, and he also helped develop detonators. While Raytheon gained fame for military innovations, Spencer’s knack for inventive solutions would make history. 
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
