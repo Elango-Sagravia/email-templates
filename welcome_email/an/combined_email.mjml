@@ -6,7 +6,7 @@
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">Alternative insights, fresh off the press.</div>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes.</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
@@ -17,8 +17,7 @@
       <mj-column  padding="10px 12px 10px 12px" width="100%"> 
       <mj-spacer height="22px" />
 
-        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.altdaily.co/an-logo-grey.png" href="https://www.altdaily.co" alt="" />
-        <mj-image width="1px" src="https://www.altdaily.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com" alt="" />
 
       <mj-spacer height="6px" />
 
@@ -37,7 +36,7 @@
           <p style="
               font-size: 16px;
               line-height: 1.4;
-            ">Welcome to <strong><i>AltDaily News!</i></strong></p>
+            ">Welcome to <strong><i>Long and Short!</i></strong></p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
@@ -90,7 +89,7 @@
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.longandshort.com/" 
+              href="https://www.longandshort.com/archives/%slug%" 
               target="_blank"
              >Check out our latest issue</a>
         </mj-text>
@@ -147,7 +146,7 @@
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.longandshort.com" 
+              href="https://www.longandshort.com/verified" 
               target="_blank"
              >Verify</a>
         </mj-text>
@@ -207,7 +206,7 @@
           <mj-spacer height="4px" />
           <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">
-            For everyone else, check out our safelist instructions <a href="https://www.altdaily.co/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
+            For everyone else, check out our safelist instructions <a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
           </p>
         </mj-text>
       </mj-column>
@@ -250,7 +249,7 @@
         padding="12px 12px"
         icon-size="30px"
         href=" https://www.facebook.com/profile.php?id=61563115340167"
-        src="https://www.altdaily.co/icons/social/facebook.png"
+        src="https://www.longandshort.com/icons/social/facebook.png"
        >
       </mj-social-element>
 
@@ -259,7 +258,7 @@
       padding="12px 12px"
         icon-size="30px"
         href="https://x.com/readaltdaily"
-        src="https://www.altdaily.co/icons/social/x.png"
+        src="https://www.longandshort.com/icons/social/x.png"
         >
       </mj-social-element>
 
@@ -268,7 +267,7 @@
       padding="12px 12px"
         icon-size="30px"
         href=" https://www.instagram.com/readaltdaily/"
-        src="https://www.altdaily.co/icons/social/instagram.png">
+        src="https://www.longandshort.com/icons/social/instagram.png">
       </mj-social-element>
 
       <!-- Reddit Icon -->
@@ -276,21 +275,21 @@
       padding="12px 12px"
         icon-size="30px"
         href="https://www.reddit.com/user/AltInvestmentNews/"
-        src="https://www.altdaily.co/icons/social/reddit.png"
+        src="https://www.longandshort.com/icons/social/reddit.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
         href="https://www.linkedin.com/showcase/altdailynews/"
-        src="https://www.altdaily.co/icons/social/linkedin.png"
+        src="https://www.longandshort.com/icons/social/linkedin.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
         href="https://www.threads.net/@readaltdaily"
-        src="https://www.altdaily.co/icons/social/threads.png"
+        src="https://www.longandshort.com/icons/social/threads.png"
         >
       </mj-social-element>
     </mj-social>
@@ -309,7 +308,7 @@
           <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="readers@longandshort.com" target="_blank">readers@longandshort.com</a>.</p>
           <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.longandshort.com/advertise" target="_blank">Advertise with us</a>.</p>
           <p style="font-size: 12px; color: #000; line-height: 2">
-           <a href="https://www.altdaily.co/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+           <a href="https://www.longandshort.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
           margin-top:25px;
