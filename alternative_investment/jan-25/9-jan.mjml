@@ -109,20 +109,17 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
-
-   <!-- PS ad -->
-   <mj-spacer height="10px" />
-    
+    <!-- PS ad -->
+    <mj-spacer height="10px" />
     <!-- title -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
-      <mj-spacer height="12px"/>
-      <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
-        <p style="font-size: 16px; line-height: 1.4">
+        <mj-spacer height="12px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
             <i>In partnership with Presidential Summary</i>
-        </p>
-      </mj-text>
+          </p>
+        </mj-text>
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
           color:#4D3060;
@@ -139,33 +136,26 @@
             ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
         </mj-text>
       </mj-column>
-    </mj-section> 
-    
+    </mj-section>
     <!-- Content sections -->
-    <mj-section background-color="#ffffff"> 
+    <mj-section background-color="#ffffff">
       <mj-column>
         <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-9-jan-2025-ad-ps" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">Expand your view with Presidential Summary,<br/>A newsletter that brings the world to thee.</p>
-          <p style="font-size: 16px; line-height: 1.4">
-          Beyond the geopolitics we analyze,<br/>We cover the world with open eyes.</p>
-          <p style="font-size: 16px; line-height: 1.4">
-          From politics to tech, from culture to trade,<br/>We offer the answers that others evade.</p>
-          <p style="font-size: 16px; line-height: 1.4">
-         The questions you ask, the ones few will address,<br/>We bring them to light with knowledge and finesse.</p>
-          <p style="font-size: 16px; line-height: 1.4">
-         Subscribe today, and stay well-informed,<br/>With insights to keep your mind transformed.</p>
+          <p style="font-size: 16px; line-height: 1.4">Expand your view with Presidential Summary,<br />A newsletter that brings the world to thee.</p>
+          <p style="font-size: 16px; line-height: 1.4"> Beyond the geopolitics we analyze,<br />We cover the world with open eyes.</p>
+          <p style="font-size: 16px; line-height: 1.4"> From politics to tech, from culture to trade,<br />We offer the answers that others evade.</p>
+          <p style="font-size: 16px; line-height: 1.4"> The questions you ask, the ones few will address,<br />We bring them to light with knowledge and finesse.</p>
+          <p style="font-size: 16px; line-height: 1.4"> Subscribe today, and stay well-informed,<br />With insights to keep your mind transformed.</p>
         </mj-text>
-         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4">
-          <a href="https://link.longandshort.com/ls-9-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
-          </mj-text>
+            <a href="https://link.longandshort.com/ls-9-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a>
+          </p>
+        </mj-text>
       </mj-column>
     </mj-section>
-
-  <!-- /PS ad -->
-
-
+    <!-- /PS ad -->
     <mj-spacer height="10px" />
     <!-- chart-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
@@ -206,7 +196,6 @@
       </mj-column>
     </mj-section>
     <mj-spacer height="10px" />
-
     <!-- World news -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
@@ -227,51 +216,35 @@
         </mj-text>
       </mj-column>
     </mj-section>
-
-
     <!-- content section -->
-    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+    <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-
-       <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-      <p style="font-size:16px;line-height:1.2;">
-      <strong>🇬🇧 UK markets plunge amid fiscal fears</strong> 
-      </p>
-      </mj-text>
-
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+            <strong>🇬🇧 UK markets plunge amid fiscal fears</strong>
+          </p>
           <p style="font-size:16px;line-height:1.4;">The UK faces mounting economic pressure as <a href="https://link.longandshort.com/ls-09-01-2025-wn1-3-gilt-yields-soar" target="_blank">gilt yields soar</a> to multi-decade highs. The 10-year rate has reached its highest since 2008, while 30-year yields hit levels unseen since 1998. Labor’s spending plans and inflation worries, coupled with Trump’s tariff policies, have fueled this selloff. The FTSE 250 dropped 1.9%, and the pound slid to a 13-month low. Chancellor Rachel Reeves may need to raise taxes or cut spending to meet fiscal rules. Analysts draw parallels to the 2022 crisis but note improved liquidity buffers.</p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
-
-    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+    <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-
-      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-      <p style="font-size:16px;line-height:1.2;">
-      <strong>🇫🇷 Amundi and EDF defend EU ESG rules</strong> 
-      </p>
-      </mj-text>
-
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+            <strong>🇫🇷 Amundi and EDF defend EU ESG rules </strong>
+          </p>
           <p style="font-size:16px;line-height:1.4;">France’s Amundi and EDF are urging the EU to stick to its <a href="https://link.longandshort.com/ls-09-01-2025-wn2-4-esg-reporting-deadlines" target="_blank">ESG reporting deadlines</a>. Germany wants exemptions for smaller companies due to current economic struggles. However, some of France’s largest companies argue that ESG rules are crucial for managing risks and staying globally competitive. Critics cite compliance challenges, while advocates emphasize progress made by companies. They warn that postponing regulations could foster a culture of delay, undermining the EU’s sustainability goals.</p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
-
-    <mj-section padding-top="200px" css-class="mj_section" background-color="#ffffff">
+    <mj-section css-class="mj_section" background-color="#ffffff">
       <mj-column>
-
-      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-      <p style="font-size:16px;line-height:1.2;">
-      <strong>🇨🇭 Glencore’s top aluminum traders exit</strong> 
-      </p>
-      </mj-text>
-
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+            <strong>🇨🇭 Glencore’s top aluminum traders exit </strong>
+          </p>
           <p style="font-size:16px;line-height:1.4;">Glencore’s aluminum trading team has <a href="https://link.longandshort.com/ls-09-01-2025-wn3-5-lost-key-players" target="_blank">lost key players</a> to rivals Vitol and Mercuria. Sam Imfeld, a longstanding trader, is heading to Vitol in Singapore, and Steven Rojas is joining Mercuria. This talent war reflects growing competition in metals trading as energy firms expand into the sector. Vitol and Mercuria have aggressively hired, capitalizing on recent alumina price surges. Once dominant in metals, Glencore faces challenges as Trafigura catches up in key markets.</p>
         </mj-text>
       </mj-column>
@@ -317,7 +290,7 @@
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Quantum stocks plunge after Nvidia’s warning:</strong> Quantum computing stocks like <a href="https://link.longandshort.com/ls-09-01-2028-m3-8-ionq-and-rigetti-fell" target="_blank">IonQ and Rigetti fell</a> sharply after Nvidia CEO Jensen Huang predicted “very useful” quantum computers are 15 to 30 years away. IonQ dropped 29%, while Rigetti and D-Wave fell over 30%. These stocks had seen massive gains in 2024 following Alphabet’s quantum breakthrough. Huang’s comments dampened excitement, signaling a longer timeline for commercial viability. While Alphabet’s shares slipped slightly, the broader market now questions the near-term potential of quantum technology as investment enthusiasm cools.</p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
     </mj-section>
     <!-- content section -->
