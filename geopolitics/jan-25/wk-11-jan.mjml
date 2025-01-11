@@ -1,0 +1,436 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Justin Trudeau's resignation</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Alabama’s secession from the Union</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Former presidents honor Carter</p>
+          
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopoliticalsummary.com/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇦🇹 Austria: Political change and far-right </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Austria is experiencing political uncertainty following Chancellor Karl Nehammer's resignation after <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-1-failed-coalition-talks" target="_blank">failed coalition talks</a> between his party and the Social Democrats. Nehammer's resignation raises concerns about potential cooperation between the Austrian People's Party and the far-right Freedom Party, which received 29% votes in the <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-2-recent-elections" target="_blank">recent elections</a>. This collaboration could further polarize Austrian politics, as the Freedom Party, led by Herbert Kickl, now <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-3-holds-the-strongest-position" target="_blank">holds the strongest position</a> in parliament since World War II. Alexander Schallenberg from the Austrian People’s Party has taken over as the interim chancellor.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇺🇦 Ukraine: Counterattack and retaliation</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            Ukraine has launched <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h2-4-a-surprise-counterattack" target="_blank">a surprise counterattack</a> in Russia’s Kursk region, where it has maintained a presence since August. Ukrainian forces are encountering resistance from Russian and North Korean troops. To mitigate war fatigue, President Zelensky appeared on <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h2-5-lex-fridman-podcast" target="_blank">Lex Fridman's podcast</a> to counter pro-Russian narratives and address concerns about U.S. aid. Ukraine’s 47th Brigade released a video of a massive Russian attack repelled in the Kursk Oblast, where 4000 North Korean troops were killed.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇨🇦 Canada: Trudeau’s resignation and next PM</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Canadian Prime Minister <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h3-6-justin-trudeau-has-resigned" target="_blank">Justin Trudeau has resigned</a> as leader of the Liberal Party after nine years amid declining public support and internal dissent. Trudeau's tenure saw progressive policies like legalizing cannabis and establishing affordable child care. However, he faced criticism over inflation and economic challenges, particularly following a political crisis related to Trump’s tariffs at the end of 2024. High-profile contenders Mark Carney and Anita Anand are expected to run for leadership, but upcoming elections <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h3-7-favor-the-conservatives" target="_blank">favor the Conservatives</a>, led by Pierre Poilievre. Canada’s Liberal Party will announce the country's next prime minister on March 9 after a leadership vote following Justin Trudeau's resignation this week.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ 
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection"> 
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4;padding-top:14px;">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;  
+              padding-bottom:8px;
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+  
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.geopoliticalsummary.com/gs-11-jan-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          A newsletter that brings you insights, year after year.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+              From deals to trends, from risks to rewards,<br/>
+          We bring you insights from the market’s core.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Unbiased analysis of the choices you face,<br/>
+          Helping you navigate this fast-moving space.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            We cover the stories that shape the tide,<br/>
+          With facts you can trust, from the inside.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+          Make informed choices, and seize what’s new,<br/>
+          Subscribe today for the latest view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.geopoliticalsummary.com/gs-11-jan-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+   <mj-spacer height="10px" />
+    <mj-section background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇮🇩 Indonesia: BRICS membership and China wishes</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Indonesia has officially <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h4-8-joined-the-BRICS" target="_blank">joined the BRICS</a>, becoming its tenth full member. Jakarta views membership as a step towards global collaboration and sustainable development. Brazil, the 2025 BRICS president, welcomed Indonesia, noting shared goals like reforming global governance and promoting South-South cooperation. Indonesia, the fourth most populous country, has the largest economy in Southeast Asia. The BRICS accounted for 46% of the world's population and 35% of global gross domestic product before Indonesia’s inclusion. China has extended its <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h4-9-congatulations-to-indonesia" target="_blank">congratulations to Indonesia</a> and added, "We believe that Indonesia will make active contributions to the development of BRICS.”
+          </p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇺🇲 USA: Trump’s bold claims and backlash</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            Donald Trump's recent comments that China controls the Panama Canal <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h5-10-were-termed-nonsense" target="_blank">were termed "nonsense"</a> by Panamanian Foreign Minister Javier Martinez-Acha, who asserted that Panama operates the canal independently. Justin Trudeau rejected Trump's idea of a <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h5-11-canada-us-merger" target="_blank">Canada-US merger</a>, stating, "There isn't a snowball's chance in hell." French Foreign Minister Jean-Noel Barrot cautioned Trump against threatening <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h5-12-eu-sovereignty" target="_blank">EU sovereignty</a>, emphasizing that the EU would defend its borders. Claudia Sheinbaum took <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h5-13-a-sarcastic-jab" target="_blank">a sarcastic jab</a> at Trump over his idea of renaming the Gulf of Mexico to the Gulf of America.
+          </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+
+
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">Is there a movement behind Greenlandic independence?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">In his New Year's address, the Greenlandic prime minister stated that it was about time Greenland became independent from its colonizer. While the island of 57,000 people has been a self-governing territory since 1979, it has had the right to <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq1-14-independence-by-referendum" target="_blank">independence by referendum</a> since 2009. Greenland holds elections this year, so a motion to referendum could be on the ballot. The movement for Greenlandic independence is not a new subject. Public support is strong, with <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq2-15-a-2019-poll" target="_blank">a 2019 poll</a> showing that just under 70% of Greenland's adult population favor independence. In April 2023, a constitutional commission presented Greenland’s parliament, the island’s first draft constitution. </p>
+          <p style="font-size:16px;line-height:1.4;">Historical grievances and social disparities have fueled independence movements for years. Many of their <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq3-16-modernization-efforts" target="_blank">modernization efforts</a> and sweeping changes ended up stripping Greenlanders of elements of their culture, such as hunting and fishing. Greenlandic children were involuntarily sent to Denmark to become “better citizens.” A <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq4-17-forced-birth-control" target="_blank">forced birth control</a> campaign in the 1960s still holds the last harm on some women today. Greenlanders are also incarcerated around <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq5-18-3-times-more" target="_blank">3 times more</a> than someone from the rest of the Nordic region.</p>
+          <p style="font-size:16px;line-height:1.4;">While there are noticeable discrepancies between Greenlanders and Danes, Greenland has benefitted some from being a subject of Denmark. Greenland is rich in mineral, oil, and natural gas resources but relies on annual subsidies from Denmark worth some $515.3 million a year. There is the discussion that they could make a fortune off their resources without Denmark’s help, but they would still have to depend on Denmark for some infrastructure. Denmark changed its coat of arms this week, indicating it wants to maintain its hold on Greenland and the Faroe Islands. But it’s the Greenlandic citizens who will decide how they want to direct their future.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 1861, <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-bq6-19-alabama-seceded" target="_blank">Alabama seceded</a> from the Union, becoming the fourth state leading up to the American Civil War. Montgomery, Alabama, would eventually serve as the capital of the Confederacy. The Civil War began three months later, on April 12, 1861. The South seceded from the Union primarily for two reasons: to maintain slavery and due to dissatisfaction over states' rights. Debates continue regarding which of these factors was the more significant cause.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300; 
+              padding-bottom:8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-11-1.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Former US presidents and vice presidents honor the late 39th President Jimmy Carter at the National Cathedral in Washington, D.C.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-11-2.jpg" alt="GUESS THE FLAG" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-guess-the-flag" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Monaco</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Poland</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Indonesia</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Austria</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Photo by REUTERS/Brendan McDermid.</p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopoliticalsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
