@@ -1,0 +1,424 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"  >
+    <mj-spacer height="10px" />
+      <mj-column  padding="10px 12px 10px 12px" width="100%" > 
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+            
+
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s weekend edition:</strong></p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4; 
+              padding-left:10px;
+            ">→ Orthodox Christmas</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ New Orleans resilience</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left:10px;
+            ">→ California blazes</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">THE BIG ONE</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- THE BIG ONE contents-->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Trump’s Greenland prospects</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-11-1.png" alt="Trump’s Greenland prospects" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Donald Trump's renewed <a href="https://link.presidentialsummary.com/ps-11-01-2025-bo-1-interest-in-greenland" target="_blank">interest in Greenland</a> has created tension. He asserts that Greenland is crucial for U.S. national and economic security. Trump Jr.'s son visited the world’s largest island this week, raising concerns among Greenlanders and Danes. Danish Prime Minister Mette Frederiksen emphasized that <a href="https://link.presidentialsummary.com/ps-11-01-2025-bo-2-greenland-determines-its-fate" target="_blank">Greenland determines its fate</a>. Trump's comments have also ushered discussions about the US's broader Arctic strategy, especially as melting ice caps reveal new geopolitical and resource opportunities.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump views Greenland as a potential American asset, but the chance of the US acquiring Greeland is very low. However, this could raise other issues involving <a href="https://link.geopoliticalsummary.com/ps-11-01-2025-bo-3-the-islands-future" target="_blank">the island's future</a>. Greenland’s options include increased autonomy, maintaining ties with Denmark, or pursuing an independent identity. The attention could also boost tourism. A couple of weeks before Trump’s comments, Nuuk recently opened <a href="https://link.presidentialsummary.com/ps-11-01-2025-bo-4-a-new-airport" target="_blank">a new airport</a> that helps connect visitors to the island.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+ 
+
+
+    <!--  bh ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto">
+         <p style="padding-top:14px; font-size: 16px; line-height: 1.2" color="#000000">
+            <i>In partnership with Business History</i>
+        </p> 
+          <h2 style="
+          color:#8C3321;   
+            text-align: left;
+            letter-spacing:1px; 
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="BEHIND THE SCENES OF BUSINESSES" href="https://link.presidentialsummary.com/ps-11-jan-2025-ad-bh" />
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Dive into the stories that built the greatest brands,<br/>
+        Business History brings you lessons from powerful hands.
+
+                  </p>
+                            <p style="font-size: 16px; line-height: 1.4">
+                      From iconic deals to bold, risky moves,<br/>
+        We uncover the actions that shaped and proved.
+                  </p>
+                            <p style="font-size: 16px; line-height: 1.4">
+                        Concise and clear, we tell it all,<br/>
+        From triumphs to failures, big or small.
+                  </p>
+                            <p style="font-size: 16px; line-height: 1.4">
+                          Learn from the past, where success meets strife,<br/>
+        Gain the insights that guide modern life.
+
+                  </p>
+                            <p style="font-size: 16px; line-height: 1.4"> 
+                          Stay ahead of the curve, with knowledge that sticks,<br/>
+        Subscribe today, and get the business fix.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.presidentialsummary.com/ps-11-jan-2025-ad-bh" target="_blank">Subscribe to Business History</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /bh ad -->
+
+ 
+ <mj-spacer height="10px" />
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">California Fires</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><a href="https://link.presidentialsummary.com/ps-11-01-2025-r1-5-wildfires-ravaged" target="_blank">Wildfires ravaged</a> Southern California, and Los Angeles suffered immensely. The fires have killed at least 10 people and forced nearly 180,000 to evacuate from their homes. They have caused extensive property damage, affecting nearly all socioeconomic groups. Palisade fires have spread almost 20,000 acres, making it the most destructive in LA. Many residents in the Pacific Palisades report they have <a href="https://link.presidentialsummary.com/ps-11-01-2025-r1-6-no-property-insurance" target="_blank">no property insurance</a> because insurance companies no longer provide coverage for this area. The economic loss from the fire damage is predicted to be <a href="https://link.presidentialsummary.com/ps-11-01-2025-r1-7-up-to-150-billion" target="_blank">up to $150 billion</a>. Many have heavily criticized the LA mayor, Karen Bass, for <a href="https://link.presidentialsummary.com/ps-11-01-2025-r1-8-handling-the-wildfire" target="_blank">handling the wildfire</a>. She left for Ghana on a diplomatic trip, which made many LA residents furious.</p>
+        </mj-text>
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Orthodox Christmas</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Tuesday was <a href="https://link.presidentialsummary.com/ps-11-01-2025-r2-9-christmas-for-orthodox-christians" target="_blank">Christmas for Orthodox Christians</a> around the world. Most Orthodox branches use the Julian calendar instead of the Gregorian one, which has a difference of 13 days between them. Some Orthodox Christians fast 40 days before, followed by a feast with 12 dishes representing Christ's apostles. Common foods include cabbage soup, baked apples, and Kutia, a honey and wheat dish. Many Serbians will burn an oak tree branch or even a tree on Christmas Eve. Ethiopians dress in white and stay up for all-night mass.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+     <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">New Orleans Carnival commences</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Monday, the first day of epiphany in the Catholic world, kicked off the first parade of the <a href="https://link.presidentialsummary.com/ps-11-01-2025-r3-10-carnival-season" target="_blank">Carnival season</a>. This year's event was significant as the city was still recovering from a <a href="https://link.presidentialsummary.com/ps-11-01-2025-r3-11-tragic-accident" target="_blank">tragic attack</a> five days earlier, in which 14 people were killed by a driver who later claimed to support ISIS. The parade organizers and participants emphasized themes of hope, joy, and resilience. However, many New Orleans residents are struggling with Mardi Gras this year from the trauma and wish there was <a href="https://link.presidentialsummary.com/ps-11-01-2025-r3-12-more-accountability-and-action" target="_blank">more accountability and action</a> from the city than pushing themes such as resistance and hope.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
+   
+   <mj-spacer height="10px"></mj-spacer>
+
+    <!-- the big question -->
+
+   <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+              
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Did Tesla lay off U.S. workers to replace them with H-1B visa holders?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">The issue of H-1B visas divided the MAGA camp, creating a <a href="https://link.presidentialsummary.com/ps-11-01-2025-bq-13-mini-civil-war" target="_blank">mini-civil war</a> within the movement. In April 2024, <a href="https://link.presidentialsummary.com/ps-11-01-2025-bq-14-tesla-laid-off" target="_blank">Tesla laid off</a> approximately 15,000 employees, primarily in Texas and California, and they were replaced by foreign workers using H-1B visas. In 2022, Tesla reportedly laid off 10% of its global workforce, including nearly 2,700 employees in Austin. The same year, the company requested over 2,000 H-1B visas to hire foreign workers. Musk argued that H-1B made America strong and that he would go to war against people who wanted to act against it.</p>
+        <p style="font-size: 16px; line-height: 1.4">Critics argue that the H-1B visa program may be misused to reduce labor costs, which could disadvantage US workers. Reports of <a href="https://link.presidentialsummary.com/ps-11-01-2025-bq-16-80-hours-work-weeks" target="_blank">80-hour work weeks</a>, <a href="https://link.presidentialsummary.com/ps-11-01-2025-bq-17-osha-violation" target="_blank">OSHA violations</a>, and efforts to <a href="https://link.presidentialsummary.com/ps-11-01-2025-bq-18-prevent-unionization" target="_blank">prevent unionization</a> have heightened concerns about Tesla's worker treatment. Tesla CEO Elon Musk was a recipient of the H-1B program. He defends it by proposing reforms, such as raising the minimum wages for visa holders, to prioritize hiring domestic employees.</p>
+        <p style="font-size: 16px; line-height: 1.4">The division in the H-1B debate indicates more significant issues regarding immigration, labor practices, and corporate ethics. Stakeholders question whether H-1B visas are being used as intended and what reforms might ensure fair treatment for foreign and domestic workers.</p>
+        </mj-text>
+    </mj-column>
+  </mj-section>
+
+  <mj-spacer height="10px"></mj-spacer>
+   
+  <mj-section css-class="mj_fsection"      background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%" >
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> PHOTO OF THE WEEK </h2>
+        </mj-text>
+      </mj-column> 
+  </mj-section>
+
+    <mj-section  css-class="mj_section" background-color="#ffffff">
+      <mj-column >
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-11-2.jpg" alt="PHOTO OF THE WEEK" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Firefighters battle fires in Los Angeles County all week.
+          </p>
+        </mj-text>
+    </mj-section>
+    <!-- banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1964, U.S. Surgeon General Luther L. Terry announced that cigarette smoking is linked to lung cancer.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Kyle Grillot/Bloomberg via Getty Images.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.facebook.com/profile.php?id=61562652791256"
+              src="https://www.presidentialsummary.com/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://x.com/presidentialsum"
+              src="https://www.presidentialsummary.com/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.instagram.com/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/PresidentialSummary/"
+              src="https://www.presidentialsummary.com/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.linkedin.com/showcase/presidentialsummary/"
+              src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.threads.net/@presidentialsummary"
+              src="https://www.presidentialsummary.com/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
