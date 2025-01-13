@@ -1,0 +1,510 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Protests in Germany</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Meta cancels diversity programs</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Maha Kumbh Mela starts today</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Trump prosecutor resigns</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-13-1.png" alt="Trump prosecutor resigns" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Special Counsel Jack Smith has resigned from the Department of Justice after submitting a final report on investigations into Donald Trump’s efforts to overturn the 2020 election and mishandling classified documents. The two-volume report is central to a court battle, with Attorney General Merrick Garland supporting limited release. An appeals court rejected Trump’s attempt to block publication while Judge Aileen Cannon reviewed potential impacts on co-defendants. Trump’s attorneys rejected Smith’s final report, stating that he was chosen unconstitutionally and politically motivated. Yet, the possibility of Freedom of Information Act requests and litigation loom over keeping the document private.</p>
+          <p style="font-size: 16px; line-height: 1.4">Smith’s charges against Trump were dismissed following his election win, citing presidential immunity. The Supreme Court set <a href="https://link.presidentialsummary.com/ps-13-01-2025-h1-1-limits-on-the-prosecution
+          " target="_blank">limits on the prosecution</a> of any president for official acts. Trump <a href="https://link.presidentialsummary.com/ps-13-01-2025-h1-2-welcomed-smith-resignation
+          " target="_blank">welcomed Smith’s resignation</a> and vowed to investigate his work. On Friday, Trump got an unconditional discharge in the hush money case while assuming the role of the US president as a convicted felon.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-13-jan-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          A newsletter that brings you insights, year after year.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+              From deals to trends, from risks to rewards,<br/>
+          We bring you insights from the market’s core.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Unbiased analysis of the choices you face,<br/>
+          Helping you navigate this fast-moving space.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            We cover the stories that shape the tide,<br/>
+          With facts you can trust, from the inside.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+          Make informed choices, and seize what’s new,<br/>
+          Subscribe today for the latest view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.presidentialsummary.com/ps-13-jan-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+    <!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Fate of the porn ban</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-13-2.png" alt="Fate of the porn ban" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">This week, the Supreme Court will review a challenge to the Texas age verification law for adult websites, a law that was pushed by Trump allies. Texas and eighteen other states have passed laws in the last two and a half years requiring pornography websites to verify users' ages through methods like uploading a government ID or scanning faces. Conservative interest groups push these laws to protect minors from explicit content. However, it has resulted in sites such as Pornhub to <a href="https://link.presidentialsummary.com/ps-13-01-2025-h2-3-block-certain-states
+          " target="_blank">block certain states</a> instead of implementing these age verification methods and the costs incurred by doing this.</p>
+          <p style="font-size: 16px; line-height: 1.4">Critics of these laws argue that they violate privacy rights and free speech protections. At the same time, supporters claim they are necessary for child protection and added that they are taking advantage of the technology available. Some also argue that people will find ways to circulate internet restrictions. <a href="https://link.presidentialsummary.com/ps-13-01-2025-h2-4-google-search-results
+          " target="_blank">Google search results</a> for VPNs increased in Florida and South Carolina, where the verifications were implemented on January 1st. This case is likely to hinge on the precedent set in the 1997 <a href="https://link.presidentialsummary.com/ps-13-01-2025-h2-5-reno-vs-aclu-case
+          " target="_blank">Reno vs. ACLU case</a>, where the court held that the “government can’t protect minors through “an unnecessarily broad suppression of speech addressed to adults” when “less restrictive alternatives” are available.”
+</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">The blame game</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Firefighters are still working to contain the fires burning throughout LA County. While there has been some progress, winds are expected to pick up again today, making the situation problematic until Wednesday as the death toll has risen to 24. Firefighter units have been flown in from <a href="https://link.presidentialsummary.com/ps-13-01-2025-h3-6-mexico-and-canada
+          " target="_blank">Mexico and Canada</a> to help alleviate the situation. The LA county fires have brought another series of severe fires online.</p>
+          <p style="font-size: 16px; line-height: 1.4">Conspiracy theories and misinformation from different parts of the political spectrum have emerged. Conservatives have blamed the scale of destruction on the <a href="https://link.presidentialsummary.com/ps-13-01-2025-h3-7-dei-policies
+          " target="_blank">DEI policies</a>. Iranian state media says that the fires are “divine revenge” for the US policy on Gaza. Others point out that <a href="https://link.presidentialsummary.com/ps-13-01-2025-h3-8-fire-service-budget-cuts
+          " target="_blank">fire service budget cuts</a> and increased funds for Israel worsened the situation. Donald Trump blamed the California governor, Galvin Newson. There has been concern that prisoners who earn a fraction of the price of regular firefighters are <a href="https://link.presidentialsummary.com/ps-13-01-2025-h3-9-made-to-combat-wildfires
+          " target="_blank">made to combat wildfires</a>. There are also concerns over water ownership in LA, and there are claims that a billionaire couple withholds the water from everyone.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Ethiopia and Somalia renewed diplomatic ties after a yearlong rift</strong>. They agreed to <a href="https://link.presidentialsummary.com/ps-13-01-2025-br1-10-full-diplomatic-representation
+            " target="_blank">full diplomatic representation</a> and emphasized regional stability through mutual trust and cooperation. The tensions, which stemmed from Ethiopia’s deal with Somalia's breakaway region, Somaliland, were eased by a peace agreement brokered by Turkish President Erdogan.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Saudi Arabia has called for lifting sanctions on Syria</strong> to aid its reconstruction while hosting key diplomatic talks between Middle Eastern and European officials. While the US and EU are cautious, they are open to easing certain restrictions if Syria forms an inclusive government and demonstrates progress (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br2-11-riyadh-diplomat-convention
+            " target="_blank">Riyadh diplomat convention</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Thousands of protesters in Riesa, Germany, blocked roads to disrupt the far-right Alternative for Germany (AfD) party congress</strong>, delaying proceedings for their upcoming chancellor nomination. While Alice Weidel is expected to <a href="https://link.presidentialsummary.com/ps-13-01-2025-br3-12-secure-the-nomination
+            " target="_blank">secure the nomination</a>, she has little chance of becoming chancellor as the leading party ruler does not want to form a coalition with AFD.
+</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>US non-farm payrolls rose by 256,000 in December</strong>, beating forecasts. The unemployment rate dropped to 4.1%, while broader unemployment fell to 7.5%. Average hourly earnings grew 3.9% annually, slightly below expectations. Strong job growth lowered the likelihood of Fed rate cuts, and markets reacted with falling stocks and rising Treasury yields (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br4-13-see-charts
+            " target="_blank">see charts</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Jane Street, a secretive trading firm, has become one of Wall Street’s most profitable players</strong>, with 2024 trading revenues poised to surpass Goldman Sachs. Known for dominance in ETFs and bonds, Jane Street thrives on tackling complex markets with cutting-edge technology and a collaborative culture. (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br5-14-growth-trajectory
+            " target="_blank">growth trajectory</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Meta is ending its diversity programs for hiring</strong> employees and selecting suppliers, citing changing legal and policy landscapes. The company is shifting to focus on bias-free practices for all. This shift signals Meta’s adaptation to legal changes and a strategic pivot to align with the incoming Trump administration’s priorities (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br6-15-internal-memo
+            " target="_blank">internal memo</a>).</p>
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>US antitrust agencies side with Elon Musk in his lawsuit against OpenAI</strong> and Microsoft. The lawsuit alleges anticompetitive practices, including investor restrictions and board member affiliations. Regulators are also investigating AI partnerships and potential consumer protection violations (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br7-16-about-the-lawsuit
+            " target="_blank">about the lawsuit</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Many users are still experiencing alarms that do not go off at the right time</strong> despite claims that a fix is in progress. <a href="https://link.presidentialsummary.com/ps-13-01-2025-br8-17-the-issue-persists
+            " target="_blank">The issue persists</a> even after Apple acknowledged issues with the iPhone's alarm feature nearly a year ago. The customers who face this issue mainly include people still using iOS 17 and others who have updated to iOS 18 with Apple Intelligence.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A European-Japanese spacecraft has returned some of the best close-up images of Mercury's north pole</strong>, taken during its final flyby of the planet. The BepiColombo spacecraft captured stunning photos of Mercury's permanently shadowed craters, volcanic plains, and its largest impact crater as it passed just 183 miles above the planet (<a href="https://link.presidentialsummary.com/ps-13-01-2028-br9-18-see-pictures
+            " target="_blank">see pictures</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Researchers from the University of Calgary explained a previously unexplained white or grey patch</strong> periodically seen alongside the northern lights. Their study reveals that the patch is <a href="https://link.presidentialsummary.com/ps-13-01-2025-br10-19-likely-a-head-source
+            " target="_blank">likely a heat source</a>, suggesting the aurora borealis is more complex than previously understood.</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The 2025 Australian Open is underway</strong>. It features Novak Djokovic, a 10-time champion and World No. 1, and defending champions Jannik Sinner, Aryna Sabalenka, and Carlos Alcaraz. The year's first grand slam offers a total prize pool of over $96.5 million, an 11.56 percent rise from last year (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br11-20-see-the-schedule
+            " target="_blank">see the schedule</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>This iconic image of Brazilian surfer Gabriel Medina by Jerome Brouillet</strong> has been named the overall winner at the World Sports Photography Awards. He took the picture during the surfing competition at the Paris Olympics (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br12-21-all-award-winning-photos
+            " target="_blank">all award-winning photos</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Maha Kumbh Mela will begin today in Prayagraj, India</strong>. The largest religious gathering in the world, held once every 12 years, will witness 400 million devotees from India and elsewhere bathe in the sacred river junction and engage in other religious rituals, processions, and cultural activities (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br13-22-a-guide-to-kumbh-mela
+            " target="_blank">a guide to Kumbh Mela</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">People rush to install solar panels before Trump gets inaugurated (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br14-23-read-more
+            " target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Slovenia becomes a full member of the European Space Agency (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br15-24-read-more
+            " target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The first full moon of the year, also known as the Wolf Moon, will be in peak view today and align beautifully with Mars, Venus, Jupiter, Saturn, and Uranus (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br16-25-read-more" target="_blank">read more</a>).</p>
+             <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The documentary “Avicii: I Am Tim” celebrates the life of Grammy-nominated DJ Tim Bergling, known as Avicii, and is now streaming on Netflix (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br17-26-read-more
+            " target="_blank">read more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">What to do if a natural disaster happens on vacation (<a href="https://link.presidentialsummary.com/ps-13-01-2025-br18-27-read-more
+            " target="_blank">read more</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 2021, Donald Trump became the first U.S. president to be impeached twice, charged with “incitement of insurrection” after his supporters stormed the Capitol.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
