@@ -1,0 +1,89 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>On 11th Jan 2025 weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Justin Trudeau's resignation</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Alabama’s secession from the Union</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Former presidents honor Carter</p>
+          
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇦🇹 Austria: Political change and far-right </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Austria is experiencing political uncertainty following Chancellor Karl Nehammer's resignation after <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-1-failed-coalition-talks" target="_blank">failed coalition talks</a> between his party and the Social Democrats. Nehammer's resignation raises concerns about potential cooperation between the Austrian People's Party and the far-right Freedom Party, which received 29% votes in the <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-2-recent-elections" target="_blank">recent elections</a>. This collaboration could further polarize Austrian politics, as the Freedom Party, led by Herbert Kickl, now <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h1-3-holds-the-strongest-position" target="_blank">holds the strongest position</a> in parliament since World War II. Alexander Schallenberg from the Austrian People’s Party has taken over as the interim chancellor.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇺🇦 Ukraine: Counterattack and retaliation</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)">
+            Ukraine has launched <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h2-4-a-surprise-counterattack" target="_blank">a surprise counterattack</a> in Russia’s Kursk region, where it has maintained a presence since August. Ukrainian forces are encountering resistance from Russian and North Korean troops. To mitigate war fatigue, President Zelensky appeared on <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h2-5-lex-fridman-podcast" target="_blank">Lex Fridman's podcast</a> to counter pro-Russian narratives and address concerns about U.S. aid. Ukraine’s 47th Brigade released a video of a massive Russian attack repelled in the Kursk Oblast, where 4000 North Korean troops were killed.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇨🇦 Canada: Trudeau’s resignation and next PM</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px)"> 
+            Canadian Prime Minister <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h3-6-justin-trudeau-has-resigned" target="_blank">Justin Trudeau has resigned</a> as leader of the Liberal Party after nine years amid declining public support and internal dissent. Trudeau's tenure saw progressive policies like legalizing cannabis and establishing affordable child care. However, he faced criticism over inflation and economic challenges, particularly following a political crisis related to Trump’s tariffs at the end of 2024. High-profile contenders Mark Carney and Anita Anand are expected to run for leadership, but upcoming elections <a href="https://link.geopoliticalsummary.com/gs-11-01-2025-h3-7-favor-the-conservatives" target="_blank">favor the Conservatives</a>, led by Pierre Poilievre. Canada’s Liberal Party will announce the country's next prime minister on March 9 after a leadership vote following Justin Trudeau's resignation this week.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
