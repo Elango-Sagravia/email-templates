@@ -1,0 +1,440 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Israel-Palestine deal realized</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Proclamation of the German Empire </p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Israeli reaction to Gaza ceasefire negotiations</p>
+          
+          <p style="font-size: 16px; line-height: 1.4; margin-bottom: 0px"> Was this email forwarded to you? <a href="https://www.geopoliticalsummary.com/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> THIS WEEK IN GEOPOLITICS </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇪🇹 Ethiopia and Somalia restore ties</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Ethiopia and Somalia have restored diplomatic relations, a key step for stability in the Horn of Africa. Somali President Hassan Sheik Mohamud met with Ethiopian Prime Minister Abiy Ahmed in Addis Ababa, agreeing to re-establish full diplomatic ties and enhance cooperation in trade and security against extremist groups. This follows a <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h1-1-peace-deal" target="_blank">peace deal</a> brokered by Turkish President Recep Tayyip Erdogan in December 2024 after tensions arose from <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h1-2-ethiopia-agreement-with-somaliland" target="_blank">Ethiopia’s agreement with Somaliland</a>, which Somalia saw as a threat to its sovereignty. Their meeting reinforces the friendship and solidarity between the two nations.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇸🇾 Syrian diplomacy switch</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Discussions took place in Riyadh aimed at stabilizing Syria following Bashar al-Assad's departure, focusing on lifting sanctions to lower essential goods prices and fuel costs. Key players, including Arab nations, Turkey, France, the EU, and the UN, seek to coordinate Syria's recovery. This meeting shifted from the previous focus on humanitarian aid in Aqaba. The US provided a <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h2-3-six-month-exemption" target="_blank">six-month exemption</a> on sanctions for aid. While Italy and France pushed for some relaxation, Germany affirmed that sanctions on Assad's allies would continue. Saudi Arabia is positioning itself as a <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h2-4-key-player" target="_blank">key player</a> in engaging with Syria's new administration amid regional competition with Turkey and Qatar.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇸🇩 Sudanese army victory</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            After a year of control, the Sudanese Armed Forces (SAF) have reclaimed Wad Madani in Gezira state from the Rapid Support Forces (RSF). SAF aims to eliminate remaining <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h3-5-rsf-resistance" target="_blank">RSF resistance</a> in this strategic city near Khartoum. RSF leader Mohamed Hamdan Dagalo acknowledged defeat but indicated plans to regroup. The SAF's success is celebrated in Port Sudan and other controlled areas, while they reportedly advance into villages in southern and southeastern Gezira. Both sides face accusations of war crimes and targeting civilians. The RSF has caused tens of thousands of deaths, displaced 12 million, and led to widespread starvation in Sudan.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ 
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.geopoliticalsummary.com/gs-wk-18-jan-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          A newsletter that brings you insights, year after year.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+              From deals to trends, from risks to rewards,<br/>
+          We bring you insights from the market’s core.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Unbiased analysis of the choices you face,<br/>
+          Helping you navigate this fast-moving space.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            We cover the stories that shape the tide,<br/>
+          With facts you can trust, from the inside.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+          Make informed choices, and seize what’s new,<br/>
+          Subscribe today for the latest view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.geopoliticalsummary.com/gs-wk-18-jan-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column> 
+    </mj-section>
+<!-- /LS ad -->
+
+   <mj-spacer height="10px" />
+    <mj-section background-color="#ffffff">
+      <mj-column>
+      <mj-spacer height="20px" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇵🇸 Ceasefire-hostage deal</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            A <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h4-6-ceasefire-hostage-deal" target="_blank">ceasefire-hostage deal</a> was finally agreed upon on Wednesday after 96 hours of negotiations. The deal between Israel and Hamas includes the release of some hostages and a six-week initial ceasefire phase. This war has claimed the lives of over 45,000 people, and around a third of the hostages have likely deceased. Israel's Prime Minister's Office clarified that the final details were still being sorted out and that they would put the deal to vote as he deals with far-right ministers in his cabinet. Netanyahu delayed a cabinet vote to approve the Gaza ceasefire deal, due on Thursday, accusing Hamas of seeking last-minute changes to the agreement. The prime minister's office said the agreement was realized on Friday morning. The hostages should be released starting on Sunday.
+          </p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇮🇷 Iran-Russia partnership</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            This week, Iran and Russia signed a <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h5-7-partnership-agreement" target="_blank">partnership agreement</a> to outline their strategic interests for the next twenty years, enhancing cooperation in trade, investment, transport, logistics, and humanitarian efforts and solidifying their military and political ties. This follows Russia's similar deal with North Korea to provide military support if needed. Their relationship has deepened since the 2022 Ukraine war, with Iran supplying self-detonating Shahed drones and <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-h5-8-short-range-ballistic-missile" target="_blank">short-range ballistic missiles</a>, which they denied. Russia has been slow to offer support to Iran in its conflicts with Israel.
+          </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+
+
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What is Biden’s geopolitical legacy?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">Joe Biden will leave the White House with a mixed presidential legacy. He was relatively successful in bringing the US <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-bo1-9-back-to-multilateralism" target="_blank">back to multilateralism</a>. Biden recommitted the US to the international climate accord, emphasizing the global nature of the climate crisis and the need for cooperation. Biden reversed Trump’s decision to take the US out of the WHO decision, seeking to restore global cooperation, especially in response to the COVID-19 pandemic.</p>
+          <p style="font-size:16px;line-height:1.4;">His most successful area was gaining trust and cooperation with America’s key allies. He handled the situation in Ukraine favorably and aligned with the EU and other NATO partners. Similarly, he did well with <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-bo2-10-indo-pacific-allies" target="_blank">Indo-Pacific allies</a>, particularly Japan, South Korea, New Zealand, and Australia. Biden took a firm stance on China, viewing it as the most significant long-term geopolitical challenge for the US. He criticized its human rights record and made policies to lessen the US’s dependence on China. He also supported Taiwan while still advocating the One China policy. This is one of his foreign policy stances that aligns with most mainstream Democrats and Republicans.</p>
+          <p style="font-size:16px;line-height:1.4;">In some ways, his single term parallels the late Jimmy Carter’s single term. One comparison that can be made is the quick <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-bo3-11-withdrawal-from-afghanistan" target="_blank">withdrawal from Afghanistan</a>, which led to the Taliban regaining control of the country and drew significant criticism for its execution and the abandonment of Afghan allies. However, Biden defended the decision, framing it as ending a "forever war." Many say this was a situation that he had little control over, and it was right that he did so. However, others said it brought to question US commitments and its reliability.</p>
+          <p style="font-size:16px;line-height:1.4;">An area where his legacy is less favorable is the situation between Israel and Palestine. In comparison, he was successful in being part of meditation in a ceasefire-hostage deal. However, it became very late, and it was debatable how much he had a hand in this. Many believe he could have <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-bo4-12-pushed-the-israeli-government" target="_blank">pushed the Israeli government</a> harder; others say much of it was out of his control. Both the pro-Israeli and pro-Palestine camp claim he wasn’t as harsh on the other one. The Biden-Harris administration’s handling of Gaza is likely one factor that cost Kamala Harris the election.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>On this day in 1871</strong>, Otto von Bismarck founded the German Empire in the aftermath of three successful wars by the North <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-ta-13-german-empire" target="_blank">German state</a> of Prussia. The empire was formed not because of nationalist feelings but rather through diplomacy and agreement by the leaders of the states in the North German Confederation, led by Prussia. Chancellor Bismarck proclaimed it in the Hall of Mirrors in the Palace of Versailles. The German Empire lasted from the unification of Germany in 1871 until the November Revolution in 1918 when the German Reich changed its form of government from a monarchy to a republic.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300; 
+              padding-bottom:8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-18-1.jpg" alt="PHOTO OF THE WEEK" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Supporters of Israeli hostages, who were kidnapped during the deadly attack by Hamas on October 7, 2023, reacted to news about the Gaza ceasefire negotiations during a protest in Tel Aviv, Israel.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              letter-spacing: 6px;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-18-2.jpg" alt="GUESS THE FLAG" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-14-guess-the-flag" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Luxembourg</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-14-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">France</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-14-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Netherlands</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-18-01-2025-14-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Russia</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Photo by REUTERS/Ronen Zvulun.</p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopoliticalsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
