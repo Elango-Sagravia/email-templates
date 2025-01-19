@@ -1,0 +1,283 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">VICTORIA’S SECRET IN A MAN’S WORLD</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">What’s in a name?</h2> 
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Victoria’s Secret wasn’t just designed for women; it was founded to make lingerie shopping easier for men. In the 1970s, lingerie stores were not very welcoming to male shoppers. <strong>Roy Raymond, the founder, experienced this awkwardness firsthand when he tried to buy lingerie as a gift for his wife</strong>. Saleswomen ignored him, and he felt like an intruder in the store. This discomfort sparked Raymond’s idea to revamp the lingerie shopping experience, which would eventually become a cult favorite.
+          </p>
+        </mj-text>
+
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-jan-18-1.png" alt="What’s in a name?" href="https://www.businesshistory.co" />
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Determined to transform the lingerie industry, the Stanford graduate spent eight years studying the market. He identified two key issues: the lack of a male-friendly shopping environment and the absence of stylish, sensual lingerie. To address these, <strong>Raymond opened the first Victoria’s Secret store in Palo Alto, California, in 1977</strong>. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          <strong>Raymond’s strategy was to create a respectable and sophisticated narrative around lingerie shopping</strong>. The name "Victoria’s Secret" was <a href="https://link.businesshistory.co/bh-18-01-2025-inspired-by-the-victorian-era" target="_blank">inspired by the Victorian era</a>, giving it a sense of elegance. The "secret" in the name added intimacy and intrigue. The brand’s name was unlike the blunt and often crass names of other lingerie stores at the time. <strong>Some customers even believed Victoria was a real woman</strong> and sent letters, poems, and gift certificates addressed to her.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.businesshistory.co/bh-wk-18-jan-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Expand your view with Presidential Summary,<br/>A newsletter that brings the world to thee.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Beyond the geopolitics we analyze,<br/>We cover the world with open eyes.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From politics to tech, from culture to trade,<br/>We offer the answers that others evade.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         The questions you ask, the ones few will address,<br/>We bring them to light with knowledge and finesse.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         Subscribe today, and stay well-informed,<br/>With insights to keep your mind transformed.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.businesshistory.co/bh-wk-18-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column> 
+    </mj-section>
+
+  <!-- /PS ad -->
+
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-spacer height="14px" />
+          <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Intimate revolution</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          While traditional stores were filled with terry cloth robes and oversized floral-print nightgowns under harsh fluorescent lighting, <strong>Victoria's Secret stores were designed to resemble Victorian boudoirs</strong>. They created a luxurious, intimate atmosphere with dark wood paneling, plush rugs, and heavy curtains. The stores showcased silk, lace, and sheer fabrics, offering a striking departure from the functional yet dull options that dominated the market.
+         </p>
+          </mj-text>
+          <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/bh-jan-18-2.png" alt="Intimate revolution" href="https://www.businesshistory.co" />
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Victoria’s Secret launched its first mail-order catalog, a groundbreaking move. The catalog allowed customers to access stylish lingerie when the Internet was unavailable. <a href="https://link.businesshistory.co/bh-18-01-2025-the-glossy-catalog" target="_blank">The glossy catalog</a>, filled with alluring images of women in lace and silk, became essential to the brand’s success. <strong>In 1982, Raymond charged customers three dollars for the catalog, and catalog sales accounted for 55% of the company's sales that year</strong>.</p>
+          <p style="font-size: 16px; line-height: 1.4">Despite its early success, <strong>Victoria’s Secret faced financial struggles in the early 1980s</strong>. The brand’s focus on male customers had begun to alienate female shoppers. Seeing potential in the brand, Leslie Wexner, the businessman behind The Limited, bought it for what’s rumored to be as little as $1 million. Roy Raymond unknowingly handed over a goldmine. Wexner <strong>reclaimed Victoria’s Secret as a brand for women</strong>, positioning it between mass-market names like Jockey and luxury labels like La Perla, effectively filling a significant gap in the market.</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 22px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Wexner’s angels</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Under Wexner, the catalog transformed. What had become daring and overly sexualized under Raymond’s direction transformed into a tasteful, fashion-forward publication. It featured men and women models to attract their female customers. To further its image, Victoria’s Secret catalog’s were <strong>listing the company’s headquarters at a fake London address</strong> while the real headquarters were in Columbus, Ohio. Products like the iconic <a href="https://link.businesshistory.co/bh-18-01-2025-3-miracle-bra" target="_blank">Miracle Bra</a>, launched in 1993, became instant hits, selling 2 million units in its first year.</p>
+          <p style="font-size: 16px; line-height: 1.4">The 1990s marked a turning point for Victoria’s Secret. The brand capitalized on the era of supermodels, featuring stars like Tyra Banks, Stephanie Seymour, and Helena Christensen in its catalogs. In <strong>1995, Wexner and Ed Razek introduced the Victoria’s Secret Fashion Show, which became a cultural phenomenon</strong>. These models walked the ramp in the iconic <a href="https://link.businesshistory.co/bh-18-01-2025-4-fantasy-bras" target="_blank">Fantasy Bras</a> that cost up to $1 million. The annual runway spectacle, featuring the <a href="https://link.businesshistory.co/bh-18-01-2025-5-angels" target="_blank">“Angels,”</a> ran from 1995 to 2018 and became incredibly popular, and everyone became familiar with Victoria’s Secret. Victoria’s Secret evolved from a small boutique into a global fashion brand, redefining lingerie as both a fashion statement and a daily essential.</p>
+          </mj-text> 
+      </mj-column>
+  </mj-section> 
+
+    <!-- banner -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    
+      <mj-column background-color="#8C3321" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">Google used a camel named “Raffia” to carry its Trekker cameras and capture images of Abu Dhabi’s Liwa Oasis.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by Ty Wright via The Wall Street Journal; Retail Square.</p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/BizHistory/"
+              src="https://www.businesshistory.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
