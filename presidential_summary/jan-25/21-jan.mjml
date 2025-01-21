@@ -1,0 +1,457 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Liberation of Auschwitz</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Apple accused of “blood minerals”</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Human ancestors were likely vegetarian</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Rich get richer</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-21-1.png" alt="Rich get richer" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">According to a report by Oxfam, billionaire wealth surged by $2 trillion in 2024, growing three times faster than the previous year. The billionaire count increased by 204, bringing the total to 2,769. Oxfam predicts there will be at least five trillionaires within a decade. Sixty percent of billionaire wealth is derived from inheritance, monopoly power, or cronyism, with colonial legacies and modern financial systems enabling wealth extraction from the Global South. The wealthiest 1% in the Global North extracted $30 million per hour from the South in 2023, exacerbating inequality. </p>
+          <p style="font-size: 16px; line-height: 1.4">Meanwhile, poverty rates have barely changed since 1990. <a href="https://link.presidentialsummary.com/ps-21-01-2025-h1-1-the-oxfam-report" target="_blank">The Oxfam report</a> implores governments to tax the ultra-rich, cancel debts, and address systemic inequality through reparations, fair trade, and restructuring global financial systems to dismantle this entrenched disparity. The counter debate that advocates for billionaires is that they create job opportunities and job innovation, and if governments regulate them, they will take their businesses somewhere else.</p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+ 
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">  
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.presidentialsummary.com/ps-21-jan-2025-ad-gs" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Dive into global affairs with Geopolitical Summary,<br/>A newsletter that brings clarity, concise and visionary.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From borders to treaties, from leaders to strife,<br/>We break down the stories that shape global life.</p>
+          <p style="font-size: 16px; line-height: 1.4">Discover the ‘why’ behind the headlines you read,<br/>
+          With insights that help your mind to succeed.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         We cover the issues others fail to see,<br/>
+          Bringing you knowledge, unbiased and free.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+        Stay ahead of the curve, and grow your mind,<br/>
+        Subscribe today, and leave ignorance behind.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.presidentialsummary.com/ps-21-jan-2025-ad-gs" target="_blank">Subscribe to Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad -->
+
+
+<!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Trump’s signing spree</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-21-2.png" alt="Trump’s signing spree" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Donald Trump signed a sea of orders on his first day in office. He pardoned the 1,500 people convicted in the January 6 Capitol attack. He signed a memorandum easing regulations on oil and natural gas production. Trump granted TikTok 75 days to figure out a US buyer. He signed an order to do away with <a href="https://link.presidentialsummary.com/ps-21-01-2025-h2-2-birthright-citizenship" target="_blank">birthright citizenship</a>, but reversing the right can be difficult as it’s protected in the 14th Amendment, as pointed out by legal scholars. Many cities in the US are expecting <a href="https://link.presidentialsummary.com/ps-21-01-2025-h2-3-ice-deportations" target="_blank">ICE deportations</a> this week; it has been disclosed that Chicago is set to have some significant sweeps.</p>
+          <p style="font-size: 16px; line-height: 1.4">In his inauguration speech, he also stated that he would end diversity, equity, and inclusion programs and define gender in federal policy as biologically male and female. He will also rename Mount Denali back to Mount Mckinley and the Gulf of Mexico to the Gulf of America. Trump signed off on <a href="https://link.presidentialsummary.com/ps-21-01-2025-h2-4-leaving-the-paris-agreement" target="_blank">leaving the Paris Agreement</a> and the World Health Organization for the second time. The president declared a national emergency at the US-Mexico border, ending the CBP One app, a Biden-era border app that gave legal entry to nearly 1 million migrants.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Capital punishment in China</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">China recently executed two men for separate deadly attacks in November, marking its deadliest year of public violence in a decade, with 19 mass attacks reported in 2024. Fan Weiqiu, 62, killed 35 people and injured dozens by driving into a crowd in Zhuhai, motivated by grievances over his divorce. Days later, Xu Jiajin, 21, killed eight in a stabbing spree at his university after failing exams. Both were executed within weeks of their sentences. Human rights groups believe China is the world's leading executioner, killing thousands of people every year.</p>
+          <p style="font-size: 16px; line-height: 1.4">A rise in public violence reflects growing societal frustration amid economic challenges, with attackers often seeking <a href="https://link.presidentialsummary.com/ps-21-01-2025-h3-5-revenge-on-social-grievances" target="_blank">revenge on social grievances</a>. While violent crime in China is considerably lower than in the US and other Western countries, it is on the rise.  Analysts warn that economic stress may worsen tensions regarding public violence, and the death penalty isn’t much of a deterrent or substitute for mitigating economic and social woes.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The 2025 World Economic Forum (WEF) in Davos started this Monday and runs until Friday</strong>. This year's theme, "<a href="https://link.presidentialsummary.com/ps-21-01-2025-br1-6-collaboration-for-the-intelligent-age" target="_blank">Collaboration for the Intelligent Age</a>," will bring together 3000 leaders from over 130 countries, including heads of state, CEOs, innovators, and civil society, to address global challenges and opportunities.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>German chancellor Olaf Scholz spoke to the Jewish community in Frankfurt</strong>, Germany, to mark the 80th anniversary of the <a href="https://link.presidentialsummary.com/ps-21-01-2025-br2-7-liberation-of-auschwitz" target="_blank">liberation of Auschwitz</a>. He said it was Germany’s responsibility to uphold the memory of the Holocaust.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Donald Trump had a "very good" phone call with Xi Jinping</strong>. During the call, they discussed trade, fentanyl, and TikTok and expressed optimism about <a href="https://link.presidentialsummary.com/ps-21-01-2025-br3-8-resolving-global-issues" target="_blank">resolving global issues</a>. Despite the upbeat tone, tensions remain over issues like Taiwan, and both leaders acknowledged potential disagreements.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Trump’s crypto ventures, $TRUMP memecoin and World Liberty Financial (WLF), raised $1 billion</strong> as the $TRUMP coin’s market cap soared to $8.5 billion. Promising a “crypto golden age,” Trump’s initiatives spark regulatory concerns and ethical questions, blending politics with speculative assets. Bitcoin and Solana prices also surged amid the excitement (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br4-9-memecoin-boost" target="_blank">memecoin boost</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China launched a $8.2 billion AI investment fund to boost its AI capabilities amid US export controls and trade blacklists</strong> targeting Chinese tech firms. The fund, backed by state entities, highlights Beijing’s determination to advance AI despite restrictions, as China’s AI market is projected to reach $800 billion by 2030 (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br5-10-fund-details" target="_blank">fund details</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Belgium is investigating claims that Apple sourced “blood minerals” from illegal mines in the DRC</strong> linked to conflict, child labor, and environmental harm. Apple denies knowingly using such minerals but halted sourcing from the DRC and Rwanda. Critics also accuse the EU of supporting the conflict through its mineral deal with Rwanda (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br6-11-apple-response" target="_blank">Apple's response</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>New research on an early human ancestor suggests that they primarily ate plant-based diets</strong>, with little to no evidence of meat consumption. This conclusion, based on an analysis of fossilized tooth enamel, challenges previous ideas about early hominin diets and the role of meat in human evolution (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br7-12-study-summary" target="_blank">study summary</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>New research predicts a dramatic rise in dementia cases in the US</strong>, with the lifetime risk of developing dementia after age 55 now estimated at 42%. Factors such as aging populations, genetics, poor cardiovascular health, and obesity contribute to the surge, with cases expected to double by 2060 (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br8-13-report-on-cases" target="_blank">report on cases</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Chile's proposed renewable hydrogen project threatens to increase light pollution near Mount Paranal</strong>, home to the European Southern Observatory's Very Large Telescope. This could hinder astronomical research. The ESO urges stronger legal protections to preserve the area's dark skies, crucial for studying distant galaxies and exoplanets (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br9-14-eso-concerns" target="_blank">ESO concerns</a>).</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The ongoing Los Angeles wildfires destroyed invaluable art and music archives</strong>. Among the losses are a collection of Arnold Schoenberg's music scores and works by contemporary artists like Kathryn Andrews and Kelly Akashi, whose personal and professional creations were destroyed in the blaze (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br10-15-artworks-lost" target="_blank">artworks lost</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Chappell Roan’s debut album, released to little fanfare in 2023, has topped the UK charts for a second time</strong>. She rose to pop stardom with her vibrant and unapologetic <a href="https://link.presidentialsummary.com/ps-21-01-2025-br11-16-queer-anthems" target="_blank">queer anthems</a>. After facing setbacks, including her former record label's reluctance to release her music, Roan's breakthrough came with a viral Coachella performance.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Russians celebrate Orthodox Epiphany in unusually warm weather (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br12-17-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Solar-charging backpacks are helping children in rural regions read after dark (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br13-18-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">This part of Alabama is a refuge for thousands of migrating cranes (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br14-19-read-more" target="_blank">read more</a>).</p>
+             <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Five gorgeous residences of US presidents (<a href="https://link.presidentialsummary.com/ps-21-01-2025-br15-20-read-more" target="_blank">read more</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 1976, the Concorde, a supersonic commercial aircraft funded by the British and French governments, began regular service.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by SAUL LOEB/POOL/AFP via Getty; Shawn Thew/Pool/AFP via Getty Images.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
