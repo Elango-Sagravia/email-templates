@@ -1,0 +1,564 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes + today’s jobs in finance</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Saudi Arabia’s regional leader endeavor</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Low layoff and slow hiring</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is a Minsky moment?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.longandshort.com/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Groww plans IPO at $8B valuation</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-21-1.png" alt="Groww plans IPO at $8B valuation" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Billionbrains Garage Ventures, the parent of fintech platform Groww, is <a href="https://link.longandshort.com/ls-21-01-2025-h1-1-preparing-for-an-ipo" target="_blank">preparing for an IPO</a>. The firm is targeting a valuation of $7-8 billion. Backed by Microsoft CEO Satya Nadella and major investors like Ribbit Capital and Tiger Global, Groww has over 50 million customers. The IPO could raise around $750 million. Banks such as JPMorgan and Kotak Mahindra are reportedly involved in the deal. India's IPO market remains strong, with over $20 billion raised last year, making it the second-busiest market after the U.S.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Trump tariffs may hurt GM in Canada</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          GM Canada's president warned that Trump's <a href="https://link.longandshort.com/ls-21-01-2025-h2-2-proposed-25-tariffs" target="_blank">proposed 25% tariffs</a> on Canadian imports could disrupt supply chains and raise vehicle prices. Canada imports about 50% of vehicles from the U.S. by value and relies heavily on U.S. auto parts. GM has two Ontario assembly plants that build Chevrolet Silverado pickup trucks and electric vans for commercial use. Depending on tariff details, the company may need to reassess operations. Canada's electric vehicle targets are also seen as unrealistic, adding more pressure. If imposed, tariffs could increase costs and impact demand, while Canada is prepared to retaliate with counter-tariffs.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-22-jan-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Expand your view with Presidential Summary,<br/>A newsletter that brings the world to thee.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Beyond the geopolitics we analyze,<br/>We cover the world with open eyes.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From politics to tech, from culture to trade,<br/>We offer the answers that others evade.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         The questions you ask, the ones few will address,<br/>We bring them to light with knowledge and finesse.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+         Subscribe today, and stay well-informed,<br/>With insights to keep your mind transformed.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.longandshort.com/ls-22-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /PS ad -->
+
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">CHARTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">The job market sends a mixed signal</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-21-2.jpg" alt="CHARTS" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">The job market is showing mixed signals. Employers have slowed hiring, so people with jobs stay put instead of switching roles. At the same time, job openings have increased, showing companies still need workers, even though the demand isn’t as high as it was after the pandemic.</p>
+          <p style="font-size: 16px; line-height: 1.4">There were 8.1 million job openings in November, an increase of 260,000 from the previous month. While this is below the peak of almost 12 million openings in March 2022, it’s still higher than the 7 million openings before the pandemic in January 2020. However, companies are hiring at the slowest pace since the early 2010s, when the economy was recovering from the 2008 financial crisis. Layoffs remain stable at levels similar to those before the pandemic. With fewer job openings and slower hiring, people are also quitting their jobs less often than they used to.</p>
+          <p style="font-size: 16px; line-height: 1.4">Experts see both good and evil in this situation. Low layoffs and a stable unemployment rate are positive signs for the economy, suggesting the risk of a major downturn is low. However, slow hiring and fewer people changing jobs raise concerns about the job market strength.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇸🇦 Saudi Arabia takes advantage of Iran's decline</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Saudi Crown Prince Mohammed Bin Salman is stepping up efforts to <a href="https://link.longandshort.com/ls-21-01-2025-wn1-3-expand-influence" target="_blank">expand influence</a> in the Middle East. With Hezbollah and Hamas weakened and Syria's Assad deposed, Saudi Arabia is positioning itself as a regional leader. The kingdom focuses on investment and stability to support its Vision 2030 economic goals. However, challenges remain, including Iran's influence in Iraq and Yemen and potential U.S.-Iran tensions under Trump’s administration.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇨🇳 Advent nears $1.1B Ginko China deal</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Private equity firm Advent is close to <a href="https://link.longandshort.com/ls-21-01-2025-wn2-4-acquiring-the-chinese-operations" target="_blank">acquiring the Chinese operations</a> of contact lens maker Ginko International for over $1.1 billion. Ginko was previously listed in Taiwan and taken private by EQT in 2022. The deal is in its final stages and could be announced soon. Ginko manufactures conventional and disposable contact lenses and lens care products. Advent and EQT have not commented on the ongoing negotiations.
+        </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇩🇰 Orsted takes hit amid wind woes</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Orsted reported a $1.7 billion loss in Q3 2024. The firm attributed the loss to rising costs in its <a href="https://link.longandshort.com/ls-21-01-2025-wn3-5-offshore-wind-projects" target="_blank">offshore wind projects</a>. The company faces challenges from Trump’s policy shift which aims to halt offshore wind leases. Inflation and supply chain disruptions have particularly affected Orsted’s Sunrise Wind project. The company still expects the full-year earnings to align with previous guidance.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Costco workers authorize nationwide strike:</strong> Costco Teamsters, which represents 18,000 workers nationwide, have voted to <a href="https://link.longandshort.com/ls-21-01-2025-m1-6-authorize-a-strike" target="_blank">authorize a strike</a> if no contract agreement is reached by January 31. The union criticized Costco’s counteroffer as failing to reflect its financial success and called for better wages and benefits. A strike could disrupt Costco’s operations and tarnish its reputation for treating workers well. Costco has not yet responded to the union's demands.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump declares energy emergency for fossil fuels:</strong> Trump announced a <a href="https://link.longandshort.com/ls-21-01-2025-m2-7-national-energy-emergency" target="_blank">national energy emergency</a> to boost US energy projects. The proposed plan includes easing regulations aiming to accelerate permitting and expanding drilling. Trump also intends to roll back Biden’s EV policies and withdraw from the Paris climate agreement. The administration prioritizes domestic energy production to lower costs and enhance national security.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Canadian oil prices rose as tariff fears eased:</strong> Canadian oil prices jumped after signs that Trump won't <a href="https://link.longandshort.com/ls-21-01-2025-m3-8-immediately-impose-tariffs" target="_blank">immediately impose tariffs</a>. Western Canadian Select crude's discount to WTI narrowed to $14 per barrel from $16 last week. Alberta’s Premier had warned of possible tariffs causing a price dip earlier. Trump’s team plans to review trade policies first, delaying immediate action. Light Canadian crude also saw gains, with its discount narrowing to $4.50 from $7.50.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Zimbabwe bets on lithium price recovery:</strong> Zimbabwe is sticking with its <a href="https://link.longandshort.com/ls-21-01-2025-m4-9-270-million-lithium-project" target="_blank">$270 million lithium project</a>. The country is confident that prices will rebound. Kuvimba Mining House, in partnership with Chinese companies, plans to produce 600,000 metric tons of lithium concentrate annually. Lithium prices have dropped 80% from their 2022 peak due to oversupply and slower EV sales. China remains a key investor in Zimbabwe’s lithium sector, with firms like Zhejiang Huayou Cobalt and Sinomine Resource Group expanding their footprint.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Singapore dollar expected to weaken further:</strong> The Singapore dollar is near a <a href="https://link.longandshort.com/ls-21-01-2025-m5-10-two-year-low" target="_blank">two-year low</a> against the US dollar and could fall to 1.40 over the next year. Given slowing growth and the impact of US tariffs, economists expect the Monetary Authority of Singapore to ease policy soon. Bearish bets on the currency are rising as investors anticipate a policy pivot.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>RBI is unlikely to defend the falling rupee:</strong> India’s central bank is expected to take a <a href="https://link.longandshort.com/ls-21-01-2025-m6-11-slow-approach" target="_blank">“slow” approach</a> in protecting the rupee despite its sharp decline past 86 per dollar. Given economic challenges and the need for fiscal discipline, Axis Bank’s CEO believes RBI won’t heavily spend reserves to support the currency. India’s economic growth is slowing, and the upcoming budget may not provide major stimulus. Global factors like Trump’s trade policies could further pressure the rupee.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>States push for Bitcoin reserves amid uncertainty:</strong> Several US states are pushing <a href="https://link.longandshort.com/ls-21-01-2025-m7-12-legislation-to-hold-bitcoin" target="_blank">legislation to hold Bitcoin</a> in their reserves following Trump’s call for a national crypto stockpile. Texas, Florida, and Wyoming are leading the charge, proposing bills to accept Bitcoin donations and invest in the asset. Critics argue these efforts may not gain traction as many states still don’t recognize crypto as legal tender. The lawmakers remain cautious despite the excitement.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump memecoins create crypto chaos:</strong> Trump and Melania’s new memecoins have rattled the crypto market, with the "Trump" token hitting $15 billion before sliding below $8 billion. Crypto executives are concerned these tokens hurt the <a href="https://link.longandshort.com/ls-21-01-2025-m8-13-industry-credibility" target="_blank">industry's credibility</a>. Trump’s move added hype to the market. However, some industry leaders fear it could backfire. The memecoin frenzy has overshadowed expectations for serious crypto policies under Trump's administration.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What is a Minsky moment?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-21-3.png" alt="What is a Minsky moment?" href="https://www.longandshort.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000"> 
+          <p style="font-size: 16px; line-height: 1.4">A Minsky moment refers to a sudden and dramatic collapse in asset prices following an extended period of excessive speculation and overleveraging. Named after economist Hyman Minsky, it describes the tipping point in financial markets when investors, who previously took on increasing levels of risk, abruptly lose confidence, triggering widespread selling and a sharp market downturn.</p>
+          <p style="font-size: 16px; line-height: 1.4">Minsky identified three stages of debt accumulation: hedge finance, where borrowers can meet their debt obligations; speculative finance, where they can only pay interest but not principal; and Ponzi finance, where debt servicing relies on continually rising asset prices. A Minsky Moment occurs when the system shifts from Ponzi finance to a crisis, often resulting in a financial meltdown. For example, the 2008 financial crisis is a classic Minsky Moment, as excessive borrowing in the housing market led to a collapse in asset values.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+    <!-- FUN FRIDAY-->
+    <!-- / FUN FRIDAY -->
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">OPPORTUNITIES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+       <mj-raw>
+      <div style="display: flex; flex-direction: column; gap: 10px;font-family:Roboto+Serif;">
+        <!-- 1 -->
+        <div style="display: flex; margin-bottom:10px; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">1.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-21-01-2025-o1-14-investor-relations-coordinator" target="_blank">Investor Relations Coordinator</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Prologis</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: Remote</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $200,000 to $220,000</p>
+          </div>
+        </div>
+
+         <!-- 2 -->
+        <div style="margin-bottom:10px; display: flex; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">2.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-21-01-2025-o2-15-risk-capital-liquidity-and-market" target="_blank">Risk (Capital, Liquidity, and Market)</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Goldman Sachs</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: New York City</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $250,000 to $280,000</p>
+          </div>
+        </div>
+
+         <!-- 3-->
+        <div style="margin-bottom:10px; display: flex; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">3.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-21-01-2025-o3-16-equity-research-smid-cap-biopharma-analyst" target="_blank">Equity Research, SMID Cap Biopharma Analyst</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Morgan Stanley</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: Boston</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $150,000 to $250,000</p>
+          </div>
+        </div>  
+      </div>
+    </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by Groww/ X profile; Hyman Minsky, Levy Economics Institute of Bard College.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.altdaily.co/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.altdaily.co/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.altdaily.co/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.altdaily.co/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
