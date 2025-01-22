@@ -44,63 +44,6 @@
 
     <mj-spacer height="10px"></mj-spacer>
 
-    <!-- Spotlight 2-->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#6b705c;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #6b705c;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">WHAT TO EXPECT</h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-
-    <!-- Spotlight contents -->
-
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4"><strong>- Daily briefing</strong> with the top headlines in a format that takes just minutes to read.</p>
-          <p style="font-size: 16px; line-height: 1.4"><strong>- Educative write-ups</strong> on finance topics.</p>
-          <p style="font-size: 16px; line-height: 1.4"><strong>- Special editions</strong> for our most inquisitive readers.</p>
-          
-        </mj-text>
-        <mj-text font-family="Roboto" >
-          <a style="
-              display:block;
-              background:#6b705c;
-              font-size: 16px;
-              line-height: 1.5;
-              padding: 10px;
-              text-align: center;
-              width: 200px; 
-              margin: 0 auto;
-              border-radius: 0px;
-              color: #FFFFFF;
-              text-decoration: none;" 
-              href="https://www.longandshort.com/archives/%slug%" 
-              target="_blank"
-             >Check out our latest issue</a>
-        </mj-text>
-       <mj-spacer height="3px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, please verify your email by following the instructions below.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-spacer height="10px"></mj-spacer>
-
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
@@ -117,7 +60,7 @@
               font-weight: 300;
               padding: 18px 8px 10px 8px;
               
-            ">VERIFY</h2>
+            ">YOU‘RE IN</h2>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -129,7 +72,7 @@
       <mj-column>
         <!-- Main Instructions -->
         <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000" >
-          <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
+          <p style="font-size: 16px; line-height: 1.4;">To ensure we don’t end up in spam, please verify your email by clicking on the button</p>
         </mj-text>
 
         <!-- Verify Button -->
@@ -141,7 +84,7 @@
               line-height: 1.5;
               padding: 10px;
               text-align: center;
-              width: 100px; 
+              width: 200px; 
               margin: 0 auto;
               border-radius: 0px;
               color: #FFFFFF;
@@ -155,7 +98,7 @@
 
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4; ">
-            To ensure every issue of Long and Short reaches your inbox, simply reply with <strong>‘hello’</strong> or follow the steps below to whitelist our email address.
+            or follow the steps below to whitelist our email address.
           </p>
           </mj-text>
           <mj-spacer height="4px" />
@@ -204,14 +147,68 @@
           </p>
           </mj-text>
           <mj-spacer height="4px" />
-          <mj-text padding="10px 12px" font-family="Roboto, Serif" color="#000000">
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">
-            For everyone else, check out our safelist instructions <a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>.
+            For everyone else, check out our safelist instructions <strong><a href="https://www.longandshort.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
 
+        <!-- Spotlight 2-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">WHAT TO EXPECT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents -->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Daily briefing</strong> with the top headlines in a format that takes just minutes to read.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Educative write-ups</strong> on finance topics.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Featured job opportunities</strong> in finance.</p>
+          <p style="font-size: 16px; line-height: 1.4"><strong>- Special editions</strong> for our most inquisitive readers.</p>
+          
+        </mj-text>
+        <mj-text font-family="Roboto" >
+          <a style="
+              display:block;
+              background:#6b705c;
+              font-size: 16px;
+              line-height: 1.5;
+              padding: 10px;
+              text-align: center;
+              width: 200px; 
+              margin: 0 auto;
+              border-radius: 0px;
+              color: #FFFFFF;
+              text-decoration: none;" 
+              href="https://www.longandshort.com/" 
+              target="_blank"
+             >Check out our latest issue</a>
+        </mj-text>
+       <mj-spacer height="3px" />
+      </mj-column>
+    </mj-section>
     <mj-spacer height="10px"></mj-spacer>
     
     
@@ -248,7 +245,7 @@
       <mj-social-element 
         padding="12px 12px"
         icon-size="30px"
-        href=" https://www.facebook.com/profile.php?id=61563115340167"
+        href="https://www.facebook.com/people/Long-and-Short/61563115340167/"
         src="https://www.longandshort.com/icons/social/facebook.png"
        >
       </mj-social-element>
@@ -257,7 +254,7 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://x.com/readaltdaily"
+        href="https://x.com/longandshortsum"
         src="https://www.longandshort.com/icons/social/x.png"
         >
       </mj-social-element>
@@ -266,7 +263,7 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href=" https://www.instagram.com/readaltdaily/"
+        href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#"
         src="https://www.longandshort.com/icons/social/instagram.png">
       </mj-social-element>
 
@@ -281,14 +278,14 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://www.linkedin.com/showcase/altdailynews/"
+        href="https://www.linkedin.com/showcase/readlongandshort/"
         src="https://www.longandshort.com/icons/social/linkedin.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://www.threads.net/@readaltdaily"
+        href="https://www.threads.net/@readlongandshort"
         src="https://www.longandshort.com/icons/social/threads.png"
         >
       </mj-social-element>

@@ -13,7 +13,7 @@
     <mj-spacer height="15px"></mj-spacer>
      
     <!-- Logo Header -->
-    <mj-section background-color="#ffffff"  >
+    <mj-section background-color="#ffffff"  > 
       <mj-column  padding="10px 12px 10px 12px" width="100%"> 
       <mj-spacer height="22px" />
 
@@ -39,7 +39,104 @@
 
     <mj-spacer height="10px"></mj-spacer>
 
-    <!-- Spotlight 2-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">YOU‘RE IN</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <!-- Main Instructions -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;">To ensure we don’t end up in spam, please verify your email by clicking on the button</p>
+        </mj-text>
+        <!-- Verify Button -->
+        <mj-text font-family="Roboto" >
+          <a style="
+              display:block;
+              background:#4D3060;
+              font-size: 16px;
+              line-height: 1.5;
+              padding: 10px;
+              text-align: center;
+              width: 200px; 
+              margin: 0 auto;
+              border-radius: 0px;
+              color: #FFFFFF;
+              text-decoration: none;"  
+              href="https://www.presidentialsummary.com/" 
+              target="_blank"
+             >Verify</a>
+        </mj-text>
+        <mj-spacer height="16px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4; ">or follow the steps below to whitelist our email address.
+</p>
+        </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;  ">
+            <strong>Gmail users:</strong> Move us to your Primary inbox.
+          </p>
+        </mj-text>
+        <mj-spacer height="4px" />
+        <mj-group width="100%">
+          <mj-column width="10%">
+            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">-</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 10px" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">
+                <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-group width="100%">
+          <mj-column width="10%">
+            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">-</p>
+            </mj-text>
+          </mj-column>
+          <mj-column width="90%">
+            <mj-text padding="0 10px" font-family="Roboto+Serif">
+              <p style="font-size: 16px; line-height: 1.4;">
+                <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-group>
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;">
+            <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
+          </p> 
+        </mj-text>
+        <mj-spacer height="4px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <strong><a href="https://www.presidentialsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+        <!-- Spotlight 2-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
@@ -85,110 +182,11 @@
               border-radius: 0px;
               color: #FFFFFF;
               text-decoration: none;" 
-              href="https://www.presidentialsummary.com/" 
+              href="https://www.presidentialsummary.com#latest" 
               target="_blank"
              >Check out our latest issue</a>
         </mj-text>
        <mj-spacer height="3px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, please verify your email by following the instructions below.</p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-spacer height="10px"></mj-spacer>
-
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#4D3060;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #4D3060;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">VERIFY</h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <!-- Main Instructions -->
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
-        </mj-text>
-        <!-- Verify Button -->
-        <mj-text font-family="Roboto" >
-          <a style="
-              display:block;
-              background:#4D3060;
-              font-size: 16px;
-              line-height: 1.5;
-              padding: 10px;
-              text-align: center;
-              width: 100px; 
-              margin: 0 auto;
-              border-radius: 0px;
-              color: #FFFFFF;
-              text-decoration: none;" 
-              href="https://www.presidentialsummary.com/" 
-              target="_blank"
-             >Verify</a>
-        </mj-text>
-        <mj-spacer height="16px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4; "> To ensure every issue of Presidential Summary reaches your inbox, simply reply with ‘<strong>hello</strong>’ or follow the steps below to whitelist our email address. </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;  ">
-            <strong>Gmail users:</strong> Move us to your Primary inbox.
-          </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-group width="100%">
-          <mj-column width="10%">
-            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">-</p>
-            </mj-text>
-          </mj-column>
-          <mj-column width="90%">
-            <mj-text padding="0 10px" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">
-                <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="10%">
-            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">-</p>
-            </mj-text>
-          </mj-column>
-          <mj-column width="90%">
-            <mj-text padding="0 10px" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">
-                <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-spacer height="10px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">
-            <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
-          </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.presidentialsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p>
-        </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
