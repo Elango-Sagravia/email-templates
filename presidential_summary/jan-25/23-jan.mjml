@@ -1,0 +1,477 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Harvard addresses antisemitism</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Same-sex marriage in Thailand</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Galaxy Unpacked 2025</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Trump cuts diversity staff</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-23-1.png" alt="Trump cuts diversity staff" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: The Trump Administration issued an executive order to end DEI programs and preferencing.</strong></p>
+          <p style="font-size: 16px; line-height: 1.4">The Trump administration is amping its campaign against Diversity, Equity, and Inclusion(DEI) programs. Federal agencies have gotten memos to prepare layoffs for DEI staff, placing affected employees on paid leave by Wednesday. This follows an <a href="https://link.presidentialsummary.com/ps-23-01-2025-h1-1-executive-order" target="_blank">executive order</a> from President Trump that refers to these initiatives as "illegal" and "immoral."</p>
+          <p style="font-size: 16px; line-height: 1.4">The order follows Trump's campaign promises to end practices he claims discriminate against white people. The federal agencies that could be most affected include the Department of Defense and the Health and Human Services Department, which employ more DEI candidates. There are also programs that include money for minority-owned business development and diversity recruitment and training efforts (<a href="https://link.presidentialsummary.com/ps-23-01-2025-h1-2-more-information" target="_blank">read more</a>).</p>
+          <p style="font-size: 16px; line-height: 1.4">Many critics mention that many DEI programs hire people based on merit and provide opportunities without discrimination. They also view this as a setback for workplace inclusion. Meanwhile, the supporters argue it addresses perceived inequities. The attack on DEIA will likely face legal challenges from civil rights and advocacy groups.</p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-23-jan-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          A newsletter that brings you insights, year after year.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+              From deals to trends, from risks to rewards,<br/>
+          We bring you insights from the market’s core.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Unbiased analysis of the choices you face,<br/>
+          Helping you navigate this fast-moving space.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4">
+            We cover the stories that shape the tide,<br/>
+          With facts you can trust, from the inside.
+                    </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+          Make informed choices, and seize what’s new,<br/>
+          Subscribe today for the latest view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.presidentialsummary.com/ps-23-jan-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+
+<!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Harvard settles and adopts</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-23-2.png" alt="Harvard settles and adopts" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: Harvard University settled antisemitism lawsuits and defines what it considers antisemitism.</strong></p>
+          <p style="font-size: 16px; line-height: 1.4">Harvard University has settled two federal lawsuits over allegations of inadequate measures to prevent antisemitism on campus. The university agreed to adopt the International Holocaust Remembrance Alliance (IHRA) <a href="https://link.presidentialsummary.com/ps-23-01-2025-h2-definition-of-antisemitism" target="_blank">definition of antisemitism</a>, which critics claim conflates anti-Zionism with antisemitism and could suppress free speech. Harvard decided to conduct outside training for staff handling antisemitism complaints, an annual academic symposium, and public disclosure of complaint outcomes (<a href="https://link.presidentialsummary.com/ps-23-01-2025-h2-3-about-the-lawsuit" target="_blank">about the lawsuits</a>).</p>
+          <p style="font-size: 16px; line-height: 1.4">Supporters, including Kenneth Marcus of the Brandeis Center, view the settlement as vital to creating a safe environment for Jewish students. Harvard also agreed to an unspecified monetary payment, but the university did not admit to any wrongdoing. Critics and pro-Palestinian student groups argue it hinders legitimate criticism of Zionism. Marc Kasowitz, the attorney, said that excluding Zionists based on their belief in the existence of the state of Israel sounds very antisemitic (<a href="https://link.presidentialsummary.com/ps-23-01-2025-h2-4-views-on-the-issue" target="_blank">views on the issue</a>).</p>
+          <p style="font-size: 16px; line-height: 1.4">Some analysts have said that two things can be true at once. Jewish hate crimes in the US  have drastically risen (<a href="https://link.presidentialsummary.com/ps-23-01-2025-h2-5-crimes-against-jews" target="_blank">FBI data</a>), but it doesn't mean criticizing Zionism is inherently anti-semitic. Harvard gave its commitment to combating antisemitism while maintaining open debate. However, the settlement has sparked campus-wide and national discussions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Same-sex wedding frenzy</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: Thailand has recognized same-sex marriage, with hundreds of marriages to be held today.</strong></p>
+          <p style="font-size: 16px; line-height: 1.4">Thailand became the first Southeast Asian nation to recognize same-sex marriage, marking a monumental victory for LGBTQ+ rights. It's also only the third country in Asia to do so, behind Taiwan and Nepal. The new law grants same-sex couples full legal, financial, medical, adoption, and inheritance rights (<a href="https://link.presidentialsummary.com/ps-23-01-2025-h3-marriage-equality-around-the-world" target="_blank">marriage equality worldwide</a>).</p>
+          <p style="font-size: 16px; line-height: 1.4">Thai PM Paetongtarn Shinawatra praised the move and <a href="https://link.presidentialsummary.com/ps-23-01-2025-h3-7-posed-with-couples" target="_blank">posed with couples</a>. Mass weddings are being held nationwide, including a mass wedding event in Bangkok today. Many Thai LGBTQ+ couples view this as a long-awaited dream, especially those waiting decades to marry their partners.</p>
+          <p style="font-size: 16px; line-height: 1.4">Activists say that the fight for equality continues, particularly for transgender individuals who are seeking legal gender recognition. While Thailand is more accepting of LGBTQ+ rights compared to other countries in the region, there are still social and family taboos regarding the matter.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A major fire at the Grand Kartal Hotel in Turkey's Kartalkaya Ski Resort killed at least 76 people and injured 51 others</strong>, with survivors reporting failed fire alarms and inadequate safety measures. Turkish authorities are investigating the tragic incident and have detained four individuals, including the hotel owner (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br1-8-hotel-fire" target="_blank">hotel fire</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Elon Musk has reportedly agreed to foot the bill for jailed British far-right figure Tommy Robinson’s legal expenses</strong>, according to a statement from Robinson's team on Telegram. Musk has previously called for Robinson’s release but has not publicly commented on the claims (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br2-9-telegram-statement" target="_blank">Telegram screenshot</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Russian FM Sergey Lavrov offered to help normalize Armenia-Azerbaijan relations</strong> during a <a href="https://link.presidentialsummary.com/ps-23-01-2025-br3-10-russia-helping-hand" target="_blank">meeting with Armenian FM</a> Ararat Mirzoyan in Moscow. This meeting happened amid ongoing tensions over Nagorno-Karabakh and Armenia's strained relationship with its traditional alliance with Russia.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>China announced measures to boost its struggling stock market</strong>, directing state-owned insurers and investment funds to increase their investments in bluechip shares and hold for 3 to 5 years. Amid US tariff concerns and economic pressures, authorities have also introduced $110 bn in schemes to revive investor confidence and support the stock markets (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br4-11-list-of-policies" target="_blank">list of policies</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Elon Musk criticized Trump’s $500 Bn Stargate AI project</strong>, questioning the financial capacity of backers like OpenAI and SoftBank. OpenAI’s Sam Altman sidestepped the critique, while Microsoft CEO Satya Nadella reaffirmed an $80 billion investment. <a href="https://link.presidentialsummary.com/ps-23-01-2025-br5-12-what-is" target="_blank">Stargate</a> promises over 100,000 jobs, with data centers under construction in Texas (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br5-13-musk-comments" target="_blank">Musk's comments</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Trump signed an executive order pausing wind energy leases and approvals for onshore and offshore projects</strong>, citing environmental and economic reviews. The decision impacts wind energy development, particularly in the Midwest and coastal regions, despite wind’s significant role in US energy production and opposition from industry leaders concerned about rising consumer costs (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br6-14-environmental-activists-response" target="_blank">environmental activists' response</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Flash radiotherapy delivers high doses of radiation in less than a second</strong>, targeting cancer more effectively while reducing damage to healthy tissue. Developed by CERN, this method helps cure complex brain tumors, eliminate cancers that have metastasized to distant organs, and generally limit the toll that cancer treatment exerts on the human body (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br7-15-about-flash-radiotherapy" target="_blank">about flash radiotherapy</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>President Trump has granted a full pardon to Ross Ulbricht</strong>, the creator of the Silk Road dark web marketplace. Ulbricht was serving a life sentence. He was convicted in 2015 for charges including drug trafficking and money laundering (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br8-16-about-ulbricht" target="_blank">about Ulbricht</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>A global survey of 68 countries shows that public trust in scientists remains moderately high</strong>. However, the study highlights that scientists could improve by being more receptive to public feedback and putting research priorities corresponding with societal concerns (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br9-17-study-summary" target="_blank">study summary</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Samsung's Galaxy Unpacked 2025 event highlighted its new Galaxy S25 series</strong>, including the S25, S25 Plus, and S25 Ultra, with a strong focus on AI integration. The AI capabilities are powered by Google Gemini, which allows users to multitask across apps seamlessly (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br10-18-event-highlights" target="_blank">event highlights</a>).</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Singapore Art Week 2025, which is currently underway, features over 160 events</strong>, including exhibitions, performances, and installations. Notable highlights include Sotheby’s auction, the Disobedient Bodies exhibition, and Susie Wong’s Dancing Alone (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br11-19-event-guide" target="_blank">event guide</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">“<strong>Emilia Perez” director apologized for the controversial portrayal of Mexico's cartel violence</strong>. Many have criticized the lack of Mexican involvement and feel the film trivializes these sensitive issues. While some defend the director's artistic freedom, others think the film misses an opportunity to represent Mexican culture more authentically (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br12-20-the-apology" target="_blank">the apology</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Prince Harry receives his apology and settlement (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br13-21-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The moon is on the list of most endangered heritage sites for 2025 (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br14-22-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Musk’s ex-partner Grimes distances herself after his controversial nazi salute (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br15-23-read-more" target="_blank">read more</a>).</p>
+             <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">How to spend 48 hours in Bucharest (<a href="https://link.presidentialsummary.com/ps-23-01-2025-br16-24-read-more" target="_blank">read more</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250;
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 2021, Larry King, the legendary talk-show host known for Larry King Live, died at age 87.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by Melina Mara-Pool/Getty Images; Jeenah Moon/Getty Images.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
