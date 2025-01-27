@@ -1,0 +1,398 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Bangledesh-Pakistani Relations</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Greenland PM responds to Trump</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Palestinians return home</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇧🇩 Bangladesh moves closer to Pakistan amid strains with India</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Pakistan-Bangladesh ties grew strong since Bangladeshi PM Sheikh Hasina's departure. Both countries now share a general <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-r1-1-anti-india-sentiment" target="_blank">anti-India sentiment</a>. This shift has led to improved dialogue between the nations and a boost in military and diplomatic relations. Pakistan's army chief, General Asim Munir, recently met Bangladesh's Lieutenant General SM Kamrul Hassan to strengthen military ties. Pakistani military’s media wing described the countries as “brotherly nations.”
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Pakistan's PM Shehbaz Sharif met Bangladesh's interim leader, Muhammad Yunus, in Cairo last month. However, historical tensions from the <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-r1-2-1971-war" target="_blank">1971 war</a> and unresolved issues remain between the two nations. Despite these grievances, both countries are exploring opportunities for economic cooperation, with Bangladesh's growing economy incentivizing improved ties.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇬🇱 Greenland PM announced efforts to arrange a meeting with Donald Trump</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Greenland's Prime Minister, Mute B.Egede, has announced that his government is working to arrange a <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-r2-3-meeting-with-donald-trump" target="_blank">meeting with Donald Trump</a> following his repeated comments about acquiring Greenland. Trump has threatened to use military force to control the self-governing Danish territory. Still, Egede emphasized that Greenland's future should be discussed with its people, not solely with Denmark.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Greenland's FM, Vivian Motzfeldt, suggested the meeting could occur soon. Meanwhile, Danish Prime Minister Mette Frederiksen firmly told Trump that Greenland is not for sale. Trump has argued that Greenland is crucial for international security amid rising threats from Russia and China. Republican congressman Andy Ogles has authored a bill to allow the U.S. to purchase the island (<a href="https://link.geopoliticalsummary.com/gs-25-01-2025-r2-4-significance-of-greenland" target="_blank">significance of Greenland</a>).
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇮🇱 Top Israeli General resigns over mishandling Oct 7th</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Israel’s top general, Lt Gen Herzi Halevi, resigned due to the <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-r3-5-security-and-intelligence-failure" target="_blank">security and intelligence failures</a> related to Hamas’s surprise attack on 7 October 2023. This attack led to significant loss of life and the capture of hostages. It also led to a 15-month war with substantial losses on both sides. Many of the hostages did not come out alive. Gaza lost tens of thousands. Israel lost a lot of its international standing.
+          </p>
+            <p style="font-size: 16px; line-height: 1.4"> 
+            Halevi, who was in command during the attack, took responsibility for the failure. His resignation, which will take effect in March 2025, follows mounting pressure from opposition figures and far-right members of Benjamin Netanyahu’s government. Following his resignation, opposition leaders have called for Netanyahu’s resignation.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.geopoliticalsummary.com/gs-25-jan-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Make informed choices, seize what’s new,<br/>
+          Subscribe today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.geopoliticalsummary.com/gs-25-jan-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+   <mj-spacer height="10px" />
+   
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;"> What are the obstacles to maintaining the ceasefire?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">The recent Israeli-Hamas ceasefire-hostage deal took effect last Sunday. While it was a relief to many, it opened a lot of questions on what was next. The deal took 15 months and didn’t drastically change from the one proposed a year ago. It’s very fragile. These are some of the main limitations.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>Lack of trust:</strong> Both sides will likely accuse each other of <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-6-breaking-the-rules" target="_blank">breaking the rules</a>. Nethyanhu delayed the finalization of the deal a couple of days to appease the far right of the parliament. Hamas was slow to give the list of the hostages. Israel has already started striking in the West Bank, claiming it is to counter terrorist attacks.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>Political polarization:</strong> This is an issue for both sides. Israeli society remains very polarized (<a href="https://link.geopoliticalsummary.com/gs-25-01-2025-7-political-survey" target="_blank">political survey</a>). Netanyahu is unpopular with a lot of Israeli society. He also had problems among the right wing, which protested his deal, signaling the exit of some of the members of his coalition. In return, the PM of the Palestinian Authority said Hamas shouldn’t control Gaza.</p>
+          <p style="font-size:16px;line-height:1.4;"><strong>Trump’s presidency:</strong> Trump claims credit for part of a ceasefire resolution and insists that the deal be done before he takes office. However, he contributed to the recent strikes in the West Bank by <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-8-lifting-the-sanctions" target="_blank">lifting the sanctions</a> on some of the settlers put in place by the Biden Administration. This could be seen as enabling Israel to demand total victory over Palestine.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;"><strong>On this day in 1533</strong>, Henry VIII, the king of England, <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-9-married-his-second-wife" target="_blank">married his second wife</a>, Anne Boleyn, in a secret ceremony. Henry VIII was primarily responsible for introducing Protestantism to England by breaking away from the Catholic Church. His conflict with the Catholic Church was his desire to dissolve his marriage to Catherine of Aragon, who could not provide him with a male heir. This divorce and subsequent remarriage led to the establishment of the <a href="https://link.geopoliticalsummary.com/gs-25-01-2025-angelic-branch-of-christianity" target="_blank">Anglican branch of Christianity</a>.
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 300; 
+              padding-bottom:8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-25-1.png" alt="PHOTO OF THE WEEK" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Displaced Palestinians travel in a truck returning to their homes after a ceasefire between Israel and Hamas in Rafah, located in the southern Gaza Strip.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-jan-25-2.png" alt="GUESS THE FLAG" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DFNZBq5s0S0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Bangladesh</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DFNZBq5s0S0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Japan</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DFNZBq5s0S0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Palau</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://www.instagram.com/p/DFNZBq5s0S0/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">South Korea</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Photo by REUTERS/Mohammed Salem.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopoliticalsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
