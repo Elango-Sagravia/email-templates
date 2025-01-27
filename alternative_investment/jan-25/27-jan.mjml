@@ -1,0 +1,563 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes + today’s jobs in finance</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ India pressures Apple and Google</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ S&P 500 hits record high</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is the Lorenz Curve?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.longandshort.com/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Epic Games expands mobile store</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-24-1.png" alt="Epic Games expands mobile store" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Epic Games’s battle with Apple and Google is heating up. The company is adding <a href="https://link.longandshort.com/ls-24-01-2025-h1-1-third-party-games" target="_blank">third-party games</a> to its marketplace, directly challenging Apple and Google. CEO Tim Sweeney stated that the company is spending more than it is making to fuel growth. The company has invested over $1 billion in the store. Sweeney has been fighting an uphill battle to challenge Apple and Google's dominance over mobile apps. Epic won an antitrust case against Google but failed to get a favorable ruling against Apple in 2023. Sweeney argues that Apple’s Core Technology Fee and restrictive policies have discouraged top developers from joining the platform.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Triton explores the sale of Kelvion</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Triton Partners is exploring a sale of Kelvion, a German cooling equipment supplier, which could fetch <a href="https://link.longandshort.com/ls-24-01-2025-h2-2-more-than-2-billion" target="_blank">more than $2.1 billion</a>. They expect to collect the first bid in April, and the company is working with Morgan Stanley and Guggenheim Partners to find potential buyers. The possible sale comes as Trump wishes to make the US the AI leader. Triton acquired Kelvion in 2014 for $1.36 billion, including debt.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-27-jan-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+           Politics, culture, tech, and trade,<br/>
+          We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Stay informed and lead the way,<br/>
+          Subscribe now; don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.longandshort.com/ls-27-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /PS ad -->
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">RISKOMETER</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <!-- <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Smaller companies underperform in the AI-driven market rally</h2>
+        </mj-text> -->
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-24-2.png" alt="RISKOMETER" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">US stocks surged, with the S&P 500 hitting record highs, driven by strong earnings, AI optimism, and Trump’s pro-business policies. Netflix, Oracle, and Nvidia led gains as investors embraced easing inflation, regulatory relief, and bumps to oil and gas companies amid a ban on green energy projects in the Midwest and opening up on oil exploration in Alaska.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇺🇲 Trump criticizes EU's tech regulations</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">President Trump criticized the <a href="https://link.longandshort.com/ls-24-01-2025-wn1-3-eu-tech-regulations" target="_blank">EU’s tech regulations</a> while speaking at the World Economic Forum. EU has been ramping up its regulations on US tech companies like Apple, Google, and Meta. The companies could potentially face billions in fines. Trump called the increasing regulations a “form of taxation,” pointing to Apple’s recent loss in an EU court over a $14.4 billion Irish tax bill. 
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇮🇳 India pressures Apple and Google to open app stores</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          The Indian government is <a href="https://link.longandshort.com/ls-24-01-2025-wn2-4-demanding-apple-and-google" target="_blank">demanding Apple and Google</a> to provide direct access to its state-backed GOV.in app store on their platforms. The technology minister met with executives from both firms last month and demanded that the government’s suite of apps be made available on their app stores and pre-installed smartphones sold in India. Google reportedly resists the move, while Apple is unlikely to accept the minister’s demand.
+        </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇸🇦 Saudi Arabia pledges $600 billion investment in the US</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Saudi Arabia’s Crown Prince Mohammed bin Salman has announced plans to <a href="https://link.longandshort.com/ls-24-01-2025-wn3-5-invest-600-billion" target="_blank">invest $600 billion</a> in the United States over the next four years. Both countries have continued to strengthen their ties in recent times. Trump earlier hinted at revisiting Saudi Arabia as his first foreign trip. The specifics of the planned investments are still unknown. However, Saudi Arabia’s long-standing reliance on US-made defense systems suggests potential allocations in military contracts.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>SpaceX investment drives surge in little-known XOVR ETF:</strong> A litter-known ETF is <a href="https://link.longandshort.com/ls-24-01-2025-m1-6-attracting-record-inflows" target="_blank">attracting record inflows</a> after it acquired shares of SpaceX. The ERShares Private-Public Crossover ETF (XOVR) piled in over $120 million in new inflows after it acquired shares of Elon Musk’s private aerospace company in December. XOVR is the only ETF listed in the US offering exposure to SpaceX. The opportunity to invest in Musk’s space startup caught retail investors by storm, who continued investing money in XOVR. The ETF holds SpaceX's largest position at 8.1% of the portfolio.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Tech-driven bond trading hits record $1 trillion amid ETF boom:</strong> Portfolio trading had a record year, reaching $1 trillion in volume in 2024. The <a href="https://link.longandshort.com/ls-24-01-2025-m2-7-tech-driven-approach" target="_blank">tech-driven approach</a> allows large baskets of bonds to be traded simultaneously. It accounted for approximately 9% of total US corporate bond activity, as per Tradeweb Markets Inc. The growth of credit ETFs has contributed significantly to the rise in portfolio trading.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>AI sales agents with emotional intelligence:</strong> Palona AI, a startup founded by former big-tech executives, is developing emotionally aware <a href="https://link.longandshort.com/ls-24-01-2025-m3-8-ai-powered-sales-agents" target="_blank">AI-powered sales agents</a>. The startup has raised $10 million in funding to work on the project. The technology would largely build upon OpenAI’s large language models, adding more oversight to keep the conversational style in tune with brand identity. The company aims to launch AI agents that can respond to human emotions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Tianqi Lithium forecasts a $1.1 billion loss for 2024:</strong> Tianqi Lithium Corp. expects to post a net loss of <a href="https://link.longandshort.com/ls-24-01-2025-m4-up-to-1-billion" target="_blank">up to $1.1 billion</a> for the year 2024. The falling lithium prices have adversely impacted the company’s profitability despite the increase in volume. The company is now suspending the construction of a second production line at its Kwinana lithium refinery in Western Australia. The battery metals market is undergoing a troubled phase adversely affecting major players like Tianqi.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump’s EV rollback is unlikely to slow critical mineral demand:</strong> Industry experts believe that the <a href="https://link.longandshort.com/ls-24-01-2025-m5-10-long-term-demand-drivers" target="_blank">long-term demand drivers</a> for the EV market will stay intact despite the rollback of EV targets by Trump. Despite the lull in prices in recent times, the market is expected to stay strong as global EV adoption continues to surge. Key markets like China remain the major drivers for global EV sales. Rio Tinto remains bullish on lithium prospects and expects a fivefold increase in demand over the next 15 years.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Strong US Dollar pushes Asia to expand currency defense strategies:</strong> The surge in the US dollar driven by Trump’s tariff policies adversely affects emerging markets. Asian policymakers are now deploying a set of tools to <a href="https://link.longandshort.com/ls-24-01-2025-m6-11-counterbalance-the-pressure" target="_blank">counterbalance the pressure</a> faced by a stronger dollar. Indonesia has mandated commodity exporters to repatriate earnings, while South Korea issued won-denominated debt for the first time in over two decades to support its exchange rate. A strong dollar can quickly cause a crisis for emerging market economies as they are largely dependent on imports from developed markets for their needs.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Canadian Dollar weakens further:</strong> The Loonie fell 0.3% against the US dollar as markets anticipate a divergence in the monetary policies of the Bank of Canada and the Federal Reserve. <a href="https://link.longandshort.com/ls-24-01-2025-m7-12-canadian-inflation" target="_blank">Canadian inflation</a> has shown signs of easing, and traders are now pricing at an 80% chance of a 25-bps rate cut by BOC at its upcoming meeting. This cut would potentially widen the rate gap with the Fed’s 4.25%-4.50% range.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>CZ Zhao turns Binance’s venture arm into a family office:</strong> Former CEO of Binance, CZ is turning <a href="https://link.longandshort.com/ls-24-01-2025-m8-13-binance-labs-to-yzi-labs" target="_blank">Binance Labs into YZi Labs</a>. Binance Labs was previously the venture capital arm of Binance Holdings and will now be turned into a family office to manage CZ’s fortune. The crypto billionaire was fined $50 million and served a four-month prison sentence in 2024 in the US.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Ethereum Foundation backs new startup:</strong> Ethereum Foundation supports a new startup, Etherealize. The venture <a href="https://link.longandshort.com/ls-24-01-2025-m9-14-aims-to-promote" target="_blank">aims to promote</a> Ethereum to Wall Street. The coin has continued to lag behind Bitcoin in the recent rally. Ether has risen only 45% over the past year compared to Bitcoin’s 160% surge. The founder of Ethereum, Vitalik Buterin, is now looking for ways to enhance Ethereum’s usability to regain momentum.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What is the Lorenz curve?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-24-3.png" alt="What is the Lorenz curve?" href="https://www.longandshort.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000"> 
+          <p style="font-size: 16px; line-height: 1.4">The Lorenz curve is a graphical representation used to measure income or wealth inequality within a population. Developed by economist Max Lorenz in 1905, the curve plots the cumulative percentage of total income earned against the cumulative percentage of the population, ranked from the poorest to the richest.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          In a perfectly equal society, the Lorenz curve would be a 45-degree line, known as the line of equality, where each percentage of the population earns an equal share of income. However, the curve typically bows below this line, indicating inequality. The further the curve is from the line of equality, the greater the level of inequality.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          
+          Economists often use the Lorenz curve alongside the Gini coefficient, which quantifies inequality based on the area between the curve and the line of equality. This tool is crucial for understanding income disparities and shaping policies aimed at reducing inequality.
+         </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ====== -->
+    <!-- FUN FRIDAY-->
+    <!-- / FUN FRIDAY -->
+    <!-- ======== -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">OPPORTUNITIES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+       <mj-raw>
+      <div style="display: flex; flex-direction: column; gap: 10px;font-family:Roboto+Serif;">
+        <!-- 1 -->
+        <div style="display: flex; margin-bottom:10px; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">1.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-24-01-2025-head-of-capital-markets" target="_blank">Head of Capital Markets</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Anchor Loans</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: Charlotte, North Carolina</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $170,000 to $220,000</p>
+          </div>
+        </div>
+
+         <!-- 2 -->
+        <div style="margin-bottom:10px; display: flex; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">2.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-24-01-2025-director-of-tax-new" target="_blank">Director of Tax New</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Pagaya Investments</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: New York</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $350,000 to $480,000</p>
+          </div>
+        </div>
+
+        <!-- 3 -->
+        <div style="display: flex; margin-bottom:10px; width: 100%; align-items: flex-start; ">
+          <div style="width: 10%; text-align: right; color:#000000;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">3.</p>
+          </div>
+          <div style="width: 90%; font-family: 'Roboto Serif';color:#000000; padding-left: 10px;">
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;"><a href="https://link.longandshort.com/ls-24-01-2025-analyst-investment" target="_blank">Analyst, Investment</a></p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Company: Memorial Sloan Kettering Cancer Center</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Location: New York</p>
+            <p style="font-size: 16px; line-height: 1.4; margin: 0;">Salary: $150,000 to $212,000</p>
+          </div>
+        </div>
+
+
+      </div>
+    </mj-raw>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photo by Chris Delmas/AFP/Getty Images.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.altdaily.co/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.altdaily.co/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.altdaily.co/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.altdaily.co/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
