@@ -1,0 +1,487 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes + today’s jobs in finance</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ SoftBank to lead AI robotics investment</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Amazon leads the US fashion market</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What are Veblen goods?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a href="https://www.longandshort.com/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Black Swan’s author warns Nvidia crash is just the start</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-29-1.png" alt="Black Swan’s author warns Nvidia crash is just the start" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Author of The Black Swan, Nassim Taleb, has warned that <a href="https://link.longandshort.com/ls-29-01-2025-nvidia-big-drop" target="_blank">Nvidia’s big drop</a> might start a broader market correction. Taleb suggests that the declines could be two or three times larger as investors continue to evaluate the risks attached to the AI market. Taleb is an advisor to a tail-risk hedge fund and maintains that investors often underestimate the dangers connected to tech stocks. Taleb also raised concerns about the US debt levels, the increasing labor costs, and Trump’s tariffs that could lead to an ‘explosion of inflation.’</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">SoftBank eyes $500 million investment in AI robotics startup</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">SoftBank Group is planning a <a href="https://link.longandshort.com/ls-29-01-2025-h2-2-500-million-funding-round" target="_blank">$500 million funding round</a> for Skild AI, a Pittsburgh-based software startup. Founded by Carnegie Mellon professors and former Meta AI researchers, the company develops software that enables robots to perform complex tasks. The startup has attracted many big investors, with Jeff Bezos, Amazon, Lightspeed Venture Partners, and Sequoia Capital already on board. Softbank’s planned investment would raise Skild AI’s valuation to $4 billion, a significant jump from its $1.5 billion valuation last year.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-30-jan-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+           Politics, culture, tech, and trade,<br/>
+          We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Stay informed and lead the way,<br/>
+          Subscribe now; don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.longandshort.com/ls-30-jan-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /PS ad -->
+
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Amazon remains the clear winner in fashion sales in the US</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-29-2.jpg" alt="CHART" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Amazon Fashion accounted for 40% of total online fashion retail sales in 2023, making it the single most dominant player in the US online fashion market. Other players hold a significantly lower share, making it a highly fragmented market.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+        Other players include pure-play online retailers like Shein, which stands out for its fast-fashion model. While omnichannel retailers, including Macy’s and Walmart, leverage their physical store presence alongside online platforms.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇬🇧 UK considers extending BBC license fee to streaming-only households</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">BBC’s 11-year charter is due to end in 2027, and the UK government is exploring changes to the <a href="https://link.longandshort.com/ls-29-01-2025-wn1-3-broadcaster-funding-model" target="_blank">broadcaster’s funding model</a>. The government is reportedly planning to require households that only use streaming services like Netflix and Disney+ to pay the BBC license fee. Alternative models are also being discussed, such as allowing the BBC to advertise or imposing a fee on BBC radio listeners. TV viewership has been declining in favor of on-demand streaming services. However, the proposal for charging streaming-only users would be controversial and is expected to generate a fair amount of criticism from the government.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇮🇳 Lenskart plans $1 billion IPO with SoftBank backing</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Indian eyewear retailer, Lenskart is preparing for a <a href="https://link.longandshort.com/ls-29-01-2025-wn2-4-1-billion-ipo" target="_blank">$1 billion IPO</a> in Mumbai. The firm has grown rapidly since its inception in 2010 to become one of India’s largest eyewear brands. Current investors in the company include global firms like SoftBank Group, Abu Dhabi Investment Authority, KKR & Co., Temasek Holdings, and PremjiInvest. The IPO market has been hot in India, with 2024 being a record year in terms of capital raised via IPOs. Lenskart's IPO, if goes as planned, could value the company at around $8 billion.
+        </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇬🇧 Revolut expands into commercial real estate lending</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          Revolut Ltd. is entering the commercial real estate lending market. The firm has hired a former executive at M&G Investments to lead its <a href="https://link.longandshort.com/ls-29-01-2025-wn3-5-new-real-estate-finance-unit" target="_blank">new real estate finance unit</a>. The commercial real estate sector has faced challenges amidst a difficult macro environment but the firm eyes an opportunity as the market shows early signs of recovery. Analysts at CBRE have noted that UK commercial property values may have bottomed out in 2024.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Uber plans a "price lock pass" to rival Lyft’s feature:</strong> Uber is reportedly planning to offer a new feature allowing users to <a href="https://link.longandshort.com/ls-29-01-2025-m1-6-lock-in-a-price" target="_blank">lock in a price</a> on frequent commute routes. This feature would help users cap fares for designated rides, helping them avoid surge pricing. The move mirrors Lyft’s “Price Lock” feature that debuted last August and has proven popular. This feature would be offered as a monthly subscription for $2.99. Users could save up to $50 per month with this feature, according to Uber.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Ozempic gets US approval to treat kidney disease in diabetics:</strong> The FDA has approved Novo’s Ozempic for treating <a href="https://link.longandshort.com/ls-29-01-2025-m2-7-chronic-kidney-disease" target="_blank">chronic kidney disease</a> in patients with type 2 diabetes. This marks another milestone for GLP-1 drugs being widely adopted to treat diabetes-related conditions. Novo Nordisk continues to lead the GLP-1 drug market with Ozempic and Wegovy. The latest approval reinforces the company’s strong market position.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Smithfield shares drop after $522 million IPO:</strong> Smithfield Foods Inc. saw its <a href="https://link.longandshort.com/ls-29-01-2025-m3-8-share-drop-1" target="_blank">share drop 1.3%</a> on the first day of trading. The company’s IPO valued the shares at $20, below the expected range of $23 to $27. The IPO gave Smithfield a valuation of approximately $7.8 billion. New listings in the US have faced late challenges, with Venture Global also experiencing weak market performance after its IPO.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Titan America eyes a $3.3 billion valuation in New York IPO:</strong> Titan America, a cement producer,  is targeting a <a href="https://link.longandshort.com/ls-29-01-2025-m4-9-valuation-of-up-to-3-billion" target="_blank">valuation of up to $3.32 billion</a> for its US IPO. The company plans to raise $432 million by offering 9 million shares. Titan America is a key supplier of heavy building materials and services in the US. The firm reported revenue of $1.24 billion and net income of $129.5 million for the first nine months of 2024.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>EU to impose tariffs on Russian and Belarusian farm products:</strong> The European Commission has <a href="https://link.longandshort.com/ls-29-01-2025-m5-10-proposed-new-tariffs" target="_blank">proposed new tariffs</a> on agricultural products and nitrogen-based fertilizers from Russia and Belarus. The tariffs are aimed at reducing external dependence and supporting domestic production. The move is also part of the EU’s broader strategy to weaken Russia’s ability to fund its war in Ukraine. The export of Russian agricultural products and fertilizers to third countries remains unchanged.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>South African rand stabilizes after DeepSeek-driven market turmoil:</strong> The South African rand <a href="https://link.longandshort.com/ls-29-01-2025-m6-11-steadied-on-tuesday" target="_blank">steadied on Tuesday</a>. The rand experienced a sharp decline on Monday amid a global tech selloff after DeepSeek made global headlines. The increased volatility in the rand may impact the South African Reserve Bank's upcoming interest rate decision on Thursday.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>DeepSeek worries drive yen and Swiss franc higher:</strong> As global markets experienced heightened volatility, investors searched for safe-haven assets. This led to the strengthening of the <a href="https://link.longandshort.com/ls-29-01-2025-m7-12-japanese-yen-swiss-franc" target="_blank">Japanese yen and Swiss franc</a> on Monday. The US dollar weakened, falling 0.29%, while the yen rose 0.87%. The Swiss franc also gained, rising 0.50% to $0.90.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump memecoin generates over $11 million in fees amid market frenzy:</strong> Donald Trump’s memecoin generated at least <a href="https://link.longandshort.com/ls-29-01-2025-m8-13-11-million-fees" target="_blank">$11.4 million in fees</a> for entities linked to him, according to an analysis by crypto risk modeling firm Gauntlet. Trump’s memecoin launch and its rapid rise have raised potential concerns about conflict of interest. The coin has lost 60% in value since its peak of $73.4 earlier in January.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Warren questions Lutnick over ties to Tether:</strong> Senator Elizabeth Warren <a href="https://link.longandshort.com/ls-29-01-2025-m9-14-raised-concerns" target="_blank">raised concerns</a> about Commerce Secretary nominee Howard Lutnick’s connections to Tether. The stablecoin has been linked to illicit activities. Lutnick has been vocal in support of Tether and has called it the ‘digital dollar.’ He also holds a stake in Tether and manages some of its reserve assets.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What are Veblen goods?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-29-3.png" alt="What are Veblen goods?" href="https://www.longandshort.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000"> 
+          <p style="font-size: 16px; line-height: 1.4">Veblen goods are unique products that people want more when their prices increase. These items, like designer handbags, luxury watches, and rare sports cars, are linked to wealth and status.</p>
+          <p style="font-size: 16px; line-height: 1.4">When the price rises, these goods become even more attractive because owning them shows off a person’s success and social standing. People often buy them not because they need them but to display their wealth and prestige. This is called “conspicuous consumption,” spending money on expensive things to impress others.
+         </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by Édouard Caupeil; Dmitry Vechorko.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a href="https://www.altdaily.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.altdaily.co/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.altdaily.co/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.altdaily.co/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.altdaily.co/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
