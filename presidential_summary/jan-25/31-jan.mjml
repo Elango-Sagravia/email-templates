@@ -1,0 +1,460 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px; 
+              line-height: 1.4; 
+              margin-top:2px;
+            ">Did you know the President of the  United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Guantanamo deportation order</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Hostage-prisoner swap</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ SoftBank to invest in OpenAI</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+<!-- Breaking news -->
+<!-- /Breaking news -->
+
+  <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important; 
+            ">Jet-helicopter crash update</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-31-1.png" alt="Jet-helicopter crash update" href="https://www.presidentialsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: The investigation of the incident is underway, recovery operations were suspended during the night, and Trump blames Democrats for the incident.</strong></p>
+
+          <p style="font-size: 16px; line-height: 1.4">After the deadly crash of the regional passenger airline American Airlines Flight 5342 and a military black hawk, all 64 members aboard the flight were feared to be dead. The fire chief said that they are switching from a rescue operation to a recovery operation. The body of the plane was found upside-down in three sections in waist-deep water. Recovery efforts have been suspended until Friday morning (<a href="https://link.presidentialsummary.com/ps-31-01-2025-h1-1-follow-live-updates" target="_blank">follow live updates</a>).</p>
+          <p style="font-size: 16px; line-height: 1.4"><a href="https://link.presidentialsummary.com/ps-31-01-2025-h1-2-the-natca" target="_blank">The NATCA</a> said it's premature to speculate on the cause of the incident. Investigators have recovered black boxes from the plane and will submit the preliminary report in 30 days. <a href="https://link.presidentialsummary.com/ps-31-01-2025-h1-3-american-airlines-ceo" target="_blank">American Airlines CEO</a> confirmed that the pilots aboard were not newcomers to commercial flights. At the time of the collision, one air traffic controller was working <a href="https://link.presidentialsummary.com/ps-31-01-2025-h1-4-two-different-tower-positions" target="_blank">two different tower positions</a> and handling both jet and helicopter traffic, which is believed to be a common practice.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump, without evidence, blamed the policies of <a href="https://link.presidentialsummary.com/ps-31-01-2025-h1-5-previous-democratic-administrations" target="_blank">previous Democratic administrations</a> for the crash. “Their policy was horrible,” the president said, “and their politics was even worse.” He later attacked Pete Buttigieg by stating that he ran the transport department into the ground with diversity. Fourteen plane victims are still believed to be missing, and the recovery team has brought a crane to the site to reach additional victims.</p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">  
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.presidentialsummary.com/ps-31-jan-2025-ad-gs" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Dive into the stories that shape our fate,<br/>
+          From global conflicts to diplomatic debate.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Behind each headline lies a deeper view,<br/>
+          We bring you insights clear and true.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Stay informed, stay ahead, don’t fall behind,<br/>
+          Subscribe today and sharpen your mind.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.presidentialsummary.com/ps-31-jan-2025-ad-gs" target="_blank">Subscribe to Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad --> 
+
+<!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Trump expands Guantanamo Bay prison</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-jan-31-2.png" alt="Trump expands Guantanamo Bay prison" href="https://www.presidentialsummary.com" />
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: Trump has signed orders on expanding the capacities at Guantanamo Bay to hold up to 30,000 migrants.</strong></p>
+
+          <p style="font-size: 16px; line-height: 1.4">Trump <a href="https://link.presidentialsummary.com/ps-31-01-2025-h2-6-signed-a-memorandum" target="_blank">signed a memorandum</a> directing the federal government to prepare the US Naval base at Guantanamo Bay, Cuba, to house up to 30,000 migrants. He said it is for the “high priority crimes, and Homeland Security Secretary Kristi Noem added it is reserved for "the worst of the worst." Tom Homan said the existing facility would be expanded and run by Immigration and Customs Enforcement.</p>
+          <p style="font-size: 16px; line-height: 1.4">The base is primarily known for terrorism suspects and was the subject of much controversy in the 2000s. There is also a separate migrant processing center. The Cuban president has criticized the plan as an “act of brutality.” On the same day, he also revoked the extension of protection for <a href="https://link.presidentialsummary.com/ps-31-01-2025-h2-7-600000-venezuelans" target="_blank">600,000 Venezuelans</a> set by Biden.</p>
+          <p style="font-size: 16px; line-height: 1.4">Trump is not wasting any time with his immigration policies. However, some have noted that these two acts could upset Venezuelan Americans who <a href="https://link.presidentialsummary.com/ps-31-01-2025-h2-8-support-trump" target="_blank">support Trump</a> for his economic policies and hawkish approach toward Maduro. Compared to previous Republicans, Trump was successful with the Hispanic base. However, strict immigration policies could potentially jeopardize support from that base.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Israel-Palestine hostage exchange</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 1.4"><strong>Summary: A third hostage-prisoner swap happened on Thursday, along with a lot of commotion about how the exchange was conducted.</strong></p>
+
+          <p style="font-size: 16px; line-height: 1.4">On Thursday, eight hostages <a href="https://link.presidentialsummary.com/ps-31-01-2025-h3-10-were-released" target="_blank">were released</a> to the Red Cross in exchange for the release of 110 Palestinians. Three of the hostages were Israeli, and five were Thai nationals. However, the release of the Palestinians was delayed due to the chaotic nature of the handover process, which was conducted as part of a public spectacle.</p>
+          <p style="font-size: 16px; line-height: 1.4">Critics argue that Hamas is using this event to <a href="https://link.presidentialsummary.com/ps-31-01-2025-h3-11-promote-its-propoganda" target="_blank">promote its propaganda</a>. They gave each hostage a release form and were forced to wear badges attached to a lanyard with a Palestinian flag pattern. Supporters of the Palestinian cause, on the other hand, contend that this situation demonstrates how Hamas treats its hostages better than Israel treats its prisoners, many of whom are held <a href="https://link.presidentialsummary.com/ps-31-01-2025-h3-12-without-due-process" target="_blank">without due process</a>.</p>
+          <p style="font-size: 16px; line-height: 1.4">In this first phase of the ceasefire, Hamas will release 33 Israeli hostages, including women, children, and the elderly, in exchange for nearly 2,000 Palestinian prisoners. Israel reports that Hamas has confirmed eight of the <a href="https://link.presidentialsummary.com/ps-31-01-2025-h3-13-hostages-are-dead" target="_blank">hostages are dead</a>. The ceasefire is still in effect, but many are worried if the other phases can advance adequately.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Salwan Momika, an Iraqi Christian who staged several Quran burnings</strong>, was shot and killed in Sweden, with <a href="https://link.presidentialsummary.com/ps-31-01-2025-br1-14-five-individuals-arrested" target="_blank">five individuals arrested</a> in connection with the incident. His actions sparked international controversy and strained relations with Middle Eastern countries.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Over 70 Rohingya refugees arrived in Indonesia’s Aceh province</strong> after their boat ran aground. Local police chief Nova Suryandaru said a wooden boat carrying 40 men and 32 women was on the boat. They were taken to temporary shelters by authorities after locals initially blocked their landing (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br2-15-more-about-the-situation" target="_blank">more about the situation</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Mexico's President Claudia Sheinbaum has requested that Google reconsider renaming the Gulf of Mexico to the Gulf of America</strong>. She argues that the US cannot legally change the name <a href="https://link.presidentialsummary.com/ps-31-01-2025-br3-16-beyond-its-territorial-waters" target="_blank">beyond its territorial waters</a>, which extend only 12 nautical miles from the coast.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>SoftBank is reportedly in talks to invest up to $25bn in OpenAI</strong>, potentially becoming its largest financial backer. This investment would cover SoftBank’s commitment to Stargate, a $100bn AI data center project with Oracle. Meanwhile, OpenAI faces competition from China’s DeepSeek, which surged in popularity, raising concerns over AI technology used by Chinese startups (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br4-17-unofficial-source" target="_blank">unconfirmed source</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The US Department of Justice sued to block Hewlett Packard's $14 billion</strong> acquisition of Juniper Networks, citing antitrust concerns. The DOJ argues the deal would reduce competition, leaving Cisco and HPE controlling 70% of the US networking market. HP and Juniper plan to defend the agreement, which has already received approval from the UK and EU (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br5-18-official-statement" target="_blank">official announcement</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>ElevenLabs raised $180 million in a Series C round, valuing it at $3.3 billion</strong>. The AI audio startup plans to enhance expressive models, expand conversational AI, and develop <a href="https://link.presidentialsummary.com/ps-31-01-2025-br6-19-speech-to-text-technology" target="_blank">speech-to-text technology</a>. The company aims to expand B2B and consumer-facing products while securing strategic partnerships with major firms (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br7-20-try-the-tool" target="_blank">try the tool</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Avride and Grubhub have partnered to introduce autonomous robot delivery to colleges across the US</strong>, starting at The Ohio State University. The <a href="https://link.presidentialsummary.com/ps-31-01-2025-br8-21-fleet-of-100-robots" target="_blank">fleet of 100 robots</a> can deliver meals, snacks, and convenience items using advanced technology that ensures reliability even in challenging weather conditions.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>An asteroid called 2024 YR4 is 100 meters wide and could hit Earth on December 22</strong>, 2032. The chance of impact is 1.3%. Space agencies are closely monitoring the asteroid. If needed, a mission like NASA's Dart could deflect it (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br9-22-about-the-asteroid" target="_blank">about the asteroid</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Renée Zellweger hopes the Bridget Jones series will continue</strong>. The new film, Bridget Jones: Mad About the Boy, explores Bridget as a widow and single mother. The movie will premiere on Peacock on February 13th (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br10-23-how-to-watch" target="_blank">how to watch</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Bodø/Glimt, a soccer team from a small Norwegian town inside the Arctic Circle</strong>, has become one of Norway's top clubs. They won their fourth league title in five years and are competing in the Europa League (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br11-24-about-the-team" target="_blank">about the team</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+          <h3 style="font-size: 20px; line-height: 1.2; font-weight: 500;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">How did America learn to love China's Memes? (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br12-25-find-out" target="_blank">find out</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Books written by humans will get their certification (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br13-26-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Calorie labeling could worsen eating disorders (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br14-27-read-more" target="_blank">read more</a>).</p>
+             <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              border-left: 3px solid #4c305f;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A mysterious trash bag on the street had a 2,000-year-old Greek artifact (<a href="https://link.presidentialsummary.com/ps-31-01-2025-br15-28-read-more" target="_blank">read more</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--banner-->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column background-color="#4D3060" width="96%">
+        <mj-text padding="10px 12px" font-family="Roboto" color="white">
+          <p style="
+              font-size: 18px;
+              line-height: 1.4; 
+              font-weight: 250; 
+              padding: 25px 12px 12px 12px;
+              text-align: center;
+            ">On this day in 2020, the United Kingdom formally left the European Union, completing the Brexit process.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Phots by Brandon Giles/US Coast Guard/Getty Images; REUTERS/Lucas Jackson.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
