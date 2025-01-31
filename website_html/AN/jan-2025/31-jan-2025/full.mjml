@@ -1,0 +1,473 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Vertex’s painkiller breakthrough</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ Market rise potential</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.4;
+              padding-left: 10px;
+            ">→ What is Metcalfe's Law?</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">HEADLINES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">US probes DeepSeek over Nvidia chip access via Singapore</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-31-1.png" alt="US probes DeepSeek over Nvidia chip access via Singapore" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">US officials are probing whether DeepSeek gained access to <a href="https://link.longandshort.com/ls-31-01-2025-h1-1-nvidia-latest-chip?source=website" target="_blank">Nvidia’s latest chips</a> via Singapore. Nvidia’s latest chips used for artificial intelligence tasks are banned from being sold to China as per US export restrictions. However, given DeepSeek’s remarkable rise and the R1 model’s performance, many believe the startup gained access to the latest chip via any Asian country. Nvidia earns 20% of its revenue from Singapore. The company maintains that its partners comply with export laws but faces scrutiny over potential diversions. Many shipments associated with Singapore were shipped to other locations, raising concerns about potential diversions.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">FDA approves Vertex’s non-addictive painkiller as opioid alternative</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Vertex Pharmaceuticals has <a href="https://link.longandshort.com/ls-31-01-2025-h2-2-received-fda-approval?source=website" target="_blank">received FDA approval</a> for its new painkiller. Journavx offers a safer alternative to addictive opioids through its unique functionality. The drug blocks pain signals in nerve cells without entering the brain. This reduces the risk of addiction significantly. The drug is priced at $15.50 per 50mg tablet. While there are high expectations around the success of the drug, the commercialization process could be challenging given the availability of cheaper and widely used opioids.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">  
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.longandshort.com/ls-31-jan-2025-ad-gs?source=website" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Dive into the stories that shape our fate,<br/>
+          From global conflicts to diplomatic debate.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Behind each headline lies a deeper view,<br/>
+          We bring you insights clear and true.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Stay informed, stay ahead, don’t fall behind,<br/>
+          Subscribe today and sharpen your mind.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.longandshort.com/ls-31-jan-2025-ad-gs?source=website" target="_blank">Subscribe to Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad --> 
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">RISKOMETER</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <!-- <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Data center spending surges amidst AI boom</h2>
+        </mj-text> -->
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-31-2.png" alt="RISKOMETER" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Recent developments suggest a potential market rise next week. The Fed's decision to maintain its policy rate at 4.25% to 4.5% signals confidence in economic stability. DeepSeek’s efficient AI model will lower computing costs, benefit software companies, and encourage broader AI adoption. Strong earnings reports from major technology firms, such as Netflix’s impressive subscriber growth and bullish macro indicators like 3.7% increased consumer spending, bolster investors' confidence.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🌏Asian stocks drop as chipmakers weigh on markets</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">Asian equities had a tough day on Friday. Concerns over DeepSeek’s impact on the artificial intelligence market continued to <a href="https://link.longandshort.com/ls-31-01-2025-wn1-3-weigh-on-sentiment?source=website" target="_blank">weigh on sentiment</a>. South Korean chipmakers like Samsung and SK Hynix experienced declines. SK Hynix Inc. is a key supplier to Nvidia, while Samsung’s chip division reported a lower-than-expected profit. The earnings for mega-cap tech companies remain under high scrutiny as investors look to dump risky stocks. The Nasdaq 100 is set to post a weekly decline at the end of the trading week.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇺🇲 Trump to announce 25% tariffs on Canada and Mexico</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          President Trump is set to <a href="https://link.longandshort.com/ls-31-01-2025-wn2-4-slap-25-tariff?source=website" target="_blank">slap 25% tariffs</a> on imports from Canada and Mexico starting next month. He cites fentanyl flows and border security concerns as the main reason behind the tariffs. The president also accused China of not doing enough to stop fentanyl exports, hinting at potential tariffs on China as well. The Canadian dollar and Mexican peso plunged on the news while the US dollar got a boost.
+        </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">
+            <strong>🇪🇺 Eurozone economy stalls in Q4</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.4;">
+          The Eurozone experienced an <a href="https://link.longandshort.com/ls-31-01-2025-wn3-5-unexpected-slowdown?source=website" target="_blank">unexpected slowdown</a> in economic activity in the fourth quarter of 2024. Growth came in at 0%, missing the modest forecast of 0.1%. This is a significant decline from the 0.4% expansion in the previous quarter. This stagnation will intensify pressure on the ECB to cut rates more aggressively. The future outlook is clouded by rising unemployment, slowing spending, and potential US tariffs on European goods.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump policies threaten Tesla’s regulatory credit revenue:</strong> Tesla’s revenue from regulatory credits reached a record high of $2.76 billion in 2024. However, this source of income is now under threat as the Trump administration seeks to rewrite <a href="https://link.longandshort.com/ls-31-01-2025-m1-6-emissions-and-fuel-economy-standards?source=website" target="_blank">emissions and fuel economy standards</a>. Tesla’s EV sales generate credits that other automakers buy to comply with pollution regulations. With more relaxed environmental rules, Tesla can lose a major source of its profits.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>SoftBank considers a $25 billion investment in OpenAI:</strong> SoftBank is considering <a href="https://link.longandshort.com/ls-31-01-2025-m2-6-investing-up-to-25-billion?source=website" target="_blank">investing up to $25 billion</a> in OpenAI. OpenAI seeks to expand its computing power as competition from China’s DeepSeek intensifies. If the deal goes through, SoftBank would become the largest investor in OpenAI. The potential investment aligns with SoftBank’s strategy to enter the AI hardware market after mixed results from its Vision Fund.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Oil prices rise as Trump’s tariff threats stir market uncertainty:</strong> Oil prices climbed as President Trump reaffirmed plans to impose 25% tariffs on <a href="https://link.longandshort.com/ls-31-01-2025-m3-8-imports-from-canada-and-mexico?source=website" target="_blank">imports from Canada and Mexico</a>. The market is still uncertain whether crude oil will be exempted from tariffs. Canada is a major exporter of oil, and a tariff on its exports can result in retaliatory measures, including export taxes on oil.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Uranium demand surges as nuclear power gains global traction:</strong> Rising interest in nuclear energy is <a href="https://link.longandshort.com/ls-31-01-2025-m4-9-making-uranium-expensive?source=website" target="_blank">making uranium expensive</a>. The global push towards nuclear energy was reaffirmed at the COP28 summit. Sixty new reactors are under construction, and the lifespans of existing reactors are being extended. The uranium supply is highly concentrated in areas such as Kazakhstan, Canada, and Australia, where production challenges remain.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The rupee's sharp decline pressures corporate earnings:</strong> The Indian rupee is <a href="https://link.longandshort.com/ls-31-01-2025-m5-10-depreciating-sharply?source=website" target="_blank">depreciating sharply</a>, straining corporate earnings. Over the past two months, it has declined 2.4% against the greenback. The Reserve Bank of India (RBI) was previously maintaining control over the rupee value but has now seemed to relax its grip. Companies that rely more on imports are feeling the pressure, posting losses due to forex-related impacts in their latest earnings.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Mexican peso falls as Trump renews tariff threat:</strong> The Mexican peso <a href="https://link.longandshort.com/ls-31-01-2025-m6-11-fell-by-1?source=website" target="_blank">fell by 1%</a> against the US dollar on Thursday as Trump issued new tariff threats on the country. The currency ended the trading day at 20.71/dollar. Analysts believe that the market has not yet fully priced in the impact of tariffs, and if they are implemented, we will see further declines. The Canadian dollar also suffered due to tariff threats hitting a five-year low against the greenback.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Tesla’s earnings rise by $600M after Bitcoin revaluation:</strong> Tesla <a href="https://link.longandshort.com/ls-31-01-2025-m7-12-recorded-a-600-gain?source=website" target="_blank">recorded a $600 gain</a> from its Bitcoin holdings following a new accounting rule that allows companies to record digital assets at fair value. The company’s fourth-quarter earnings were boosted by this gain. However, the adjusted earnings per share still fell short of analyst expectations, coming in at 73 cents/share versus analysts’ expectations of 75 cents.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>SEC moves closer to approving Bitcoin-Ether ETF:</strong> The Securities and Exchange Commission has granted initial approval to a proposed <a href="https://link.longandshort.com/ls-31-01-2025-m8-13-bitcoin-ether-etf?source=website" target="_blank">Bitcoin-Ether ETF</a>. The ETF would be managed by Bitwise Asset Management and will provide exposure to both the major cryptocurrencies. The market for crypto ETFs is growing rapidly, with firms submitting proposals for several ETFs, including Dogecoin, XRP, Solana, and Litecoin.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4"><span style="font-size:20px; padding-right:5px;">→</span><strong>Bankman-Fried’s parents seek Trump pardon for son:</strong> Sam Bankman Fried’s parents are seeking ways to <a href="https://link.longandshort.com/ls-31-01-2025-m9-14-secure-a-presidential-pardon?source=website" target="_blank">secure a presidential pardon</a> from Donald Trump for their son. Sam was sentenced to 25 years for fraud. Trump’s recent pardon of Silk Road founder Ross Ulbricht has fueled optimism for white-collar defendants. Although many people see Sam’s sentence as excessive, the public support for his early release is non-existent.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="             
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What is Metcalfe's Law for startups?</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/ls-jan-31-3.png" alt="What is Metcalfe's Law for startups?" href="https://www.longandshort.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000"> 
+          <p style="font-size: 16px; line-height: 1.4">Metcalfe's Law states that the value of a network grows exponentially with the number of its users. The law was originally formulated by Robert Metcalfe to describe the utility of telecommunications networks. It is widely applied to social media platforms, digital marketplaces, and tech startups. According to this law, if a network has nnn users, its value is proportional to n2n^2n2.</p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Metcalfe's Law highlights the importance of network effects. As more users join, the value of the product or service increases for everyone, creating a virtuous cycle of growth. For example, a social media platform like Facebook becomes more valuable as its user base grows, encouraging even more people to join.
+         </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px; 
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Photos by Rick Wilking/Reuters; Kim Kulish.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.altdaily.co/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.altdaily.co/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.altdaily.co/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.altdaily.co/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
