@@ -1,0 +1,398 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.4">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.4;  padding-left: 10px">→ Belarussian elections</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Slovak-Ukraine row</p>
+
+          <p style="font-size: 16px; line-height: 1.4; padding-left: 10px">→ Nordic leaders dine</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇧🇾 Belarussian elections: Business as usual</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Alexander Lukashenko has secured a seventh consecutive term in Belarus' disputed presidential election, claiming 86.8% of the vote amid <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r1-1-accusation-of-fraud?source=website" target="_blank">accusations of fraud</a>. Despite the official results, critics argue the election was neither free nor fair, as all opposition candidates were loyal to Lukashenko or had been exiled. <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r1-putin-and-xi?source=website" target="_blank">Vladimir Putin and Xi Jinping</a> congratulated him.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            European officials condemned the election results, raising the issues of the repression and imprisonment of political opponents. The previous 2020 election outcome resulted in <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r1-3-massive-protests?source=website" target="_blank">massive protests</a>. These protests were met with widespread arrests and many dissidents fleeing to countries like Poland. Lukashenko’s consistent ties with Russia, which gives it much support, will further cement his rule.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:16px;line-height:1.2;">
+          <strong>🇵🇸 Half a million Gazans return home to Northern Gaza </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Hundreds of thousands of Palestinians were able to <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r2-4-return-to-northern-gaza?source=website" target="_blank">return to northern Gaza</a> on Monday after Israel reopened military checkpoints that had divided the region for over a year. The return was delayed by 24 hours due to a hostage crisis, with the release of Israeli hostages not occurring as scheduled. The returnees face the daunting prospect of returning to what remained of their homes amid widespread destruction.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          At the end of the week, estimates say about <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r2-5-half-a-million?source=website" target="_blank">half a million</a> have returned. The situation remains alarming, as there has been significant damage and a shortage of essential resources, including water. There is also the fear that the deal might not hold, Israel will strike again, and Hamas could regroup.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.2;">
+          <strong>🇸🇰 Slovakia and Ukrainian relations decline over Russian gas</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.4"> 
+            Slovakia summoned Ukraine’s ambassador this week over an ongoing feud with the <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r3-6-transit-of-russian-gas?source=website" target="_blank">transit of Russian gas</a>. Slovakia's FM, Jurai Blanár, accused Ukrainian authorities of meddling in Slovakia's internal affairs. This is after President Zelenskyy criticized Slovak PM Robert Fico for <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r3-7-buying-russian-gas?source=website" target="_blank">buying Russian gas</a> instead of sourcing it from other countries, calling it a mistake.
+          </p>
+            <p style="font-size: 16px; line-height: 1.4"> 
+            Zelenskyy’s foreign ministry also accused Fico of being influenced by Russian propaganda. Fico dismissed Zelenskyy as <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-r3-8-slovakia-enemy?source=website" target="_blank">Slovakia's "enemy"</a> and blamed him for the issues arising from the halted Russian gas transit through Ukraine. Slovakia currently has nationwide strikes and demonstrations accusing Fico of undermining the country’s role as an EU member and bowing to Russia. 
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.4">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.geopoliticalsummary.com/gs-1-feb-2025-ad-ls?source=website" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.4">
+          Make informed choices, seize what’s new,<br/>
+          Subscribe today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          <a href="https://link.geopoliticalsummary.com/gs-1-feb-2025-ad-ls?source=website" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+   <mj-spacer height="10px" />
+   
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="font-size:20px;line-height:1.2;font-weight:500; margin-top:2px;">What happened at Davos?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">This year's World Economic Forum in Davos, Switzerland, came at a unique time. The forum kicked off on the same day as Donald Trump's inauguration. Many key topics on global issues were discussed. In the Middle East, the focus was on regional peace, especially Israel’s ceasefires with Hamas and Hezbollah. Zelenskyy took the stage, calling for support and beckoning European leadership to rally around Ukraine (<a href="https://link.geopoliticalsummary.com/gs-01-02-2025-bo-9-zelenskyy-speech?source=website" target="_blank">Zelenskyy’s speech</a>).</p>
+          <p style="font-size:16px;line-height:1.4;">Donald Trump appeared virtually, saying that Ukraine needs to end the war; he also discussed all the plans he made about cutting green programs and calling them a waste of money He also told NATO members to raise their budget by 5% (<a href="https://link.geopoliticalsummary.com/gs-01-02-2025-bo-10-whole-speech?source=website" target="_blank">whole speech</a>). His return to return to the White House sparked debates on his potential impact on global trade, tariffs, and deregulation.</p>
+          <p style="font-size:16px;line-height:1.4;">The <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-bo-11-subject-of-ai?source=website" target="_blank">subject of AI</a> was more relevant than ever before. The rapid development of AI and its implications for industries like electric vehicles (EVs) were central to many sessions. Leaders in AI, like Meta's Yann LeCun, predicted a shift in AI architectures within the next five years, signaling a dramatic technological evolution. The transformation of jobs due to AI and automation was also a key concern, as were discussions on reskilling and upskilling the workforce for future challenges.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.4;">On this day in 2021, the <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-today-ago-military-seized-power?source=website" target="_blank">military seized power</a> in Myanmar, ousting the country's de facto leader, <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-today-ago-aung-san-suu-kyi?source=website" target="_blank">Aung San Suu Kyi</a>. The parliament was scheduled to meet for the first time since the election. Myint Swe assumed the role of acting president and immediately invoked Articles 417 and 418 of the Constitution. He declared a one-year state of emergency and transferred control of the government's executive, legislative, and judicial branches to Senior General Min Aung Hlaing, the armed forces commander-in-chief.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2; 
+              font-weight: 300; 
+              padding-bottom:8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-feb-1-1.png" alt="PHOTO OF THE WEEK" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">Nordic leaders share a meal discussing Arctic security and other geopolitical issues.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding-bottom:8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/gp-feb-1-2.png" alt="GUESS THE FLAG" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-guess-the-flag?source=website" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              ">Bahamas</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-guess-the-flag?source=website" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+              ">Sudan</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-guess-the-flag?source=website" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size:14px;                                         background-color: rgba(6,38,109,0.2);
+              ">Cuba</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto">
+          <a href="https://link.geopoliticalsummary.com/gs-01-02-2025-guess-the-flag?source=website" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.4;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2)
+              ">Hungary</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Photo by Reddit, u/WhoAmIEven2.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopoliticalsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
