@@ -1,8 +1,8 @@
 <mjml>
   <mj-head>
     <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
-    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
-    <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap" />
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
@@ -19,7 +19,7 @@
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
         <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
-        <mj-text padding="10px 2px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;   
               line-height: 1.4; 
@@ -91,10 +91,10 @@
             Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
           </p>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 18px; line-height: 24px"><strong>Summary: Democrat states sue Trump over birthright citizenship order, which violates the 14th Amendment.</strong></p>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">Donald Trump’s executive order to end birthright citizenship has triggered legal battles. 24 Democratic states are suing, arguing that the order violates the 14th Amendment, which guarantees citizenship to all born on US soil. The lawsuit was filed in Massachusetts, which maintains that the order exceeds presidential authority and undermines constitutional rights (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h1-1-details-of-the-lawsuit" target="_blank">details of the lawsuit</a>).</p>
           <p style="font-size: 16px; line-height: 24px">The order denies citizenship to children born in the US to parents who are undocumented or temporarily in the country. The argument for it is a disputed interpretation of the Amendment’s “subject to the jurisdiction thereof” clause. Legal opponents argue that this interpretation conflicts with longstanding precedent (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h1-2-executive-order" target="_blank">executive order</a>).</p>
           <p style="font-size: 16px; line-height: 24px">If upheld, the policy could render 150,000 children stateless, barring access to federal services and civic participation. Legal experts widely view the challenges as strong, potentially setting up a landmark Supreme Court case. Trump has been teasing this for a long time, so ACLU and Democrat lawyers were prepared for this order.</p>
@@ -107,7 +107,7 @@
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
         <mj-spacer height="12px" />
-        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 12px; line-height: 1.2">
             <i>In partnership with Business History</i>
           </p>
@@ -133,14 +133,14 @@
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="BEHIND THE SCENES OF BUSINESSES" href="https://link.presidentialsummary.com/ps-22-jan-2025-ad-bh" />
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">Dive into the stories that built the greatest brands,<br /> Business History brings you lessons from powerful hands. </p>
           <p style="font-size: 16px; line-height: 24px"> From iconic deals to bold, risky moves,<br /> We uncover the actions that shaped and proved. </p>
           <p style="font-size: 16px; line-height: 24px"> Concise and clear, we tell it all,<br /> From triumphs to failures, big or small. </p>
           <p style="font-size: 16px; line-height: 24px"> Learn from the past, where success meets strife,<br /> Gain the insights that guide modern life. </p>
           <p style="font-size: 16px; line-height: 24px"> Stay ahead of the curve, with knowledge that sticks,<br /> Subscribe today, and get the business fix. </p>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">
             <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.presidentialsummary.com/ps-22-jan-2025-ad-bh" target="_blank">Subscribe to Business History</a>
           </p>
@@ -166,10 +166,10 @@
             Photos by AP Photo/Lindsey Wasson; Anna Moneymaker/Getty Images.
           </p>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 18px; line-height: 24px"><strong>Summary: Democrat states sue Trump over birthright citizenship order, which violates the 14th Amendment.</strong></p>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">Biden's last act as president was to issue preemptive pardons for several officials and members of Congress, including Dr. Anthony Fauci, General Mark Milley, and the January 6 committee members. The pardons were intended to shield them from politically motivated investigations under the incoming Trump administration (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h2-3-preemptive-pardons" target="_blank">preemptive pardon</a>).</p>
           <p style="font-size: 16px; line-height: 24px">Biden strictly stated that the pardons were not admissions of wrongdoing but a safeguard. This was met with praise and criticism from both sides of the aisle. In addition, Biden also <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h2-4-commuted-the-sentence/" target="_blank">commuted the sentence</a> of Indigenous activist Leonard Peltier. He was serving a life sentence for the killing of two FBI agents in 1975.</p>
           <p style="font-size: 16px; line-height: 24px">Many communities have petitioned for his release, and he has always maintained his innocence. Many feel his imprisonment was an injustice against Native Americans. Peltier is 80 and in poor health. He is not ultimately released, but he can finish his life in home confinement. He remarked, “I want to show the world I’m a good person with a good heart. I want to help the people, just like my grandmother taught me” (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h2-biden's-statement" target="_blank">Biden’s statement</a>).</p>
@@ -187,10 +187,10 @@
               font-weight: 400;
               margin-top: 2px !important;">US-Afghan prisoner swap</h2>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 18px; line-height: 24px"><strong>Summary: Democrat states sue Trump over birthright citizenship order, which violates the 14th Amendment.</strong></p>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">In President Biden’s final hours in the white house, a prisoner exchange was finalized, freeing Americans Ryan Corbett and William McKenty from Taliban custody in Afghanistan in exchange for Khan Mohammed, a Taliban member serving a US life sentence. Qatar facilitated the logistics of the handovers.</p>
           <p style="font-size: 16px; line-height: 24px">Mohammed, who was convicted of narco-terrorism by a US court, returned to his mainland on Tuesday. The finalized agreement took over two years to negotiate. This illustrates the ongoing challenges of hostage diplomacy. The Taliban praised the exchange as a constructive step toward dialogue, hopefully easing the tense <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-01-2025-h3-5-us-afghan-relations" target="_blank">US-Afghan relations</a>.</p>
           <p style="font-size: 16px; line-height: 24px">While Corbett and Mckently are now safe, there are other Americans like George Glezmann and Mahmoud Habibi who remain detained in Afghanistan. The Taliban are also seeking the release of an Afghan who is one of the few remaining prisoners at the US's Guantanamo Bay detention camp.</p>
@@ -225,7 +225,7 @@
         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h3 style="font-size: 24px; line-height: 1.4; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -257,7 +257,7 @@
         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h3 style="font-size: 24px; line-height: 1.4; font-weight: 400; margin-top:5px;"> Business & Finance </h3>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -289,7 +289,7 @@
         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h3 style="font-size: 24px; line-height: 1.4; font-weight: 400; margin-top:5px;">Science & Tech</h3>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -321,7 +321,7 @@
         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h3 style="font-size: 24px; line-height: 1.4; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
         </mj-text>
-        <mj-text padding="0px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -353,7 +353,7 @@
         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h3 style="font-size: 24px; line-height: 1.4; font-weight: 400;margin-top:5px;"> Whatnot </h3>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -390,7 +390,7 @@
       <mj-column width="100%" padding="0px">
         <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
           <mj-column width="100%" padding="10px 12px">
-            <mj-text padding="0px" font-family="Roboto" color="#ffffff">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
               <p style="
               font-size: 18px;
               line-height: 1.4; 
