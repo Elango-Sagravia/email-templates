@@ -1,0 +1,495 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Palantir soars on AI-fueled earnings</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Decline in new unicorns</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ What are Green Swan events?</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Grab mulls takeover of Rival GoTo at $7 billion valuation</h2>
+        </mj-text> 
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/grab-goto-merger.png" alt="Grab Holdings GoTo Group Merger" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">Picture of Grab and GoTo delivery personnel. Credits: Yuki Kohara
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Singapore-based Grab Holdings and Indonesia’s GoTo Group have <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-accelerated-talks?source=website" target="_blank">accelerated talks</a> for a potential merger. The transaction being discussed could value GoTo at $7 billion. GoTo’s stock jumped 6.2% on the news, whereas Grab’s shares experienced a decline of 4%. If the deal goes through, it would create a regional giant with over 650 million consumers.</p>
+          <p style="font-size: 16px; line-height: 1.5">The market has been highly competitive, with both firms posting persistent losses. However, the merger would allow the company to cut costs and consolidate market share. The potential merger would face some issues, including regulatory scrutiny and antitrust concerns.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Palantir hits a record high as AI boom fuels earnings</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Palantir’s stock <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-surged-24-percent?source=website" target="_blank">surged 24%</a> to an all-time high after reporting stronger-than-expected Q4 earnings. The company reported adjusted earnings of $0.14 per share, surpassing expectations of $0.11 per share. The company also raised its guidance for 2025 revenue to $3.74 billion—$3.76 billion. CEO Alex Karp described the demand for the company’s commercial and government segments as unprecedented.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">The surge in earnings is largely attributable to Palantir’s aggressive expansion into artificial intelligence with its Artificial Intelligence Platform (AIP). The platform integrates AI with big data analytics to enhance decision-making and increase security. AI-driven defense and intelligence solutions fueled 45% YoY growth in government revenue.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 bh ad -->
+    <mj-spacer height="10px" />
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+            text-transform:uppercase; 
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+         
+              
+               
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-bh.png" alt="BEHIND THE SCENES OF BUSINESSES" href="https://link.longandshort.com/ls-5-feb-2025-ad-bh?source=website" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Dive into the stories that built the greatest brands,<br /> Business History brings you lessons from powerful hands. </p>
+          <p style="font-size: 16px; line-height: 1.5"> From iconic deals to bold, risky moves,<br /> We uncover the actions that shaped and proved. </p>
+          <p style="font-size: 16px; line-height: 1.5"> Concise and clear, we tell it all,<br /> From triumphs to failures, big or small. </p>
+          <p style="font-size: 16px; line-height: 1.5"> Learn from the past, where success meets strife,<br /> Gain the insights that guide modern life. </p>
+          <p style="font-size: 16px; line-height: 1.5"> Stay ahead of the curve, with knowledge that sticks,<br /> Subscribe today, and get the business fix. </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.longandshort.com/ls-5-feb-2025-ad-bh?source=website" target="_blank">Subscribe to Business History</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- /bh ad -->
+
+
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">PLOT TWIST</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">No more new unicorns?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/unicorn-valuation-all-time-highs.jpg" alt="Unicorn Count and Money Valuation" href="https://www.altdaily.co" />
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The number of new unicorns (red bars) has dropped significantly since 2022</strong>, indicating a slowdown in startup funding and fewer companies crossing the $1 billion valuation mark. According to the <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-2024-gser?source=website" target="_blank">2024 Global Startup Ecosystems Report (GSER)</a>, 2023 saw <strong>58 percent fewer new unicorns</strong> than 2022 and 87 percent fewer than the unicorn peak of 2021.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Market corrections</strong> – The post-money valuation growth (light blue background) peaked in 2021, suggesting inflated valuations during the boom period. The correction afterward has likely led to some unicorns losing their status.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>High interest rates and tighter funding</strong>—Since 2022, higher interest rates and tighter venture capital (VC) funding have made it harder for startups to raise large rounds, limiting expansion and decreasing investor appetite.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Increased exits or failures</strong> – Some unicorns IPO’d, got acquired, or shut down, reducing the number of active unicorns despite fewer new ones entering the pool. As of September 2024, <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-475-companies-had-exited?source=website" target="_blank">475 companies had exited</a> the market.</p>
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Economic uncertainty</strong> – Global economic instability, cautious investor sentiment, and sector-specific downturns (e.g., tech layoffs and lower SaaS multiples) have made it harder for startups to achieve or maintain unicorn status.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇯🇵 Japan to tighten buyout rules to protect minority investors</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Japan’s management buyout (MBOs) boom <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-faces-stricter-oversight?source=website" target="_blank">faces stricter oversight</a> as the Tokyo Stock Exchange considers new regulations to protect shareholders. Companies would be required to disclose price calculations for buyouts as per the proposed amendments.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Last year saw the highest number of MBOs since 2011. However, activist investors like Oasis Management have increasingly started to challenge low-priced buyouts. The new regulations will prevent companies from going private at artificially low prices.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇬🇧 UK banknote printer weighs takeover bids</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+          British banknote printer De la Rue Plc has received a <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-premilinary-takeover?source=website" target="_blank">preliminary takeover</a> offer from Disruptive Capital and Pension SuperFund Capital. The cash offer of $1.30 per share represents a 22% premium.
+        </p>
+        <p style="font-size:16px;line-height:1.5;">
+          Established in 1813, the banknote printer has struggled with declining demand of late for physical currency as digital and contactless payments become more widespread. The company has been undergoing restructuring involving selling non-core assets. De La Rue’s stock surged 14% on the takeover news, its largest intraday gain in nearly three months.
+        </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇿🇦 De Beers struggling against declining diamond demand</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+          De Beers is grappling with <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-plummeting-demand?source=website" target="_blank">plummeting demand</a> and angry buyers as it grapples with one of the worst downturns in its history. De Beers’ parent company, Anglo American Plc, is trying to exit the diamond business but is struggling to find a buyer willing to pay a premium.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+          De Beers was once a near-monopoly in the 20th century, controlling about 90% of the diamond market. However, US antitrust rulings and the rise of lab-grown diamonds have posed challenges for the company. Diamond demand has dropped by 50% since 2019 as China’s economic slowdown compounds trouble.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Salesforce is cutting 1,000 jobs while expanding the AI sales team.</strong> As activist investors ramp up pressure, the company prioritizes profitability and operational efficiency. Shares rose 1.6% following the announcement (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m1-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Pfizer beats earnings expectations.</strong> The company reported stronger-than-expected Q4 results. COVID-19 vaccine and antiviral pill drove strong sales. However, the news of Robert F. Kennedy Jr. overshadowed the earnings beat (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m2-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Apollo launched a $5 billion multi-strategy credit fund with an unusually long 30-year maturity.</strong> The fund targets insurance firms and institutional investors and bundles investment-grade bonds, private debt, and leveraged deals (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m3-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Elon Musk seeks to block OpenAI’s for-profit shift.</strong> He argues that his former co-founder, Sam Altman, has abandoned the startup’s original public-interest mission in favor of profit. The company seeks to raise funds at a $40 billion valuation. (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m4-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Iron ore producer Ferrexpo’s shares have plummeted about 51%.</strong> The company disclosed a $3.8 billion civil claim against its Ukrainian subsidiary, FPM. The lawsuit alleges that FPM illegally mined and sold subsoil, causing environmental damage (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m5-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Coffee prices surge to near record highs amid supply concerns.</strong> The prices surged 2.4%, bringing the premium bean close to $4 per pound. The latest spike is driven by tight supply conditions in Brazil (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m6-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The dollar slides as markets reassess trade war risks.</strong> The decline followed Trump’s decision to delay the 25% tariff on Canada and Mexico. Analysts believe the dollar weakness will be short-lived as trade tensions continue to support a stronger dollar (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m7-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Copper prices advanced as a weaker dollar offset trade war concerns.</strong> Copper futures increased 0.7% to $9,159 per metric ton. This comes after Trump imposed a 10% tariff on Chinese imports (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m8-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>The Treasury Department recruited two people from Musk’s DOGE.</strong> Their presence has raised concerns within the Treasury Department, particularly after the duo visited a federal facility in Kansas City that was responsible for managing the US government's payment infrastructure (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m9-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Peter Thiel-backed crypto exchange Bullish Global is considering an IPO.</strong> The company has hired Jefferies Financial Group to explore the listing. This comes amid positive industry momentum and optimism around the crypto-friendly Trump administration (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-m10-details?source=website" target="_blank">details</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">What are Green Swan events?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/john-elkington-green-swan-events.png" alt="John Elkington The Father Of Green Swan Events" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            John Elkington delivers a speech at a conference. Credits: LGT
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000"> 
+          <p style="font-size: 16px; line-height: 1.5"><a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-green-swan" target="_blank">Green Swan</a> events are <strong>highly disruptive events</strong> that take society towards better outcomes. Unlike <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-05-02-2025-black-swan-event?source=website" target="_blank">Black Swan events</a>, Green Swan events are <strong>foreseeable</strong> as they are driven by climate change.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          John Elkington originated the term. He says Green Swans are “<strong>solutions that take us exponentially toward breakthroughs</strong>.” The economic impact of green swan events can cause cascading effects for several industries.
+         </p>
+         <p style="font-size: 16px; line-height: 1.5"><strong>Example: European heatwave and wildfires (2022–2023)</strong>
+         </p>
+         <p style="font-size: 16px; line-height: 1.5">Europe experienced <strong>extreme heatwaves and wildfires</strong> in 2022 and 2023, with temperatures exceeding 40°C. The crisis was worsened by low water levels in Rhine and Danube. This led to poor wheat and crop harvest the following year, <strong>increasing food prices</strong>. Moreover, supply chains were disrupted due to low water levels, which affected moving goods.
+         </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.longandshort.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.longandshort.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.longandshort.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
