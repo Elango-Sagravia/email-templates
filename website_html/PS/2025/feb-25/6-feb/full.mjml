@@ -1,0 +1,443 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;   
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px; 
+              line-height: 1.5;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ USAID leave notice</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Aga Khan IV passed away</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Emilia Pérez drama</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">USPS drama over Chinese parcels</h2>  
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/usps-drama-over-chinese-parcels.png" alt="US postal service resumed service after temporarily suspending Chinese parcels" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            Parcel boxes at the US Postal Service warehouse. Credits: Frederic J. Brown/AFP
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: USPS restored the delivery of parcels from China and Hong Kong after it was temporarily blocked.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The US Postal Service has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-1-resumed-services?source=website" target="_blank">resumed services</a> after temporarily suspending incoming international parcels from China and Hong Kong. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-2-no-reason-was-given?source=website" target="_blank">No reason was given</a> for the suspension, but it is believed to be retaliation against China’s tariffs. The USPS and Customs and Border Protection (CBP) are working to implement a collection mechanism to ensure the least disruption to delivery.</p>
+          <p style="font-size: 16px; line-height: 1.5">The initial suspension challenged companies like Shein and Temu, which have built their businesses around the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-3-de-minimis-exemption?source=website" target="_blank">de minimis exemption</a> model. The CBP said it processed over <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-3-over-1-billion-de-minimis-shipements?source=website" target="_blank">1.3 billion de minimis shipments</a> in 2024.  Beijing recently announced <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.youtube.com/watch?v=waydz_YzsNM?source=website" target="_blank">broad economic tariffs</a> in retaliation for Trump’s tariffs, including a 15% tax on specific energy resources and a 10% tariff on crude oil, agricultural machinery, and pickup trucks, which will come into effect on February 10.</p>
+          <p style="font-size: 16px; line-height: 1.5">Chinese foreign minister criticized the US administration, calling to stop politicizing economic and trade issues. On Tuesday, Trump said he was in “<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-4-no-rush?source=website" target="_blank">no rush</a>” to speak to Xi Jinping to reduce the growing tensions despite expectations they would meet the same day. De minimis exemption has been a matter of contention as it paves the way for illegal items to enter the US as they go through <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h1-5-less-scrutiny?source=website" target="_blank">less scrutiny</a>.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-6-feb-2025-ad-ls?source=website" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, seize what’s new,<br/>
+          Subscribe today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.presidentialsummary.com/ps-6-feb-2025-ad-ls?source=website">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+    <!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">USAID leave and termination</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/usaid-leave-and-termination.png" alt="USAID employees are given administrative leave from February 7" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            A picture of a USAID worker in their camp. Credit: Fernando Vergara/Associated Press
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: USAID employees worldwide have been told they were being put on administration leave. PSC and ISC contracts are to be canceled.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Nearly 10,000 USAID employees <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h2-6-were-informed?source=website" target="_blank">were informed</a> this week that they would be placed on administrative leave starting February 7 as part of President Trump's plan to dismantle the agency. Only those responsible for mission-critical functions or leadership roles will remain active. The USAID website is also down. Trump's decision to freeze foreign assistance has already upended the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h2-7-global-aid-system?source=website" target="_blank">global aid system</a>.</p>
+          <p style="font-size: 16px; line-height: 1.5">The State Department will arrange for the return of USAID employees from overseas within 30 days. This move is part of Trump's initiative, with the support of Elon Musk, to merge <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h2-8-usaid-into-the-state-department?source=website" target="_blank">USAID into the State Department</a>, citing corruption. This action has sparked <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h2-9-outrage-among-democrats?source=website" target="_blank">outrage among Democrats</a>, who argue that Trump lacks the constitutional authority to eliminate USAID, which has a $40 billion budget and supports critical global programs.</p>
+          <p style="font-size: 16px; line-height: 1.5"><a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h2-10-thousands-gathered?source=website" target="_blank">Thousands gathered</a> at the US Capitol after the announcement. Experts say the agency's erasure puts agencies such as the Department of Education and the National Oceanic and Atmospheric Administration (NOAA) in the crosshairs. Concern has also been raised over Elon Musk’s overreach, as he is not an elected staff member.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">Aga Khan IV passes away</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: The head of the Shia Ismaili sect, Aga Kahn, passed away at the age of 88. He was a billionaire philanthropist and the 49th hereditary imam.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The Aga Khan IV, Prince Karim Al-Hussaini, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h3-11-passed-away?source=website" target="_blank">passed away</a> at 88 in Lisbon. Aga Khan is the spiritual leader of the Shia Ismaili Muslim community and the 49th hereditary imam, who are believed to be direct descendants of Prophet Muhammad. Born in Switzerland, he had British citizenship and lived in a chateau in France. He passed away peacefully in Lisbon, Portugal, surrounded by his family.</p>
+          <p style="font-size: 16px; line-height: 1.5">He became Imam in 1957 at age 20 and led a global Ismaili community of 12-15 million across Asia, Africa, and the Middle East. He was a billionaire philanthropist who founded the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h3-12-akdn?source=website" target="_blank">Aga Khan Development Network</a>. Through this project, he funded hospitals, schools, and infrastructure in developing nations. He held British and Portuguese citizenship, and his Ismaili leadership was based in Lisbon.</p>
+          <p style="font-size: 16px; line-height: 1.5">UN Secretary-General Antonio Guterres <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h3-13-called-him?source=website" target="_blank">called him</a> "a symbol of peace, tolerance, and compassion”. Malala Yousafzai <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h3-14-praised-him?source=website" target="_blank">praised his impact</a> on education and development. King Charles was deeply <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-h3-15-saddened-by-the-death?source=website" target="_blank">saddened by the death</a>, who was a friend of his mother, the late Queen Elizabeth II, and himself. The announcement of his successor is expected soon, marking the transition to the 50th Imam.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> briefs </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Poland is increasing its military spending to strengthen ties with the U.S. and deter Russia</strong>. It spends <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br1-16-4-percent-of-the-gdp?source=website" target="_blank">4.7% of its GDP</a> on defense, the highest in NATO, with billions going to American weapons. Poland hopes this will keep the U.S. engaged in Europe and encourage other allies to spend more.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Ukrainian President Volodymyr Zelenskyy said he is willing to negotiate with Russian President Vladimir Putin</strong> if it is the only way to bring peace. He emphasized that any talks should include Ukraine, the U.S., Russia, and the EU. However, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br-17-putin-dismissed-zelenskyy?source=website" target="_blank">Putin dismissed Zelenskyy</a> as "not legitimate" and said he would send representatives instead.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Banks led by Morgan Stanley have sold $5.5 billion of the $13 billion debt used to fund Elon Musk’s $44 billion Twitter (now X) buyout</strong>. The debt, initially hard to sell due to X’s revenue struggles, was sold at 97 cents per dollar, likely at a profit. Investors see potential in X’s AI stake and Musk’s political ties (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br3-18-why-the-markdown?source=website" target="_blank">why the markdown</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Google has dropped diversity hiring targets and is reviewing its DEI (Diversity, Equity, and Inclusion) programs</strong>, aligning with other US firms scaling back such efforts. The move follows legal and policy changes under President Trump. Google will still support internal diversity groups but is adjusting policies to comply with federal regulations and court rulings (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br4-19-inside-memo?source=website" target="_blank">inside memo</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Stripe has acquired stablecoin platform Bridge for $1.1 billion, marking its biggest push into crypto</strong>. Bridge, founded in 2022 by ex-Coinbase and Square executives, helps businesses accept stablecoin payments. Stripe CEO Patrick Collison expects rapid growth in stablecoin adoption. This follows Stripe’s crypto expansion in the EU and its Pay with Crypto feature launch (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br5-20-official-announcement?source=website" target="_blank">official announcement</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>In its updated ethics policy, Google has removed its pledge not to use AI for weapons or surveillance</strong>. The company now says it will develop AI “responsibly” in line with international law and human rights. This change came after Google executives attended U.S. President Donald Trump’s inauguration and his administration rolled back AI regulations (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br6-21-about-the-policy?source=website" target="_blank">about the policy</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Scientists have tracked young sea turtles using GPS tags, revealing that they actively swim</strong> rather than drift with ocean currents. The study challenges old assumptions and shows that turtles make decisions about their movements (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br7-22-about-the-study?source=website" target="_blank">about the study</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>The Oscar gossip for Emilia Pérez has been derailed by backlash over resurfaced racist and offensive social media posts</strong> from lead actress Karla Sofía Gascón. The film, already criticized for its portrayal of Mexico and trans identity, now faces a PR crisis just as Academy voting begins (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br8-23-what-went-wrong?source=website" target="_blank">what went wrong</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>During a press event, Travis Kelce was asked if he planned to propose to his girlfriend, Taylor Swift</strong>, ahead of the upcoming Super Bowl. Kelce responded coyly, saying, "Wouldn't you like to know," without confirming or denying any such plans (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br9-24-the-press-event?source=website" target="_blank">the press event</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">11 destinations inspired by Beyonce’s “ Cowboy Carter” (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br10-25-check-them-out?source=website" target="_blank">check them out</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Visitors flock to a flower that smells like a rotting corpse (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br11-26-find-out-why?source=website" target="_blank">find out why</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A UK fraud suspect has made all kinds of disguises to take citizenship tests for people (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br12-25-read-more?source=website" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Establishing a unique legacy on the Civilization VII game (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-06-02-2025-br13-27-read-the-review?source=website" target="_blank">read the review</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">On this day in 1952, Elizabeth II ascended the throne of the United Kingdom following the death of her father, King George VI.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a  style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
