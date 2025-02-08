@@ -4,7 +4,7 @@
     <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
-  <mj-body background-color="#f0f1f3">
+  <mj-body background-color="#f0f1f3"> 
     <mj-raw>
       <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
@@ -32,7 +32,7 @@
           <p style="
               font-size: 16px;
               line-height: 1.5;
-              padding-left: 10px;
+              padding-left: 10px; 
             ">→ World reacts to Trump’s Gaza comment</p>
           <p style="
               font-size: 16px;
@@ -86,7 +86,7 @@
             ">Trump’s recent ban</h2>  
         </mj-text>
         <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-recent-ban.png" alt="Trump wants to suspend trans athletes from competing in sports" href="https://www.presidentialsummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
           <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
             Donald Trump wants to ban trans athletes from competing. Credits: Alex Brandon/ AP
           </p>
@@ -173,8 +173,8 @@
               margin-top: 2px !important;">Trump’s Gaza backlash</h2>
         </mj-text>
         <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trumps-gaza-backlash.png" alt="World leaders and US officials have reacted to Trump's Gaza takeover claim" href="https://www.presidentialsummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
-          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"> 
             President Donald Trump and Israel’s Prime Minister Benjamin Netanyahu arrive for a news conference in the East Room of the White House. Credits: AP Photo/Evan Vucci
           </p>
         </mj-text>
