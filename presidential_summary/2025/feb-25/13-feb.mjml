@@ -5,11 +5,11 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3">
-    <mj-raw>
+    <mj-raw> 
       <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw> 
+    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
     <mj-section background-color="#ffffff">
@@ -28,27 +28,27 @@
           <p style="
               font-size: 16px; 
               line-height: 1.5;
-            "><strong>In today’s edition:</strong> </p>
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Italian Mafia arrest</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               padding-left: 10px;
-            ">→ North Korea opening</p>
+            ">→ Greece elects Constantine Tassoulas</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               padding-left: 10px;
-            ">→ Swedish shooting</p>
-          <p style="
-              font-size: 16px;
-              line-height: 1.5;
-              padding-left: 10px;
-            ">→ Asian Winter Games</p>
+            ">→ Google controversies</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               margin-bottom: 0px;
-            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
@@ -66,15 +66,15 @@
           color:#4D3060;
             text-align: left;
             border-bottom:2px solid #4D3060; 
-            text-transform:uppercase;
+            
               font-size: 26px;
               line-height: 1.2; 
               font-weight: 400;
                
-            ">SPOTLIGHT</h2>
+            ">Spotlight</h2>  
         </mj-text>
       </mj-column>
-    </mj-section> 
+    </mj-section>
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
@@ -83,72 +83,78 @@
               line-height: 1.2; 
               font-weight: 400;
               margin-top: 2px !important; 
-            ">Rubio takes over USAID</h2>  
+            ">MI5 lies and background</h2>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/marco-rubio-takes-over-usaid.png" alt="Rubio Takes Over USAID Amid Elon Musk Drama" href="https://www.presidentialsummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
-          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
-            US Secretary of State Marco Rubio’s address at the US Embassy in Panama. Credits: AP
-          </p>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/mi5-lies-and-background.png" alt="MI5 director-general Sir Ken McCallum" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">MI5 director-general Sir Ken McCallum. Credits: Yui Mok/PA Wire</p>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Marco Rubio has been appointed the acting administrator of USAID amid the drama between the agency and Elon Musk.</strong></p>
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: MI5 lied to courts to protect a violent neo-Nazi spy over the mistreatment of his girlfriend and apologized to the court and BBC.</strong></p>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">Secretary of State Marco Rubio was appointed as the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-acting-administrator-of-usaid" target="_blank">acting administrator of USAID</a> after staffers were locked out of its headquarters in Washington, D.C., and the agency's website went offline. He notified Congress that a review of USAID’s foreign assistance activities is underway. The White House is discussing plans to merge USAID into the State Department to reduce its workforce and align its spending with Trump's priorities.</p>
-          <p style="font-size: 16px; line-height: 1.5">Elon Musk criticized the agency, calling it a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-criminal-organization" target="_blank">criminal organization</a>, and said it should be shut down. Those in favor of the move believe it is sensible to cut costs, while critics argue that this move undermines US global influence, particularly in providing humanitarian aid. It could also benefit adversaries like Russia, China, and Iran, potentially demoting the US's global standing.</p>
-          <p style="font-size: 16px; line-height: 1.5">USAID is the world’s largest single donor. In 2023, the US disbursed $72 billion of assistance worldwide, from women’s health in conflict zones to access to clean water, HIV/AIDS treatments, energy security, and anti-corruption work. It provided <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-42-of-all-humanitarian-aid" target="_blank">42% of all humanitarian aid</a> tracked by the United Nations in 2024.</p>
+          <p style="font-size: 16px; line-height: 1.5">MI5, the United Kingdom domestic counterintelligence agency, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.bbc.com/news/articles/cew5rwpw579o" target="_blank">apologized to the BBC and three courts</a> for lying to protect a violent neo-Nazi spy. The case concerns a foreigner known as Agent X, who abused, terrorized, and threatened to kill his girlfriend, using his status as an MI5 informer to claim she wouldn't be able to report him.</p>
+          <p style="font-size: 16px; line-height: 1.5">The MI5 first lied in a court case, and the Security Service repeated the same lie to the specialist court. They repeated the same lie when the agent’s girlfriend challenged the decision. A senior officer broke the code by revealing the name of Agent X to BBC, but the government blocked them from naming the agent.</p>
+          <p style="font-size: 16px; line-height: 1.5">MI5 has issued an "unreserved apology" to the BBC and all three courts, describing what happened as a "serious error" and saying "MI5 takes full responsibility." The MI5 director general will be pressured to explain the exact scenario. The case will return to the specialist court to investigate whether the Security Service breached her rights by failing to protect her from X's behavior.</p>
         </mj-text>
       </mj-column>
     </mj-section>
 
-  <!-- 2 bh ad -->
-    <mj-spacer height="10px" />
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
     <!-- title -->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
-        <mj-spacer height="12px" />
-        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 12px; line-height: 1.2">
-            <i>In partnership with Business History</i>
-          </p>
-        </mj-text>
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
         <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
           padding-bottom:8px;
-          color:#8C3321;
+          color:#6b705c;
             text-align: left;
-            border-bottom:2px solid #8C3321;
-            text-transform:uppercase; 
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
               font-size: 26px;
               line-height: 1.2;
-              font-weight: 400;
-         
+              font-weight: 300;
+              
                
-               
-            ">BEHIND THE SCENES OF BUSINESSES</h2>
-        </mj-text>
-      </mj-column>  
-    </mj-section>
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="BEHIND THE SCENES OF BUSINESSES" href="https://link.presidentialsummary.com/ps-5-feb-2025-ad-bh" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">Dive into the stories that built the greatest brands,<br /> Business History brings you lessons from powerful hands. </p>
-          <p style="font-size: 16px; line-height: 1.5"> From iconic deals to bold, risky moves,<br /> We uncover the actions that shaped and proved. </p>
-          <p style="font-size: 16px; line-height: 1.5"> Concise and clear, we tell it all,<br /> From triumphs to failures, big or small. </p>
-          <p style="font-size: 16px; line-height: 1.5"> Learn from the past, where success meets strife,<br /> Gain the insights that guide modern life. </p>
-          <p style="font-size: 16px; line-height: 1.5"> Stay ahead of the curve, with knowledge that sticks,<br /> Subscribe today, and get the business fix. </p>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-            <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.presidentialsummary.com/ps-5-feb-2025-ad-bh" target="_blank">Subscribe to Business History</a>
-          </p>
+            ">Markets in minutes</h2> 
         </mj-text>
       </mj-column>
+    </mj-section>  
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-13-feb-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, seize what’s new,<br/>
+          join us today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.presidentialsummary.com/ps-13-feb-2025-ad-ls" target="_blank">Join Long and Short</a></p>
+          </mj-text>
+      </mj-column> 
     </mj-section>
-  <!-- /bh ad -->
+<!-- /LS ad -->
 
     <!-- Content sections -->
     <mj-spacer height="10px" />
@@ -160,21 +166,19 @@
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
-              margin-top: 2px !important;">Greek earthquakes</h2>
+              margin-top: 2px !important;">Mafia operations shut down</h2>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/santorini-earthquakes.png" alt="Santorini Greek Earthquakes" href="https://www.presidentialsummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif, 'Times New Roman', serif;" color="#A9A7AF">
-          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
-            Tourists carry their luggage as they leave the village of Fira. Credits: Alkis Konstantinidis/Reuters
-          </p>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/mafia-operations-shut-down.png" alt="An image of the Italian paramilitary force members" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">An image of the Italian paramilitary force members. Credits: AP Photo</p>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Santorini and other Greek islands are at risk of earthquakes. Tourists and locals have evacuated the island.</strong></p>
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Italian police arrest over 180 people in a massive mafia crackdown in Sicily.</strong></p>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">Greek authorities are monitoring <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-ongoing-seismic-activity" target="_blank">ongoing seismic activity</a> on the island of Santorini. More than 300 earthquakes have been recorded in the past two days near the island. The tremors between Santorini and Amorgos islands have caused widespread fear, with thousands of locals and tourists evacuating by ferry and plane. Some experts say tremors could continue for weeks.</p>
-          <p style="font-size: 16px; line-height: 1.5">A third of Santorini's population has temporarily left, and schools have closed. Rescue teams are on standby, and officials have warned of rockslides and advised people to avoid coastal areas. While the strongest quake reached a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-magnitude-of-4" target="_blank">magnitude of 4.9</a>, experts assure there is no immediate threat of a volcanic eruption or catastrophic event. No major damage has been reported, but precautionary emergency measures are underway.</p>
-          <p style="font-size: 16px; line-height: 1.5">However, seismologists are worried by the intensity of the tremors, as larger quakes could cause significant damage. The Greek government has urged everyone to be calm and follow all safety measures while closely monitoring the situation. Embassies also <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-h2-5-have-directed-tourists" target="_blank">have directed tourists</a> to do the same. Santorini is one of the most popular in Greece and generates a lot of tourism, particularly in its high season.</p>
+          <p style="font-size: 16px; line-height: 1.5">Over 180 suspected members of the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-h2-2-sicilian-mafia-cosa-nostra-were-arrested" target="_blank">Sicilian mafia Cosa Nostra were arrested</a> in a massive operation by the Italian police. Cracking the encrypted mobile system used by mafia bosses, even in maximum security prisons, was a breakthrough for the investigators. The raids were seen as a bid by Italian authorities to curb the Mafia from rebuilding its governing body, Cupola.</p>
+          <p style="font-size: 16px; line-height: 1.5">The accusations range from criminal association, drug smuggling, extortion, and attempted murder to illegal gambling and gun offenses. After years of crackdowns, the Sicilian mafia lost its primacy among Italian mafias, but the operation revealed it still has a considerable hold over the island. Alongside arrests, additional warrants were issued for 33 suspects imprisoned for other crimes.</p>
+          <p style="font-size: 16px; line-height: 1.5">The Italian police said the mafia has adapted to modern times. The most powerful families and recruits come from Palermo's inner city rather than the countryside and use modern technology to evade detection. PM Giorgia Meloni described the sting as a "very hard blow to Cosa Nostra." Over 50kg of drugs were also seized.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
       </mj-column>
@@ -187,15 +191,15 @@
               font-size: 24px;
               line-height: 1.5;
               font-weight: 400;
-              margin-top: 2px !important;">North Korea opens for tourism</h2>
+              margin-top: 2px !important;">White House bars reporter</h2>
         </mj-text>
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Chinese-based tourist agencies are opening trips to North Korea starting mid-February, the first time since 2020, although the capital city is still off-limits.</strong></p>
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: The White House sent away an AP journalist because the news agency refused to comply with President Trump’s decision to rename the Gulf as Gulf of America.</strong></p>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">North Korea has opened its <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-country-to-tourism" target="_blank">country to tourism</a> for the first time since the COVID-19 pandemic. Until now, this has only been possible for a few select groups of Russian tourists. Starting mid-February, Chinese-based tour company <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-koryo-tours" target="_blank">Koryo Tours</a> will organize tours over the border to Rason. These tours will allow travelers to visit the city during Kim Jong Il’s birthday celebrations on February 16.</p>
-          <p style="font-size: 16px; line-height: 1.5">For around $720, tourists will spend four nights in Rason and two nights in the Chinese city of Yanji. Tourists can look at Russia and China from the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-three-borders-view-point" target="_blank">three borders view point</a>. The capital city remains closed for now. North Korea is starving for foreign currency, so companies are watching the developments. However, some worry that this is a test and that these tours might not go as planned.</p>
-          <p style="font-size: 16px; line-height: 1.5">Day of the Shining Star, a national holiday to celebrate Kim Jong Il’s birthday, is celebrated on February 16 with large public displays, including parades. People also bow to the statue and pay their respects. The first tour is set to take place between February 12 and 18. About 20 tourists can enter in time for the birthday celebrations.</p>
+          <p style="font-size: 16px; line-height: 1.5">In a controversial move, an <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-h3-3-associated-press-journalist-was-denied-entry" target="_blank">Associated Press (AP) journalist was denied entry</a> to a White House event in the Oval Office. Trump administration officials claimed the reporter was sent out because the news agency refused to comply with his decision to rename the Gulf of Mexico the "Gulf of America." This violates the First Amendment of the US Constitution, which guarantees the independence of the press.</p>
+          <p style="font-size: 16px; line-height: 1.5">AP maintains its policy of using the original name, citing its usage for over 400 years. The AP and the White House Correspondents' Association heavily criticized the refusal to enter. The Trump administration did not comment on the entry ban of the AP reporter, and there were no reports of other journalists being barred from the White House.</p>
+          <p style="font-size: 16px; line-height: 1.5">Tech giants like Google and Apple updated their maps to reflect the name change, aligning with the government's directive. However, the AP has taken a firm stand and continues to use the traditional name while acknowledging Trump's renaming effort. AP Executive Editor Julie Pace said, "It is alarming that the Trump administration would punish AP for its independent journalism."</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -210,13 +214,13 @@
           color:#4D3060;
             text-align: left;
             border-bottom:2px solid #4D3060;
-            text-transform:uppercase;
+            
               font-size: 26px;
               line-height: 1.2;
               font-weight: 400;
            
               
-            "> briefs </h2>
+            "> Briefs </h2>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -234,14 +238,14 @@
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>A shooting at an adult education center in Örebro, Sweden, left around 10 people dead</strong>, including the suspected attacker. Police are treating the incident as a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-serious-crime" target="_blank">serious crime</a> but do not believe there was a terrorism motive, and the perpetrator was not known to authorities. Sweden's justice minister and prime minister expressed condolences, acknowledging the event as tragic and unusual.</p>
+                    "><strong>Constantine Tassoulas has been elected Greece’s president</strong>, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br1-4-succeeding-katherine-sakellaropoulou" target="_blank">succeeding Katerina Sakellaropoulou</a>. He is known for his advocacy for the return of the Parthenon sculptures from the British Museum. Despite facing controversy over a rail disaster, Tassoulas is optimistic about repatriating the ancient artifacts.</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>The M23 rebel group has announced a unilateral ceasefire in eastern DR Congo for humanitarian reasons</strong>. This follows their <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-capture-of-goma" target="_blank">capture of Goma</a>, which led to widespread casualties and displacement. The rebels said they would not attack Bukavu or other areas but would continue defending civilians and their positions.</p>
+                    "><strong>French President Emmanuel Macron and Indian PM Narendra Modi visited Marseille, France</strong>, to strengthen ties. They focused on projects like the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br2-5-indian-middle-east-europe-economic-corridor" target="_blank">India-Middle East-Europe Economic Corridor</a> (IMEC) and discussed nuclear energy cooperation and the trade of military equipment, including Rafale jets and submarines.</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -259,14 +263,14 @@
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Trump signed an executive order to create a US sovereign wealth fund, led by Treasury Secretary Scott Bessent and Commerce Secretary nominee Howard Lutnick</strong>. Funded by monetizing government assets or tariffs, it aims to finance infrastructure, manufacturing, and research. Trump suggested it could exceed $2 trillion, rivaling the world’s largest SWFs like Norway’s (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-largest-fund-list" target="_blank">largest funds list</a>).</p>
+                    "><strong>US consumer prices rose 0.5% in January, the highest in nearly 1.5 years</strong>, driven by higher value for shelter, food, and gasoline. Inflation reached 3.0% annually, reducing hopes for interest rate cuts. The Federal Reserve remains cautious, and stock markets reacted negatively. Tariffs and economic policies may further impact inflation (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br3-6-inflation-chart" target="_blank">inflation chart</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Pfizer reported better-than-expected Q4 profits</strong>, driven by cost cuts and resilient COVID-19 vaccine sales. Comirnaty generated $3.38 billion, exceeding forecasts, while Paxlovid fell short. <strong>Sales of heart drug Vyndaqel and cancer therapy Padcev</strong> also surpassed estimates. Pfizer’s cost-saving measures aim to cut $4.5 billion by 2024. Shares rose 2% in premarket trading (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-earnings-report" target="_blank">earnings report</a>).</p>
+                    "><strong>Nissan and Honda’s $60 Bn merger talks collapsed</strong> due to Nissan’s reluctance to accept Honda’s agreement, including becoming a subsidiary and making deeper job cuts. Honda lost patience with Nissan’s slow decision-making. Nissan faces struggles, including the US tariffs, and may seek partners like Foxconn for future collaboration (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br4-7-what-went-down" target="_blank">what went down</a>).</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -284,14 +288,14 @@
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Researchers at the University of Toronto have linked the decline of polar bears in Western Hudson Bay to shrinking sea ice</strong> caused by climate change. Due to shorter ice seasons, the bears cannot hunt as much, leading to energy deficits and reduced reproduction. The study predicts that a similar population decline will occur for other polar bear populations as sea ice shrinks (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-study-summary" target="_blank">study summary</a>).</p>
+                    "><strong>Google has removed default references to holidays and cultural events</strong> like Pride Month, Black History Month, and Holocaust Remembrance Day from its online calendar, citing scalability issues. The changes were made in mid-2024, and Google shows public holidays and national observances, allowing users to add other events manually (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br5-8-what-to-know" target="_blank">what to know</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>Microsoft is set to remove the VPN feature from its Microsoft 365 subscription on February 28, 2025</strong>. Originally intended to provide privacy protection by encrypting internet traffic and hiding IP addresses, the feature was underused due to limitations like a 50GB monthly data cap and restricted regional access. This change follows recent subscription price hikes and adding AI features to Microsoft 365 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-about-the-change" target="_blank">about the change</a>).</p>
+                    "><strong>Northern Africa may shape an ocean as tectonic plates</strong> pull apart along the East African Rift. This process could eventually separate the Horn of Africa from the rest of the continent. Experts have long known that portions of the continent are separating by as much as 0.3 inches a year in some places (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br6-9-about-the-ocean-formation" target="_blank">about the ocean formation<a/>).</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -309,14 +313,15 @@
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>The Asian Winter Games are returning to Harbin, China, with a record 34 participating countries and 1,275 athletes</strong>. The Games start on February 7, which coincides with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-harbins-ice-festival" target="_blank">Harbin’s ice festival</a>. Bhutan, Cambodia, and Saudi Arabia will debut in the games. (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-about-the-games" target="_blank">about the games</a>)</p>
+                    "><strong>Sir Salman Rushdie testified in court about being repeatedly stabbed</strong> during an attack in August 2022, which left him blind in one eye. He described feeling like he was dying and lying in a "lake of blood" but survived thanks to bystanders who subdued the attacker. Rushdie was airlifted to a trauma center for treatment after the incident (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br7-10-about-the-case" target="_blank">about the case</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            "><strong>According to his lawyer, Justin Baldoni is reportedly "devastated" over his legal battle with Blake Lively</strong>. The conflict began after Lively accused Baldoni of sexual harassment and retaliation, leading Baldoni to file a counter-lawsuit for civil extortion and defamation. The case is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-scheduled-for-trial" target="_blank">scheduled for trial</a> in March 2026, with both sides facing significant legal and financial challenges.</p>
+                    "><strong>In her Grammy award speech, Chappell Roan called for better rights for musicians</strong>, which led to a surge in support for Backline, a charity focused on mental health for artists. After donating $25,000, Chappell inspired artists like Charli XCX and Noah Kahan to match her contribution, highlighting the need for lasting change in the music industry (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br8-11-about-backline" target="_blank">about Backline</a>).
+</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
       </mj-column>
@@ -330,39 +335,32 @@
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
-              line-height: 1.5;
-              border-left: 3px solid #4D3060;
-              padding-left: 14px;
-              margin-bottom: 15px;
-            ">Google’s AI Super Bowl ad is getting its cheese fact wrong (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-the-truth" target="_blank">the truth</a>).</p>
-          <p style="
-              font-size: 16px;
               line-height: 1.5;  
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">This snowy Japanese city of love is sick of over-tourism (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-read-why" target="_blank">read why</a>).</p>
-          <p style="
-              font-size: 16px;
-              line-height: 1.5;  
-              border-left: 3px solid #4D3060;
-              padding-left: 14px;
-              margin-bottom: 15px;
-            ">The Sims blow out 25 candles (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-how-it-took-over" target="_blank">how it took over</a>).</p>
+            ">Chinese marriages reach record lows (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br9-12-read-more" target="_blank">read more</a>).</p>
           <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">The 10 best movies to watch in February (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-see-the-list" target="_blank">see the list</a>).</p>
-            <p style="
+            ">Japan wants to maximize nuclear power again (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br10-13-find-out-why" target="_blank">find out why</a>).</p>
+          <p style="
               font-size: 16px;
               line-height: 1.5;
               border-left: 3px solid #4D3060;
               padding-left: 14px;
               margin-bottom: 15px;
-            ">Acquitted former Marine Daniel Perry gets hired by Andreessen Horowitz (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-05-02-2025-read-details" target="_blank">read details</a>).</p>
+            ">“Gulf of America” hits Google Maps for real (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br11-14-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Alternative travel? Syria is reopening to tourists (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-13-02-2025-br12-15-check-it-out" target="_blank">check it out</a>).</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -380,7 +378,7 @@
               text-align: center; 
               margin: 0;
               color: #ffffff;
-            ">On this day in 146 BCE, the Third Punic War ended with the destruction of Carthage, the enslavement of its people, and Roman dominance over the Mediterranean.</p>
+            ">On this day in 1689, William and Mary were proclaimed king and queen of England, ruling jointly as William III and Mary II until her death in 1694.</p>
             </mj-text>
           </mj-column>
         </mj-section>
@@ -401,7 +399,7 @@
               color:#000;
               font-size:12px;
               line-height: 2;
-            "> Interested in connecting with curious, informed readers? <a  style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
           <p style="
               color:#000;
               font-size:12px;   

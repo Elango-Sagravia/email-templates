@@ -93,61 +93,62 @@
         </mj-text>
       </mj-column>
     </mj-section>
-    <!--  LS ad -->
 
+
+   <!-- PS ad -->
    <mj-spacer height="10px" />
     
     <!-- title -->
-    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
       <mj-spacer height="12px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
         <p style="font-size: 12px; line-height: 1.2">
-            <i>In partnership with Long and Short</i>
-        </p>
-      </mj-text>
+            <i>In partnership with Presidential Summary</i>
+        </p> 
+      </mj-text> 
         <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
           padding-bottom:8px;
-          color:#6b705c;
+          color:#4D3060; 
             text-align: left;
             letter-spacing:1px;
-            border-bottom:2px solid #6b705c;
+            border-bottom:2px solid #4D3060;
               font-size: 26px;
               line-height: 1.2;
               font-weight: 300;
-              
                
-            ">Markets in minutes</h2>
+            ">Stay informed, widen your worldview</h2>
         </mj-text>
       </mj-column>
     </mj-section> 
  
-    <!-- Content sections -->  
+    <!-- Content sections -->
     <mj-section background-color="#ffffff"> 
       <mj-column>
-        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.geopoliticalsummary.com/gs-12-feb-2025-ad-ls" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.geopoliticalsummary.com/gs-13-feb-2025-ad-ps" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-          In the world of finance, we keep it clear,<br/>
-          Bringing you insights year after year.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-          From deals to trends, from risks to rewards,<br/>
-          We uncover the market’s untold chords.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-          Make informed choices, seize what’s new,<br/>
-          Join us today for a sharper view.
-          </p>
-        </mj-text>
-         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.geopoliticalsummary.com/gs-12-feb-2025-ad-ls" target="_blank">Join Long and Short</a></p>
+          <p style="font-size: 16px; line-height: 24px">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Politics, culture, tech, and trade,<br/>
+          We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed and lead the way,<br/>
+          Join us now; don’t miss a day.</p>
+        </mj-text> 
+         <mj-text padding="10px 12px"  font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.geopoliticalsummary.com/gs-13-feb-2025-ad-ps" target="_blank">Join Presidential Summary</a></p>
           </mj-text>
       </mj-column>
     </mj-section>
-<!-- /LS ad -->
+
+  <!-- /PS ad -->
+
+
+
     <!-- /bh ad -->
     <mj-spacer height="10px" />
     <!-- Content sections -->
