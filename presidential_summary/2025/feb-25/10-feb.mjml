@@ -1,0 +1,477 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw> 
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;   
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px; 
+              line-height: 1.5;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ CFPB shut down</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Trading cards are back</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Philadelphia Eagles win Super Bowl</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">DeepSeek canceled for the US government devices</h2>  
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/deepseek-canceled-for-the-us-government-devices.png" alt="An image of the Deepseek AI as seen in the app store" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            An image of the Deepseek AI as seen in the app store. Credit: MoneyControl
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Congress will ban Chinese AI app DeepSeek over surveillance fears amid rising US-China trade tensions.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">House lawmakers are pushing to ban the Chinese AI app DeepSeek from US government devices over security concerns. Josh Gottheimer and Darin LaHood introduced a bipartisan bill called “<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h1-1-no-deepseek-on-government-devices-act" target="_blank">No DeepSeek on Government Devices Act</a>” on Thursday. The legislation aims to prohibit federal employees from using the app, citing risks of surveillance and misinformation. 
+</p>
+          <p style="font-size: 16px; line-height: 1.5">DeepSeek, developed by a Chinese software company, recently released an AI model that rivals American firms like OpenAI and Meta at a fraction of the cost. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h1-2-reports-claim" target="_blank">Reports claim</a> that DeepSeek’s code may transmit user login information to a Chinese state-owned telecom company, raising further alarm. Gottheimer said that Congress should further investigate its capabilities.
+</p>
+          <p style="font-size: 16px; line-height: 1.5">This move reflects broader <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h1-3-us-china-tensions" target="_blank">US-China tensions</a> over technological competition. The US has already restricted Chinese tech and apps, imposed tariffs, and blocked exports of advanced microchips crucial for AI development. Lawmakers argue that banning DeepSeek from government networks is necessary to safeguard national security and call for further investigation into the app’s surveillance capabilities.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-10-feb-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, seize what’s new,<br/>
+          Subscribe today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.presidentialsummary.com/ps-10-feb-2025-ad-ls">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+    <!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">CFPB watchdogs muzzled</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/cfpb-watchdogs-muzzled.png" alt="A special police member monitors a protest while inside the Consumer Financial Protection Bureau (CFPB) building in Washington" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"> 
+            A special police member monitors a protest while inside the Consumer Financial Protection Bureau (CFPB) building in Washington. Credits: Nathan Howard/Reuters.
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: The CFPB is the second federal agency to close under Trump’s deregulation. Watchdog protests were ignored as headquarters closed amid Musk's growing influence.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The US Consumer Financial Protection Bureau (CFPB), established in 2010 to regulate financial institutions and protect consumers, has been effectively <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h2-4-shut-down" target="_blank">shut down</a> under the Trump administration. Acting director Russell Vought, a fiscal conservative appointed by Trump, suspended all agency activities. The CFPB headquarters in Washington will be closed from February 10 to 14. A labor union representing CFPB employees has since filed two lawsuits against Vought.</p>
+          <p style="font-size: 16px; line-height: 1.5">The move sparked <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h2-5-protests-from-cfpb-workers" target="_blank">protests from CFPB workers</a> on Saturday, who voiced concerns over Elon Musk’s influence on federal policy and potential conflicts of interest. Following Musk’s tweet, “<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h2-6-cfpb-rip" target="_blank">CFPB RIP</a>,” the agency’s website crashed. Musk had previously expressed similar sentiments about the US Agency for International Development (USAID), which was later dismantled under Trump, raising further alarm over his growing sway in government affairs.
+</p>
+          <p style="font-size: 16px; line-height: 1.5">The CFPB says it has obtained nearly $20 billion in financial relief for US consumers through canceled debts, compensation, and reduced loans since its founding. With its oversight now frozen, financial watchdogs warn that the agency’s dismantling could strip away critical consumer protections, leaving banks and lenders with little accountability. Critics see this as part of a broader deregulatory push prioritizing corporate interests over financial safeguards.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">Truce or ticking time bomb?
+</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Hamas released three Israeli hostages in exchange for 183 Palestinian prisoners. Rising tensions and global interference threaten to unravel the fragile ceasefire.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Hamas released three Israeli hostages on Saturday, handing them over to the Red Cross in Gaza’s Deir al-Balah area. In exchange, Israel freed 183 Palestinian prisoners as part of the ongoing <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h3-7-ceasefire-deal" target="_blank">ceasefire deal</a>. The Palestine Red Crescent Society reported that eight of the released prisoners required hospitalization due to alleged mistreatment and torture in Israeli custody.</p>
+          <p style="font-size: 16px; line-height: 1.5">While humanitarian aid has increased, temporarily <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h3-8-averting-famine" target="_blank">averting famine</a>, the World Health Organization estimates that 14,000 Palestinian patients, including 5,000 children, urgently need evacuation for advanced medical care. Despite the ceasefire agreement, evacuations have fallen far short of expectations. UN humanitarian chief Tom Fletcher warned that the situation could deteriorate rapidly if the truce collapses.
+</p>
+          <p style="font-size: 16px; line-height: 1.5">Concerns over the stability of the ceasefire have intensified, particularly after former US President Donald Trump suggested relocating Palestinians from Gaza, triggering diplomatic backlash from many nations. Israeli Prime Minister <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-h3-9-signalled-support" target="_blank">signaled support</a> for Trump's proposal, fueling speculation that Israel has no plans to withdraw and potentially undermining the ceasefire agreement. These uncertainties may reignite hostilities.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> DON’T MISS
+ </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Panama became the first Latin American country to exit the Belt and Road Initiative</strong>, prompting China to accuse the US of coercion. The move followed President Trump’s warning to "take back" the Canal if Panama did not denounce Chinese influence. While China does not control the canal, a Hong Kong-based firm operates key ports along the waterway, fueling geopolitical tensions (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br1-10-china-comments" target="_blank">China’s comments</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Sam Nujoma, Namibia’s founding father and first president, passed away at 95</strong> after a three-week hospitalization in Windhoek. A charismatic leader, he founded the South West Africa People’s Organisation and led Namibia’s fight for independence, which was achieved in 1990. Nujoma served as president for 15 years before stepping down in 2005 and retiring as SWAPO leader in 2007 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br2-11-see-his-journey" target="_blank">see his journey</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>African leaders convened at the crisis summit in Tanzania and called for an immediate and unconditional ceasefire</strong> in the Democratic Republic of Congo. They urged all warring parties, including the Rwanda-backed M23 rebels, to hold <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br3-12-peace-talks-within-five-days" target="_blank">peace talks within five days</a>. Leaders also called for an opening of humanitarian corridors to evacuate the dead and injured (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br3-12-congo-conflict" target="_blank">Congo’s conflict</a>).
+</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;"> Business & Finance </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The trading card market is booming, driven by nostalgia and investment potential.</strong> Events like the London Card Show have seen record attendance, with rare cards fetching up to $80,000. The global sports trading card market is projected to grow from $12.62 billion in 2024 to $23 billion by 2031, fueled by increasing collector demand and alternative investment appeal (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br4-14-about-the-market" target="_blank">about the market</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                      "><strong>Trump said Nippon Steel’s $14.9 billion bid for US Steel might be an investment</strong> instead of a purchase, but sources say the deal is still active. The issue has become political, with Trump and Biden opposing it. Nippon Steel’s stock fell 6% after Trump’s comments, adding uncertainty to the deal (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br5-15-trump-comment" target="_blank">Trump's comment</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Defense tech company Anduril is in talks to raise $2.5 billion at a $28 billion valuation</strong>, doubling its worth in months. Led by Founders Fund, the round follows $1.5 billion raised in August 2024. Anduril, known for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br6-16-autonomous-drones" target="_blank">autonomous drones</a> and AI defense tech, is expanding manufacturing and competing with industry giants like Lockheed Martin and Boeing (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br6-17-rapid-growth" target="_blank">rapid growth</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>PlayStation Network is back online after a multi-hour outage</strong> that began Friday evening, though PlayStation has not disclosed the cause. The outage affected online gameplay for titles like Fortnite, Call of Duty, and Grand Theft Auto and even caused issues with offline game license verification. PlayStation apologized for the disruption but faced criticism for a lack of timely updates (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br7-18-read-more" target="_blank">read more</a>).
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><strong>Nearly 4,900 yellow-spotted river turtles, also known as tracajás, have been released</strong> into Brazil’s Igapó-Açu River. This South American species is classified as vulnerable due to historical exploitation and ongoing threats. The Federal University of Amazonas has led conservation efforts for a decade, releasing over 70,000 turtles. These projects aim to restore wild populations and protect the species' future (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br8-19-watch-video" target="_blank">watch video</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Philadelphia Eagles win Super Bowl 59 champions</strong> after a commanding 40-22 victory over the Kansas City Chiefs at the Superdome in New Orleans, earning the franchise's second Super Bowl title. A-listers in attendance include Donald Trump, Taylor Swift, Lionel Messi, Jay-Z, and Adam Sandler. Kendrick Lamar performed at the 2025 halftime show (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br9-20-super-bowl-news" target="_blank">Super Bowl news</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Irish boxer John Cooney has died at 28, a week after suffering injuries</strong> during his February 1 fight against Nathan Howells at Ulster Hall. The bout was stopped in the ninth round, and he was rushed to Belfast’s Royal Victoria Hospital, where doctors discovered an intracranial hemorrhage. Cooney was defending his Celtic super-featherweight title, which he won in November 2023 after defeating Liam Gaynor in Dublin (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br10-21-see-tributes" target="_blank">see tributes</a>).
+</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Dalai Lama’s elder brother dies at 97. (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br11-22-who-is-he" target="_blank">Who is he?</a>)</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Rare images of the Himalayas from a century ago (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br12-23-see-images" target="_blank">see pictures</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">10 most popular Valentine’s Day date ideas in 2025 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br13-24-get-ideas" target="_blank">get ideas</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Kobe sneakers from the Achilles tendon injury game sell for $660,000 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-02-2025-br14-25-see-the-shoes" target="_blank">see the shoes</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">On this day in 1996, world chess champion Garry Kasparov began a six-round match against IBM's Deep Blue, winning 4–2 before losing a rematch the following year.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a  style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

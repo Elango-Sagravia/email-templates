@@ -1,0 +1,436 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In today’s edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Gambling stocks get a much-needed boost</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Bounty for the arrest of Evo Morales</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ How does the tragedy of the commons apply in modern markets?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/" target="_blank">Subscribe for free</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">SPOTLIGHT</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">BP faces activist pressure as Elliot builds stake</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/bp-faces-activist-pressure-as-elliot-builds-stake.png" alt="An image of the BP fuel station" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">An image of the BP fuel station. Credits: Bloomberg </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Activist investor Elliot Investment Management has accumulated a <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h1-1-significant-stake" target="_blank">significant stake</a> in British energy giant BP. This has put significant pressure on the firm, as Elliot is known for pushing corporate shakeups. The investment firm is reportedly aiming for major changes at BP to unlock value. </p>
+          <p style="font-size: 16px; line-height: 1.5">BP has continued to underperform its peers in recent years. The company’s stock is down around 8% over the past five years. This is in stark contrast to energy firms like Shell and Total Energies, which have posted strong shareholder returns. The company started <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h1-2-pivoting-away-from-oil" target="_blank">pivoting away from oil</a> in 2020 and moved toward renewable energy.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Super Bowl betting surge gives a boost to struggling gambling stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The Super Bowl is set to generate about $1.4 billion in <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-3-legal-bets" target="_blank">legal bets</a>. This has given a boost to gambling stocks that have struggled for many years. The National Football League’s championship game is set to drive high engagement on betting apps. Shares of major gambling companies have fallen off from peak highs of 2021.</p>
+          <p style="font-size: 16px; line-height: 1.5">DraftKings has fallen about 41%, and MGM Resorts is down 32% from its peak price in 2021. The industry has continued to face regulatory challenges, including increased state taxes. The proposed <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-4-safe-bet-act" target="_blank">SAFE Bet Act</a> could increase the restriction on gambling companies, posing a challenge to growth.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-10-feb-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Politics, culture, tech, and trade,<br/>
+          We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed and lead the way,<br/>
+          Subscribe now; don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.longandshort.com/ls-10-feb-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇫🇷 France announced fresh AI investments</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">French President Emmanuel Macron has announced $112 billion in <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn1-5-artificial-intelligence-investments" target="_blank">artificial intelligence investments</a>. The announcement comes ahead of a high-profile AI summit in Paris. Macron emphasized the need for aggressive investments in AI and referenced Trump’s $500 billion Stargate AI initiative in the US.</p>
+          <p style="font-size:16px;line-height:1.5;">UAE funds plan to invest €30 billion and €50 billion in a new data center campus in France, whereas Brookfield Asset Management of Canada has pledged €20 billion. Local French companies are also expected to increase their AI spending significantly.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇧🇴 Billionaire suggests reward for arrest of Evo Morales</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;"> Bolivian-American billionaire Marcelo Claure hinted at offering a <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn2-6-1-million-bounty" target="_blank">$1 million bounty</a> for information on the arrest of former Bolivian president Evo Morales. The president is currently facing an arrest warrant. He has been charged with allegedly having a relationship with a minor.</p>
+          <p style="font-size:16px;line-height:1.5;"> Claure is a former Softbank executive who now manages his own investment fund. The billionaire is increasingly involved in Bolivia’s political landscape. He has previously expressed open support for a right-wing candidate to challenge the incumbent socialist MAS party. He blames the current government for the country’s economic struggle and for making Bolivia “uninvestable.”</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇸🇦 Saudi’s Maaden raises $1.25 billion to fund mining expansion</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Saudi Arabian Mining Co. (Maaden) <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn3-7-raised-1-billion" target="_blank">raised $1.25 billion</a> through its debut sukuk (Islamic bond) issuance. The company has laid out an ambitious $12 billion expansion plan. The sukuk generated strong investor interest and went over-subscribed.</p>
+          <p style="font-size:16px;line-height:1.5;"> Saudi Arabia has been pushing for diversifying assets under its Vision 2030. Maaden’s CEO Bob Wilt emphasized the strong demand for Saudi Arabia’s mining sector. Earlier this year, the company formed a joint venture with <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn3-8-saudi-aramco" target="_blank">Saudi Aramco</a> to explore and mine energy transition metals. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Briefs -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>AMD stock struggles as the AI chip race widens the gap with Nvidia</strong>. The stock has fallen by more than 25% since the end of 2023. The company’s recent earnings raised more concerns as management refrained from providing forward guidance for AI accelerator revenue (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m1-9-details" target="_blank">details</a>). </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Bill Ackman acquired a $2 billion stake in Uber</strong> and recently disclosed his holding in the company. He described Uber as one of the ‘best-managed and highest-quality businesses in the world’ (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m2-10-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Hedge funds push bullish corn bets</strong>. The Chicago Board of Trade's bullish bets on corn are at the highest level since April 2022. The previous week marked the seventh consecutive week of net corn buying (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m3-11-details" target="_blank">details</a>). </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Mali’s gold output plunged 23% as mining disputes escalated</strong>. The output fell by 51 metric tons in 2024 from 66.5 metric tons in 2023. Barrick, the country’s largest gold producer, is facing escalating tensions with Mali’s military-led government over a mining law introduced in 2023 (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m4-12-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Iran’s currency hits record low as the US ramps up pressure</strong>. In unofficial markets, the Iranian rial traded at 892,500 per US dollar. The currency faces new sanctions under Trump’s “maximum pressure” campaign (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m5-13-details" target="_blank">details</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Crypto firms ramp up lobbying efforts as Trump administration takes a pro-digital stance</strong>. Firms like Uniswap, Kraken, Jump Trading, and Solana Foundation are looking for experts with a strong network with Trump officials to help navigate potential regulatory shifts (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m6-14-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>The SEC signals a potential shift in crypto ETF approvals under the new administration</strong>. The regulator seeks public comments on Grayscale’s proposed Solana and Litecoin ETFs, in stark contrast to its previous reluctance to acknowledge such filings (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-m7-15-details" target="_blank">details</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">FOUNDATIONS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">How does the tragedy of the commons apply in modern markets?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/the-tragedy-of-the-commons.png" alt="Influence of the tragedy of commons on social media platforms" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"> Influence of the tragedy of commons on social media platforms. Credits: Hasna Mariyam VP </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-f1-16-the-tragedy-of-the-commons" target="_blank">The tragedy of the commons</a> is an economic concept that describes <strong>how people acting in their own self-interest may harm the collective good</strong>. The concept was used to describe practices such as deforestation, where people looking for short-term profits damage the ecosystem and their own livelihoods in the long run. </p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>Example: Promotion of sensational content on social media platforms</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">The concept is highly relevant in modern markets as well. One such example is the <strong>promotion of sensational content on social media platforms</strong>. While the content attracts eyeballs, leading to higher ad revenues for the platform, it eventually decays public trust in online platforms, damaging the broader information ecosystem. </p>
+          <p style="font-size: 16px; line-height: 1.5">Similarly, sometimes firms use <strong>excessive amounts of leverage to amplify short-term returns</strong>. However, if enough firms become over-leveraged, the financial system becomes vulnerable to risks that can lead to a market crash.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.longandshort.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.longandshort.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.longandshort.com/icons/social/reddit.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
