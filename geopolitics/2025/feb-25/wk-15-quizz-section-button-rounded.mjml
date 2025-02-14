@@ -1,0 +1,422 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In today’s weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">→ Georgian opposition arrested</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">→ CDU popularity tanks</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">→ Pope meets Jordanian queen</p>
+          
+          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px"> Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/" target="_blank">Subscribe for free</a>. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">RECAP</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇬🇪 Georgia arrests two opposition leaders</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Daily protests took place in Georgia after Prime Minister Irakli Kobakhidze <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-r1-1-delayed-eu-membership-talks" target="_blank">delayed EU membership talks</a> until 2028. On Sunday, police arrested two opposition leaders, Nika Melia, and former Tbilisi mayor Gigi Ugulava, during demonstrations in the capital. Melia later claimed he was assaulted while in custody. Thousands of protesters gathered outside a shopping complex and briefly blocked a major road before being warned by authorities. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            The opposition continues to contest the October elections, which Georgian Dream claims to have won. In December, Mikheil Kavelashvili was controversially <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-01-2025-r1-2-inaugurated-as-president" target="_blank">inaugurated as president</a>. The EU’s foreign policy chief condemned the crackdown, voicing support for protesters. Georgia previously saw mass demonstrations over a controversial media and NGO oversight law.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇩🇪 German CDU losing popularity</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Support for Germany's CDU/CSU alliance has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-r2-3-dropped-to-28" target="_blank">dropped to 28%</a>, a two-point decline ahead of the February 23 elections. This comes after Center Right CDU candidate Friedrich Merz collaborated with the far-right AfD on a border policy resolution, causing controversy. Merz's approval ratings also fell to 22%, matching Green Party candidate Robert Habeck. Merz later denounced AFD as a threat to the CDU.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Meanwhile, the AfD remained at 20%, the Social Democrats remained at 16%, and the Greens gained a point to 15%. Smaller parties are battling to clear the 5% threshold to enter the Bundestag. A different poll conducted by the INSA Institute found the CDU/CSU unchanged at 30%, with the AfD at 22%. The elections follow the collapse of <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-r2-4-chancellor-scholz-coalition" target="_blank">Chancellor Scholz's coalition</a> in November 2024.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px; line-height:1.2;">
+          <strong>🇺🇦 Zelenskyy says he is ready for direct talks with Putin</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Volodymyr Zelensky expressed his willingness to <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-r3-5-direct-talks-with-putin" target="_blank">direct talks with Putin</a> to end nearly three years of war. In an interview with Piers Morgan, he stated that he would participate alongside four unspecified participants if negotiations could bring peace without further losses. Putin, however, recently dismissed the idea of speaking directly with Zelensky.
+          </p>
+            <p style="font-size: 16px; line-height: 1.5"> 
+            Both sides are pushing for battlefield gains ahead of potential talks. Both have exchanged relatively empty words on making peace. Zelensky acknowledged that Ukraine may not <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-r3-6-regain-all-lost-territories" target="_blank">regain all lost territory</a> due to insufficient international support. He restated that Ukraine’s path to NATO membership remains its preferred solution for long-term security.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">MARKETS IN MINUTES</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.longandshort.com/gs-8-feb-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, seize what’s new,<br/>
+          Subscribe today for a sharper view.
+          </p> 
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/gs-8-feb-2025-ad-ls" target="_blank">Subscribe to Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+   <mj-spacer height="10px" />
+   
+    <!-- the big quesstion -->
+    
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">THE BIG QUESTION</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">What changes has Syria made in its foreign policy?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px; line-height:1.5;">Syria’s interim president wasted no time giving Syria’s foreign policy a facelift. There have already been some significant changes compared to the foreign policy program of former ousted president Basser Assad. Syria-Russia relations have soured, and the longstanding alliance is no longer in place. Syria is insisting on the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-bq1-7-extradition-of-the-former-president" target="_blank">extradition of the former president</a> to allow it to keep its bases, but Russia is not interested in complying with this request.</p>
+          <p style="font-size:16px; line-height:1.5;">The shift has upgraded Turkish and Saudi relations. In February 2025, President al-Sharaa made his <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-bq1-8-first-international-trip" target="_blank">first international trip</a> to Saudi Arabia, meeting with Crown Prince Mohammed bin Salman. Discussions focused on enhancing security, stability, and economic cooperation, signaling a potential shift away from Iran as Syria's primary regional ally. President al-Sharaa has indicated that future ties should be based on mutual respect and non-interference.</p>
+          <p style="font-size:16px; line-height:1.5;">Many Syrians are angry towards Iran; while the foreign policy doesn't want to block it completely, it won’t be the same relationship. Relations with Turkey are a higher priority. Syria’s president met with Turkish President Recep Erdogan after visiting Saudi Arabia. They discussed joint security strategies, particularly concerning Kurdish militants in northeastern Syria, and <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-bq1-9-explored-economic-collaboration" target="_blank">explored economic collaboration</a>.</p>
+          <p style="font-size:16px; line-height:1.5;">The new government also wants to repair its relations with the West. The EU and the US have dropped some sanctions. President <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-bq1-10-emmanuel-macron" target="_blank">Emmanuel Macron</a> was the first European head of state to speak to al-Sharaa directly.  They have told them they need to adopt an inclusive government. This remains to be seen with the internal complications it faces with the different factions of Syrian society. It also depends on how secular Syria is willing to be.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            "> TODAY AGO </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- today ago-->
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">On this day in 1867, the Ausgleich (Compromise) established the Dual Monarchy of <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-08-02-2025-ta-austria-hungary" target="_blank">Austria-Hungary</a>. The kingdom of Hungary desired equal status with the Austrian Empire, which was weakened by its defeat in the Austro-Prussian War of 1866. The agreement was a compromise between the Austrian emperor Franz Josef and Hungary, not between Hungary and the rest of the empire.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400; 
+              padding-bottom:8px;
+            "> Photo of the week </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/photo-of-the-week-8-2-25.png" alt="Pope Francis is seated next to Rania Al Abdullah, the queen of Jordan, at the first international summit on children's rights held in the Clementine Hall" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            Pope Francis is seated next to Rania Al Abdullah, the queen of Jordan, at the first international summit on children's rights held in the Clementine Hall. Credits: Vatican Pool/Getty Image
+          </p>
+        </mj-text>
+        <!-- <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Nordic leaders share a meal discussing Arctic security and other geopolitical issues.</p>
+        </mj-text> -->
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              text-transform: uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            "> GUESS THE FLAG </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border-radius="10px" border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/guess-the-flag-8-2-25.png" alt="Iceland's national flag" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section -->
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-08-02-2025-guess-the-flag" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              border-radius:20px;
+             
+              ">Finland</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-08-02-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+             border-radius:20px;
+          
+              ">Iceland</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-08-02-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;                                    background-color: rgba(6,38,109,0.2);
+              border-radius:20px;
+           
+              ">Sweden</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-08-02-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2);
+              border-radius:20px;
+              
+              ">Denmark</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.reddit.com/user/GeopoliticsWorld/" src="https://www.geopoliticalsummary.com/icons/social/reddit.png">
+          </mj-social-element>
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
