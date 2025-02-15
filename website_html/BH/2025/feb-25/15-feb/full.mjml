@@ -1,0 +1,302 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">The Toyota touch: Engineering efficiency</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Looms to cars</h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Toyota was founded in 1937 by Kiichiro Toyoda, who came from a family of automation experts. <strong>His father, Sakichi Toyoda, founded Toyoda Automatic Loom Works</strong>. When Kiichiro traveled to America for higher studies, he was fascinated by the thriving automobile industry. When he returned, he convinced his family to invest in automotive development. This was the <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-15-02-2025-1-beginning-of-toyota-motors?source=website" target="_blank"> beginning of Toyota Motors</a>.
+          </p>
+        </mj-text>
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/first-toyota-dealership-us-toyota-motor-sales.png" alt="The first Toyota dealership in US, Toyota Motor Sales, USA, Inc., Hollywood, California" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            The first Toyota dealership in US, Toyota Motor, USA, Inc., Hollywood, California. Credits: Toyota Archives.
+          </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          From its inception, Kiichiro aimed to expand Toyota beyond Japan. The company’s first major interaction with the US came during the Korean War when the US military ordered over 5,000 vehicles from Toyota. <strong>Toyota formally entered the American market in 1957</strong> with Toyota Motor, USA, Inc., based in Hollywood, California. The company was responsible for selling, promoting, and distributing Toyota vehicles in the United States.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          In 1958, the company exported 287 Toyopet Crown sedans and one Land Cruiser to the US. However, the Toyopet sedan was poorly received due to its high charges and low horsepower. The Land Cruiser, on the other hand, gained a reputation for durability. It wasn’t until the release of the Toyota Corolla in 1968 that the company made a breakthrough in the US market, and has since become the world's best-selling passenger car.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+               
+            ">The "why" behind events</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">  
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.businesshistory.co/bh-15-feb-2025-ad-gs?source=website" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Dive into the stories that shape our fate,<br/>
+          From global conflicts to diplomatic debate.
+
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Behind each headline lies a deeper view,<br/>
+          We bring you insights clear and true.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Stay informed, stay ahead, don’t fall behind,<br/>
+          Join us today and sharpen your mind.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.businesshistory.co/bh-15-feb-2025-ad-gs?source=website" target="_blank">Join Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad --> 
+
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-spacer height="14px" />
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Two pillars of TPS</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Toyota is widely recognized for its exceptional reliability, quality, and value. A key factor in Toyota’s triumph is its superior supply chain management system, the <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-15-02-2025-2-toyota-production-system?source=website" target="_blank">Toyota Production System (TPS)</a>. Toyota integrated a lean manufacturing philosophy emphasizing continuous improvement (Kaizen), waste reduction, and efficiency. TPS is built on principles like just-in-time manufacturing (producing what is needed) and jidoka (automation with a human touch).
+         </p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>Just-in-time production refines and coordinates workflows</strong> to produce what is needed when needed. This prevents overproduction, reduces inventory burden, and optimizes supply chain efficiency. The origins of TPS trace back to Sakichi Toyoda, Kiichiro’s father, whose early innovations in automatic weaving looms came about because he wanted to help reduce his mother’s workload. This generational commitment to improvement became the backbone of Toyota’s philosophy.</p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>Jidoka, on the other hand, emphasizes adding a human touch to automation</strong>. This eliminates defective products and helps detect abnormalities and prevent them from recurring. Toyota believes craftsmanship is achieved by discovering the basic manufacturing principles through manual work and then applying them on the production line to implement kaizen steadily. Toyota’s pursuit of these two pillars of the TPS provides them with competitive strength and unique advantages.</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">What sets Toyota apart?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Although deeply rooted in Japanese traditions, Toyota successfully adapted to international markets by maintaining a <strong>“Made by Toyota” rather than “Made in Japan” identity</strong>. This approach allowed Toyota to integrate seamlessly into global markets while customizing its vehicles and operations to meet local demands. For example, when Toyota introduced the Yaris in 1999, European customers expected advanced technology, safety, comfort, and enhanced fuel efficiency. And Toyota delivered.</p>
+          </mj-text>
+
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/toyota-factory-assembly-line-production-process.png" alt="Inside a Toyota factory, assembly line" href="https://www.businesshistory.co" />
+           <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+             Inside a Toyota factory, assembly line. Credits: autocarpro.in
+          </p>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Toyota has also developed a strong network of suppliers committed to the TPS philosophy. This supply chain model has given Toyota a <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-15-02-2025-3-competitive-advantage-over-ford-and-gm?source=website" target="_blank">competitive advantage over Ford and GM</a>. First, it allows Toyota to produce vehicles more efficiently and cheaply. Additionally, Toyota maintains close relationships with its suppliers, ensuring a reliable supply of high-quality parts, especially during supply chain disruptions.</p>
+          <p style="font-size: 16px; line-height: 1.5">Other attributes that set them apart are the emphasis on “Chie,” the wisdom of experience, on the company’s front lines. They also believe in slow and steady growth, foster constant development, and set impossible goals. They also stress teamwork as the guiding principle, and the company has a customer first, dealers second, and manufacturers last approach.</p>
+          </mj-text> 
+      </mj-column>
+  </mj-section> 
+
+    <!-- banner -->  
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section"> 
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color=" #8C3321" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">“In the middle of difficulty lies opportunity.” - Albert Einstein, Theoretical physicist</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://www.reddit.com/user/BizHistory/"
+              src="https://www.businesshistory.co/icons/social/reddit.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

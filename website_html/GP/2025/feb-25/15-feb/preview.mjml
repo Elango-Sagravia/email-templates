@@ -1,0 +1,77 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">→ Dehli elections</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">→ Kosovar gridlock</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">→ Pope meets Jordanian queen</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇮🇳 Modi’s BJP wins high-stake election</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Narendra Modi’s Bharatiya Janata Party (BJP) <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-15-02-2025-r1-1-conquers-delhi-state-election?source=website" target="_blank">conquers the Delhi state election</a>, securing 40 out of 70 seats, ending the Aam Aadmi Party’s (AAP) decade-long rule. AAP leader Arvind Kejriwal and his deputy lost their seats in a major upset. The BJP’s victory is boosted after relying on a coalition in the national election. Kejriwal’s arrest on corruption charges, which he said were politically motivated, overshadowed the campaign.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            The result reflects voter fatigue with the AAP despite its welfare policies. The BJP’s focus on economic measures and governance promises attracted and resonated with voters. Ahead of this election, BJP slashed taxes on the salaried middle class, one of its key voting blocs, in the federal budget. The BJP returns to power in Delhi for the first time since 1998. 
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇷🇸 Serbian students protest mark 100 days</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Hundreds of students blocked a major highway and bridge in Belgrade for seven hours, marking <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-15-02-2025-r2-2-100-days-since-a-deadly-train-station-canopy-collapse?source=website" target="_blank">100 days since a deadly train station canopy collapse</a> in Novi Sad that killed 15 people. The protest observed 15 minutes of silence for the victims and threw 15 white roses that had been painted red into the Sava River. Protesters blame the government’s corruption, citing renovation contracts involving Chinese firms.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
