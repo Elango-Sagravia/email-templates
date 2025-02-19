@@ -115,63 +115,54 @@
       </mj-column>
     </mj-section>
 
-  <!-- 1 gp ad -->
+  <!-- 2 bh ad -->
     <mj-spacer height="10px" />
-    
     <!-- title -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
       <mj-column background-color="#ffffff" width="100%">
-      <mj-spacer height="12px"/>
-      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
-        <p style="font-size: 12px; line-height: 1.2">
-            <i>In partnership with Geopolitical Summary</i>
-        </p>
-      </mj-text>
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+          </p>
+        </mj-text>
         <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
           padding-bottom:8px;
-          color:#06266D;
+          color:#8C3321;
             text-align: left;
-            letter-spacing:1px;
-            border-bottom:2px solid #06266D;
+            border-bottom:2px solid #8C3321;
               font-size: 26px;
               line-height: 1.2;
-              font-weight: 300;
-              
-              
-               
-            ">The "why" behind events</h2>
+              font-weight: 400; 
+            ">Behind the scenes of businesses</h2>
         </mj-text>
-      </mj-column>
-    </mj-section> 
- 
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">  
-      <mj-column>
-        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.longandshort.com/ls-18-feb-2025-ad-gs" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-          Dive into the stories that shape our fate,<br/>
-          From global conflicts to diplomatic debate.
-
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-          Behind each headline lies a deeper view,<br/>
-          We bring you insights clear and true.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-          Stay informed, stay ahead, don’t fall behind,<br/>
-          Join us today and sharpen your mind.
-          </p>
-        </mj-text>
-         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-          <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.longandshort.com/ls-18-feb-2025-ad-gs" target="_blank">Join Geopolitical Summary</a></p>
-          </mj-text>
       </mj-column>
     </mj-section>
-
-  <!-- /gp ad --> 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-bh.png" alt="BEHIND THE SCENES OF BUSINESSES" href="https://link.longandshort.com/ls-19-feb-2025-ad-bh" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Uncover the deals that reshaped the game,<br/>
+          Big moves and risks that earned their fame.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From bold achievements to failures laid bare,<br/>
+          We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Step ahead with insights that sharpen your view,<br/>
+          Join us today and learn something new.
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.longandshort.com/ls-19-feb-2025-ad-bh" target="_blank">Join Business History</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <!-- /bh ad -->
 
    
     <mj-spacer height="10px" />
@@ -485,8 +476,6 @@
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
           </mj-social-element>
           <!-- Reddit Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.reddit.com/user/AltInvestmentNews/" src="https://www.longandshort.com/icons/social/reddit.png">
-          </mj-social-element>
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
           </mj-social-element>
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
