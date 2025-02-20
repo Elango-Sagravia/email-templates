@@ -1,0 +1,496 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Singapore denies involvement in DeepSeek’s rise</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ BP considers selling Castrol</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Multiplier effect in Keynesian economics</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Intel stock surges amidst news of strategic deals</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/intels-shares-trend-analysis-tsmc-broadcom-involvement.png" alt="Intel's shares have been trending, which can be attributed to the involvement of TSMC and Broadcom" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">Intel's shares have been trending, which can be attributed to the involvement of TSMC and Broadcom. Credits: aiinvest</p> 
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Intel saw its biggest stock rally since 2020 on Tuesday. The stock surged by 16% following speculations about <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-h1-1-potential-agreements-involving-tsmc-and-broadcom" target="_blank">potential agreements involving TSMC and Broadcom Inc</a>. Both companies are interested in acquiring Intel’s assets. As per reports, TSMC is interested in acquiring a controlling stake in Intel’s US factory operations.</p>
+          <p style="font-size: 16px; line-height: 1.5">On the other hand, Broadcom has held informal talks about purchasing Intel’s chip design and advertising business. Shareholders and Investors of Intel have long discussed the potential breakup of Intel’s divisions to unlock value. The company has struggled to keep pace with its competitors and has seen its stock struggle over the past few years.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Singapore denies role in Nvidia selling chips to DeepSeek</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">A senior official in the Singapore government denied any <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-h2-2-involvement-of-nvidia-in-the-rise-of-deepseek" target="_blank">involvement of Nvidia in the rise of DeepSeek</a>. Tan See Leng clarified that the country buys a small percentage of Nvidia’s chips. He added that most of the purchased chips are used by major enterprises and the government. Nvidia attributed about 22% of its quarterly figures last year to Singapore.</p>
+          <p style="font-size: 16px; line-height: 1.5">Tan explained that this figure is misleading, reflecting billing locations rather than actual physical shipments. Singapore is a major hub for global corporations, and companies often centralize invoicing in specific hubs, which is why Singapore appears to be a large buyer of Nvidia chips. The Trump administration is investigating whether DeepSeek acquired advanced Nvidia semiconductors through third parties in Singapore.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Stay informed, widen your worldview</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-20-feb-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Politics, culture, tech, and trade,<br/>
+           We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed and lead the way,<br/>
+          Join us now; don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.longandshort.com/ls-20-feb-2025-ad-ps" target="_blank">Join Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /PS ad -->
+
+   
+    <mj-spacer height="10px" />
+    <!-- World markets-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">World markets
+</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>
+            🇪🇺 European stocks climb as US and Russia discuss Ukraine ceasefire</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">European stocks reached record highs on Tuesday. <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-wn1-3-equities-rallied-on-optimism" target="_blank">Equities rallied on optimism</a> related to the end of the Ukraine war after renewed diplomatic talks between the United States and Russia. The Stoxx 600 Index rose 0.3% at the end of trading day, while the Euro Stoxx 50 reached an all-time high. The United States and Russia are in active talks, and a summit between President Trump and President Putin is expected. </p>
+          <p style="font-size:16px;line-height:1.5;">Despite the rally, some analysts maintain their cautious outlook. Panmure Liberum strategist Joachim Klement warned that despite the ongoing talks, obstacles remain in the way of a ceasefire, including the need to secure Ukraine’s agreement with any proposed resolution.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇬🇧 BP considers selling Castrol lubricants as investor pressure increases</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;"> Energy giant BP is considering <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-wn2-4-selling-its-castrol-lubricant-business" target="_blank">selling its Castrol lubricants business</a>. The activist investor Elliott Management is ramping up pressure on the company for strategic measures to unlock shareholder value. The company might announce the potential divestment during its Capital Markets Day.</p>
+          <p style="font-size:16px;line-height:1.5;">BP has struggled in recent years, with the stock value continuing on a downward trajectory since the company announced its strategy of moving away from traditional fuels by 2030. More recently, the company’s Q4 earnings dropped 61% year on year, the weakest since the pandemic-driven downturn in 2020.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇶🇦 Qatar commits $10 Bn investment in India to strengthen economic ties</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Qatar plans to <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-wn3-5-invest-10-bn-in-india" target="_blank">invest $10 Bn in India</a> as part of its effort to strengthen bilateral ties. Qatar’s sovereign wealth fund, Qatar Investment Authority (QIA), will open an office in India to facilitate further investments. The Indian government and the state of Qatar signed several agreements related to the Bilateral Strategic Partnership and a revised Double Taxation Avoidance Agreement.</p>
+          <p style="font-size:16px;line-height:1.5;">Both countries have strong strategic ties. Qatar is India's largest supplier of liquefied natural gas. The Gulf nation has invested in several Indian companies, including Reliance Industries’s retail arm and Adani Group’s power distribution businesses. Qatar’s rising investments in the country align with India’s broader efforts to attract foreign capital.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Plot twist</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+        <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto Politics</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/house-supports-crypto-senate-resists.jpg" alt="The House shows overwhelming support for crypto, while the Senate is resistant" href="https://www.altdaily.co" />
+             <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">The House shows overwhelming support for crypto, while the Senate is resistant.</p> 
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Republicans favor crypto</strong>: They show stronger support across elected offices, backing deregulation and innovation. Texas, Florida, and Wyoming lead in passing crypto-friendly legislation.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Democrats are split</strong>: Some support crypto, but many push for strict regulations, citing financial risks.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>House leans pro-crypto</strong>: More lawmakers advocate for crypto-friendly policies.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Senate more resistant</strong>: A greater share of anti-crypto members slows regulatory approvals.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump shifts stance</strong>: Once skeptical, he now supports crypto, energizing Republican lawmakers. Pro-crypto lobbying funds candidates to shape regulation.</p>
+
+          <!-- <p style="font-size:16px;line-height:1.5;">
+          Global markets could fall next week due to weak economic data, disappointing corporate earnings, rising geopolitical tensions, and potential interest rate hikes. Trade disputes and uncertainty over central bank policies may further affect investor confidence. Trump tensions and America's plans to impose 25% tariffs on Mexico and Canada next month and an additional 10% on Chinese goods could lead to escalating trade disputes and a drop in earnings.</p> -->
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Markets -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Markets</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000"> 
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Trump plans sweeping 25% tariffs on automobiles, semiconductors, and pharma imports</strong>. If implemented, this would significantly complicate the ongoing trade war. The move would impact European and Asian automakers, for whom vehicles sold in the US account for nearly 50% of their total sales (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m1-6-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Biogen will invest up to $550 Mn in an epilepsy drug agreement with Stoke Therapeutics</strong>. The drug, zorevunersen, targets the genetic mutation responsible for Dravet syndrome, aiming to reduce seizures and improve cognitive function (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m2-7-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Lyft has been downgraded to sell from neutral as Uber competition threatens margins</strong>. The ride-hailing firm has received its first sell rating. Uber’s ability to replicate the firm's innovations at lower value puts pressure on Lyft’s margins (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m3-8-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Chocolate’s market value could rise by 50%</strong>. Mondelez and Hershey Co. have warned that chocolate value could increase due to soaring cocoa values. Mondelez shares have declined nearly 14% over the last half-year, while Hershey’s stock has declined about 17% (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m4-9-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Sugar traders push for tighter delivery rules as exchange disputes grow</strong>. The Intercontinental Exchange (ICE) committee is set to vote on these proposed rule changes at the end of the current month. Proposed rules include higher charges for sellers in the event of loading delays and a steeper increase in demurrage (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m5-10-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Global firms shift to longer hedges and FX options amid rising currency volatility</strong>. A recent survey revealed that more than 75% of senior leaders in the US and UK reported losses in 2024 due to unhedged currency exposures (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m6-11-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The US dollar strengthened as Ukraine peace talks stalled and tariff concerns rose</strong>. On Tuesday, the dollar surged against major currencies. The euro fell 0.4%, and the British pound slipped 0.2% against the greenback (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m7-12-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Blockaid secured $50 Mn from Ribbit Capial</strong>. The company is expanding its efforts to combat rising cybercrime in the digital asset industry. Chainalysis data shows that funds stolen by crypto hackers rose 21% year-over-year to $2.2 Bn in 2024 (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m8-13-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>FTX begins repayments to creditors after a two-year bankruptcy battle</strong>. The firm went bankrupt in November 2022, leading to one of the biggest frauds in crypto history (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m9-14-details" target="_blank">details</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">Foundations</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">The multiplier effect in Keynesian economics</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/president-trump-tours-honeywell-n95-mask-factory.png" alt="President Donald Trump tours a Honeywell International Inc. factory producing N95 masks" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">President Donald Trump tours a Honeywell International Inc. factory producing N95 masks. Credits: Brendan Smialowski/AFP via Getty Images</p>
+        </mj-text> 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-19-02-2025-m10-15-the-multiplier-effect" target="_blank">The multiplier effect</a> is an economic concept that explains the relationship between <strong>spending and economic output</strong>. The theory suggests that an initial increase in spending can generate an <strong>outsized impact</strong> on overall economic output.</p>
+          <p style="font-size: 16px; line-height: 1.5">As governments or businesses inject currency into the economy, it results in higher income, which leads to additional spending and higher growth. This cycle of spending and re-spending continues, leading to a greater increase in the GDP than the original investment.</p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>Example: Government spending after pandemic</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">The multiplier effect becomes a key tool for stimulating demand amidst recessions. Governments worldwide use fiscal tools like increased spending to spur economic growth. For example, after the pandemic, major governments implemented stimulus packages to leverage the multiplier effect and prevent economic collapse.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.longandshort.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.longandshort.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
