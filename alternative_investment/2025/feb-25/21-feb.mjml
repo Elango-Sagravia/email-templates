@@ -1,0 +1,503 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Markets in minutes</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-image width="1px" src="https://www.longandshort.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Musk seeks funding</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Alibaba faces a reality check</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Elasticity of demand and its business implications</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+              margin-top:12px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">San Francisco 49ers consider selling minority stake</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/san-francisco-49ers-jed-york-super-bowl-lix-host-committee-press-conference.png" alt="San Francisco 49ers chief executive officer Jed York at the Super Bowl LIX host committee handoff press conference" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">San Francisco 49ers chief executive officer Jed York at the Super Bowl LIX host committee handoff press conference. Credits: Kirby Lee-Imagn Images/File Photo</p> 
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The San Francisco 49ers are exploring <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-h1-1-selling-a-stake-in-the-franchise" target="_blank">selling a 10% stake in the franchise</a> to private equity firms, high-net-worth individuals, or family investors. The move follows the NFL’s recent approval of private equity in franchises. If the selling goes through, the franchise could become one of the most valuable sports teams globally.</p>
+          <p style="font-size: 16px; line-height: 1.5">The raise would bring the company’s valuation to over $9 Bn. The NFL’s shift towards private equity ownership has continued to drive sports franchise valuations higher. Other teams, such as the Philadelphia Eagles and Miami Dolphins, have pursued similar transactions to fund stadium renovations.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">Elon Musk’s X seeks fresh funding</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Elon Musk’s X is in discussion to <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-h2-2-raise-funding-at-a-valuation" target="_blank">raise funding at a valuation of around $44 Bn</a>. The company is looking to raise funds to expand payments and video products and reduce its high debt burden. Some investors, including Fidelity Investments, have sharply written down the value of their stake as the platform struggled to retain advertisers after the takeover.</p>
+          <p style="font-size: 16px; line-height: 1.5">Musk acquired X through a leveraged buyout, which added $13 Bn in debt obligations. Moreover, Elon is also investing heavily in integrating Grok3, the latest AI chatbot, into X. The fundraising effort aligns with Musk’s broader strategy of leveraging private markets to fund his ventures. If successful, the funding round would stabilize X’s financials.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+   <!-- 1 gp ad -->
+    <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+               
+            ">The "why" behind events</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">  
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-gp.png" alt="THE “WHY” BEHIND EVENTS" href="https://link.longandshort.com/ls-21-feb-2025-ad-gs" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Dive into the stories that shape our fate,<br/>
+          From global conflicts to diplomatic debate.
+
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Behind each headline lies a deeper view,<br/>
+          We bring you insights clear and true.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Stay informed, stay ahead, don’t fall behind,<br/>
+          Join us today and sharpen your mind.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.longandshort.com/ls-21-feb-2025-ad-gs" target="_blank">Join Geopolitical Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+  <!-- /gp ad --> 
+   
+    <mj-spacer height="10px" />
+    <!-- World markets-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">World markets
+</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>
+            🇹🇷 Gramercy plans $1 Bn push into Turkish private credit</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Gramercy Funds Management plans to expand its <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-wn1-3-private-credit-investment-in-turkey" target="_blank">private credit investments in Turkey</a> to $1 Bn over the next two years. The firm sees a ripe market occasion as global banks scale back their lending in emerging markets. The Greenwich, Connecticut-based firm has already deployed half of that amount in more than 15 Turkish transactions since 2018. </p>
+          <p style="font-size:16px;line-height:1.5;">Traditional institutions are scaling back their exposure to developing markets. Hence, private credit investment firms see a chance to fill the gap with direct lending solutions. Last year, Gramercy raised $760 Mn for its third private credit fund, which focuses on emerging markets.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇩🇰 Novo Nordisk sues KBP Biosciences over failed hypertension drug</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Novo Nordisk has <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-wn2-4-filed-a-lawsuit" target="_blank">filed a lawsuit against Singapore-based KBP Biosciences</a>. The firm is seeking up to $830 Mn in damages over alleged misrepresentation of a hypertension drug. Novo alleges that KBP's founder misled the company into believing the drug was effective in treating hypertension and kidney disease.</p>
+          <p style="font-size:16px;line-height:1.5;">This led Novo to acquire the drug for $1.3 Bn. However, the drug failed to show efficacy in clinical trials. Singapore’s International Commercial Court has frozen assets belonging to KBP and Huang.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇨🇳 Alibaba’s $110 Bn AI-driven stock rally faces earnings test</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">In recent weeks, Alibaba has seen its <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-wn3-5-market-cap-rise" target="_blank">market cap rise by over $110 Bn</a>. The stock has rallied nearly 60% since January. Jack Ma’s engagement with the Chinese government, hype around AI, and a push toward cloud computing drive investor optimism around the stock.</p>
+          <p style="font-size:16px;line-height:1.5;">With the sharp rise in market capitalization in recent weeks, investors are keenly waiting for the upcoming quarterly earnings report. Analysts are expecting a 6.5% increase in revenue for Q3 2025.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Plot twist</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+        <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Bitcoin ETF dominates</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/bitcoin-net-flows-outpace-ethereum.jpg" alt="Net flows into Bitcoin outpace Ethereum" href="https://www.altdaily.co" />
+             <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">Net flows into Bitcoin outpace Ethereum.</p> 
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Higher volumes:</strong> Net flows into Bitcoin ETFs outpace Ethereum significantly, highlighting Bitcoin’s continued market appeal.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Investor preference:</strong> The data suggests many investors still view Bitcoin as the premier crypto asset, especially amid current spot ETF developments.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Early surge:</strong> Bitcoin’s inflows spike after launch, reflecting pent-up demand and broader anticipation of regulatory approvals.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Amplified by the news:</strong> Ongoing news about major institutions filing for Bitcoin spot ETFs likely fuels the difference in net flows.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Store-of-value appeal:</strong> Bitcoin’s reputation as “digital gold” drives robust ETF interest, particularly during market uncertainty.</p>
+
+           <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Potential for catch-up:</strong> Ethereum’s incremental gains could narrow the gap, especially if ETH-based products expand.</p>
+
+          <!-- <p style="font-size:16px;line-height:1.5;">
+          Global markets could fall next week due to weak economic data, disappointing corporate earnings, rising geopolitical tensions, and potential interest rate hikes. Trade disputes and uncertainty over central bank policies may further affect investor confidence. Trump tensions and America's plans to impose 25% tariffs on Mexico and Canada next month and an additional 10% on Chinese goods could lead to escalating trade disputes and a drop in earnings.</p> -->
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Markets -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Markets</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000"> 
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Forever 21 plans hundreds of store closures.</strong> The company is preparing for another bankruptcy filing, which could lead to at least 200 store closures. At its peak, Forever 21 operated over 500 stores in the US (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m1-6-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Carvana shares drop after weak Q4 results.</strong> The stock dropped sharply after the company reported declining gross gains per vehicle and weaker wholesale volumes. Revenue per vehicle fell by $1,000 a car to just over $22,000 in the latest quarter, pushing down retail gross gains per unit by $270 to $3,226. (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m2-7-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Exxon plans a major gas expansion in Guyana</strong> and is evaluating options to export the fuel to global markets. The company recently unveiled the Wales Gas Vision, which aims to utilize natural gas from Exxon’s Longtail development for domestic industries (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m3-8-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Cocoa traders and Ivorian exporters clash over market value.</strong> The global cocoa shortage intensifies tensions between local Ivory Coast exporters and two of the largest cocoa traders, with the FCC stepping in to provide an arbitration service (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m4-9-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Gold retreats from record high as strong dollar and Trump tariffs add uncertainty.</strong> Gold market value dipped on Wednesday after briefly touching an all-time high of $2,946 per ounce. The dollar index rose 0.1% against its rivals, making gold more expensive for other currency holders (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m5-10-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>US dollar gains as investors react to Trump tariffs and Russia-Ukraine talks.</strong> President Trump recently announced a 25% tariff on automobile imports, further pushing the greenback higher (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m6-11-details" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>South African Rand weakens as budget delay sparks investor concerns.</strong> The Rand fell nearly 0.9% against the US dollar after the country’s national budget was postponed due to disagreements within the coalition government (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m7-12-details-1" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Argentine President Milei’s crypto endorsement led to massive losses for traders.</strong> According to estimates, 86% of crypto traders who invested in the Libra token suffered losses totaling $251 Mn (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m8-13-details-1" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Saylor Strategy, previously known as MicroStrategy, adjusted a $2 Bn convertible bond amid stock volatility.</strong> The firm is advertising a 35% conversion premium on its zero-coupon convertible notes due 2030, lower than the initial target range of 40% to 50% (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-m9-14-details" target="_blank">details</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">Foundations</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">The elasticity of demand and its business implications</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/taylor-swift-concert-tickets.png" alt="Taylor Swift concert tickets" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">Taylor Swift concert tickets. Credits: Etsy</p>
+        </mj-text> 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-20-02-2025-f1-15-the-elasticity-of-demand" target="_blank">The elasticity of demand</a> is an economic concept that refers to the <strong>sensitivity of consumer demand to changes in market value or other factors</strong>. The idea is important for businesses as it impacts the <strong>pricing and production level</strong> that companies set to be profitable.</p>  
+          <p style="font-size: 16px; line-height: 1.5"><strong>Example: Demand shift behavior of non-essential vs essential items</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">When demand is elastic, consumers are highly responsive to price changes. Non-essential items or products with <strong>many substitutes</strong>, like clothing, usually exhibit elastic demand. Raising market value can lead to significantly lower product demand if a business operates in sectors with elastic demand.</p>
+          <p style="font-size: 16px; line-height: 1.5">In contrast, inelastic demand means consumers are <strong>less sensitive to price changes</strong>. Essential goods like basic food, pharmaceuticals, and fuel typically fall into this category. Businesses in these industries can raise market value without a significant drop in demand.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.longandshort.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.longandshort.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.longandshort.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
