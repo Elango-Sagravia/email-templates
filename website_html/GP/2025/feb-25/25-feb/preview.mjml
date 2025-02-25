@@ -1,0 +1,84 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Europe rallies around Ukraine</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Internet shutdowns at a record</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Japan and Philippines strengthen ties</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="font-size:24px;line-height:1.2;font-weight:500; margin-top:2px !important">Hezbollah leader funeral</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/hassan-nasrallah-hashem-safieddine-funeral-beirut-lebanon.png" alt="People gather for the funeral ceremony of Lebanon's late Hezbollah leaders Hassan Nasrallah and Hashem Safieddine at the Sports City Stadium in Beirut, Lebanon" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">People gather for the funeral ceremony of Lebanon's late Hezbollah leaders Hassan Nasrallah and Hashem Safieddine at the Sports City Stadium in Beirut, Lebanon. Credits: Hassan Ammar/AP</p>
+        </mj-text> 
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+         
+          <p style="font-size:16px;line-height:1.5;">Hezbollah leader Hassan Nasrallah's funeral was held in Beirut on Sunday. This came nearly <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-25-02-2025-h1-1-five-months-after-he-died?source=website" target="_blank">five months after he died</a> in an Israeli airstrike. The public funeral was held on Sunday at Beirut’s Camille Chamoun Sports City Stadium. Lebanese media said Israel disrupted the event with air attacks and low-flying jets. Since 1992, Nasrallah has built Hezbollah into a strong regional force.</p>
+          <p style="font-size:16px;line-height:1.5;filter:blur(5px);">Hezbollah official Ali Daamoush told reporters that about 800 personalities from 65 countries would attend the funeral. Experts say the funeral was a show of force and displayed their power to mobilize people from different parts of Lebanon. Nasrallah will be buried in a piece of land near the airport road in Beirut’s southern suburbs.  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
