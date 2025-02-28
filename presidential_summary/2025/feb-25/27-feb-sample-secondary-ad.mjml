@@ -1,0 +1,511 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw> 
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ South Korean baby boom</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ US home sales dropped</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Fyre Festival sequel</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>  
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">A golden ticket to the US</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-gold-card-visa-plan-white-house.png" alt="President Trump revealed his “gold card” visa plan to reporters at the White House" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">President Trump revealed his “gold card” visa plan to reporters at the White House. Credits: Chip Somodevilla/ Getty Images</p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">President Trump announced plans to sell a “gold card” to wealthy foreigners. The unique program will <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-h1-1-provide-permanent-residency" target="_blank">provide permanent residency</a> and a path to US citizenship for a $5 Mn fee. He says the sale of the cards will begin in a couple of weeks. This initiative can be considered a green card for the “high-level people.”</p>
+          <p style="font-size: 16px; line-height: 1.5">The “gold card” will replace the EB-5 immigrant investor visa program, which gave permanent residency to foreigners who invest around $1 Mn and create at least 10 full-time jobs. Commerce Secretary Howard Lutnick said the EB-5 program was poorly overseen and executed. He emphasized that applicants for this card would undergo vetting to ensure they are “world-class global citizens.”</p>
+          <p style="font-size: 16px; line-height: 1.5">Trump’s family businesses have previously utilized this program. Despite criticism from both sides of the political debate, the EB-5 program was renewed under President Biden in 2022. Other countries, mainly in Europe, offer golden visa schemes which provide pathways to EU citizenship. However, the minimum investment is usually around 250-500k. Trump suggested the revenue from the high-priced visas could be used to pay off US debt.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+ <!--  LS ad -->
+
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">Markets in minutes</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES" href="https://link.presidentialsummary.com/ps-27-feb-2025-ad-ls" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of finance, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, seize what’s new,<br/>
+          Join us today for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.presidentialsummary.com/ps-27-feb-2025-ad-ls" target="_blank">Join Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+    <!-- Content sections -->
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">MH370 search resumes
+          </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/malaysian-government-ocean-infinity-wreckage-payment.png" alt="The Malaysian Government said they will pay Ocean Infinity if significant wreckage is found" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">The Malaysian Government said they will pay Ocean Infinity if significant wreckage is found. Credits: ITV</p>
+        </mj-text>
+      
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The search for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-h2-2-malaysian-airlines-flight-mh370" target="_blank">Malaysia Airlines flight MH370</a> has resumed after 11 years. The Boeing 777, carrying 239 people, vanished on March 8, 2014. The flight was going outbound from Kuala Lumpur to Beijing. It was the most extensive aviation search in history, yet many questions are unanswered. The US and UK-based maritime exploration firm Ocean Infinity is leading the effort in cooperation with the Malaysian government.</p>
+          <p style="font-size: 16px; line-height: 1.5">Malaysia's Transport Minister, Anthony Loke, confirmed that the government had agreed to Ocean Infinity's proposal. The search, utilizing the Armada 78 06 vessel and autonomous underwater vehicles, focuses on 15,000 square kilometers off the coast of Western Australia. Four key spots, believed to be the most likely locations for the wreckage, will be prioritized.</p>
+          <p style="font-size: 16px; line-height: 1.5">Although some wreckage has washed ashore, the cause of the plane's deviation from its path remains unclear. Though the search details are yet to be finalized, Loke appreciated Ocean Infinity’s proactiveness in deploying their ships. The search operates under a "no find, no fee" agreement with the Malaysian government. Ocean Infinity already undertook a search for the aircraft in 2018.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">South Korea’s birthrate rebound</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: South Korea’s birthrate rose for the first time in nine years, and the country had a surge in marriages.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">South Korea's <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-h3-3-brith-rate-rose-in-2024" target="_blank">birthrate rose in 2024</a> for the first time in nine years, reaching 4.7 births per 1,000 people. The fertility rate increased slightly to 0.75 but remains far below the 2.1 needed for population stability. As societal attitudes toward marriage and childbirth shifted, births grew by 3.6% to 238,300, driven by a 14.9% marriage surge.</p>
+          <p style="font-size: 16px; line-height: 1.5">The government has provided monetary incentives for newlyweds and expanded childcare support to boost birth rates. Still, South Korea's population keeps shrinking. In 2024, deaths outnumbered births by 120,000. The population is expected to drop from 51.83 Mn in 2020 to 36.22 Mn by 2072. Experts say immigration might be needed to halt this decline.</p>
+          <p style="font-size: 16px; line-height: 1.5">Like Japan, South Korea has a homogenous population and strict immigration policies. However, immigration to South Korea has increased in recent years. The population of foreigners in South Korea accounts for about 5% of the total, and many are not permanently in South Korea. The high cost of living, education, and a tough job market deter Koreans from having larger families.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+
+    <!-- Global Affairs -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Polish President Andrzej Duda has offered to host US troops</strong> if Germany no longer wants them. He emphasized Poland’s readiness to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br1-4-strengthen-its-partnership-with-the-us" target="_blank">strengthen its partnership with the United States</a>. Duda also defended Trump's demand for a minerals agreement with Ukraine, stating that the US should receive something in return for its support.</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 4px;
+                    "><strong>Israel and Hamas have agreed to exchange four bodies of hostages for 620 Palestinian prisoners</strong>, including 23 children. Israel had <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br2-5-delayed-the-release-of-palestinian-prisoners" target="_blank">delayed the release of Palestinian prisoners</a> due to the cruel treatment during release, causing tension between the two sides. The current ceasefire will expire this weekend unless extended.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- secondary ad  -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Innovative Devices Make Things Loud & Clear</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.5; space-y-between-8">
+            <li>Most hearing aids have one processor; these from Hear.com have two.</li>
+            <li>The dual processors allow them to separate speech from background noise.</li>
+            <li>This results in clearer, crisper speech while reducing unwanted noise.</li>
+            <li>Helps you hear friends and family over loud music in noisy environments like restaurants.</li>
+            <li>Tiny and practically invisible, making them discreet.</li>
+            <li>Over 540,000 customers love them.</li>
+          </ul>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.geopoliticalsummary.com/gp-3-jan-2025-ad-ps" target="_blank">Click here to learn more</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#ffffff" css-class="mj_fsection">
+      <mj-column>
+       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>BP has announced a shift from renewables, increasing oil and gas investments by 20%</strong> while cutting $5 Bn from green energy projects. The decision follows investor pressure over lagging profits. Critics argue that BP prioritizes short-term gains over climate goals, while the company insists that a strategy reset will boost returns and maintain financial stability (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br3-6-the-pivot" target="_blank">the pivot</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>New US home sales fell 10.5% in January</strong> due to high mortgage rates and cold weather. The median home price rose 3.7% to $446,300, while inventory reached its highest level since 2007. Sales dropped sharply in the Northeast and Midwest. High prices and mortgage rates continue to limit affordability, clouding the outlook for the housing market (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br4-7-see-chart" target="_blank">see chart</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Nvidia reported a 78% quarterly revenue increase</strong>, driven by strong AI demand. The company forecasted $43 Bn in first-quarter revenue and highlighted the rapid adoption of its Blackwell AI chips. Data center sales surged while gaming revenue declined (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br5-8-earnings-report" target="_blank">earnings report</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/intuitive-machines-athena-lander-spacex-falcon-9.png" alt="Intuitive Machines' Athena lander, riding on top of a SpaceX Falcon 9 rocket" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">Intuitive Machines' Athena lander, riding on top of a SpaceX Falcon 9 rocket. Credits: Gregg Newton/AFP/Getty Images</p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Athena, a lunar lander from Intuitive Machines, was launched atop a SpaceX Falcon 9 rocket to explore the moon’s south pole for water ice</strong>. The lander will be equipped with a drill, hopper, and rover to investigate the terrain. It is set to land on March 6 and will operate for about 10 days (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br6-9-the-mission" target="_blank">the mission</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Anagram is revolutionizing employee cybersecurity training using gamified and interactive learning</strong> inspired by platforms like Duolingo and TikTok. With the rise of AI-driven phishing and social engineering attacks, the company’s engaging approach aims to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br7-10-to-reduce-phishing-failure-rates" target="_blank">reduce phishing failure rates</a> and improve security awareness significantly.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Marty Sheargold has left Triple M after making misogynistic remarks about Australia's women's football team</strong>. His comments, which included referring to the players as "year 10 girls" and criticizing their matches, sparked significant backlash. Sheargold apologized, and the network mutually agreed to part ways with him (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="" target="_blank">about Sheargold’s controversy</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Fyre Festival 2 is set to take place in Mexico's Isla Mujeres between May 30 and June 2</strong>, despite the infamous failure of the original event. Founder Billy McFarland promises a "three-day escape" with world-class accommodations, but performers have not been announced (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br8-12-the-festivals-sequel" target="_blank">the festival’s sequel</a>).
+                </p>
+                  <p style="
+                                font-size: 16px;
+                                line-height: 1.5;
+                                border-left: 3px solid #4D3060;
+                                padding-left: 14px;
+                                margin-bottom: 15px;
+                                      "><strong>Actress Michelle Trachtenberg has passed away at the age of 39</strong>. She was found in her New York City apartment, with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br9-13-no-foul-play-suspected" target="_blank">no foul play suspected</a>. The actress recently underwent a liver transplant and may have been experiencing complications. She is known for her roles in “Gossip Girls” and “Buffy the Vampire Slayer.”
+                  </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">An astrophotographer captured the planetary parade of 7 planets (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br10-14-see-the-pictures" target="_blank">see the pictures</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Trump is in hot water over the AI video of Gaza (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br11-15-read-more" target="_blank">see video</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">2025’s best coffee shop named (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br12-16-find-out-where" target="_blank">find out where</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Blink-182’s Mark Hoppus is selling his beloved Banksy painting (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-02-2025-br13-17-the-painting" target="_blank">the painting</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px"  >
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              color: #ffffff;
+            ">On this day in 1967, Saint Kitts and Nevis, along with Anguilla, became an independent state, associated with the United Kingdom.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column >
+      <mj-spacer height="12px"/>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
