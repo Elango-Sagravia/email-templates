@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">How the iconic LEGO brick stacked up against a crisis</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Building dreams</h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><strong>Originally, LEGO did not manufacture the iconic plastic bricks</strong>. Instead, founder Ole Kirk Kristiansen, a carpenter by trade, <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-01-03-2025-produced-wooden-toys?source=website" target="_blank">produced wooden toys</a>. The shift to plastic began in the 1940s with the advent of injection molding technology. During this time, he encountered a British company, Kiddicraft, which had developed small interlocking plastic cubes called “Kiddicraft Self-Locking Bricks.”
+          </p>
+        </mj-text>
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/lego-woodworking-factory-employees-2025.png" alt="Employees in the LEGO woodworking factory" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            Employees in the LEGO woodworking factory. Credits: lego website 
+          </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Recognizing their potential, LEGO launched its version in 1949, branding them “<strong>Automatic Binding Bricks</strong>.” The defining moment came in 1955 with the introduction of the “<a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-01-03-2025-lego-system-in-play?source=website" target="_blank">LEGO System in Play</a>.” According to the system, all elements should fit together, can be used in multiple ways, and can be built together. Retailers were given specific instructions on promoting this concept, ensuring customers understood its unique value.
+          </p>
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
