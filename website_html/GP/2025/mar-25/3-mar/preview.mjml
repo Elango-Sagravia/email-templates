@@ -1,0 +1,85 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ European leaders support Zelenskyy</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Chuuk Islands eyes independence</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Guyana reprimands Venezuela</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="font-size:24px;line-height:1.2;font-weight:500; margin-top:2px !important">PKK ceasefire</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/turkey-pkk-conflict-deaths-since-1984.png" alt="The conflict between Turkey and the PKK has led to tens of thousands of deaths since it began in 1984" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">The conflict between Turkey and the PKK has led to tens of thousands of deaths since it began in 1984. Credits: AP Photo</p>
+        </mj-text> 
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+         
+          <p style="font-size:16px;line-height:1.5;">The Kurdistan Workers' Party (PKK) has declared a ceasefire. This came after its imprisoned leader, Abdullah Öcalan, called for the group to disarm and dissolve. Jailed since 1999, he <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-03-03-2025-h1-1-described-this-as-a-historic-responsibility?source=website" target="_blank">described this as a “historic responsibility.”</a> He urged all armed groups to lay down their weapons. The PKK agreed but demanded a secure environment and Öcalan’s release to oversee the process.</p>
+          <p style="font-size:16px;line-height:1.5;filter:blur(5px);">The group’s executive committee also called for Öcalan to be freed from his island prison. The armed insurgency has lasted for more than 40 years across Turkey, Syria, northern Iraq, and neighboring Iran. Turkish President Erdoğan welcomed the move but rejected peace talks. He wants a unilateral ceasefire instead. A previous ceasefire collapsed in 2015, leading to renewed violence. 
+       </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
