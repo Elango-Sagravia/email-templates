@@ -18,7 +18,7 @@
       <mj-spacer height="10px" />
       <mj-column padding="10px 12px 10px 12px" width="100%">
         <mj-spacer height="16px" />
-        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
         <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
@@ -31,7 +31,7 @@
           <p style="
               font-size: 16px;
               line-height: 1.5;
-              margin-bottom: 0px;
+              margin-bottom: 0px; 
               margin-top:10px;
             ">Was this email forwarded to you? <a 
              style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co" target="_blank">Stay informed</a>.</p>
