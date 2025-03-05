@@ -1,5 +1,5 @@
     <!-- secondary ad  -->
-    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
       <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
       <mj-spacer height="12px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
@@ -21,7 +21,7 @@
             ">Innovative Devices Make Things Loud & Clear</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <ul style="font-size: 16px; line-height: 1.5; space-y-between-8">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
             <li>Most hearing aids have one processor; these from Hear.com have two.</li>
             <li>The dual processors allow them to separate speech from background noise.</li>
             <li>This results in clearer, crisper speech while reducing unwanted noise.</li>
