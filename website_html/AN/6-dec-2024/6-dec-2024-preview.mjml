@@ -98,13 +98,60 @@
         </mj-text>
         <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-6-2.jpg" alt="Private equity offloads energy assets" href="https://www.altdaily.co" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">
+          <p style="font-size: 16px; line-height: 1.4">
           Private equity firms are turning to continuation funds to <a href="https://www.bnnbloomberg.ca/investing/2024/12/05/baupost-elliott-bet-big-on-private-equitys-aging-energy-assets/" target="_blank">offload</a> aging energy assets with Baupost Group and Elliott Management leading deals. These funds extend ownership of hard-to-sell oil and gas properties, allowing investors to negotiate discounts while injecting fresh capital. Despite high interest rates and ESG concerns, opportunistic investors see potential in these volatile assets. With hopes of regulatory changes under Trump’s administration and cheaper debt financing, private equity players expect a rebound in the energy sector's M&A activity.
           </p>
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- ----- -->
+  <mj-spacer height="10px" />
 
+
+
+       <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+          <h2 style="
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:6px;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 300;
+              padding: 18px 8px 10px 8px;
+              
+            ">CHART</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Spotlight contents-->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto" color="#000000">
+          <h2 style="              
+              font-size: 20px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Berkshire Hathaway's cash pile reaches record $325 billion</h2>
+        </mj-text>
+        <mj-image padding="10px 12px" width="600px" src="https://www.altdaily.co/email/images/an-dec-6-3.jpg" alt="Berkshire Hathaway's cash pile reaches record $325 billion" href="https://www.altdaily.co" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4">
+          Berkshire Hathaway, led by Warren Buffett, has amassed a staggering $325 billion in cash and cash equivalents, the highest in its history. This comes after selling $36 billion in stock holdings during Q3 2024, including a significant reduction in its Apple stake for the fourth consecutive quarter. The immense cash reserve underscores Buffett’s cautious outlook on current investment opportunities, favoring cash and U.S. Treasuries over equities.</p>
+          <p style="font-size: 16px; line-height: 1.4; filter: blur(5px);">To put this cash hoard into perspective, it surpasses the market valuations of companies like Starbucks ($112 billion) and Target ($69 billion) and could theoretically acquire all 32 NFL teams at a 50% premium to their collective value.</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+   
     <mj-spacer height="15px"></mj-spacer>
   </mj-body>
 </mjml>

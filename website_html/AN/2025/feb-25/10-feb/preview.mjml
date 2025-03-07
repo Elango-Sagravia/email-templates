@@ -6,7 +6,7 @@
   </mj-head>
   <mj-body background-color="#f0f1f3">
     
-    <mj-spacer height="15px"></mj-spacer>
+    <mj-spacer height="15px"></mj-spacer>  
     <!-- Logo Header -->
     <mj-section background-color="#ffffff">
       <mj-spacer height="10px" />
@@ -39,7 +39,6 @@
               line-height: 1.5;
               padding-left: 10px;
             ">→ How does the tragedy of the commons apply in modern markets?</p>
-          
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
@@ -100,11 +99,120 @@
               margin-top: 2px !important;">Super Bowl betting surge gives a boost to struggling gambling stocks</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5;">The Super Bowl is set to generate about $1.4 billion in <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-3-legal-bets" target="_blank">legal bets</a>. This has given a boost to gambling stocks that have struggled for many years. The National Football League’s championship game is set to drive high engagement on betting apps. Shares of major gambling companies have fallen off from peak highs of 2021.</p>
-          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px);">DraftKings has fallen about 41%, and MGM Resorts is down 32% from its peak price in 2021. The industry has continued to face regulatory challenges, including increased state taxes. The proposed <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-4-safe-bet-act" target="_blank">SAFE Bet Act</a> could increase the restriction on gambling companies, posing a challenge to growth.</p>
+          <p style="font-size: 16px; line-height: 1.5">The Super Bowl is set to generate about $1.4 billion in <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-3-legal-bets" target="_blank">legal bets</a>. This has given a boost to gambling stocks that have struggled for many years. The National Football League’s championship game is set to drive high engagement on betting apps. Shares of major gambling companies have fallen off from peak highs of 2021.</p>
+          <p style="font-size: 16px; line-height: 1.5">DraftKings has fallen about 41%, and MGM Resorts is down 32% from its peak price in 2021. The industry has continued to face regulatory challenges, including increased state taxes. The proposed <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-h2-4-safe-bet-act" target="_blank">SAFE Bet Act</a> could increase the restriction on gambling companies, posing a challenge to growth.</p>
         </mj-text>
       </mj-column>
     </mj-section>
-    <mj-spacer height="15px"></mj-spacer>
+    <!-- PS ad -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.longandshort.com/email/images/ad-ps.png" alt="STAY INFORMED, WIDEN YOUR WORLDVIEW" href="https://link.longandshort.com/ls-10-feb-2025-ad-ps" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Politics, culture, tech, and trade,<br/>
+          We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed and lead the way,<br/>
+          Subscribe now; don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.longandshort.com/ls-10-feb-2025-ad-ps" target="_blank">Subscribe to Presidential Summary</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- World news -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+            text-transform:uppercase;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">WORLD MARKETS</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇫🇷 France announced fresh AI investments</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">French President Emmanuel Macron has announced $112 billion in <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn1-5-artificial-intelligence-investments" target="_blank">artificial intelligence investments</a>. The announcement comes ahead of a high-profile AI summit in Paris. Macron emphasized the need for aggressive investments in AI and referenced Trump’s $500 billion Stargate AI initiative in the US.</p>
+          <p style="font-size:16px;line-height:1.5;">UAE funds plan to invest €30 billion and €50 billion in a new data center campus in France, whereas Brookfield Asset Management of Canada has pledged €20 billion. Local French companies are also expected to increase their AI spending significantly.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇧🇴 Billionaire suggests reward for arrest of Evo Morales</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;"> Bolivian-American billionaire Marcelo Claure hinted at offering a <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn2-6-1-million-bounty" target="_blank">$1 million bounty</a> for information on the arrest of former Bolivian president Evo Morales. The president is currently facing an arrest warrant. He has been charged with allegedly having a relationship with a minor.</p>
+          <p style="font-size:16px;line-height:1.5; filter: blur(5px);"> Claure is a former Softbank executive who now manages his own investment fund. The billionaire is increasingly involved in Bolivia’s political landscape. He has previously expressed open support for a right-wing candidate to challenge the incumbent socialist MAS party. He blames the current government for the country’s economic struggle and for making Bolivia “uninvestable.”</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5; filter: blur(5px);">
+            <strong>🇸🇦 Saudi’s Maaden raises $1.25 billion to fund mining expansion</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5; filter: blur(5px);">Saudi Arabian Mining Co. (Maaden) <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn3-7-raised-1-billion" target="_blank">raised $1.25 billion</a> through its debut sukuk (Islamic bond) issuance. The company has laid out an ambitious $12 billion expansion plan. The sukuk generated strong investor interest and went over-subscribed.</p>
+          <p style="font-size:16px;line-height:1.5; filter: blur(5px);"> Saudi Arabia has been pushing for diversifying assets under its Vision 2030. Maaden’s CEO Bob Wilt emphasized the strong demand for Saudi Arabia’s mining sector. Earlier this year, the company formed a joint venture with <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-10-02-2025-wn3-8-saudi-aramco" target="_blank">Saudi Aramco</a> to explore and mine energy transition metals. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+  <mj-spacer height="15px"></mj-spacer>
   </mj-body>
 </mjml>
