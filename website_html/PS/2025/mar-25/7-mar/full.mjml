@@ -15,7 +15,7 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
-              font-size: 16px;    
+              font-size: 16px;     
               line-height: 1.5; 
               margin-top:2px;
             ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
@@ -245,7 +245,7 @@
     </mj-section>
     
     <!-- secondary ad  -->
-    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+    <mj-section background-color="#ffffff" css-class="mj_fsection" class="sec-ad-link">
       <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
       <mj-spacer height="12px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">

@@ -252,7 +252,7 @@
     </mj-section>
     
     <!-- secondary ad  -->
-    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+    <mj-section background-color="#ffffff" css-class="mj_fsection" class="sec-ad-link">
       <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
       <mj-spacer height="12px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
@@ -260,7 +260,7 @@
             <i>In partnership with Geopolitical Summary</i>
         </p>
       </mj-text>
-        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white"> 
           <h2 style="
           padding-bottom:8px;
           padding-left: 5px;
@@ -274,7 +274,7 @@
             ">The “why” behind events</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;" class="sec-ad-list">
             <li><strong>South Korea announced plans to discuss a massive gas pipeline project with the United States</strong>. The plan aims to strengthen energy security and diversify import sources.</li>
             <li><strong>The US and Israel have rejected an Arab League-backed $53 Bn plan to rebuild Gaza</strong>. The Palestinian Authority and Hamas welcomed the Arab plan.</li>
             <li><strong>How did Hamas become in charge of Gaza?</strong></li>

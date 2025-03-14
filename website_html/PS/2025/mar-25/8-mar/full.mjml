@@ -15,7 +15,7 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
-              font-size: 16px; 
+              font-size: 16px;  
               line-height: 1.5; 
               margin-top:2px;
             ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
@@ -227,7 +227,7 @@
     </mj-section> 
    <!-- secondary ad  -->
     <mj-raw>
-      <a href="https://link.presidentialsummary.com/ps-8-mar-2025-s-ad-bh" target="_blank" style="color:black">
+      <a href="https://link.presidentialsummary.com/ps-8-mar-2025-s-ad-bh" target="_blank" style="color:black" class="sec-ad-link">
     </mj-raw>
     <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
       <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
