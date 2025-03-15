@@ -1,0 +1,323 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Behind the scenes of legendary businesses. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px; 
+              margin-top:10px;
+            ">Was this email forwarded to you? <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">A pint of revolution: Ben & Jerry’s rocky road</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Spoonful of purpose</h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><strong>Ben Cohen and Jerry Greenfield opened their first ice cream shop in a renovated gas station</strong> in 1978 in Burlington, Vermont. Back then, they weren’t the quirky, mission-driven brand we know today. They were simply childhood friends trying to make a living. The idea for the business took root when Ben, then a pottery teacher, decided to start an ice cream parlor. 
+          </p>
+        </mj-text>
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/jerry-greenfield-ben-cohen-scoop-shop-bennington-vt-1980.png" alt="Jerry Greenfield and Ben Cohen in front of their scoop shop in Bennington, VT, on July 3, 1980—two years after opening their first store" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>Jerry Greenfield and Ben Cohen in front of their scoop shop in Bennington, VT, on July 3, 1980—two years after opening their first store. Credits: Ted Dully, Boston Globe/Getty Images.</i>
+          </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          At the time, their primary focus was making excellent ice cream, but they were deeply committed to their community. That commitment developed into a framework they called "<a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-08-03-2025-1-linked-prosperity" target="_blank">linked prosperity,</a>" an approach that ensured that as the company grew, so did its employees, suppliers, and community well-being. At its heart, <strong>linked prosperity was all about balancing business with a bigger purpose</strong>. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>Linked Prosperity was built on three key pillars</strong>: making top-quality ice cream with natural ingredients and eco-friendly practices, growing the company in a way that also improved the workplace for employees, and using its influence to make a positive impact on communities—locally, nationally, and around the world. This philosophy positioned Ben & Jerry’s as one of the pioneers of corporate social responsibility (CSR).
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+  <!-- primary ad -->
+ <!--  ad-a1 -->
+   <mj-spacer height="10px" />
+    <!-- title -->
+    <mj-raw>
+      <a href="https://link.businesshistory.co/bh-15-mar-2025-p-ad-ls" target="_blank" style="color:black">
+   </mj-raw>
+ <!--  LS ad -->
+    
+    <!-- title -->
+    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Long and Short</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">Markets in minutes</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES"  />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          In the world of trade, we keep it clear,<br/>
+          Bringing you insights year after year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          From deals to trends, from risks to rewards,<br/>
+          We uncover the market’s untold chords.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Make informed choices, stay ahead too,<br/>
+          Join us for a sharper view.
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;">Join Long and Short</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- /LS ad -->
+
+
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-spacer height="14px" />
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Doughing good </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">The linked prosperity model worked. By 1989, it had grown to $58 Mn. In 1991, it became the first publicly traded company to offer benefits to same-sex couples. <strong>The company adopted a 5-to-1 salary ratio</strong>, ensuring that the highest-paid employee could earn no more than five times the salary of the lowest-paid worker. It launched nonprofit initiatives like "<a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-08-03-2025-2-one-percent-for-peace" target="_blank">One Percent for Peace</a>" and created "Rock the Vote." 
+         </p>
+          <p style="font-size: 16px; line-height: 1.5">The mid-1990s, however, were a challenging time for Ben & Jerry’s. The once-thriving company saw its financial performance decline, and by the second quarter of 1993, sales and income growth had slowed to just 4%. In August 1994, its <strong>annual report revealed its first financial loss</strong>. A growing sentiment within the company suggested that its strong social mission was a luxury it could no longer afford.</p>
+          <p style="font-size: 16px; line-height: 1.5">As a publicly traded company, they had a fiduciary duty to consider the best financial interests of their shareholders. The board ultimately concluded that a takeover was inevitable. Neither Cohen nor Greenfield wanted to sell, but few options were available then. On April 11, 2000, after nearly two years of negotiations, <strong>Ben & Jerry’s board agreed to sell the company to Unilever</strong> for $326 million at $43.60 per share.</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Frozen assets</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><strong>Ben & Jerry’s fought to preserve its legacy</strong> after the acquisition. Recognizing this, Unilever agreed to a unique sales agreement. Ben & Jerry’s would remain a wholly owned subsidiary with special rights, ensuring it retained a Vermont-based CEO and an independent board of directors. This board, which included Cohen and Greenfield, was given control over product quality, social initiatives, and the company’s trademark.</p>
+          </mj-text>
+
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/ben-jerrys-flavor-graveyard-vermont-discontinued-ice-cream-tombstones.png" alt="Ben & Jerry’s Flavor Graveyard in Vermont, a real-life cemetery honoring discontinued ice cream flavors with witty tombstones" href="https://www.businesshistory.co" />
+           <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            Ben & Jerry’s Flavor Graveyard in Vermont is a real-life cemetery honoring discontinued ice cream flavors with witty tombstones. Credits: Ben & Jerry’s</i>
+          </p>
+        </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">It wasn’t until 2011 that <strong>Vermont enacted its Benefit Corporation Act</strong>, a law designed to protect mission-driven companies. Commentators believe that if this law had existed a decade earlier, maybe Ben & Jerry’s would not have had to sell. The Benefit Corporation laws allow businesses to pursue social missions and maintain their independence through a legal framework, ensuring they are not overridden by shareholder profit primacy.</p>
+          <p style="font-size: 16px; line-height: 1.5">Recently, <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-08-03-2025-3-ben-and-jerrys-sued-unilever" target="_blank">Ben and Jerry’s sued Unilever</a> for blocking it from speaking out against the humanitarian crisis in Gaza. Many are asking Unilever to divest the ice company. Despite being a once bitter ending for Cohen and Greenfield, in many ways, these laws protecting social entrepreneurs are like flowers that bloomed from the graves of companies like Ben & Jerry’s.</p>
+          </mj-text> 
+      </mj-column>
+  </mj-section> 
+
+    <!-- banner -->  
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section"> 
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color=" #8C3321" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">“Formal education will make you a living; self-education will make you a fortune.” - Jim Rohn, American entrepreneur and motivational speaker</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+           
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
