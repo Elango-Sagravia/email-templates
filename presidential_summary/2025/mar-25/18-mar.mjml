@@ -250,11 +250,12 @@
     </mj-section>
     
     <!-- secondary ad  -->
-    
-    <mj-section background-color="#ffffff" css-class="mj_fsection" >
-    <mj-raw>
+
+        <mj-raw>
       <a href="https://link.presidentialsummary.com/ps-18-mar-2025-s-ad-bh">
     </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
       <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
       <mj-spacer height="12px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
@@ -294,11 +295,11 @@
           <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Business History</a></p>
           </mj-text> 
       </mj-column> 
+    
+    </mj-section> 
       <mj-raw>
        </a>
       </mj-raw>
-    </mj-section> 
-    
 
     <!-- content section -->
     <mj-section css-class="mj_section" background-color="#ffffff">
