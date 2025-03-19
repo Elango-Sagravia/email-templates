@@ -17,6 +17,9 @@
        width: 100% !important;
       }
     </mj-style> 
+    <!-- <mj-style>
+      .social-icon img { width: 28px !important; height: 28px !important; }
+    </mj-style> -->
     <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important;} </mj-style>
   </mj-head>
   <mj-body background-color="#f0f1f3">
@@ -105,7 +108,7 @@
     <mj-section padding="20px" background-color="#000000" >
       <mj-column width="50%">
         <mj-text>
-          <p style="font-size:16px; color:#fff; line-height:1.2;">
+          <p style="font-size:14px; color:#fff; line-height:1.2;">
           ©2024 Movie Suggestions
           30 N Gould St, Ste N, Sheridan, WY 82801, United States
           </p>
@@ -113,7 +116,7 @@
       </mj-column>
 
       <mj-column  width="50%">
-        <mj-text align="right" font-size="16px" >
+        <mj-text align="right" font-size="14px" >
         <p style="line-height:1.4;">
             <a href="#" style="color:#fff;text-decoration-line: underline;">Privacy Policy</a>
           
@@ -133,22 +136,22 @@
     <mj-section padding="0" background-color="#000000" >
       <mj-column >
       <mj-spacer height="20px" />
-        <mj-social font-size="15px" mode="horizontal">
+        <mj-social mode="horizontal" >
           <!-- Facebook Icon -->
-          <mj-social-element padding="12px 16px" icon-size="30px" href="" src="https://www.moviesuggestions.com/social-icons/ms-fb.jpg">
+          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
           </mj-social-element>
           <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
+          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
           </mj-social-element>
           <!-- Instagram Icon -->
-          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-p.png">
+          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
           </mj-social-element>
           <!-- Reddit Icon -->
           <!-- linkedIn -->
-          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
+          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
           </mj-social-element>
           <!-- threads -->
-          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-yt.png">
+          <mj-social-element padding="12px 16px" icon-size="28px" href="" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
           </mj-social-element>
         </mj-social>
         <mj-spacer height="20px" />
