@@ -1,15 +1,6 @@
 <mjml>
   <mj-head>
   <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } </mj-style>
-    <mj-style>
-      .curve-col td{
-       padding: 0px 0px !important;
-      }
-      .curve-col td table{
-       width: 100% !important;
-      }
-
-    </mj-style> 
     <!-- <mj-style>
       .social-icon img { width: 28px !important; height: 28px !important; }
     </mj-style> -->
@@ -44,9 +35,9 @@
       </mj-column>
     </mj-section>
 
-    <mj-section background-color="">
-      <mj-column>
-       <mj-image width="800px" src="https://www.moviesuggestions.com/verify-new.gif" href="https://www.businesshistory.co" alt="" />
+    <mj-section padding="0" >
+      <mj-column >
+       <mj-image padding="0" width="600px" src="https://www.moviesuggestions.com/verify-new.gif" href="https://www.businesshistory.co" alt="gif not there" />
       </mj-column>
     </mj-section>
     
