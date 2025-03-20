@@ -1,48 +1,39 @@
 <mjml>
   <mj-head>
-  <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } </mj-style>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } </mj-style>
     <!-- <mj-style>
       .social-icon img { width: 28px !important; height: 28px !important; }
     </mj-style> -->
-    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important; border: 1px solid #F9D342 !important;}
-    </mj-style>
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important; border: 1px solid #F9D342 !important;} </mj-style>
   </mj-head>
-  <mj-body >
-<mj-spacer height="10px" />
+  <mj-body>
+    <mj-spacer height="10px" />
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-      <mj-spacer height="30px" />
+        <mj-spacer height="30px" />
         <mj-image width="150px" src="https://moviesuggestions.com/logo.png" />
         <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-      <mj-spacer height="20px" />
-        <mj-text font-size="40px" font-weight="bold" color="#808080">
-          Yes, we know.<br /> An email to confirm an<br/> email.
-        </mj-text>
+        <mj-spacer height="20px" />
+        <mj-text font-size="40px" font-weight="bold" color="#808080"> Yes, we know.<br /> An email to confirm an<br /> email. </mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-      <mj-spacer height="40px" />
-        <mj-text font-size="16px" color="#808080">
-          Hi there, <br /><br />
-          Hit the button below to verify your email and start getting the best movie picks every Friday.
-        </mj-text>
+        <mj-spacer height="40px" />
+        <mj-text font-size="16px" color="#808080"> Hi there, <br /><br /> Hit the button below to verify your email and start getting the best movie picks every Friday. </mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section padding="0" background-url="https://www.moviesuggestions.com/black-bg.png">
-      <mj-column >
-       <mj-image padding="0" width="600px" src="https://www.moviesuggestions.com/verify-new.gif" href="https://www.businesshistory.co" alt="gif not there" />
+      <mj-column>
+        <mj-image padding="0" width="600px" src="https://www.moviesuggestions.com/verify-new.gif" href="https://www.businesshistory.co" alt="gif not there" />
       </mj-column>
     </mj-section>
-    
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
-        <mj-column>
+      <mj-column>
         <mj-spacer height="40px" />
         <mj-text align="center">
           <a href="https://www.moviesuggestions.com/" class="button-style" style="
@@ -63,58 +54,26 @@
               border-radius: 40px;
               ">Verify</a>
         </mj-text>
-        <mj-spacer height="40px" />
-        </mj-column>
-    </mj-section>
-
-    <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png" >
-      <mj-column >
-      <mj-divider border-width="1px" border-style="solid" border-color="#F9D342" padding="10px 22px" />
-      <mj-spacer height="20px" />
-        <mj-image align="left" width="150px" src="https://moviesuggestions.com/logo.png" />
+        <mj-spacer height="20px" />
       </mj-column>
     </mj-section>
-
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
-      <mj-column width="60%">
-        <mj-text>
-          <p style="font-size:14px; color:#808080
-; line-height:1.2;">
-          ©2024 Movie Suggestions
-          </p>
-          <p style="font-size:14px; color:#808080
-; line-height:1.2; margin-top:10px;">
-            30 <span>N</span> <span>Gould</span>
-            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+      <mj-column width="100%">
+        <mj-divider border-width="1px" border-style="solid" border-color="#F9D342" padding="20px 22px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
+          
+          <p style="font-size: 12px; color: #808080; line-height: 2">
+            <a style="color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
           </p>
         </mj-text>
       </mj-column>
-
-      <mj-column  width="40%">
-        <mj-text align="left" font-size="14px" >
-        <p style="line-height:1.4;">
-            <a href="#" style="color:#808080
-;text-decoration-line: underline;">Privacy Policy</a>
-          
-        </p>  
-        <p style="line-height:1.4;">
-            <a href="#" style="color:#808080
-;text-decoration-line: underline;">Terms & Conditions</a>
-          
-        </p>
-        <p style="line-height:1.4;">
-            <a href="#" style="color:#808080
-;text-decoration-line: underline;">Contact Us</a>
-          
-        </p>      
-        </mj-text>
       </mj-column>
     </mj-section>
-
-    <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
-      <mj-column >
-      <mj-spacer height="20px" />
-        <mj-social mode="horizontal" >
+  <mj-section padding="10px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-social mode="horizontal">
           <!-- Facebook Icon -->
           <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
           </mj-social-element>
@@ -135,6 +94,28 @@
         <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
+  <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column width="100%">
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">    <p style="
+          text-align:center;
+          line-height: 1.5;
+          font-size: 12px; 
+          color: #808080;
+          "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          margin-bottom:10px;
+          text-align:center;
+                    line-height: 1.5;
+          font-size: 12px; 
+          color: #808080;
+          "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+      </mj-column>
+    </mj-section>
+    
     <mj-spacer height="10px" />
   </mj-body>
 </mjml>
