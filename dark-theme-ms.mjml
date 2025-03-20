@@ -1,0 +1,20 @@
+<mjml>
+  <mj-head>
+    <mj-style inline="inline">
+      @media (prefers-color-scheme: dark) {
+        .darkmode-text {
+          color: #ffffff !important; /* Force white in dark mode */
+        }
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body>
+    <mj-section background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-text css-class="darkmode-text" color="white">
+          Hi There this is Elango
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
