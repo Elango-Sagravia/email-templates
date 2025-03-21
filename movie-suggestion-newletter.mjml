@@ -1,19 +1,20 @@
 <mjml>
-    <mj-head>
-    </mj-head>
-    <mj-body>
+ <mj-head>
+ </mj-head>
+ <mj-body>
      <mj-spacer height="10px"/>
         <mj-section padding="10px 12px" background-url="https://moviesuggestions.com/email/images/god-father-blur-img.png" background-size="cover" background-repeat="no-repeat">
             <mj-column>
             <mj-spacer height="20px"/>
                 <mj-image href="https://moviesuggestions.com/" padding="10px 12px" width="150px" src="https://moviesuggestions.com/logo.png" />
-                <mj-text padding="0" color="#fff">
+                <mj-spacer height="14px"/>
+                <mj-text padding="8px 12px" color="#fff">
                     <h3  
                     style="
                     margin:0;
-                    padding:20px 12px 10px 12px;
                     text-align: center;
                     font-size: 26px;
+                    font-weight:500;
                     line-height:1.2;">
                     Featured</h3>
                 </mj-text>
@@ -25,47 +26,22 @@
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
             <mj-column>
-                <mj-text align="center" padding="10px 12px" line-height="2.5">
-                    <a href="https://www.google.com" 
-                    target="_blank" style="color: #FFF;
-                        text-decoration:none;
-                        text-align: center; 
-                        font-size: 16px;
-                        line-height: normal;
-                       ">
-                        Featured <span style="font-size:20px; padding:2px 2px; ">&#8595;</span></a>
-                    <a href="#" style="color: #FFF;
-                        text-decoration:none;
-                        text-align: center;
-                        font-size: 16px;
-                        line-height: normal;
-                        padding-left:16px;">You may also like <span style="font-size:20px; padding:2px 2px; ">&#8595;</span></a>
-                    <a href="#section-3" style="color: #FFF;
-                        text-decoration:none;
-                        text-align: center;
-                        font-size: 16px;
-                        line-height: normal;
-                        padding-left:16px;">TV Show <span style="font-size:20px; padding:2px 2px; ">&#8595;</span></a>
-                    <a href="#section-4" style="color: #FFF;
-                        text-decoration:none;
-                        text-align: center;
-                        font-size: 16px;
-                        line-height: normal;
-                        padding-left:16px;">Did you know <span style="font-size:20px; padding:2px 2px; ">&#8595;</span></a>
+            <mj-spacer height="30px"/>
+                <mj-text padding="10px 12px 0px 12px">
+                    <h2 style="color: #E7EDF0;
+                    margin:0;
+                        font-size: 26px;
+                        font-weight: 700;
+                        line-height:1.2;">The Godfather</h2>
                 </mj-text>
             </mj-column>
         </mj-section>
 
-
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text padding="10px 12px">
-                        <h2 style="color: #E7EDF0;
-                        font-size: 26px;
-                        font-weight: 700;
-                        line-height:1.2;">The Godfather</h2>
+                    <mj-text padding="0px 12px 0px 12px">
                         <p style="color: #E7EDF0;
                        
                       
@@ -73,7 +49,7 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">1972 • 2h 55m</p>
+                        line-height: 0.5;">1972 • 2h 55m</p>
                         <p style="color: #E7EDF0;
                        
                      
@@ -81,7 +57,7 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">Crime • Drama • Tragedy</p>
+                        line-height: 0.5;">Crime • Drama • Tragedy</p>
                         <p style="color: #E7EDF0;
                     
                         
@@ -89,11 +65,11 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">Director - Francis Ford Coppola</p>
+                        line-height: 0.5;">Director - Francis Ford Coppola</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text align="center">
+                    <mj-text align="center" letter-spacing="0px">
                         <a href="#" style="color: #080707;
                         background-color: #F9D342;
                         text-decoration:none;
@@ -104,6 +80,7 @@
                         font-style: normal;
                         font-weight: 400;
                         display: inline-block;
+                   
                         line-height: 1;">&#8599; Share</a>
                         <a href="#" style="color: #080707;
                         text-decoration:none;
@@ -121,23 +98,23 @@
                 </mj-column>
         </mj-section>
     
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
             <mj-column>
-                <mj-text padding="10px 12px">
+                <mj-text padding="0px 12px 10px 12px">
                     <p style="color: #999;
-                    font-size: 16px;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.5;">If you somehow missed The Godfather—though it’s not likely—it’s time to watch this cinematic masterpiece. Far more than a mobster movie, it explores power, loyalty, and betrayal within the Corleone family. It’s a complex story about family dynamics and the cost of ambition, driven by unforgettable performances from Marlon Brando and Al Pacino. And after you're done with this one, continue the saga with The Godfather: Part II and Part III.</p>
                     <p>
                     <a style="color: #F9D342;
-                    font-size: 16px;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.5;">Where to watch?</a>
                     </p>
                 </mj-text>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                <mj-image href="https://moviesuggestions.com/" padding="0px 12px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/img-1.png" alt="god father "/>
                 <mj-text padding="10px 12px">
@@ -155,105 +132,106 @@
             </mj-column>
         </mj-section>
 
-<!--  ad-a2 -->
-    <!-- title -->
-    <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
-      <mj-column>
-      <mj-spacer height="12px"/>
-      <mj-text padding="0px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
-        <p style="color: #999;
-                    font-size: 12px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.2;
-                    text-align: center;">
-            <i>In partnership with Upscale Media</i>
-        </p>
-      </mj-text>
-        <mj-text padding="0px 12px 0px 12px" >
-          <h2 style="color: #E7EDF0;
-                text-align:center;
-                        font-size: 26px;
-                        font-weight: 400;
-                        line-height:1.2;">
-                        Unleash your strength with BodyFuel™ Creatine</h2>
-        </mj-text>
-        <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" />
-      </mj-column>
-    </mj-section> 
- 
-    <!-- Content sections -->
-    <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px"> 
-      <mj-column>
-        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-a2.png" alt="Unleash your strength with BodyFuel™ Creatine" href="https://link.presidentialsummary.com/ps-3-mar-2025-ad-ls" />
-        <mj-text padding="10px 12px">
-          <p style="color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">
-          For workouts that push you, no need to debate,<br/>
-          BodyFuel Creatine keeps gains up to date!
-          </p>
-          <p style="color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">
-          Pure and micronized, it fuels every rep,<br/>
-          Boosting power with every step.
-          </p>
-          <p style="color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">
-          Flavored or plain, just mix and go,<br/>
-          For muscle and strength, it steals the show!
-          </p>
-          <p style="color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">
-          Vegan-friendly, for all who train,<br/>
-          Recovery enhanced, goodbye to pain! 💪
-          </p>
-        </mj-text>
-         <mj-text padding="0px 12px">
-          <p style="margin:0;
-                    color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">
-                   <a href="#" target="_blank" style="color:#F9D342; text-decoration:none;"> Get yours before it’s gone</a>
+        <!--  ad-a2 -->
+        <!-- title -->
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+        <mj-column>
+        <mj-spacer height="20px"/>
+        <mj-text padding="0px 12px 0px 12px" color="#000000">
+            <p style="color: #999;
+                        margin:0;
+                        font-size: 12px;
+                        font-weight: 300;
+                        line-height: 1.2;
+                        text-align: center;">
+                <i>In partnership with Upscale Media</i>
             </p>
-          </mj-text>
-          <mj-spacer height="20px"/>
-      </mj-column>
-    </mj-section>
-<!-- /ad-a2 -->
+        </mj-text>
+            <mj-text padding="8px 12px 8px 12px" >
+            <h2 style="color: #E7EDF0;
+                    text-align:center;
+                    margin:0;
+                            font-size: 26px;
+                            font-weight: 500;
+                            line-height: 1.2;">
+                            Unleash your strength with BodyFuel™ Creatine</h2>
+            </mj-text>
+            <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" />
+        </mj-column>
+        </mj-section> 
+    
+        <!-- Content sections -->
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 10px 12px"> 
+        <mj-column>
+            <mj-image border-radius="10px" padding="14px 12px 0px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-a2.png" alt="Unleash your strength with BodyFuel™ Creatine" href="https://link.presidentialsummary.com/ps-3-mar-2025-ad-ls" />
+            <mj-text padding="10px 12px">
+            <p style="color: #999;
+                        font-size: 17px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;">
+            For workouts that push you, no need to debate,<br/>
+            BodyFuel Creatine keeps gains up to date!
+            </p>
+            <p style="color: #999;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;">
+            Pure and micronized, it fuels every rep,<br/>
+            Boosting power with every step.
+            </p>
+            <p style="color: #999;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;">
+            Flavored or plain, just mix and go,<br/>
+            For muscle and strength, it steals the show!
+            </p>
+            <p style="color: #999;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;">
+            Vegan-friendly, for all who train,<br/>
+            Recovery enhanced, goodbye to pain! 💪
+            </p>
+            </mj-text>
+            <mj-text padding="0px 12px 10px 12px">
+            <p style="margin:0;
+                        color: #999;
+                        font-size: 16px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1.5;">
+                    <a href="#" target="_blank" style="color:#F9D342; text-decoration:none;"> Get yours before it’s gone</a>
+                </p>
+            </mj-text>
+            <mj-spacer height="20px"/>
+        </mj-column>
+        </mj-section>
+       <!-- /ad-a2 -->
 
 
          <!-- You may also like -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
+         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 10px 12px">
             <mj-column >
-                <mj-text padding="10px 12px" color="#fff">
+                <mj-text padding="8px 12px" color="#fff">
                     <h3  
                     style="
                     margin:0;
-                    padding:20px 12px 10px 12px;
                     text-align: center;
+                    font-weight:500;
                     font-size: 26px;
-                    line-height:1.2;">
+                    line-height: 1.2;">
                     You may also like</h3>
                 </mj-text>
                 <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" />
 
                 <mj-text padding="10px 12px">
                     <p style="color: #999;
-                    font-size: 16px;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.5;">Years after retiring from their formidable ninja lives, a dysfunctional family must return to shadowy missions to counteract a string of looming threats.</p>
@@ -261,17 +239,28 @@
                 <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/img-2.png" alt="three images"/>
+                <mj-spacer height="20px"/>
             </mj-column>
         </mj-section>
 
+
         <!-- #1 - Salt -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px ">
-                <mj-column width="50%" vertical-align="bottom">
-                    <mj-text padding="10px 12px">
-                        <h2 style="color: #E7EDF0;
-                        font-size: 26px;
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+            <mj-column>
+                <mj-text padding="10px 12px 0px 12px">
+                    <h2 style="color: #E7EDF0;
+                       margin:0;
+                        font-size: 23px;
                         font-weight: 700;
                         line-height:1.2;">#1 - Salt</h2>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
+                <mj-column width="50%" vertical-align="bottom">
+                    <mj-text padding="0px 12px 0px 12px">
                         <p style="color: #E7EDF0;
                        
                       
@@ -279,8 +268,7 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        2010 • 1h 40m</p>
+                        line-height: 0.5;">2010 • 1h 40m</p>
                         <p style="color: #E7EDF0;
                        
                      
@@ -288,14 +276,11 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        Spy • Action • Thriller
-                        </p>
-                        
+                        line-height: 0.5;">Spy • Action • Thriller</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text align="center">
+                    <mj-text align="center" letter-spacing="0px">
                         <a href="#" style="color: #080707;
                         background-color: #F9D342;
                         text-decoration:none;
@@ -306,6 +291,7 @@
                         font-style: normal;
                         font-weight: 400;
                         display: inline-block;
+                   
                         line-height: 1;">&#8599; Share</a>
                         <a href="#" style="color: #080707;
                         text-decoration:none;
@@ -322,116 +308,47 @@
                     </mj-text>
                 </mj-column>
         </mj-section>
-
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
+    
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
             <mj-column>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                
+                <mj-image href="https://moviesuggestions.com/" padding="10px 12px 0px 12px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/img-3.png" alt="god father "/>
                 <mj-text padding="10px 12px">
-                     <p style="color: #999;
-                    font-size: 16px;
+                    <p style="color: #999;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.5;">Intense espionage drama about two Soviet spies living undercover as a married couple in 1980s America. Across six gripping seasons, the show expertly weaves together action, emotional depth, and psychological tension. You’ll love its complex characters and intricate plotlines. If you’re into high-stakes drama that explores loyalty, identity, and moral ambiguity, The Americans is a must-binge series.</p>
                     <p>
-                        <a style="color: #F9D342;
-                            font-size: 16px;
-                            font-style: normal;
-                            font-weight: 400;
-                            line-height: 1.5;">Where to watch?</a>
+                    <a style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">Where to watch?</a>
                     </p>
                 </mj-text>
             </mj-column>
         </mj-section>
 
         <!-- #2 -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
-                <mj-column width="50%" vertical-align="bottom">
-                    <mj-text padding="10px 12px">
-                        <h2 style="color: #E7EDF0;
-                        font-size: 26px;
-                        font-weight: 700;
-                        line-height:1.2;">
-                        #2 - Red Sparrow</h2>
-                        <p style="color: #E7EDF0;
-                        font-family: Inter;
-                        font-size: 15px;
-                        font-style: normal;
-                        font-weight: 200;
-                        line-height: 1;">
-                        2018 • 2h 20m</p>
-                        <p style="color: #E7EDF0;
-                        font-family: Inter;
-                        font-size: 15px;
-                        font-style: normal;
-                        font-weight: 200;
-                        line-height: 1;">
-                        Spy • Action • Thriller
-                        </p>
-                        
-                    </mj-text>
-                </mj-column>
-                <mj-column width="50%" vertical-align="bottom">
-                    <mj-text align="center">
-                        <a href="#" style="color: #080707;
-                        background-color: #F9D342;
-                        text-decoration:none;
-                        padding:6px 12px;
-                        border-radius:4px;
-                        font-family: Inter;
-                        font-size: 18px;
-                        font-style: normal;
-                        font-weight: 400;
-                        display: inline-block;
-                        line-height: 1;">&#8599; Share</a>
-                        <a href="#" style="color: #080707;
-                        text-decoration:none;
-                        background-color: #fff;
-                        padding:6px 12px;
-                        border-radius:4px;
-                        font-family: Inter;
-                        font-size: 18px;
-                        font-style: normal;
-                        font-weight: 400;
-                        line-height: 1;
-                        display: inline-block;
-                        margin-left: 8px;">&#10148; Trailer</a>
-                    </mj-text>
-                </mj-column>
-        </mj-section>
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+                    <mj-column>
+                        <mj-text padding="10px 12px 0px 12px">
+                            <h2 style="color: #E7EDF0;
+                            margin:0;
+                                font-size: 23px;
+                                font-weight: 700;
+                                line-height:1.2;">#2 - Red Sparrow</h2>
+                        </mj-text>
+                    </mj-column>
+            </mj-section>
 
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
-            <mj-column>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
-                width="600px"
-                src="https://moviesuggestions.com/email/images/img-4.png" alt="god father"/>
-                <mj-text padding="10px 12px">
-                     <p style="color: #999;
-                    font-size: 16px;
-                    font-style: normal;
-                    font-weight: 400;
-                    line-height: 1.5;">Jennifer Lawrence plays a ballerina-turned-Russian spy in this tension-filled film. The film has a dark and seductive tone and a plot layered with manipulation, deception, and power struggles.</p>
-                    <p>
-                        <a style="color: #F9D342;
-                            font-size: 16px;
-                            font-style: normal;
-                            font-weight: 400;
-                            line-height: 1.5;">Where to watch?</a>
-                    </p>
-                </mj-text>
-            </mj-column>
-        </mj-section>
-
-        <!-- #3 -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px ">
+        
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text padding="10px 12px">
-                        <h2 style="color: #E7EDF0;
-                        font-size: 26px;
-                        font-weight: 700;
-                        line-height:1.2;">
-                        #3 - Tinker Tailor Soldier Spy</h2>
+                    <mj-text padding="0px 12px 0px 12px">
                         <p style="color: #E7EDF0;
                        
                       
@@ -439,8 +356,7 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        2011 • 2h 07m</p>
+                        line-height: 0.5;">2018 • 2h 20m</p>
                         <p style="color: #E7EDF0;
                        
                      
@@ -448,14 +364,11 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        Spy • Drama • Mystery
-                        </p>
-                        
+                        line-height: 0.5;">Spy • Action • Thriller</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text align="center">
+                    <mj-text align="center" letter-spacing="0px">
                         <a href="#" style="color: #080707;
                         background-color: #F9D342;
                         text-decoration:none;
@@ -466,6 +379,7 @@
                         font-style: normal;
                         font-weight: 400;
                         display: inline-block;
+                   
                         line-height: 1;">&#8599; Share</a>
                         <a href="#" style="color: #080707;
                         text-decoration:none;
@@ -482,24 +396,114 @@
                     </mj-text>
                 </mj-column>
         </mj-section>
-
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
+    
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
             <mj-column>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                
+                <mj-image href="https://moviesuggestions.com/" padding="10px 12px 0px 12px"
+                width="600px"
+                src="https://moviesuggestions.com/email/images/img-4.png" alt="god father "/>
+                <mj-text padding="10px 12px">
+                    <p style="color: #999;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">Jennifer Lawrence plays a ballerina-turned-Russian spy in this tension-filled film. The film has a dark and seductive tone and a plot layered with manipulation, deception, and power struggles.</p>
+                    <p>
+                    <a style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">Where to watch?</a>
+                    </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <!-- #3 -->
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+            <mj-column>
+                <mj-text padding="10px 12px 0px 12px">
+                    <h2 style="color: #E7EDF0;
+                       margin:0;
+                        font-size: 23px;
+                        font-weight: 700;
+                        line-height:1.2;">#3 - Tinker Tailor Soldier Spy</h2>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
+                <mj-column width="50%" vertical-align="bottom">
+                    <mj-text padding="0px 12px 0px 12px">
+                        <p style="color: #E7EDF0;
+                       
+                      
+                        font-family: Inter;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 200;
+                        line-height: 0.5;">2011 • 2h 07m</p>
+                        <p style="color: #E7EDF0;
+                       
+                     
+                        font-family: Inter;
+                        font-size: 15px;
+                        font-style: normal;
+                        font-weight: 200;
+                        line-height: 0.5;">Spy • Drama • Mystery</p>
+                    </mj-text>
+                </mj-column>
+                <mj-column width="50%" vertical-align="bottom">
+                    <mj-text align="center" letter-spacing="0px">
+                        <a href="#" style="color: #080707;
+                        background-color: #F9D342;
+                        text-decoration:none;
+                        padding:6px 12px;
+                        border-radius:4px;
+                        font-family: Inter;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 400;
+                        display: inline-block;
+                   
+                        line-height: 1;">&#8599; Share</a>
+                        <a href="#" style="color: #080707;
+                        text-decoration:none;
+                        background-color: #fff;
+                        padding:6px 12px;
+                        border-radius:4px;
+                        font-family: Inter;
+                        font-size: 18px;
+                        font-style: normal;
+                        font-weight: 400;
+                        line-height: 1;
+                        display: inline-block;
+                        margin-left: 8px;">&#10148; Trailer</a>
+                    </mj-text>
+                </mj-column>
+        </mj-section>
+    
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
+            <mj-column>
+                
+                <mj-image href="https://moviesuggestions.com/" padding="10px 12px 0px 12px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/img-5.png" alt="god father "/>
                 <mj-text padding="10px 12px">
-                     <p style="color: #999;
-                    font-size: 16px;
+                    <p style="color: #999;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
-                    line-height: 1.5;">A slow-burn British espionage film, this one dives deep into the Cold War era, filled with intrigue, double-crossing, and a masterclass performance by Gary Oldman. If you’re a fan of old-school spy thrillers, this is one you can’t miss.</p>
+                    line-height: 1.5;
+                    ">A slow-burn British espionage film, this one dives deep into the Cold War era, filled with intrigue, double-crossing, and a masterclass performance by Gary Oldman. If you’re a fan of old-school spy thrillers, this is one you can’t miss.</p>
                     <p>
-                        <a style="color: #F9D342;
-                            font-size: 16px;
-                            font-style: normal;
-                            font-weight: 400;
-                            line-height: 1.5;">Where to watch?</a>
+                    <a style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">Where to watch?</a>
                     </p>
                 </mj-text>
             </mj-column>
@@ -508,11 +512,10 @@
         <!-- the show of the week -->
         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
             <mj-column>
-                 <mj-text padding="0" color="#fff">
+                 <mj-text padding="8px 12px" color="#fff">
                     <h3  
                     style="
                     margin:0;
-                    padding:20px 12px 10px 12px;
                     text-align: center;
                     font-size: 26px;
                     line-height:1.2;">
@@ -522,36 +525,42 @@
             </mj-column>
         </mj-section>
 
-        <!-- contents -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
-                <mj-column width="50%" vertical-align="bottom">
-                    <mj-text padding="10px 12px">
-                        <h2 style="color: #E7EDF0;
-                        font-size: 26px;
+         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
+            <mj-column>
+                <mj-text padding="10px 12px 0px 12px">
+                    <h2 style="color: #E7EDF0;
+                       margin:0;
+                        font-size: 23px;
                         font-weight: 700;
-                        line-height:1.2;">
-                        The Americans</h2>
+                        line-height:1.2;">The Americans</h2>
+                </mj-text>
+            </mj-column>
+        </mj-section>
 
+        
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
+                <mj-column width="50%" vertical-align="bottom">
+                    <mj-text padding="0px 12px 0px 12px">
                         <p style="color: #E7EDF0;
+                       
+                      
                         font-family: Inter;
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        2013 - 2018 • 3 Seasons</p>
+                        line-height: 0.5;">2013 - 2018 • 3 Seasons</p>
                         <p style="color: #E7EDF0;
+                       
+                     
                         font-family: Inter;
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 1;">
-                        Crime • Drama • Tragedy
-                        </p>
-                        
+                        line-height: 0.5;">2013 - 2018 • 3 Seasons</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="50%" vertical-align="bottom">
-                    <mj-text align="center">
+                    <mj-text align="center" letter-spacing="0px">
                         <a href="#" style="color: #080707;
                         background-color: #F9D342;
                         text-decoration:none;
@@ -562,6 +571,7 @@
                         font-style: normal;
                         font-weight: 400;
                         display: inline-block;
+                   
                         line-height: 1;">&#8599; Share</a>
                         <a href="#" style="color: #080707;
                         text-decoration:none;
@@ -578,37 +588,38 @@
                     </mj-text>
                 </mj-column>
         </mj-section>
-
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
+    
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
             <mj-column>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                
+                <mj-image href="https://moviesuggestions.com/" padding="10px 12px 0px 12px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/img-6.png" alt="god father "/>
                 <mj-text padding="10px 12px">
-                     <p style="color: #999;
-                    font-size: 16px;
+                    <p style="color: #999;
+                    font-size: 17px;
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.5;">Intense espionage drama about two Soviet spies living undercover as a married couple in 1980s America. Across six gripping seasons, the show expertly weaves together action, emotional depth, and psychological tension. You’ll love its complex characters and intricate plotlines. If you’re into high-stakes drama that explores loyalty, identity, and moral ambiguity, The Americans is a must-binge series.</p>
                     <p>
-                        <a style="color: #F9D342;
-                            font-size: 16px;
-                            font-style: normal;
-                            font-weight: 400;
-                            line-height: 1.5;">Where to watch?</a>
+                    <a style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">Where to watch?</a>
                     </p>
                 </mj-text>
             </mj-column>
         </mj-section>
+        
 
         <!-- did you know -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px ">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px ">
             <mj-column>
-                 <mj-text padding="0" color="#fff">
+                 <mj-text padding="8px 12px" color="#fff">
                     <h3  
                     style="
                     margin:0;
-                    padding:20px 12px 10px 12px;
                     text-align: center;
                     font-size: 26px;
                     line-height:1.2;">
@@ -620,17 +631,17 @@
         <!-- contents -->
         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
             <mj-column>
-                <mj-text align="center" padding="10px 12px">
+                <mj-text align="center" padding="0px 12px 10px 12px">
                     <p
                     style="
-                    padding:10px 12px;
+                    padding:10px 16px;
                     border:1px solid #F9D342;
                     border-radius:10px;
                     color: #999;
-                    font-size: 16px;
+                    font-size: 23px;
                     font-style: normal;
                     font-weight: 400;
-                    line-height: 1.5;">
+                    line-height: 1.4;">
                     During The Godfather’s infamous bed scene, the cast rehearsed with a fake horse head, but director Francis Ford Coppola swapped in a real one from a dog food factory, capturing John Marley’s genuine horror on camera.
                     </p>
                 </mj-text>
@@ -652,6 +663,7 @@
             </mj-text>
         </mj-column>
         </mj-section>
+
         <mj-section 
             background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
             <mj-column>
@@ -697,5 +709,5 @@
             </mj-column>
         </mj-section>
         <mj-spacer height="10px"/>
-    </mj-body>
+ </mj-body>
 </mjml>
