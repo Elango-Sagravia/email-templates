@@ -6,7 +6,7 @@
     </mj-style> -->
     <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important; border: 1px solid #F9D342 !important;} </mj-style>
   </mj-head>
-  <mj-body> 
+  <mj-body>
     <mj-spacer height="10px" />
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
@@ -59,7 +59,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column width="100%">
-        <mj-divider border-width="1px" border-style="solid"  border-color="#F9D342" padding="20px 22px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="#F9D342" padding="20px 22px" />
         <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
           
@@ -75,20 +75,21 @@
         <mj-spacer height="20px" />
         <mj-social mode="horizontal">
           <!-- Facebook Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
           </mj-social-element>
           <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
           </mj-social-element>
           <!-- Instagram Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
           </mj-social-element>
           <!-- Reddit Icon -->
           <!-- linkedIn -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/movie-suggestions/
+" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
           </mj-social-element>
           <!-- threads -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
           </mj-social-element>
         </mj-social>
         <mj-spacer height="10px" />
@@ -114,7 +115,7 @@
         </mj-text>
       </mj-column>
       </mj-column>
-</mj-section>
+    </mj-section>
     
     <mj-spacer height="10px" />
   </mj-body>
