@@ -1,0 +1,437 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text --> 
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px; 
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this weekend edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5; 
+              padding-left:10px;
+            ">→ Starbucks to pay out big bucks</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left:10px;
+            ">→ Are the Democrats losing trust?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left:10px;
+            ">→ St Patrick's Day celebration</p>  
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com"  target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Spotlight of the week
+</h2> 
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- THE BIG ONE contents-->
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Netflix fraudster caught 
+</h2> 
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/director-carl-erik-rinsch.png" alt="Director Carl Erik Rinsch" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF"> 
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>Director Carl Erik Rinsch. Credits: John Sciulli/Getty Images</i>
+          </p>
+        </mj-text>
+       
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+          <p style="font-size: 16px; line-height: 1.5">Carl Erik Rinsch, best known for 47 Ronin, was arrested on wire fraud and money laundering charges after allegedly swindling <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-03-2025-h1-1-11-mn-from-netflix" target="_blank">$11 Mn from Netflix</a>. They initially paid Rinsch $44 Mn for a sci-fi series called <i>White Horse</i>. Later, Rinsch claimed he needed an additional $11 Mn to finish the show. Instead, Rinsch allegedly moved money into a personal brokerage account, losing half on failed investments and gambling the rest in cryptocurrency. </p>
+          <p style="font-size: 16px; line-height: 1.5">Rinsch spent roughly $10 Mn on luxury items, including five Rolls-Royces, a Ferrari, and $1.8 Mn in credit card payments. Rinsch was arrested in West Hollywood and had an initial court hearing on Tuesday. He was released on a $100,000 bond and assured he’ll appear in court in New York, where his indictment was filed.</p>
+          <p style="font-size: 16px; line-height: 1.5">Annie Carney, Rinsch’s newly appointed attorney, said she had not seen the prosecution’s evidence against Rinsch. When discussing the terms of his release, she said, “The allegations in this case are purely financial.” Netflix has declined to comment on this.</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    
+  <mj-spacer height="10px"></mj-spacer>
+<!-- primary ad -->
+   <!-- PS ad -->
+     <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-22-mar-2025-p-ad-ms" target="_blank" style="color:black">
+   </mj-raw>
+    <!-- title -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Movie Suggestions</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Just sit back and press play</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>  
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Weekend’s here, it’s time to unwind,<br/>
+          The must-watch movie, we help you find.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Thrillers, dramas, laughs to share,<br/>
+           Handpicked gems, beyond compare.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          No more searching, no more doubt,<br/>
+          Join us, and don’t miss out!</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Movie Suggestions 🎬</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-raw>
+  </a>
+</mj-raw>
+  <!-- /PS ad -->
+
+
+    <mj-spacer height="10px" />
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">Starbucks to pay $50 Mn to a man who suffered severe burns</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Starbucks has been ordered to pay Michael Garcia $50 Mn. Garcia <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-03-2025-r1-2-suffered-third-degree-burns" target="_blank">suffered third-degree burns</a> after a hot tea spill at a California drive-through in 2020. His lawyers said this spill caused it to tip and spill on his lap, severely burning his thighs and genitals. Garcia required hospitalization and multiple skin grafts and has endured lasting physical and psychological harm.</p>
+          <p style="font-size: 16px; line-height: 1.5">Starbucks denied responsibility and offered $3 Mn to settle. However, they refused to publicly apologize and change the policy, which was one of Garcia's requests. The case compares the famous 1994 McDonald’s hot coffee lawsuit. It raises the debate about corporate responsibility and customer safety in the US.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">Harry’s immigration records were made public over a lawsuit</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Documents related to Prince Harry's US visa application were made public. However, the details revealed very little about his application. The Heritage Foundation lodged a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-03-2025-r2-3-freedom-of-information-request" target="_blank">freedom of information request</a>. The foundation alleges Harry's concealed past drug use could have disqualified him from any potential visas. Harry wrote about his past with drug use in a memoir in 2023.</p>
+          <p style="font-size: 16px; line-height: 1.5">US officials expressed concerns about the potential harassment Harry could face over his high-profile status if his visa status were disclosed. The Heritage Foundation plans to take further legal steps to get more details. Prince Harry and Meghan moved to the US in 2020 after stepping down as senior royals, with Meghan being a US citizen.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px"> 
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">Research base in Antarctica in fear of assault from a colleague</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">A member of a South African research team at a remote Antarctic base has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-03-2025-r3-4-accused-a-colleague-of-assault" target="_blank">accused a colleague of assault</a> and sought intervention. The Department of Forestry, Fisheries, and the Environment (DFFE) activated a response plan, but nobody was sent home. The department revealed that the alleged perpetrator underwent a psychological evaluation and has shown remorse. No names were disclosed.</p>
+          <p style="font-size: 16px; line-height: 1.5">The DFFE is investigating further, including a sexual harassment allegation. Severe weather has trapped the team of nine until December, when a ship can reach them. This follows a 2017 incident at another South African base. A team member vandalized a colleague’s laptop due to a love triangle. The DPFE also said it isn't uncommon for individuals to have difficulty adjusting to such remote areas.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+
+
+<!-- secondary ad  -->
+    <!-- <mj-raw>
+          <a href="https://link.presidentialsummary.com/ps-8-mar-2025-s-ad-bh" target="_blank" style="color:black">
+      </mj-raw>
+        <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
+          <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+          <mj-spacer height="12px"/>
+          <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                <i>In partnership with Business History</i>
+            </p> 
+          </mj-text>
+            <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+              <h2 style="
+              padding-bottom:8px;
+              padding-left: 5px;
+              color:#4D3060; 
+                text-align: left;
+                letter-spacing:1px;
+                  font-size: 26px;
+                  line-height: 1.2;
+                  font-weight: 300;
+                  
+                ">Behind the scenes of businesses
+              </h2>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+                <li><strong>The Kurdish PKK declared a ceasefire</strong> after its leader called for disarmament, but Turkey rejects peace talks.</li>
+                <li><strong>European leaders push a Ukraine peace plan</strong> while urging stronger defense amid US uncertainty.</li>
+                <li><strong>How did Namibia gain its independence?</strong></li>
+              </ul>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+            <strong>Every successful company has a turning point</strong>—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+            </p>
+            <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+            <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+            </p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" target="_blank">Join Business History</a></p>
+              </mj-text> 
+          </mj-column> 
+        </mj-section>
+    <mj-raw>
+      </a>
+    </mj-raw> -->
+<!-- secondary ad  -->
+
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big question -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+              
+            ">The big question</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Are the Democrats losing trust?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">A recent poll brought some troubling realizations to Democrats. It revealed that <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-03-2025-bq1-5-democrats-are-losing-trust" target="_blank">Democrats are losing trust</a> among independent voters in key battleground districts, with many feeling the party focuses on others rather than them. Just over a quarter of registered voters (27%) say they have positive views of the party. Voters are skeptical about Democrats’ commitment to working-class issues, especially jobs.</p>
+          <p style="font-size: 16px; line-height: 1.5">Democrats are still losing satisfaction among regular center-left and left voters because many see some of the “established Democrats” as being too soft on Trump. The most recent incident saw the six-month funding bill pushed through with 10 Democratic senators voting on it, including Chuck Schumer, the Senate minority party. While they voted on it to avert a government shutdown, it showed growing divisions among the Democrats.</p>
+          <p style="font-size: 16px; line-height: 1.5">Almost 65% of people want congressional Democrats to stick to their positions even if that risks sacrificing bipartisan progress. The supporters want to see some offense from the party, even at the cost of any democratic progress. Also, most voters (55%) have negative views of the party. While the party is still trying to decode Trump, they are losing the focus on the necessary measures.</p>
+          <p style="font-size: 16px; line-height: 1.5">Social media has also been a polarizing factor. Many young people on TikTok have been growing to either the far left or the far right. The midterm elections are a year and a half out. Democrats will need to find a way to win over both the moderate and progressive votes, or at least one. Currently, they are losing both.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/Chicago-River-dyed-green-St-Patricks-Day-tradition.png" alt="The Chicago River is dyed green every St Patrick’s Day" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>The Chicago River is dyed green every St Patrick’s Day. Credits: Erin Hooley/AP.</i>
+          </p>
+        </mj-text>  
+    </mj-section>  
+ 
+    <!-- banner --> 
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">On this day in 2019, Special Counsel Robert Mueller delivered his report on Russian interference in the 2016 US election, stating that it did not conclude President Donald Trump committed a crime but also did not exonerate him.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            <!-- <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
