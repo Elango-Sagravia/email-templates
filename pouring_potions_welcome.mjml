@@ -1,0 +1,43 @@
+<mjml>
+  <mj-body background-color="#f0f0f0">
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-column>
+
+        <!-- Logo -->
+        <mj-image
+          src="https://www.pouringpotions.com/logo.png"
+          alt="Company Logo"
+          width="120px"
+          align="center"
+        />
+
+        <!-- Welcome Text -->
+        <mj-text font-size="20px" font-weight="bold" align="center" padding-top="20px">
+          Welcome to Our Newsletter!
+        </mj-text>
+
+        <mj-text font-size="16px" align="center" padding-bottom="20px">
+          Thanks for signing up. We're excited to have you on board.
+        </mj-text>
+
+        <!-- Verify Button -->
+        <mj-button
+          href="https://yourdomain.com/verify?token=YOUR_TOKEN_HERE"
+          background-color="#346DB7"
+          color="#ffffff"
+          align="center"
+        >
+          Verify Your Email
+        </mj-button>
+
+        <!-- Unsubscribe -->
+        <mj-text font-size="12px" color="#888888" align="center" padding-top="30px">
+          If you didn’t sign up, you can
+          <a href="https://yourdomain.com/unsubscribe?email=EMAIL_HERE">unsubscribe</a>
+          anytime.
+        </mj-text>
+
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
