@@ -3,7 +3,7 @@
  </mj-head>
  <mj-body>
      <mj-spacer height="10px"/>
-        <mj-section padding="10px 12px" background-url="https://moviesuggestions.com/email/images/god-father-blur-img.png" background-size="cover" background-repeat="no-repeat">
+        <mj-section padding="10px 12px" background-url="https://moviesuggestions.com/email/images/god-father-blur-img.png" background-size="cover" background-repeat="no-repeat" >
             <mj-column>
             <mj-spacer height="20px"/>
                 <mj-image href="https://moviesuggestions.com/" padding="10px 12px" width="150px" src="https://moviesuggestions.com/logo.png" />
@@ -65,7 +65,7 @@
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 0.5;">Director - Francis Ford Coppola</p>
+                        line-height: 0.5;">Director by - Francis Ford Coppola</p>
                     </mj-text>
                 </mj-column>
                 <mj-column width="50%" vertical-align="bottom">
@@ -95,7 +95,7 @@
                         display: inline-block;
                         margin-left: 8px;">&#10148; Trailer</a>
                     </mj-text>
-                </mj-column>
+                </mj-column> 
         </mj-section>
     
         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 10px 12px">
@@ -132,7 +132,7 @@
             </mj-column>
         </mj-section>
 
-        <!--  ad-a2 -->
+        <!--primary  ad-a2 -->
         <!-- title -->
         <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
         <mj-column>
@@ -156,7 +156,7 @@
                             line-height: 1.2;">
                             Unleash your strength with BodyFuel™ Creatine</h2>
             </mj-text>
-            <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" />
+            <!-- <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" /> -->
         </mj-column>
         </mj-section> 
     
@@ -642,7 +642,7 @@
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.4;">
-                    During The Godfather’s infamous bed scene, the cast rehearsed with a fake horse head, but director Francis Ford Coppola swapped in a real one from a dog food factory, capturing John Marley’s genuine horror on camera.
+                    During The Godfather’s infamous bed scene, the cast rehearsed with a fake horse head, but director by Francis Ford Coppola swapped in a real one from a dog food factory, capturing John Marley’s genuine horror on camera.
                     </p>
                 </mj-text>
             </mj-column>
