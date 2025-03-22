@@ -1,0 +1,508 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.longandshort.com/an-logo-grey.png" href="https://www.longandshort.com/" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-top:2px;
+            ">"Risk comes from not knowing what you're doing." – Warren Buffett</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this week:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Fed rates unchanged</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Nvidia’s new chip</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ North Korea’s crypto hacking chops</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Spotlight contents-->
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">
+Nvidia’s big plans
+</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/Blackwell-Ultra-Vera-Rubin-AI-platform-chip-system.png" alt="Blackwell Ultra is part of the Vera Rubin AI platform chip system" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Blackwell Ultra is part of the Vera Rubin AI platform chip system. Credits: Nvidia</i></p> 
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Nvidia CEO Jensen Huang plans to spend hundreds of billions of dollars on <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-h1-1-us-manufactured-chips-and-electronics?source=website" target="_blank">US-manufactured chips and electronics</a> over the next four years. This major shift comes amid Donald Trump’s renewed tariff threats and growing concerns over reliance on Asia-based supply chains, particularly Taiwan. Huang said Nvidia’s latest AI systems are now being made in the US, with suppliers like TSMC and Foxconn supporting production.</p>
+          <p style="font-size: 16px; line-height: 1.5">The company’s next-gen chip, Vera Rubin, was unveiled at its GTC conference, emphasizing the need for vast data center infrastructure and power. Huang also acknowledged rising competition from China’s Huawei, which he called “the most formidable tech company in China.” While still working with TSMC, Nvidia also evaluates Intel’s chip-making and packaging capabilities but hasn’t committed to onshoring with Intel yet.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="0px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2; 
+              font-weight: 500;
+              margin-top: 2px !important;">
+              Fed rates unchanged
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            
+            The Federal Reserve kept interest rates steady at 4.25% to 4.50%, citing strong economic growth, low unemployment, and still-elevated inflation. It forecasts <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-h2-2-two-rate-cuts-later-in-the-year?source=website" target="_blank">two rate cuts later in the year</a> but lowered its 2025 GDP outlook to 1.7%. Inflation remains above target at 2.6%, and upcoming Trump-era tariffs could complicate future decisions.
+
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">The Fed will slow its balance sheet reduction to support the economy without stoking inflation. Though the labor market shows signs of softening, it remains relatively strong. Ongoing trade uncertainty and stagflation fears contribute to market jitters and shape expectations for future policy moves.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- ad-ms -->
+   <mj-spacer height="10px" />
+    
+    <!-- title -->
+<mj-raw>
+      <a href="https://link.longandshort.com/ls-22-mar-2025-p-ad-ms?source=website" target="_blank" style="color:black">
+</mj-raw>
+ <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Movie Suggestions</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #6b705c; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Just sit back and press play</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>  
+ 
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff"> 
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Weekend’s here, it’s time to unwind,<br/>
+          The must-watch movie, we help you find.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Thrillers, dramas, laughs to share,<br/>
+           Handpicked gems, beyond compare.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          No more searching, no more doubt,<br/>
+          Join us, and don’t miss out!</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;">Join Movie Suggestions 🎬</a></p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+<mj-raw>
+    </a>
+</mj-raw>
+
+   
+    <mj-spacer height="10px" />
+    <!-- World markets-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 2px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+           
+              
+            ">Global markets
+</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇬🇧 Thames Water may collapse</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Thames Water, the UK’s largest water utility, <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-wn1-3-faces-a-potential-collapse?source=website" target="_blank">faces a potential collapse</a> due to a debt crisis of approximately $25 billion USD (£20bn). A proposed emergency loan of around $3.8 billion USD (£3bn) currently under appeal aims to keep it afloat long enough for restructuring.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Ofwat, the regulator, warns that nationalization could cost taxpayers up to $5 billion USD (£4bn), while 12,000 pension scheme members risk reduced benefits. Thames plans to cut debt, appeal Ofwat’s cap on bill hikes, and attract investors. A court ruling on the loan is expected soon. Services will continue regardless of the outcome.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>
+              
+
+🇹🇷 Turkey cuts interest rates
+</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">Turkey’s central bank cut its key interest rate from 45% to 42.5%, marking the <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-wn2-4-third-consecutive-rate-cut?source=website" target="_blank">third consecutive rate cut</a>, as annual inflation dipped below 40% for the first time in nearly two years. The move follows a gradual policy shift after President Erdogan appointed a new economic team in 2023. Initially, rates were raised to combat inflation.
+</p>
+          <p style="font-size:16px;line-height:1.5;">Despite official inflation data showing improvement, independent economists suggest the actual rate may be higher. The bank stated it would adjust policy cautiously, warning that inflation expectations still pose risks to long-term disinflation.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px;line-height:1.5;">
+            <strong>🇫🇷 OECD cuts EU GDP forecast</strong>
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+            The OECD has cut its <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-wn3-5-eurozone-gdp-growth-forecast?source=website" target="_blank">eurozone GDP growth forecast</a> for 2025 to 1.0%, down from 1.3%, citing weak investment, inflation, and rising geopolitical risks. Global growth was also revised down to 3.1%. Germany saw the sharpest downgrade, now expected to grow just 0.4%. Trade disruptions, especially US tariffs, impact sentiment and dampen recovery. 
+            </p>
+          <p style="font-size:16px;line-height:1.5;">Inflation remains stubborn, particularly in services, while central banks are expected to ease rates gradually. The OECD urges global cooperation and structural reforms to counter economic fragmentation and boost productivity, warning that risks to growth and financial stability remain high.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+
+    <!-- chart-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Plot twist</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Why are VC firms closing down?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/Dwindling-Investors-Market-Graph.jpg" alt="The graph shows the dwindling number of investors in the market" href="https://www.altdaily.co" />
+             <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Since 2021 the number of active investors in startups have fallen by over 50%</i></p> 
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Startups are staying private longer,</strong> delaying returns for VC firms. This forces VC funds to extend their investment cycles, making it harder to attract new capital.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Smaller firms struggle to compete, leading to market consolidation.</strong> Big VC firms like Andreessen Horowitz, General Catalyst, and Thrive Capital are attracting the most investments.</p>
+
+ 
+
+          <p style="font-size: 16px; line-height: 1.5;"><strong>Example:</strong> In 2024, just nine VC firms raised over $35 billion, leaving smaller firms with limited capital. LPs (Limited Partners) prioritize proven firms over newer or smaller VCs.</p>
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Investors prefer backing big tech unicorns</strong> like SpaceX, OpenAI, and Stripe instead of riskier early-stage startups. This reduces funding opportunities for newer, high-risk startups, impacting smaller VC firms.</p>
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Rising interest rates have made alternative investments (bonds, private equity) more attractive</strong> than VC. This reduces the total amount of capital flowing into VC funds. Because of perceived safety, significant VC funds tend to get the lion's share of new money.</p>
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Institutional investors are more risk-averse</strong> due to macroeconomic uncertainties. Many pension funds and endowments are withdrawing from VC due to a lack of liquidity.</p>
+
+
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <mj-spacer height="10px" />
+    <!-- Markets -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Markets</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000"> 
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Stocks</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>FedEx again lowered its fiscal 2025 profit forecast after Q3 earnings missed expectations.</strong> EPS rose 17% to $4.51, slightly below analyst estimates. The company cited U.S. industrial weakness and is targeting $4 billion in cost cuts. Shares dropped 4% post-earnings and are down 11% year-to-date amid ongoing concerns about growth and tariffs (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m1-6-lower-profits?source=website" target="_blank">lower profits</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>Luminar Technologies (LAZR) reported a 45% quarter-over-quarter</strong> revenue jump in Q4 2024, reaching $22.5 million, beating estimates. However, EPS missed significantly at -$1.42 vs. -$0.14 expected. Despite unveiling its new Halo lidar platform and shipping over 4,000 sensors, the stock dropped 13% before rebounding 7% in after-hours trading. The company projects 10 to 20% revenue growth in 2025 but faces ongoing profitability and production volume challenges (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m2-7-jp-morgan-overweight?source=website" target="_blank">JP Morgan overweight</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+     <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Currencies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The Indian rupee rose for the seventh consecutive session, marking its longest winning streak since January 2024.</strong> Strong foreign inflows, bank dollar sales, and reduced short positions drove the rally. The rupee hit a near two-month high despite a stronger U.S. dollar, supported by arbitrage trades and improved sentiment toward Asian currencies (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m3-8-foreign-investments?source=website" target="_blank">foreign investments</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            ">Commodities</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>China’s oil demand growth is slowing sharply due to the rising adoption of electric vehicles</strong> and a shift toward a service-based economy. While petrochemical use is still growing, analysts say overall demand may plateau later this decade. This slowdown in global uncertainties and US trade policy shifts could reshape global oil markets (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m4-9-geopolitical-wildcard?source=website" target="_blank">geopolitical wildcard</a>).</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>The USDA will begin accepting applications for $10 billion in economic aid to support US farmers</strong> hit by low commodity prices. Through the Emergency Commodity Assistance Program, eligible farmers will receive flat-rate payments by acreage for crops like wheat and corn. Payments are expected within three business days of approval (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m5-10-price-drop?source=website" target="_blank">price drop</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Crypto</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>President Trump pledged to make the US the “undisputed Bitcoin superpower”</strong> during a Blockworks Digital Assets Summit speech. He announced the creation of a Strategic Bitcoin Reserve, vowed to end regulatory crackdowns on crypto, and called for legislation to establish clear rules for stablecoins and digital markets to boost innovation and investment (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m6-11-full-speech?source=website" target="_blank">full speech</a>).</p>
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>The SEC has begun drafting crypto regulations,</strong> starting with a public roundtable to gather views on governing digital assets. Industry leaders and legal experts debated investor protection and fair rules for decentralized projects. Meanwhile, Ripple CEO says the long-running XRP case is over, though the SEC hasn’t confirmed it (<a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-m7-12-rulemaking-process?source=website" target="_blank">rulemaking process</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- ----- -->
+    <!-- --- -->
+    <mj-spacer height="10px" />
+    <!-- foundation-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#6b705c;
+            text-align: left;
+            border-bottom:2px solid #6b705c;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+               
+            ">Foundations</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;">Why is North Korea so good at crypto hacking?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.longandshort.com/email/images/Amount-Confirmed-Stolen-By-North-Korea.png" alt="Amount confirmed stolen by North Korea" href="https://www.longandshort.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Amount confirmed stolen by North Korea. Source: TRM</i></p>
+        </mj-text> 
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">North Korea has emerged as a cyber superpower, pulling off some of the world’s biggest crypto heists. Here’s why their hackers are so dangerously effective:</p>  
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>State-backed talent cultivation:</strong> North Korea has long invested in training top math and computer science students, identifying talent early and funneling them into elite cyber units.</p>
+          <p style="font-size: 16px; line-height: 1.5;"><strong>Example:</strong> After recognizing the importance of tech during the Gulf War, the regime began training talented math students in specialized programs, excusing them from annual countryside labor.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><span style="font-size:20px; padding-right:5px;">→</span><strong>National priority:</strong> Since the 1980s, North Korea has viewed cyber capabilities as essential to modern warfare and espionage. Cybercrime is now a major source of foreign currency.</p>
+
+          <p style="font-size: 16px; line-height: 1.5;"><strong>Example:</strong> Kim Jong Un calls cyberwarfare “an all-purpose sword.” In 2023, the UN reported that cyber theft made up over 50% of North Korea’s foreign currency earnings, more than triple its exports to China.</p>
+
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Advanced social engineering:</strong> They’re skilled at phishing, impersonating recruiters, and <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://link.longandshort.com/ls-22-03-2025-f1-13-infiltrating-companies?source=website" target="_blank">infiltrating companies</a> by posing as remote IT workers.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"><strong>
+          Example:</strong> North Korean operatives pose as recruiters and send infected files during fake interviews or get hired under false identities to gain access from the inside.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Bold and relentless tactics:</strong> North Korea isn’t concerned with stealth or diplomatic fallout, unlike most nation-states. Its hackers strike loudly, work around the clock, and show little concern for secrecy.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"><span style="font-size:20px; padding-right:5px;">→</span><strong>Top-tier crypto laundering skills:</strong> Their ability to “mix” and “chain hop” stolen funds makes them extremely hard to trace. Experts say they’re the most sophisticated crypto launderers in the world.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="mailto:readers@altdaily.co" target="_blank">readers@longandshort.com</a>.</p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;" href="https://www.altdaily.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "><i>The content in this email is for informational purposes only and does not constitute financial, investment, legal, or tax advice. Investing involves risks, including the loss of principal. Past performance does not guarantee future results.</i>
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Long-and-Short/61563115340167/" src="https://www.longandshort.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/longandshortsum" src="https://www.longandshort.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/readlongandshort/?igsh=ZzhoeGR3YXZnbzA4#" src="https://www.longandshort.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/readlongandshort/" src="https://www.longandshort.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@readlongandshort" src="https://www.longandshort.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
