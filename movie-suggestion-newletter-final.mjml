@@ -29,7 +29,7 @@
                 width="350px"
                 src="https://moviesuggestions.com/email/images/god-father-img.png" alt="god father "/>
 
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                <mj-image href="https://moviesuggestions.com/" padding="2px 12px 8px 12px"
                 width="30px"
                 height="29px"
                 src="https://moviesuggestions.com/email/images/plus.png" alt="plus image"/>
@@ -69,23 +69,23 @@
                             line-height:1.2;">The Godfather
                     </h2>
                     <p style="
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">1972 • 2h 55m</p>
                         <p style="
-                        font-family: Inter;
+                       
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">Crime • Drama • Tragedy</p>
                         <p style="
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
-                        line-height: 0.5;">Director by - Francis Ford Coppola</p>
+                        line-height: 0.5;">Directed by - Francis Ford Coppola</p>
 
                     <p style="color: #999999;
                     font-size: 17px;
@@ -112,10 +112,10 @@
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px ">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 0px ">
             <mj-column>
             <mj-spacer height="20px"/>
-                <mj-image href="https://moviesuggestions.com/" padding="10px 12px"
+                <mj-image href="https://moviesuggestions.com/" padding="10px 0px"
                 width="600px"
                 src="https://moviesuggestions.com/email/images/label-rectangle-img.png" alt="label-rectangle-img"/>
             </mj-column>
@@ -263,7 +263,7 @@
                     <p style="color: #E7EDF0;
                        
                       
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -271,7 +271,7 @@
                         <p style="color: #E7EDF0;
                        
                      
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -328,7 +328,7 @@
                     <p style="color: #E7EDF0;
                        
                       
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -336,7 +336,7 @@
                         <p style="color: #E7EDF0;
                        
                      
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -392,7 +392,7 @@
                     <p style="color: #E7EDF0;
                        
                       
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -400,7 +400,7 @@
                         <p style="color: #E7EDF0;
                        
                      
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -474,13 +474,13 @@
                         font-weight: 700;
                         line-height:1.2;">The Americans</h2>
                         <p style="color: #E7EDF0;
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">2013 - 2018 • 3 Seasons</p>
                         <p style="color: #E7EDF0;
-                        font-family: Inter;
+                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -519,7 +519,7 @@
         </mj-section>
 
         <!-- did you know -->
-        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px ">
+        <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px">
             <mj-column>
                  <mj-text padding="8px 12px" color="#fff">
                  <mj-raw>
@@ -566,20 +566,21 @@
         </mj-section>
 
 <!-- footer -->
-  <mj-section padding="10px 12px 0px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+  <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="#F9D342" width="100%"/>
-        <mj-text font-family="Arial, Helvetica, sans-serif">
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px"/>
+        <mj-spacer height="10px"/>
+        <mj-text font-family="Arial, Helvetica, sans-serif" padding="0px 12px">
         <mj-raw>
                 <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
                 <div style="background:#000; mix-blend-mode:screen;">
                     <div style="background:#000; mix-blend-mode:difference;">
-          <p style="font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
-          <p style="font-size: 12px; color: #808080; line-height: 2">
+          <p style=" font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 1px solid  #F9D342; color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
+          <p style="margin:0; font-size: 12px; color: #808080; line-height: 2">
             This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.
           </p>
-          <p style="font-size: 12px; color: #808080; line-height: 2">
-            <a style="color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+          <p style=" font-size: 12px; color: #808080; line-height: 2">
+            <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
           </p>
           </div>
                 </div>
@@ -587,12 +588,11 @@
                 </mj-raw>
         </mj-text>
       </mj-column>
-      </mj-column>
     </mj-section>
-  <mj-section padding="0px 12px 0px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
      
-        <mj-social mode="horizontal">
+        <mj-social mode="horizontal" padding="0">
           <!-- Facebook Icon -->
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
           </mj-social-element>
@@ -611,12 +611,11 @@
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
           </mj-social-element>
         </mj-social>
-        <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
-  <mj-section padding="0px 12px 20px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
-      <mj-column width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif"> 
+  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column >
+        <mj-text font-family="Arial, Helvetica, sans-serif"> 
         <mj-raw>
                 <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
                 <div style="background:#000; mix-blend-mode:screen;">
@@ -630,7 +629,6 @@
             <span>St, Ste N, Sheridan, WY 82801, United States</span>
           </p>
           <p style="   
-          margin-bottom:10px;
           text-align:center;
                     line-height: 1.5;
           font-size: 12px; 
@@ -641,7 +639,7 @@
                 </div>
                 </mj-raw>
         </mj-text>
-      </mj-column>
+        <mj-spacer height="10px"/>
       </mj-column>
     </mj-section>
         <mj-spacer height="10px"/>
