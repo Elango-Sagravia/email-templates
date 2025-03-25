@@ -1,0 +1,81 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text font-family="Arial, sans-serif" color="#333333" />
+      <mj-button background-color="#A8B5A2" color="#FFFFFF" border-radius="5px" />
+    </mj-attributes>
+    <mj-style>
+      .header-text {
+        color: #788772 !important;
+      }
+      .content-section {
+        background-color: #F0F2EB !important;
+      }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#F8F9F5">
+    <!-- Header -->
+    <mj-section background-color="#A8B5A2" padding="20px">
+      <mj-column>
+        <mj-text align="center" font-size="24px" color="#FFFFFF" padding="0">
+          Pouring Potions
+        </mj-text>
+        <mj-text align="center" font-size="16px" color="#F0F2EB" padding="5px 0 0 0">
+          Modern Medicine Meets Timeless Wellness
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Main Content -->
+    <mj-section padding="20px" css-class="content-section">
+      <mj-column>
+        <mj-text font-size="20px" css-class="header-text" padding-bottom="20px">
+          Your First Pouring Potions Email
+        </mj-text>
+
+        <mj-text padding-bottom="15px">
+          Welcome aboard! Here's what you can expect from our free bi-weekly newsletters:
+        </mj-text>
+
+        <mj-text padding="0 0 15px 25px">
+          1. The latest, science-backed research on health and aging, explained in a simple way.<br>
+          2. Request content and/or ask questions to ensure what we write is relevant to you.
+        </mj-text>
+
+        <mj-text padding-bottom="15px">
+          Each newsletter is carefully crafted so nothing goes missed and everything is easy to understand. Trust us, you'll have fun reading - that's our goal!
+        </mj-text>
+
+        <mj-text padding-bottom="15px">
+          Whether you're into the latest medical advancements in health, beauty, and aging, or prefer old-school remedies like half our readers, we've got you covered.
+        </mj-text>
+
+        <!-- Social Media Section -->
+        <mj-text font-weight="bold" css-class="header-text" padding="20px 0 10px">
+          Follow Us
+        </mj-text>
+        <mj-button href="https://www.instagram.com/pouringpotions.read?igsh=czhuOXZlNXdudTZx" padding="5px">
+          Instagram
+        </mj-button>
+
+        <!-- Closing -->
+        <mj-text padding="20px 0 0">
+          Here's to a healthier, happier you!<br><br>
+          Stay curious,<br>
+          Stay healthy,<br>
+          The Pouring Potions Team
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Footer -->
+    <mj-section background-color="#A8B5A2" padding="15px">
+      <mj-column>
+        <mj-text align="center" color="#F0F2EB" font-size="12px">
+          © 2025 Pouring Potions. All rights reserved.<br>
+          <a href="#" style="color: #F8F9F5">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
