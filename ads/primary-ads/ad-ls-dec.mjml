@@ -1,11 +1,11 @@
- <!-- primary ad -->
- <!--  ad-a1 -->
-
-
-    <!-- title -->
-    <mj-section css-class="mj_fsection"  background-color="#ffffff" css-class="mj_fsection">
-      <mj-column background-color="#ffffff" width="100%">
-      <mj-spacer height="12px"/>
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.presidentialsummary.com/ps-25-mar-2025-p-ad-ms" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
         <p style="font-size: 12px; line-height: 1.2">
             <i>In partnership with Long and Short</i>
@@ -14,42 +14,38 @@
         <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
           padding-bottom:8px;
-          color:#6b705c;
+          color: #6b705c; 
             text-align: left;
             letter-spacing:1px;
             border-bottom:2px solid #6b705c;
               font-size: 26px;
               line-height: 1.2;
               font-weight: 300;
-              
                
-            ">Markets in minutes</h2>
-        </mj-text>
-      </mj-column>
-    </mj-section> 
- 
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff"> 
-      <mj-column>
-        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ls.png" alt="MARKETS IN MINUTES"  />
+            ">MARKETS IN MINUTES</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
+          <p style="font-size: 16px; line-height: 24px">
           In the world of trade, we keep it clear,<br/>
-          Bringing you insights year after year.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-          From deals to trends, from risks to rewards,<br/>
-          We uncover the market’s untold chords.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
+          Bringing you insights year after year.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           From deals to trends, from risks to rewards,<br/>
+           We uncover the market’s untold chords.</p>
+          <p style="font-size: 16px; line-height: 24px">
           Make informed choices, stay ahead too,<br/>
-          Join us for a sharper view.
-          </p>
+          Join us for a sharper view.</p>
         </mj-text>
          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
+          <p style="font-size: 16px; line-height: 24px">
           <a style="text-decoration: none; border-bottom: 2px solid  #6b705c; color: black;">Join Long and Short</a></p>
           </mj-text>
+          <mj-spacer height="10px" />
       </mj-column>
-    </mj-section>
-<!-- /LS ad -->
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->

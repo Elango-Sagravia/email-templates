@@ -1,10 +1,11 @@
-<mj-raw> 
-      <a href="https://link.presidentialsummary.com/ps-22-mar-2025-p-ad-ms" target="_blank" style="color:black">
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.presidentialsummary.com/ps-25-mar-2025-p-ad-ms" target="_blank" style="color:black">
    </mj-raw>
-    <!-- title -->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-column background-color="#ffffff" width="100%">
-      <mj-spacer height="12px"/>
+      <mj-column>
+      <mj-spacer height="14px"/>
       <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
         <p style="font-size: 12px; line-height: 1.2">
             <i>In partnership with Movie Suggestions</i>
@@ -13,22 +14,17 @@
         <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
           padding-bottom:8px;
-          color:#4D3060; 
+          color: #F9D342; 
             text-align: left;
             letter-spacing:1px;
-            border-bottom:2px solid #4D3060;
+            border-bottom:2px solid #F9D342;
               font-size: 26px;
               line-height: 1.2;
               font-weight: 300;
                
             ">Just sit back and press play</h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>  
- 
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff"> 
-      <mj-column>
+            </mj-text>
+             <mj-spacer height="12px"/>
         <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">
@@ -43,10 +39,13 @@
         </mj-text>
          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 24px">
-          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Movie Suggestions 🎬</a></p>
+          <a style="text-decoration: none; border-bottom: 2px solid  #F9D342; color: black;">Join Movie Suggestions</a>🎬</p>
           </mj-text>
+          <mj-spacer height="10px" />
       </mj-column>
-    </mj-section>
-<mj-raw>
+ <mj-raw>
   </a>
-</mj-raw>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->

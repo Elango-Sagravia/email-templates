@@ -1,0 +1,543 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw> 
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Democrats blast Signal chat</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ The Unification church dissolved in Japan </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Earthquake times can’t be predicted</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">
+              Wrongful conviction and payout</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/iwao-hakamada-hideko-sister-speaking-judgment-report-shizuoka.png" alt="This photo shows Iwao Hakamada speaking as his then 91-year-old sister Hideko holds the microphone during a judgment report session held by supporters in Shizuoka" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>This photo shows Iwao Hakamada speaking as his then 91-year-old sister Hideko holds the microphone during a judgment report session held by supporters in Shizuoka. Credits: JIJI Press / AFP
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Iwao Hakamata, an 89-year-old Japanese man who spent over 45 years on death row, was awarded $1.4 Mn in compensation after his acquittal last year. Hakamata was wrongfully convicted of a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-h1-1-1966-quadruple-murder" target="_blank">1966 quadruple murder</a>. He was sentenced to death in 1968 based on fabricated police evidence. DNA testing later revealed the bloodstained clothing was planted long after the crime.</p>
+          <p style="font-size: 16px; line-height: 1.5">Hakamata’s case is the longest death row incarceration worldwide. It sparked international criticism of Japan’s justice system and 99% conviction rate. Hakamata was released in 2014 pending retrial and finally acquitted in 2023. His lawyer called the payout the highest ever for wrongful conviction in Japan, but said it could never undo the damage. “I think the state (government) has made a mistake that cannot be atoned for with $1.4 Mn,” his lawyer Hideyo Ogawa said, according to NHK.</p>
+          <p style="font-size: 16px; line-height: 1.5">Hakamata was a professional boxer who retired in 1961 and got a job at a soybean processing plant in Shizuoka, central Japan. After five years, he was arrested after the members of his boss’s household were found dead. Hakamata’s decades behind bars severely damaged his mental health. His sister says he lives in his own world and cannot grasp reality or the details of his case.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.presidentialsummary.com/ps-26-mar-2025-p-ad-ms" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Movie Suggestions</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Just sit back and press play</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Weekend’s here, it’s time to unwind,<br/>
+          The must-watch movie, we help you find.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Thrillers, dramas, laughs to share,<br/>
+           Handpicked gems, beyond compare.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          No more searching, no more doubt,<br/>
+          Join us, and don’t miss out!</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Movie Suggestions</a>🎬</p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->
+
+
+<mj-spacer height="10px" />
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">Filmmaker detained and released
+        </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/hamdan-ballal-oscar-winning-palestinian-co-director-no-other-land-released-kiryat-arba-west-bank.png" alt="Hamdan Ballal, an Oscar-winning Palestinian co-director of No Other Land, is released from a police station in the West Bank settlement of Kiryat Arba on Tuesday, a day after being detained by the Israeli army following an attack by Jewish settlers" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Hamdan Ballal, an Oscar-winning Palestinian co-director of No Other Land, is released from a police station in the West Bank settlement of Kiryat Arba on Tuesday, a day after being detained by the Israeli army following an attack by Jewish settlers. Credits: Leo Correa/AP</i></p>
+        </mj-text>
+      
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Oscar-winning Palestinian director Hamdan Ballal and two other Palestinians were released after being beaten by Israeli settlers and <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-h2-2-detained-by-israeli-forces" target="_blank">detained by Israeli forces</a> in the occupied West Bank. Masked and armed settlers stormed the village of Susiya during Ramadan, attacking Ballal outside his home. Witnesses say soldiers pointed guns at Palestinians while settlers threw stones.</p>
+          <p style="font-size: 16px; line-height: 1.5">Ballal was injured and bloodied and later detained on accusations of throwing stones. Ballal co-directed “No Other Land,” a documentary about Palestinian struggles under Israeli occupation. The documentary won Best Documentary at the 2025 Oscars. His wife believes the attack was retaliation for the film’s success. Rights groups report a spike in settler violence and Israeli military raids across the West Bank amid the Gaza war.</p>
+          <p style="font-size: 16px; line-height: 1.5">Ballal’s case has drawn international attention to ongoing violence and the treatment of Palestinians. Meanwhile, more anger ensues as Al Jazeera reporter Hossam Shabat was killed in a strike in Gaza. He started reporting on the war when it first broke out, just before he was supposed to finish university; he was 23.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">Democrats latch on to Signal chat</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Senator Mark Warner called for the resignation of senior Trump officials after a Signal chat scandal revealed plans for a Yemen bombing, with an accidental inclusion of a journalist.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Senator Mark Warner, the top Democrat on the Senate Intelligence Committee, called for the resignation of senior Trump administration officials after the big <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-h3-3-scandal-involving-a-signal-chat" target="_blank">scandal involving a Signal chat</a>. The scandal involved planning a military strike in Yemen, which was made public by The Atlantic's Editor, Goldberg's accidental inclusion in the chat. Warner posted on X during the hearing that “incompetence is not an option.”</p>
+          <p style="font-size: 16px; line-height: 1.5">The democrat accused Pete Hegseth and Mike Waltz of failing to conduct “security hygiene 101.” He called their actions "sloppy" and "careless" since classified information should never be shared over unclassified systems. Other Democrats are calling for their resignation or removal. Warner also grilled intelligence director Tulsi Gabbard over the group. Gabbard did not admit to being part of this chat.</p>
+          <p style="font-size: 16px; line-height: 1.5">Despite this, CIA Director John Ratcliffe downplayed the incident, calling it an "inadvertent mistake." Warner also pointed out the risks posed by third-party messaging apps like Signal. China and Russia are reportedly trying to infiltrate. While it seemed like Trump was mulling over the idea of firing Waltz, he is off the hook for now. The White House defended the officials, with Trump calling Waltz a "good man" who had learned a lesson.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>A Tokyo court has ordered the dissolution of the Unification Church</strong>, citing <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br1-4-manipulative-fundraising-tactics" target="_blank">manipulative fundraising tactics</a> that caused financial and emotional harm to followers. This move follows a government request spurred by the assassination of former PM Shinzo Abe. The church, long linked to Japan's conservative politics, faces losing its legal status and tax privileges, with assets set for liquidation.</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Families of 30 Venezuelans deported by the US to El Salvador’s mega-prison have appealed to El Salvador’s Supreme Court</strong>, demanding a review of the legality of their detention. Venezuela’s government calls the deportations a “<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br2-5-kidnapping" target="_blank">kidnapping</a>,” while Human Rights Watch warns the detainees risk torture and rights violations.</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The leaked Signal chat revealed top Trump administration officials' disdain for Europe</strong>. They called it "<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br3-6-free-loading" target="_blank">free-loading</a>" and criticized its lack of military strength. The conversation also highlighted frustrations over Europe's reliance on the US for defense and trade security.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- secondary ad  -->
+
+        <!-- <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-21-mar-2025-s-ad-gs" style="color:black">
+    </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Geopolitical Summary</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">The “why” behind events</h2>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+            <li><strong>26 EU leaders reaffirmed their support for Ukraine</strong>, while Zelenskyy stressed the need for artillery funding.</li>
+            <li><strong>Venezuelan President Nicolas Maduro condemned the deportations of 238 people</strong>, calling it a "kidnapping."</li>
+            <li><strong>How are the USA and China vying for Africa’s rare earth minerals?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+        <strong>Every successful company has a turning point</strong>, a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+        </p>
+         <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+        <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+        </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed,
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">join Geopolitical Summary</p>
+          </mj-text> 
+      </mj-column> 
+    
+    </mj-section> 
+    
+      <mj-raw>
+       </a>
+      </mj-raw> -->
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>America’s top law firms are scrambling to shield themselves from Trump’s retaliatory executive orders</strong> targeting progressive-leaning legal practices. Paul Weiss settled under pressure, drawing criticism for weakening collective resistance. Fear of losing clients and government contracts has driven firms to remove progressive references, hire Trump-aligned lobbyists, and prioritize survival over defending legal independence (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br4-7-legal-retreat" target="_blank">legal retreat</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>US consumer confidence has fallen to its lowest in four years</strong>, with the expectations index reaching a 12-year low. This decline is attributed to concerns over President Trump’s tariff agenda, indicating potential challenges for economic growth and corporate profits (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br5-8-outsider-view" target="_blank">outsider view</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>AI sales startup 11x, once seen as a rising star, is now facing fraud allegations</strong>, high customer and employee churn, and accusations of misleading revenue reporting and fake endorsements. Customers cited poor product performance, while employees described a toxic work culture. Legal threats from companies like ZoomInfo have intensified scrutiny of 11x’s practices (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br6-9-fraud-details" target="_blank">fraud details</a>).</p>
+
+<!--one-sentence-ad--> 
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border: 1px solid black;
+              border-radius:10px;
+              padding-left: 14px;
+              padding-top:4px;
+              padding-bottom:4px;
+              margin-bottom: 15px;
+                    "><strong>Love Business & Markets? Stay ahead with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-mar-2025-one-sentence-ad-ls" target="_blank">Long and Short</a></strong>, a weekly recap of global economic news, straight to your inbox. Smart, sharp, and essential. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-mar-2025-one-sentence-ad-ls" target="_blank">Sign up here</a>!</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+<!--/ad-one-sentence -->
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/san-francisco-1906-earthquake-ruins-image-gpt-4.png" alt="San Francisco was in ruins after the 1906 earthquake, an image made by GPT-4o image generation" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>San Francisco was in ruins after the 1906 earthquake, an image made by GPT-4o image generation. 
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>OpenAI has introduced GPT-4o image generation</strong>, its first image generation update in over a year. Dubbed “Images in ChatGPT,” users can now create photos directly within ChatGPT, and it is available for ChatGPT Plus, Pro, Team, and Free subscription tiers. This upgrade will replace the existing DALL-E 3 as the primary AI-powered image generator (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br8-11-gpt-4o" target="_blank">GPT-4o</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Scientists say predicting earthquakes' exact times, locations, and magnitudes is impossible</strong>. Experts explain that earthquake-prone areas like Northern California are easy guesses, but accurate prediction isn’t possible due to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br7-10-complex-geological-factors" target="_blank">complex geological factors</a>. Instead, people are encouraged to prepare through drills like the Great ShakeOut and use early warning systems like ShakeAlert.</p>
+                    
+                  
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Former FIFA President Sepp Blatter and ex-UEFA chief Michel Platini were acquitted</strong> again by a Swiss court over a $2.26 Mn payment case, ending a decade-long corruption scandal. Prosecutors alleged the payment was fraudulent, but both men maintained it was a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br9-12-legitimate-consultancy-fee" target="_blank">legitimate consultancy fee</a> for Platini's work between 1998 and 2002.</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Multiple reports claim that Red Bull would replace Liam Lawson with Yuki Tsunoda</strong> during the Japanese GP. Red Bull’s second-seat curse tends to continue as yet another Red Bull academy driver bites the dust. This move comes after Liam Lawson’s DNF in Australia and P16 in China. If Tsunoda gets promoted, he will be seen driving the RB21 in front of his home crowd (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br10-13-report" target="_blank">report</a>).</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Paris will increase car-free zones after the city's vote (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br11-14-more-information" target="_blank">more information</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A motorcyclist dies after plunging into a sinkhole in Seoul, South Korea, that came out of nowhere (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br12-15-the-story" target="_blank">the story</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">15,000 people signed up for a letter-writing project (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br13-16-the-reason" target="_blank">the reasons</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Harvard Tuition is now free for families earning under $200k (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-03-2025-br14-17-ivy-league-promises" target="_blank">Ivy League promises</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1979, Israel and Egypt signed a historic peace treaty, brokered by US President Jimmy Carter and based on the Camp David Accords.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <!-- <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
