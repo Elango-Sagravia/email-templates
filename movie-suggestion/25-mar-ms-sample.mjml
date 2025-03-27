@@ -3,6 +3,7 @@
   </mj-head>
   <mj-body>
     <mj-spacer height="10px" />
+    <!-- header -->
     <mj-section padding="10px 12px" background-url="https://moviesuggestions.com/email/images/28-mar-2025/mollys-game-movie-poster-background.png" background-size="cover" background-repeat="no-repeat">
       <mj-column>
         <mj-spacer height="20px" />
@@ -48,6 +49,7 @@
         <mj-spacer height="20px" />
       </mj-column>
     </mj-section>
+    <!-- 1st section -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
       <mj-column>
         <mj-spacer height="30px" />
@@ -106,6 +108,7 @@
         <mj-image border-radius="10px"  href="https://moviesuggestions.com/" padding="10px 12px" width="600px" src="https://moviesuggestions.com/email/images/28-mar-2025/mollys-game-poker-scene.png" alt="Scene from Molly’s Game showing a tense high-stakes poker game in a luxurious wood-paneled room." />
       </mj-column>
     </mj-section>
+    <!-- banner 1 -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 0px ">
       <mj-column>
         <mj-spacer height="20px" />
@@ -115,6 +118,9 @@
     <!--primary  ad-a2 -->
     <!-- title -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
+    <mj-raw> 
+      <a href="https://link.presidentialsummary.com/ps-25-mar-2025-p-ad-ms" target="_blank" style="color:black">
+   </mj-raw>
       <mj-column>
         <mj-spacer height="20px" />
         <mj-text padding="10px 12px">
@@ -136,7 +142,7 @@
             </div>
           </mj-raw>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-a2.png" alt="Unleash your strength with BodyFuel™ Creatine" href="https://link.presidentialsummary.com/ps-3-mar-2025-ad-ls" />
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-a2.png" alt="Unleash your strength with BodyFuel™ Creatine" />
         <mj-text padding="0px 12px">
           <mj-raw>
             <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
@@ -177,6 +183,9 @@
         </mj-text>
         <mj-spacer height="20px" />
       </mj-column>
+      <mj-raw>
+      </a>
+      </mj-raw>
     </mj-section>
     <!-- /ad-a2 -->
     <!-- You may also like -->
@@ -233,19 +242,13 @@
                         font-size: 23px;
                         font-weight: 700;
                         line-height:1.2;"><span style="color:#F9D342;padding-right:6px">#1</span> The Man from U.N.C.L.E (2015)
-</h2>
+                  </h2>
                   <p style="color: #E7EDF0;
-                       
-                      
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">1hr 56m</p>
                   <p style="color: #E7EDF0;
-                       
-                     
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -295,17 +298,11 @@
                         font-weight: 700;
                         line-height:1.2;"><span style="color:#F9D342;padding-right:6px">#2</span> Audition (1999)</h2>
                   <p style="color: #E7EDF0;
-                       
-                      
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">1hr 55m</p>
                   <p style="color: #E7EDF0;
-                       
-                     
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -355,17 +352,11 @@
                         font-weight: 700;
                         line-height:1.2;"><span style="color:#F9D342;padding-right:6px">#3</span> Gifted (2017)</h2>
                   <p style="color: #E7EDF0;
-                       
-                      
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">1hr 41m</p>
                   <p style="color: #E7EDF0;
-                       
-                     
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -434,13 +425,11 @@
                         font-weight: 700;
                         line-height:1.2;">Friday Night Dinner (2011 – 2020)</h2>
                   <p style="color: #E7EDF0;
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
                         line-height: 0.5;">6 Seasons • 37 Episodes</p>
                   <p style="color: #E7EDF0;
-                        
                         font-size: 15px;
                         font-style: normal;
                         font-weight: 200;
@@ -515,6 +504,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- banner2 -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
         <mj-text align="center" padding="0px 0px">
@@ -576,7 +566,7 @@
           <!-- Reddit Icon -->
           <!-- linkedIn -->
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/movie-suggestions/
-" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
+          " src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
           </mj-social-element>
           <!-- threads -->
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
@@ -613,6 +603,7 @@
         <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
+    <!--/footer -->
     <mj-spacer height="10px" />
   </mj-body>
 </mjml>
