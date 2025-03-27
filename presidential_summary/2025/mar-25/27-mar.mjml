@@ -1,0 +1,542 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw> 
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Prince Harry steps down</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Romania ESTA delayed</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Brazil’s embarrassing defeat</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news1  -->
+    <!-- /breaking news 1 -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Gazans against Hamas</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/palestinians-anti-war-protest-hamas-beit-lahiya-northern-gaza-march.png" alt="Palestinians chant slogans during an anti-war protest against Hamas in Beit Lahiya, northern Gaza" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Palestinians chant slogans during an anti-war protest against Hamas in Beit Lahiya, northern Gaza. Credits: Jehad Alshrafi/AP
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Hundreds of Palestinians <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-h1-1-protested-against-hamas" target="_blank">protested against Hamas</a> in northern Gaza, demanding an end to the war with Israel. At least one call for protest circulated on Telegram, though the organizers remain unknown. The primarily male demonstrators chanted "Hamas out!" and "Hamas terrorists" in Beit Lahia. Plain-clothed members of the Hamas security forces tried to break up the protest.</p>
+          <p style="font-size: 16px; line-height: 1.5">Despite the many ongoing problems with Israel, Palestinians are looking for other answers for leadership that do not include Hamas. As the humanitarian situation in Gaza worsens, many are finding Hamas to be counterproductive in protecting Gaza. A survey from before October 7th estimated that only 35% of Gazans supported Hamas. 27% said they supported its rival Fatah, the party of Ramallah-based Palestinian Authority president Mahmoud Abbas.</p>
+          <p style="font-size: 16px; line-height: 1.5">The war, triggered by Hamas’s October 7 attack on Israel that killed 1,218 people, has devastated Gaza. Israel’s military response has killed over 50,000 Palestinians, mostly civilians, according to Gaza’s health ministry. Aid access remains blocked, and the conditions are getting increasingly worse as the war continues into its 17th month.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" />
+
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.presidentialsummary.com/ps-27-mar-2025-p-ad-ms" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Movie Suggestions</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Just sit back and press play</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Weekend’s here, it’s time to unwind,<br/>
+          The must-watch movie, we help you find.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Thrillers, dramas, laughs to share,<br/>
+           Handpicked gems, beyond compare.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          No more searching, no more doubt,<br/>
+          Join us, and don’t miss out!</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Movie Suggestions</a>🎬</p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->
+
+
+<mj-spacer height="10px" />
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">South Korean fires
+        </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/embers-debris-gounsa-temple-uiseong-building-damage-fire.png" alt="Embers remain among the debris after most of the buildings were burned to the ground at Gounsa Temple in Uiseong" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Embers remain among the debris after most of the buildings were burned to the ground at Gounsa Temple in Uiseong. Credits: AFP via Getty</i></p>
+        </mj-text>
+      
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">South Korea is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-h2-2-battling-deadly-wildfires" target="_blank">battling deadly wildfires</a> in its southeastern regions, which have killed at least 24 people and injured 26 others. The fire, which was fueled by strong winds and dry conditions, has destroyed homes and forests. The 1,300-year-old Gounsa Buddhist temple, a major Buddhist landmark, was also destroyed, with its ceremonial bell remaining as the only piece appearing somewhat intact.</p>
+          <p style="font-size: 16px; line-height: 1.5">A firefighting helicopter crashed during operations, killing the pilot and temporarily grounding aerial efforts. Firefighting resumed as more than 10,000 personnel worked to contain the blaze, which has burned more than 17,398 hectares (nearly 43,000 acres) of land. PM and acting President Han Duck-soo called the fires the worst in recent years. Four civil servants died while fighting the flames.</p>
+          <p style="font-size: 16px; line-height: 1.5">Authorities issued evacuation orders in hard-hit areas like Andong. South Korea’s government declared a state of emergency and raised its wildfire alert to the highest level. Officials hope forecasted rain will aid firefighting efforts. So far, 68% of the Uiseong and Andong fires have been contained.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">Harry quits his charity</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Prince Harry and Prince Seeiso resigned from their charity, Sentebale, after a legal dispute with chairwoman Dr. Sophie Chandauka.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Prince Harry has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-h3-3-resigned-from-sentebale" target="_blank">resigned from Sentebale</a>, the charity he co-founded in 2006 in honor of his mother, Princess Diana. Its mission is to support young people affected by HIV/AIDS in southern Africa. This comes after a dispute between the board of trustees and its chairwoman, Dr. Sophie Chandauka. Prince Harry and his co-founder, Prince Seeiso of Lesotho, stepped down following a relationship breakdown that led to legal action.</p>
+          <p style="font-size: 16px; line-height: 1.5">The trustees asked Dr. Chandauka to resign over “lost trust.” Dr. Chandauka refused and took the case to court. She also accused the board of abuse of power, bullying, sexism, and racism. Dr. Chandauka also reported the charity to the UK Charity Commission. The Commission is aware of Sentebale's concerns and is investigating them. She also added the High Court had accepted her application to hear her case.</p>
+          <p style="font-size: 16px; line-height: 1.5">In a joint statement, Harry and Seeiso expressed their sadness at the decision but stressed the necessity of protecting the charity from a legal and financial burden. Former trustees described their decision as "nothing short of devastating" and noted that the charity could not take the burden of the lawsuit. Meanwhile, Dr. Chandauka defended her whistleblowing actions and vowed to continue her fight.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Russia and Ukraine have agreed to a naval ceasefire in the Black Sea</strong>, brokered through separate US-led negotiations in Saudi Arabia. However, Russia insists the ceasefire will only take effect once <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br1-4-certain-western-sanctions" target="_blank">certain Western sanctions</a> on its food and fertilizer exports are lifted. Both sides have also pledged to halt attacks on each other’s energy infrastructure.</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The US has delayed Romania’s entry into the Visa Waiver Program</strong>, citing <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br2-5-security-concerns" target="_blank">security concerns</a> and the need for further review. Romanian officials say they are working with Washington to resolve the issue amid political turmoil following the annulment of the country’s presidential election.</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Turkish protesters continued demonstrations for a week after the arrest of Istanbul mayor Ekrem Imamoglu</strong>, sparking widespread unrest. Seven journalists were detained during the crackdown, charged with participating in illegal rallies. The Turkish government has rejected <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br3-6-claims-of-political-influence" target="_blank">claims of political influence</a> in Imamoglu's arrest.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- secondary ad  -->
+
+        <!-- <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-21-mar-2025-s-ad-gs" style="color:black">
+    </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Geopolitical Summary</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">The “why” behind events</h2>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+            <li><strong>26 EU leaders reaffirmed their support for Ukraine</strong>, while Zelenskyy stressed the need for artillery funding.</li>
+            <li><strong>Venezuelan President Nicolas Maduro condemned the deportations of 238 people</strong>, calling it a "kidnapping."</li>
+            <li><strong>How are the USA and China vying for Africa’s rare earth minerals?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+        <strong>Every successful company has a turning point</strong>, a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+        </p>
+         <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+        <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+        </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed,
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">join Geopolitical Summary</p>
+          </mj-text> 
+      </mj-column> 
+    
+    </mj-section> 
+    
+      <mj-raw>
+       </a>
+      </mj-raw> -->
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>OpenAI is not expected to become cash-flow positive until 2029</strong> due to high costs for chips, data centers, and talent. However, the company projects revenue to surpass $125B by then, with 2025 revenue expected to reach $12.7B, driven by strong growth in its paid AI software offerings (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br4-7-cash-crunch" target="_blank">cash crunch</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Trump has announced 25% tariffs on auto imports</strong>, sparking fears of rising car prices and production cuts. The move may revive a 2019 national security probe and coincide with broader reciprocal tariffs on April 2. Trump claims this would lead to "tremendous growth" for the car industry. Meanwhile, analysts warned of major disruptions and higher vehicle costs across North America (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br5-8-shifting-gears" target="_blank">shifting gears</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>SpaceX has reportedly allowed Chinese investors to buy stakes via offshore entities</strong> like those in the Cayman Islands, raising national security concerns due to its Pentagon contracts. Testimonies in a recent corporate dispute revealed the practice, which experts say may be used to conceal foreign ownership. SpaceX hasn't undergone a formal CFIUS review till now, sparking further scrutiny (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br6-9-cosmic-loophole" target="_blank">cosmic loophole</a>).</p>
+
+<!--one-sentence-ad--> 
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border: 1px solid black;
+              border-radius:10px;
+              padding-left: 14px;
+              padding-top:4px;
+              padding-bottom:4px;
+              margin-bottom: 15px;
+                    "><strong>Love Business & Markets? Stay ahead with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-mar-2025-one-sentence-ad-ls" target="_blank">Long and Short</a></strong>, a weekly recap of global economic news, straight to your inbox. Smart, sharp, and essential. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-mar-2025-one-sentence-ad-ls" target="_blank">Sign up here</a>!</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+<!--/ad-one-sentence -->
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/duonychus-tsogtbaatari-dinosaur-two-clawed-hand-reconstruction.png" alt="A reconstruction of the two-clawed hand of the newly discovered dinosaur species Duonychus tsogtbaatari" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>A reconstruction of the two-clawed hand of the newly discovered dinosaur species Duonychus tsogtbaatari. Credits: Masoto Hattori
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Duonychus, a newly discovered therizinosaur from the Cretaceous Period</strong>, had only two massive claws, which it used for grasping vegetation and possibly self-defense. Scientists found the fossils of the species in Mangolia’s Gobi Desert. Therizinosaurs lived in Asia and North America 145 M to 66 M years ago. The fossil provides new insights into dinosaur evolution (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br7-10-what-it-looked-like" target="_blank">what it looked like</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Character AI has introduced new parental controls to keep underage users safe</strong>. Parents will receive weekly summaries about their child's activity on the platform, which include the average time spent, the top characters they interacted with, and the time spent with each character. The move follows concerns about harmful content and previous lawsuits involving AI chatbots (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br8-11-character-ai-blog-post" target="_blank">Character AI’s blog post</a>).</p>
+                    
+                  
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The Broadway revival of William Shakespeare’s Othello, starring Denzel Washington and Jake Gyllenhaal</strong>, has made history by becoming the top-grossing play of all time, earning $2.8 Mn in eight preview performances. Washington plays the titular role, and the plot revolves around Othello as a military commander who is convinced that his ensign, Iago, played by Jake Gyllenhaal, has been unfaithful to his wife (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br9-12-about-the-play" target="_blank">about the play</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Brazil suffered a humiliating 4-1 defeat to Argentina</strong>, exposing deep flaws in the team’s tactics and coaching. Despite having top-tier players, Brazil <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br10-13-struggled-to-create-chances" target="_blank">struggled to create chances</a> and was outplayed in midfield, raising doubts about coach Dorival Junior’s future. This performance also strains Brazil’s chances of qualifying for the World Cup. Meanwhile, Argentina celebrates their World Cup qualification with this emphatic victory.</p>
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">How to let go of a grudge? (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br11-14-read-more" target="_blank">read more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">What to know about Wildflower season in Southern California? (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br12-15-check-it-out" target="_blank">check it out</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">NASA’s Webb captures Neptune’s Auroras for the first time (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br13-16-pictures" target="_blank">pictures</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">This city is offering $50,000 to move there (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-27-03-2025-br14-17-where" target="_blank">where?</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 47 BCE, Cleopatra VII, with the support of Julius Caesar, was reinstated as co-ruler of Egypt alongside her brother Ptolemy XIV after a civil war.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <!-- <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
