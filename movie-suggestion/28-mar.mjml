@@ -7,7 +7,6 @@
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
-    <mj-spacer height="10px" />
     <!-- header -->
     <mj-section padding="10px 12px" background-url="https://moviesuggestions.com/email/images/28-mar-2025/mollys-game-movie-poster-background.png" background-size="cover" background-repeat="no-repeat">
       <mj-column>
@@ -31,7 +30,7 @@
             </div>
           </mj-raw>
         </mj-text>
-        <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="25%" />
+        <mj-divider padding="0" border-width="2px" border-style="solid" border-color="#F9D342" width="15%" />
         <mj-image href="https://moviesuggestions.com/" padding="24px 12px 20px 12px" width="350px" src="https://moviesuggestions.com/email/images/28-mar-2025/mollys-game-movie-poster.png" alt="Official poster for Molly’s Game, featuring Jessica Chastain seated confidently amid stacks of cash, with Idris Elba standing behind her." />
         <mj-image href="https://moviesuggestions.com/" padding="2px 12px 8px 12px" width="30px" height="29px" src="https://moviesuggestions.com/email/images/plus.png" alt="plus image" />
         <mj-text padding="6px 12px" color="#999">
@@ -554,7 +553,7 @@
                 <div style="background:#000; mix-blend-mode:difference;">
                   <p style=" font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 1px solid  #F9D342; color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
                   <p style=" font-size: 12px; color: #808080; line-height: 2">
-                    <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+                    <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
                   </p>
                 </div>
               </div>
@@ -567,7 +566,7 @@
       <mj-column>
         <mj-social mode="horizontal" padding="0">
           <!-- Facebook Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61574440239538" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
           </mj-social-element>
           <!-- X (Twitter) Icon -->
           <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
@@ -615,7 +614,5 @@
         <mj-spacer height="10px" />
       </mj-column>
     </mj-section>
-    <!--/footer -->
-    <mj-spacer height="10px" />
   </mj-body>
 </mjml>
