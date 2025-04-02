@@ -35,21 +35,20 @@
     <mj-spacer height="10px"></mj-spacer>
     <!-- Spotlight -->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
           color:#4D3060;
             text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #4D3060;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">VERIFY</h2>
+            border-bottom:2px solid #4D3060; 
+            letter-spacing:2px;
+              font-size: 24px;
+              line-height: 1.2;  
+              font-weight: 400;
+               
+            ">QUICK VERIFICATION</h2>   
         </mj-text>
       </mj-column>
     </mj-section>
@@ -57,9 +56,15 @@
     <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
+      <mj-spacer height="10px"/>
         <!-- Main Instructions -->
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">Verify your email below.</p>
+        <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.4;">Hi there,</p>
+          <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">a <span style="font-weight:bold;color:#4D3060;">BIG WELCOME</span> to presidential family.</p>
+        </mj-text>
+        <mj-image padding="10px 20px 20px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-verification.gif" href="https://www.moviesuggestions.com" alt="gif not there" />
+        <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more about these guys☝️, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
         </mj-text>
         <!-- Verify Button -->
         <mj-text font-family="Roboto" >
@@ -70,7 +75,7 @@
               line-height: 1.5;
               padding: 10px;
               text-align: center;
-              width: 100px; 
+              width: 200px; 
               margin: 0 auto;
               border-radius: 0px;
               color: #FFFFFF;
@@ -79,75 +84,26 @@
               target="_blank"
              >Verify</a>
         </mj-text>
-        <mj-spacer height="16px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4; "> To ensure every issue of Presidential Summary reaches your inbox, simply reply with ‘<strong>hello</strong>’ or follow the steps below to whitelist our email address. </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;  ">
-            <strong>Gmail users:</strong> Move us to your Primary inbox.
-          </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-group width="100%">
-          <mj-column width="10%">
-            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">-</p>
-            </mj-text>
-          </mj-column>
-          <mj-column width="90%">
-            <mj-text padding="0 10px" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">
-                <strong>On your phone:</strong> Tap the three dots at the top right, select "Move to," then choose "Primary."
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-group width="100%">
-          <mj-column width="10%">
-            <mj-text padding="0 10px" align="right" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">-</p>
-            </mj-text>
-          </mj-column>
-          <mj-column width="90%">
-            <mj-text padding="0 10px" font-family="Roboto+Serif">
-              <p style="font-size: 16px; line-height: 1.4;">
-                <strong>On desktop:</strong> Go back to your inbox and drag this email to the "Primary" tab at the top left of your screen.
-              </p>
-            </mj-text>
-          </mj-column>
-        </mj-group>
-        <mj-spacer height="10px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">
-            <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
-          </p>
-        </mj-text>
-        <mj-spacer height="4px" />
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a href="https://www.presidentialsummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+        </mj-column>
+        </mj-section>
+
+        <!-- follow us -->
     <mj-spacer height="10px"></mj-spacer>
-    <!-- Spotlight 3-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
           <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
           color:#4D3060;
             text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #4D3060;
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">FOLLOW US ON SOCIAL MEDIA</h2>
+            border-bottom:2px solid #4D3060; 
+            letter-spacing:2px;
+              font-size: 24px;
+              line-height: 1.2;  
+              font-weight: 400;
+               
+            ">FOLLOW US ON SOCIAL MEDIA</h2>   
         </mj-text>
       </mj-column>
     </mj-section>
@@ -166,15 +122,15 @@
           <!-- Instagram Icon -->
           <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
           </mj-social-element>
-          <!-- Reddit Icon -->
-          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
-          </mj-social-element>
+          <!-- Reddit Icon --> 
+          <!-- <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
+          </mj-social-element> -->
           <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
           </mj-social-element>
           <mj-social-element padding="12px 12px" icon-size="30px" href=" https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
           </mj-social-element>
         </mj-social>
-      </mj-column>
+      </mj-column> 
     </mj-section>
     <!-- footer section -->
     <!-- 2 columns section -->
@@ -182,10 +138,10 @@
       <mj-column>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
         <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
-          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;"href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
           <p style="font-size: 12px; color: #000; line-height: 2">
-            <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
           <p style="
           margin-top:25px;
