@@ -61,10 +61,11 @@
         <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">Hi there,</p>
           <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">A <span style="font-weight:bold;color:#4D3060;">BIG WELCOME</span> to presidential family.</p>
-          <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
         </mj-text>
-        <mj-image padding="10px 20px 20px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/gif.gif" href="https://www.presidentialsummary.com" alt="gif not there" />
-        <mj-spacer height="2px"/>
+        <mj-image padding="10px 20px 10px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/gif.gif" href="https://www.presidentialsummary.com" alt="gif not there" />
+        <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more about these guys☝️, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
+        </mj-text>
         <!-- Verify Button -->
         <mj-text font-family="Roboto" >
           <a style="
