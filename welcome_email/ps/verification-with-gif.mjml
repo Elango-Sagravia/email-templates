@@ -60,12 +60,11 @@
         <!-- Main Instructions -->
         <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.4;">Hi there,</p>
-          <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">a <span style="font-weight:bold;color:#4D3060;">BIG WELCOME</span> to presidential family.</p>
+          <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">A <span style="font-weight:bold;color:#4D3060;">BIG WELCOME</span> to presidential family.</p>
+          <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
         </mj-text>
-        <mj-image padding="10px 20px 20px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/ps-verification.gif" href="https://www.moviesuggestions.com" alt="gif not there" />
-        <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
-        <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more about these guys☝️, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
-        </mj-text>
+        <mj-image padding="10px 20px 20px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/gif.gif" href="https://www.moviesuggestions.com" alt="gif not there" />
+        <mj-spacer height="2px"/>
         <!-- Verify Button -->
         <mj-text font-family="Roboto" >
           <a style="
@@ -87,75 +86,71 @@
         </mj-column>
         </mj-section>
 
-        <!-- follow us -->
-    <mj-spacer height="10px"></mj-spacer>
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          padding-top:14px;
-          padding-bottom:8px; 
-          color:#4D3060;
-            text-align: left;
-            border-bottom:2px solid #4D3060; 
-            letter-spacing:2px;
-              font-size: 24px;
-              line-height: 1.2;  
-              font-weight: 400;
-               
-            ">FOLLOW US ON SOCIAL MEDIA</h2>   
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <!-- Spotlight contents-->
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">
-      <mj-column>
-        <mj-spacer height="24px" />
-        <mj-social font-size="15px" mode="horizontal" padding="0px">
-          <!-- Facebook Icon -->
-          <mj-social-element padding="12px 12px" icon-size="30px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
-          </mj-social-element>
-          <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 12px" icon-size="30px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
-          </mj-social-element>
-          <!-- Instagram Icon -->
-          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
-          </mj-social-element>
-          <!-- Reddit Icon --> 
-          <!-- <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.reddit.com/user/PresidentialSummary/" src="https://www.presidentialsummary.com/icons/social/reddit.png">
-          </mj-social-element> -->
-          <mj-social-element padding="12px 12px" icon-size="30px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
-          </mj-social-element>
-          <mj-social-element padding="12px 12px" icon-size="30px" href=" https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
-          </mj-social-element>
-        </mj-social>
-      </mj-column> 
-    </mj-section>
-    <!-- footer section -->
-    <!-- 2 columns section -->
+<!-- footer -->
+
     <mj-section background-color="white">
       <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
         <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
-          <p style="font-size: 12px; color: #000; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;"href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2">
-            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
           <p style="
-          margin-top:25px;
-          text-align:center;
-          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
-            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <!-- <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
-          <p style="   
-          margin-bottom:14px;
-          text-align:center;
-          font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
         </mj-text>
       </mj-column>
     </mj-section>
+  
     <mj-spacer height="15px"></mj-spacer>
   </mj-body>
 </mjml>
