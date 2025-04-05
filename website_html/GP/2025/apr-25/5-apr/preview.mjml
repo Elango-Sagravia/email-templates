@@ -1,0 +1,79 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">
+          → Norway criticizes Finland</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Former president gets visa revoked</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Kenyan youth celebrate Eid</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇳🇴 Norway criticizes Finland’s move to quit the land mine treaty</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">Norway <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h1-1-criticized-finland?source=website" target="_blank">criticized Finland</a> for withdrawing from the 1997 Ottawa Convention, which bans anti-personnel mines. Finnish President Alexander Stubb announced this move to respond to potential Russian threats. Norwegian Foreign Minister Espen Barth Eide warned that weakening such commitments reduces the global stigma around land mines.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            The Ottawa Convention faces more pressure due to Russia’s war on Ukraine. With Finland's withdrawal, Norway, the sole European country bordering Russia, is still committed to the treaty. Poland and the Baltic states also <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h1-2-plan-to-leave?source=website" target="_blank">plan to exit</a>, citing security risks. Their defense ministers say increased military flexibility is needed to protect NATO’s eastern flank. Norway, however, remains firm in its stance against land mines.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇷🇺 Putin creates a police service to register foreigners</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Putin has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h2-1-ordered-the-creation?source=website" target="_blank">ordered the creation</a> of a newer service within the Interior Ministry to oversee citizenship and the registration of foreign nationals. These responsibilities were previously handled by the Federal Migration Service but were transferred to the Interior Ministry in 2016. The newly established <i>Service for Citizenship and Registration of Foreign Citizens</i> aims to enhance the public administration of migration.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
