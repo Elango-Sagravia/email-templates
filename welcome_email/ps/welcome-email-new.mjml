@@ -23,11 +23,12 @@
               font-size: 16px;
               line-height: 1.4;
               margin-top:2px;
-            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            ">The President of the United States receives a top-secret briefing on the most important news of the day.</p>
           <p style="
               font-size: 16px;
               line-height: 1.4;
-            ">Welcome to <strong><i>Presidential Summary!</i></strong></p>
+            ">Now, so will you.
+</p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
@@ -59,12 +60,14 @@
       <mj-spacer height="10px"/>
         <!-- Main Instructions -->
         <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4;">Hi there,</p>
-          <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">A <span style="font-weight:bold;color:#4D3060;">BIG WELCOME</span> to presidential family.</p>
+          <p style="font-size: 20px; font-weight:300px; line-height: 1.4;">Hello and a big welcome to the Presidential family.</p>
+          <!-- <p style="font-size: 21px; font-weight:300px; line-height: 1.4;">Hello and a big welcome to the Presidential family.</p> -->
         </mj-text>
         <mj-image padding="10px 20px 10px 20px" width="600px" src="https://www.presidentialsummary.com/email/images/gif.gif" href="https://www.presidentialsummary.com" alt="gif not there" />
         <mj-text padding="10px 20px" font-family="Roboto+Serif" color="#000000">
-        <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read more about these guys☝️, then hit the button below to <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased news.</p>
+        <p style="font-size: 16px; font-weight:300px; line-height: 1.4;">If you want to read what these guys ☝️ read, tap on the button below to
+        <span style="font-weight:bold;color:#4D3060;">VERIFY</span> your email and start getting your daily dose of quick, unbiased, fact checked news.
+        </p>
         </mj-text>
         <!-- Verify Button -->
         <mj-text font-family="Roboto" >
