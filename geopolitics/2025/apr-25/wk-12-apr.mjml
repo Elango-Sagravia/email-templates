@@ -1,0 +1,467 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">
+          → Norway criticizes Finland</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Former president gets visa revoked</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Kenyan youth celebrate Eid</p>
+          
+          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px"> Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/" target="_blank">Stay informed</a>. </p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇳🇴 Norway criticizes Finland’s move to quit the land mine treaty</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">Norway <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h1-1-criticized-finland" target="_blank">criticized Finland</a> for withdrawing from the 1997 Ottawa Convention, which bans anti-personnel mines. Finnish President Alexander Stubb announced this move to respond to potential Russian threats. Norwegian Foreign Minister Espen Barth Eide warned that weakening such commitments reduces the global stigma around land mines.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            The Ottawa Convention faces more pressure due to Russia’s war on Ukraine. With Finland's withdrawal, Norway, the sole European country bordering Russia, is still committed to the treaty. Poland and the Baltic states also <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h1-2-plan-to-leave" target="_blank">plan to exit</a>, citing security risks. Their defense ministers say increased military flexibility is needed to protect NATO’s eastern flank. Norway, however, remains firm in its stance against land mines.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇷🇺 Putin creates a police service to register foreigners</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Putin has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h2-1-ordered-the-creation" target="_blank">ordered the creation</a> of a newer service within the Interior Ministry to oversee citizenship and the registration of foreign nationals. These responsibilities were previously handled by the Federal Migration Service but were transferred to the Interior Ministry in 2016. The newly established <i>Service for Citizenship and Registration of Foreign Citizens</i> aims to enhance the public administration of migration.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Andrei Kikot, the former deputy prosecutor general, will lead this service and be the first deputy interior minister. This change comes after Prosecutor General Igor Krasnov criticized lapses in migration management. Additionally, Russia has cracked down on <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h2-4-migration-laws" target="_blank">migration laws</a>, particularly towards Central Asians. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          A year after the Crocus City Hall terror attack in Moscow, which claimed 140 limes. The Islamic State claimed the attack, with four Tajik men arrested.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px; line-height:1.2;">
+          <strong>🇨🇷 Former Costa Rican President Arias says the US revoked his visa</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Earlier this week, Former Costa Rican President and Nobel laureate Óscar Arias Sanchez said his US visa was revoked without explanation. He was informed via email that he may be ineligible and must reapply if he wishes to travel. However, in the interview with Morning Edition, Arias Sanchez said that his visa was revoked <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-h3-5-due-to-his-close-ties-with-china" target="_blank">due to his close ties with China</a>. Costa Rica formalized its relations with China in 2007, when he served as president.
+          </p>
+            <p style="font-size: 16px; line-height: 1.5"> 
+           In February, he compared Donald Trump’s leadership style to that of a Roman emperor. The revocation follows Washington's decision to rescind visas for Costa Rican lawmakers opposing its stance on 5G networks. Arias Sanchez dismissed the decision, noting his past recognition by the US and reaffirming his support for free trade. His remarks came as Trump imposed sweeping tariffs, including a 10% duty on Costa Rican imports.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+           
+
+   <mj-spacer height="10px" />
+
+  <!-- primary ad -->
+    <!-- Content sections --> 
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-12-apr-2025-p-ad-ms" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Movie Suggestions</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #06266D; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">Just sit back and press play</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/images/ad-ms.png" alt="Just sit back and press play" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> Weekend’s here, it’s time to unwind,<br /> The must-watch movie, we help you find.</p>
+          <p style="font-size: 16px; line-height: 24px"> Thrillers, dramas, laughs to share,<br /> Handpicked gems, beyond compare.</p>
+          <p style="font-size: 16px; line-height: 24px"> No more searching, no more doubt,<br /> Join us, and don’t miss out!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Make Fridays fun 🎬
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+    <!-- /primary ad -->
+
+   <mj-spacer height="10px" />
+   
+
+    <!-- the big quesstion -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">The big question</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">South Sudan, what can go wrong? </h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px; line-height:1.5;">The situation in South Sudan continues to worsen, with tensions simmering between President Salva Kiir and First Vice President Riek Machar. Last week, government forces placed Machar under <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-bq1-6-house-arrest" target="_blank">house arrest</a>. He is accused of inciting rebellion over a charge linked to recent clashes in Upper Nile State.</p>
+          <p style="font-size:16px; line-height:1.5;">This situation is raising fears of a relapse into civil war, reminiscent of the devastating conflict from 2013 to 2018.​ The opposition claimed the 2018 peace agreement was nullified because of Machar's detention. In response, the African Union sent mediators to Juba.</p>
+          <p style="font-size:16px; line-height:1.5;">The African Union is trying to <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-bq2-7-restart-dialogue" target="_blank">restart dialogue</a> and protect the peace agreement. The United Nations has also shown deep concern. Secretary-General António Guterres urged global leaders to unite against a renewed civil war. The last civil war caused about 400,000 deaths and displaced nearly one-third of South Sudan's population. Another civil war will further drive these numbers up and exacerbate the problems from the last one.</p>
+          <p style="font-size:16px; line-height:1.5;">Ethnic tensions, especially between the Dinka and Nuer communities, are worse due to <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-bq3-8-recent-political-events" target="_blank">recent political events</a>. The political rivalry between President Salva Kiir (a Dinka) and Vice President Riek Machar (a Nuer) points towards a possible civil war. Both parties have not been able to reach a common conscience since the Machar carried out a massacre in the city of Bor in the 90s.</p>
+          <p style="font-size:16px; line-height:1.5;">If the government fails to disarm militias, the country could fragment into warlord-controlled zones like Somalia. The political instability threatens the fragile gains made since the 2018 peace accord. If civil war ensues, it could see a potential partition of South Sudan, which would be complicated as it is home to 60 different ethnic groups.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- secondary ad  --> 
+
+    <!-- <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-8-mar-2025-s-ad-gs" target="_blank" style="color:black">
+    </mj-raw>
+          <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Long and Short</i>
+              </p>
+            </mj-text>  
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Markets in minutes</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">Warren Buffet said, <strong>"Risk comes from not knowing what you're doing."</strong> The best way to manage risk? Stay informed.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+              </p>
+              
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+                  <li><strong>Unbiased</strong></li>
+                  <li><strong>Fact-checked</strong></li>
+                  <li><strong>5-minute read</strong> (no fluff, no noise)</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Join Long and Short</a></p>
+                </mj-text>
+            </mj-column>
+          </mj-section>
+    <mj-raw>
+        </a>
+    </mj-raw> -->
+
+<!-- /secondary ad -->
+
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">On this day</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- On this day -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+          On this day in 1951, Julius Rosenberg and Ethel Rosenberg were sentenced to death for espionage and were executed two years later. The Rosenbergs were the first American civilians executed for that crime. The couple was arrested in 1950, during a period of intense anti-communist sentiment in the US known as the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-05-04-2025-otd1-9-red-scare" target="_blank">Red Scare</a>. The government charged them for providing information about the atomic bomb to the Soviet Union. Their deaths were controversial, and the case continues to spark debates about the fairness of the trial.
+            </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400; 
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/eid-al-fitr-prayers-muslim-children-nairobi-kenya.png" alt="Muslim children participate in Eid al-Fitr prayers at the Sir Ali Muslim Club Ground in the Ngara district of Nairobi, Kenya" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Muslim children participate in Eid al-Fitr prayers at the Sir Ali Muslim Club Ground in the Ngara district of Nairobi, Kenya. Credits: REUTERS/Monicah Mwangi
+          </i>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Guess the flag</h2>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border-radius="10px" border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/guess-the-flag-lesotho.png" alt="Guess the flag" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section --> 
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-05-04-2025-guess-the-flag" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+             
+              ">Uzbekistan</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-05-04-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+             border-radius:10px;
+          
+              ">Komi Republic</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-05-04-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;                                    background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+           
+              ">Lesotho</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-05-04-2025-guess-the-flag" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+              
+              ">Sierra Leone</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <!-- <p style="color: #000; font-size: 12px; line-height: 2">
+          This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.
+          </p> -->
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
