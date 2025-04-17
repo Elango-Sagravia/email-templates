@@ -21,7 +21,7 @@
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
               font-size: 16px;
-              line-height: 1.4; 
+              line-height: 1.4;  
               margin-top:2px;
             ">The President of the United States receives a top-secret briefing on the most important news of the day.</p>
           <p style="
@@ -61,15 +61,15 @@
         <!-- Main Instructions -->
         <mj-text padding="10px 20px 0px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          We’ve been sending you updates, but it looks like you haven’t opened any of them. No worries, it happens. But this is your last chance to confirm if you want to stay subscribed.</p>
-          <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
+          We’ve been sending you updates, but it looks like you <strong>haven’t opened any of them</strong>. No worries, it happens. But this is your <strong>last chance</strong> to confirm if you want to stay subscribed.</p>
+          <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 0px 0px;">
           Click below to let us know you’re still with us. Otherwise, we’ll stop emailing you.</p>
-        <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
+        <!-- <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
         <strong>Are you still with us?</strong>
-        </p>
+        </p> -->
         </mj-text>
         </mj-column>
-        </mj-section>
+        </mj-section> 
 
         <mj-section background-color="#ffffff">
         <mj-column width="40%" align="center" >
