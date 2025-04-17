@@ -1,0 +1,524 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Belgian ant thieves in Kenya</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ China’s economy grew in Q1 2025</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ OpenAI releases newer reasoning models</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+    
+    <!-- breaking news-->
+    <!-- /breaking news -->
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Who is a woman?</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/uk-supreme-court-ruling-woman-defined-by-biological-sex.png" alt="UK Supreme Court rules legal definition of ‘woman’ is based on biological sex" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>UK Supreme Court rules that the official definition of a ‘woman’ is based on biological traits. Credits: CediRates
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">In recent debates on gender and biological identity, the UK Supreme Court handed down its <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h1-1-judgement?source=wbsite" target="_blank">judgment</a>. In a unanimous ruling, the court clarified that the term “woman” in the Equality Act 2010 refers to biological classification, not gender acquired through a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h1-2-gender-recognition-certificate?source=wbsite" target="_blank">Gender Recognition Certificate</a>.<p>
+          <p style="font-size: 16px; line-height: 1.5">
+        The decision came after <i>For Women Scotland</i> challenged the Scottish government, which had included trans women in legislation aimed at improving gender balance on public boards. The court stated that including trans women under the official definition would make the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h1-3-equality-act?source=wbsite" target="_blank">Equality Act</a> “incoherent,” undermining protections based on biological traits.</p>
+          <p style="font-size: 16px; line-height: 1.5">The reactions are split. While women's rights campaigners celebrated the ruling as a victory for biological definitions, LGBTQ+ groups and trans rights advocates are concerned about its effects on trans inclusion.</p>
+          <p style="font-size: 16px; line-height: 1.5">The Scottish government accepted the ruling and pledged to assess its implications.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" /> 
+
+<!--primary ad -->
+   <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+      <mj-raw> 
+        <a href="https://link.presidentialsummary.com/ps-17-apr-2025-p-ad-A6?source=wbsite" target="_blank" style="color:black">
+    </mj-raw>
+        <mj-column>
+        <mj-spacer height="14px"/>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+              <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+          <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+            <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Zero sugar rapid energy gel</h2>
+              </mj-text>
+              <mj-spacer height="12px"/>
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/17-apr-2025-A6.png" alt="Just sit back and press play"/>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            Zero sugar, pure clean fuel,<br/>
+            23g carbs to keep you cool.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            Quick to open, easy to take,<br/>
+            A boost you need, no time to break.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            Tested, trusted, made to groove,<br/>
+            Flavors to match your every move!</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Grab yours worldwide</a></p>
+            </mj-text>
+            <mj-spacer height="10px" />
+        </mj-column>
+  <mj-raw>
+    </a>
+  </mj-raw>
+  </mj-section>
+
+<!-- /primary ad -->
+
+
+<mj-spacer height="10px" />
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+              Potential embassy closures
+        </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/potential-embassy-closures.png" alt="A world map showing locations of embassies and consulates potentially affected by closures, with embassies marked by red squares and consulates by red circles." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Locations of embassies and consulates potentially affected by closures, with embassies marked by red squares and consulates by red circles. Credits: CNN</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: The Trump administration may close nearly 30 overseas embassies and consulates.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">In what could be a blow to US diplomatic efforts, an internal State Department document <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h2-4-obtained-by-cnn?source=wbsite" target="_blank">obtained by CNN</a> suggests that Trump might close 10 embassies and 17 consulates across Europe, Africa, Asia, and the Caribbean, with neighboring missions expected to absorb their responsibilities.</p>
+          <p style="font-size: 16px; line-height: 1.5">The plan is linked to a federal overhaul led by the Musk-backed Department of Government Efficiency. But it’s still unclear whether Secretary of State Marco Rubio has signed approval.</p>
+          <p style="font-size: 16px; line-height: 1.5">Meanwhile, Critics warn that the closures could weaken the US global influence as rivals like China expand their diplomatic reach. Smaller nations with restricted embassy reach (particularly in Africa and remote regions of Asia) could be disproportionately affected.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">Don’t smuggle ants</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Belgian teens await their fate for smuggling ants, as Kenya raises alarm over shifting wildlife trafficking trends.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Is the global wildlife trafficking trend changing? Two Belgian teenagers, Lornoy David and Seppe Lodewijckx, were arrested in Nairobi on April 5th for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h3-5-smuggling-5000-live-ants?source=wbsite" target="_blank">smuggling 5,000 live ants</a> from a guesthouse. Kenyan officials say the insects were bound for exotic pet markets in Europe and Asia.</p>
+          <p style="font-size: 16px; line-height: 1.5">The Kenya Wildlife Service (KWS) states that the smuggling threatens the country’s biodiversity and undermines the ecological and economic benefits local communities could gain from native species.</p>
+          <p style="font-size: 16px; line-height: 1.5">Authorities value these ants at $7,700. The ant species in the guesthouse included <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-h3-messor-cephalotes?source=wbsite" target="_blank">Messor cephalotes</a>, a large, red-colored harvester ant native to East Africa. Philip Muruthi, a vice president for conservation at the Africa Wildlife Foundation in Nairobi, warned of the risk of trafficking species and exporting diseases to the destination countries. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>UN nuclear watchdog chief Rafael Grossi warned that Iran is "not far" from a nuclear bomb</strong> ahead of talks with US envoy Richard Witkoff in Oman. Iran maintains its program is for peaceful use and says enrichment is non-negotiable, though it remains open to addressing some concerns. Despite exceeding 2015 agreement limits, it continues to dismiss calls to scale back. Talks will resume in Rome this weekend under Omani mediation (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br1-6-read-more?source=wbsite" target="_blank">read more</a>).</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>As Trump-era tariffs unravel, Chinese President Xi Jinping arrived in Malaysia as part of a Southeast Asia tour to position China as a more reliable trade partner than the US</strong>. The visit focuses on strengthening economic and diplomatic partnerships with ASEAN nations. Xi emphasized deeper strategic cooperation, following major trade deals signed in Vietnam. China has been Malaysia’s largest trading partner since 2009, with bilateral trade reaching $212B in 2024 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br2-7-details?source=wbsite" target="_blank">details</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- secondary ad  -->
+
+        <!-- <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-21-mar-2025-s-ad-gs" style="color:black">
+    </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Geopolitical Summary</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">The “why” behind events</h2>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+            <li><strong>26 EU leaders reaffirmed their support for Ukraine</strong>, while Zelenskyy stressed the need for artillery funding.</li>
+            <li><strong>Venezuelan President Nicolas Maduro condemned the deportations of 238 people</strong>, calling it a "kidnapping."</li>
+            <li><strong>How are the USA and China vying for Africa’s rare earth minerals?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+        <strong>Every successful company has a turning point</strong>, a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+        </p>
+         <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+        <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+        </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed,
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">join Geopolitical Summary</p>
+          </mj-text> 
+      </mj-column> 
+    
+    </mj-section> 
+    
+      <mj-raw>
+       </a>
+      </mj-raw> -->
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Fed Chair Jerome Powell warned that Trump’s sweeping tariffs are creating unprecedented economic challenges and risking stagflation</strong>, i.e., a mix of rising inflation, unemployment, and slower growth. With no modern playbook to navigate this, the Fed plans to hold steady until more precise data emerges. Powell emphasized that tariffs burden the public, and uncertainty could inflict lasting economic harm (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br3-8-feds-dread?source=wbsite" target="_blank">Fed’s dread</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Currency printer De La Rue, founded in Guernsey over 200 years ago, is acquired by US firm Atlas Holdings for £263M</strong>. The firm has faced monetary challenges due to declining bill flow. The agreement follows a turbulent period for De La Rue, which included losing key contracts and restructuring through asset trade to cut arrears and pension deficits (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br4-9-cash-capture?source=wbsite" target="_blank">cash capture</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>China’s economy grew 5.4% in Q1 2025, surpassing forecasts, with strong industrial output and retail trade</strong>. H​​owever, the data predates a sharp rise in US-China trade tensions, including a US tariff hike to 145%. Major banks have since downgraded China’s outlook, despite Beijing maintaining a 5% growth target for the year (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br5-10-unexpected-growth?source=wbsite" target="_blank">unexpected growth</a>).</p>
+<!--one-sentence-ad--> 
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border: 1px solid black;
+              border-radius:10px;
+              padding-left: 14px;
+              padding-top:4px;
+              padding-bottom:4px;
+              margin-bottom: 15px;
+                    "><strong>Love Business & Markets? Stay ahead with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls?source=wbsite" target="_blank">Long and Short</a></strong>, a weekly recap of global economic news, straight to your inbox. Smart, sharp, and essential. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls?source=wbsite" target="_blank">Sign up here</a>!</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+<!--/ad-one-sentence -->
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/stem-cell-parkinsons-trials.png" alt="Colored brain scan showing ventricular structures, used to illustrate promising early-stage clinical trials using stem-cell-derived neurons to treat Parkinson's disease." href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Colored brain scan showing ventricular structures, used to illustrate promising early-stage clinical trials using stem-cell-derived neurons to treat Parkinson's disease. Credits: GJLP/Science Photo Library
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Two early-stage clinical trials using stem-cell-derived neurons to treat Parkinson's disease have shown promising results</strong>, with some participants experiencing reduced tremors and improved symptoms. While the studies confirmed the therapy's safety, the size of 19 individuals is too small to draw definitive conclusions. Researchers, including Malin Parmar from Lund University, are optimistic that these trials will pave the way for more effective treatments. However, challenges like the low survival percentage of transplanted cells remain to be addressed (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br7-12-the-study?source=wbsite" target="_blank">the study</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>OpenAI is releasing its newer reasoning models, o3 and o4-mini, which can reason with images</strong>. These models are designed to handle complex problems, combining tools like web searches, file analysis, and visual input reasoning for more detailed responses. Image reasoning allows them to analyze and manipulate visuals like sketches or whiteboards. Additionally, they will have permission to all ChatGPT tools, including web browsing and image generation, which will be available to Plus, Pro, and Team users (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br8-13-official-article?source=wbsite" target="_blank">official article</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Kim Kardashian will testify in person at a hearing over the 2016 Paris robbery, where armed robbers tied her up and stole her jewelry</strong>. The hearing, involving ten suspects, will run from April 28 to May 23. The robbery occurred while Kardashian stayed in a Paris apartment during Fashion Week. Her lawyer stated that the reality TV star and entrepreneur has "tremendous appreciation and admiration" for the French judicial system and hopes for a fair hearing (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br9-14-2016-heist-details?source=wbsite" target="_blank">2016 heist details</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The NBA's Last Two Minute Report for the Golden State Warriors-Memphis Grizzlies play-in game revealed four incorrect calls</strong>. The errors included missed fouls on Draymond Green, a non-call on a potential goaltending, a bad decision on a block attempt, and an incorrect ruling on possession with under 10 seconds left. The Warriors triumphed 121-116, securing the No. 7 seed, while Memphis faces a must-win game to claim the No. 8 seed (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br10-15-full-breakdown?source=wbsite" target="_blank">full breakdown</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Jaw-dropping memoirs of Luca Prodan, Argentina’s punk god (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br11-16-inside-story?source=wbsite" target="_blank">inside story</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Astronomers find a planet in a perpendicular orbit around a pair of stars (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br12-17-discovery-details?source=wbsite" target="_blank">discovery details</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Johnny Depp and Ringo Starr unite for Whitbread charity track (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br13-18-know-more?source=wbsite" target="_blank">know more</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">ESPN’s Richard Jefferson wants athletes to learn from his mistakes (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-04-2025-br14-19-podcast?source=wbsite" target="_blank">podcast</a>).   
+            </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1982, the Canada Act, also known as the Constitution Act, took effect, making Canada a fully independent and sovereign state.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.<br/>
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
