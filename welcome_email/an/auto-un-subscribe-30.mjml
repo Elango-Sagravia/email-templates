@@ -10,7 +10,7 @@
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
-    <mj-spacer height="15px"></mj-spacer>
+    <mj-spacer height="15px"></mj-spacer> 
     <!-- Logo Header -->
     <mj-section background-color="#ffffff">
       <mj-column padding="10px 12px 10px 12px" width="100%"> 
@@ -19,14 +19,14 @@
         <mj-spacer height="8px" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
-          <p style=" 
+          <p style="
               font-size: 16px;
-              line-height: 1.4; 
-              margin-top:2px;padding:2px 0px 6px 0px;
+              line-height: 1.4;  
+              margin-top:2px;padding:6px 0px;
             ">The President of the United States receives a top-secret briefing on the most important news of the day.</p>
           <p style="
               font-size: 16px;
-              line-height: 1.4;padding:6px 0px 0px 0px;
+              line-height: 1.4;padding:6px 0px;
             ">You signed up for one too... but it looks like we’ve lost you along the way.
 </p>
         </mj-text>
@@ -49,7 +49,7 @@
               line-height: 1.2;  
               font-weight: 400;
                
-            ">Hello, it’s me</h2>   
+            ">Hello from the other side,</h2>   
         </mj-text>
       </mj-column>
     </mj-section>
@@ -61,18 +61,18 @@
         <!-- Main Instructions -->
         <mj-text padding="10px 20px 0px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          Remember us? We’re still here, just chilling in your inbox, patiently <strong>waiting for you to notice</strong>.</p>
-          <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          No pressure, but if you’d like to keep receiving our news and updates, just click the button below. Otherwise, we’ll stop bugging you from tomorrow on.</p>
-        <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
+          We’ve been sending you updates, but it looks like you <strong>haven’t opened any of them</strong>. No worries, it happens. But this is your <strong>last chance</strong> to confirm if you want to stay subscribed.</p>
+          <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 0px 0px;">
+          Click below to let us know you’re still with us. Otherwise, we’ll stop emailing you.</p>
+        <!-- <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
         <strong>Are you still with us?</strong>
-        </p>
+        </p> -->
         </mj-text>
         </mj-column>
-        </mj-section>
+        </mj-section> 
 
         <mj-section background-color="#ffffff">
-        <mj-column width="48%" align="center" >
+        <mj-column width="40%" align="center" >
           <mj-text font-family="Roboto" padding="10px 20px">
             <a style="
                 display: inline-block;
@@ -81,16 +81,16 @@
                 line-height: 1.4;
                 padding: 10px;
                 text-align: center;
-                width: 235px; 
+                width: 200px; 
                 margin: 0px;
                 color: #FFFFFF;
                 text-decoration: none;" 
                 href="https://www.presidentialsummary.com/" 
                 target="_blank"
-                > Yes, keep sending me news</a>
+                >Yes, I want to stay</a>
                 </mj-text>
                 </mj-column>
-                <mj-column width="52%" align="center">
+                <mj-column width="60%" align="center">
                 <mj-text font-family="Roboto" padding="10px 20px">
                 <a style="
                 display:inline-block;
@@ -99,13 +99,13 @@
                 line-height: 1.4;
                 padding: 10px;
                 text-align: center;
-                width: 135px; 
+                width: 200px; 
                 margin: 0px;
                 color: #FFFFFF;
                 text-decoration: none;" 
                 href="https://www.presidentialsummary.com/" 
                 target="_blank"
-                >Let’s part ways</a>
+                >No, I’m done here</a>
             </mj-text>
             </mj-column>
         </mj-section>
@@ -114,7 +114,7 @@
         <mj-column>
         <mj-text padding="0px 20px 10px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          Hope to hear from you soon!
+          We’d hate to leave, but we understand if it's time to move on.
           </p>
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
           Team Presidential Summary

@@ -19,14 +19,14 @@
         <mj-spacer height="8px" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
-          <p style=" 
+          <p style="
               font-size: 16px;
-              line-height: 1.4; 
-              margin-top:2px;padding:2px 0px 6px 0px;
+              line-height: 1.5;
+              margin-top:2px;padding:6px 0px;
             ">The President of the United States receives a top-secret briefing on the most important news of the day.</p>
           <p style="
               font-size: 16px;
-              line-height: 1.4;padding:6px 0px 0px 0px;
+              line-height: 1.5;padding:6px 0px;
             ">You signed up for one too... but it looks like we’ve lost you along the way.
 </p>
         </mj-text>
@@ -49,7 +49,7 @@
               line-height: 1.2;  
               font-weight: 400;
                
-            ">Hello, it’s me</h2>   
+            ">Hello, are you there?</h2>   
         </mj-text>
       </mj-column>
     </mj-section>
@@ -61,18 +61,22 @@
         <!-- Main Instructions -->
         <mj-text padding="10px 20px 0px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          Remember us? We’re still here, just chilling in your inbox, patiently <strong>waiting for you to notice</strong>.</p>
-          <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          No pressure, but if you’d like to keep receiving our news and updates, just click the button below. Otherwise, we’ll stop bugging you from tomorrow on.</p>
+          We've noticed you've been <strong>ignoring our emails</strong>. We're starting to think you might be... well... a ghost. 👻</p>
+        <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px;">
+        If you still want to hear from us (and trust us, it’s worth it), click the button below. Otherwise, we'll assume you're haunting someone else now.
+        </p>
+        <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px;">
+        Or maybe you've switched to carrier pigeons for your news?
+        </p>
         <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
-        <strong>Are you still with us?</strong>
+        <strong>Are you alive and kicking?</strong>
         </p>
         </mj-text>
         </mj-column>
         </mj-section>
 
         <mj-section background-color="#ffffff">
-        <mj-column width="48%" align="center" >
+        <mj-column width="30%" align="center" >
           <mj-text font-family="Roboto" padding="10px 20px">
             <a style="
                 display: inline-block;
@@ -81,16 +85,16 @@
                 line-height: 1.4;
                 padding: 10px;
                 text-align: center;
-                width: 235px; 
+                width: 130px; 
                 margin: 0px;
                 color: #FFFFFF;
                 text-decoration: none;" 
                 href="https://www.presidentialsummary.com/" 
                 target="_blank"
-                > Yes, keep sending me news</a>
+                >I am alive</a>
                 </mj-text>
                 </mj-column>
-                <mj-column width="52%" align="center">
+                <mj-column width="70%" align="center">
                 <mj-text font-family="Roboto" padding="10px 20px">
                 <a style="
                 display:inline-block;
@@ -99,22 +103,22 @@
                 line-height: 1.4;
                 padding: 10px;
                 text-align: center;
-                width: 135px; 
+                width: 130px; 
                 margin: 0px;
                 color: #FFFFFF;
                 text-decoration: none;" 
                 href="https://www.presidentialsummary.com/" 
                 target="_blank"
-                >Let’s part ways</a>
+                >I'm a ghost</a>
             </mj-text>
             </mj-column>
         </mj-section>
 
-        <mj-section background-color="#ffffff">
-        <mj-column>
+        <mj-section  background-color="#ffffff">
+        <mj-column> 
         <mj-text padding="0px 20px 10px 20px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:0px 0px 6px 0px;">
-          Hope to hear from you soon!
+          Hope to hear from you soon before we call the ghostbusters! 👀
           </p>
           <p style="font-size: 16px; font-weight:300px; line-height: 1.5;padding:6px 0px 0px 0px;">
           Team Presidential Summary
@@ -139,7 +143,7 @@
               color:#000;
               font-size:12px;
               line-height: 2; 
-            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p> 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
             <!-- <p style="
               color:#000;
               font-size:12px;   
