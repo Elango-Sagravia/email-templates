@@ -82,60 +82,26 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
-      <mj-column width="30%" align="center">
-        <mj-text font-family="Roboto" padding="10px 20px">
-          <mj-raw>
-            <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
-              <div style="background:#000; mix-blend-mode:screen;">
-                <div style="background:#000; mix-blend-mode:difference;">
-                  <a style="
-                display: inline-block;
-                background: #306046;
-                font-size: 16px;
-                line-height: 1.4;
-                padding: 10px;
-                text-align: center;
-                width: 130px; 
-                margin: 0px;
-                color: #FFFFFF;
-                text-decoration: none;
-                border-radius:50px;" 
-                href="" 
-                target="_blank"
-                >I am alive</a>
-                </div>
-              </div>
-            </div>
-          </mj-raw>
-        </mj-text>
-      </mj-column>
-      <mj-column width="70%" align="center">
-        <mj-text font-family="Roboto" padding="10px 20px">
-          <mj-raw>
-            <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
-              <div style="background:#000; mix-blend-mode:screen;">
-                <div style="background:#000; mix-blend-mode:difference;">
-                  <a style="
-                display:inline-block;
-                background: #603030;
-                font-size: 16px;
-                line-height: 1.4;
-                padding: 10px;
-                text-align: center;
-                width: 130px; 
-                margin: 0px;
-                color: #FFFFFF;
-                text-decoration: none;
-                border-radius:50px;" 
-                href="" 
-                target="_blank"
-                >I'm a ghost</a>
-                </div>
-              </div>
-            </div>
-          </mj-raw>
-        </mj-text>
-      </mj-column>
+    <mj-group direction="ltr">
+    <mj-column width="30%" padding="0px">
+      <mj-image
+        href="https://example.com/alive"
+        src="https://www.moviesuggestions.com/email/images/red.png"
+        alt="I am alive"
+        width="150px"
+        padding="10px"
+      />
+    </mj-column>
+    <mj-column width="30%" padding="0px">
+      <mj-image
+        href="https://example.com/ghost"
+        src="https://www.moviesuggestions.com/email/images/green.png"
+        alt="I'm a ghost"
+        width="150px"
+        padding="10px"
+      />
+    </mj-column>
+  </mj-group>
     </mj-section>
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="10px 12px 0px 12px">
       <mj-column>
