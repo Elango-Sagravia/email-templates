@@ -1,44 +1,35 @@
-   
 <!-- breaking news live -->
     <mj-spacer height="10px" />
     
      <mj-section css-class="mj_section" padding-bottom="0px" background-color="#ffffff" border= "2px solid #4D3060" >
       <mj-column >
-      <mj-text padding="2px 12px 0px 12px" font-family="Roboto" color="white" 
-      >
+      <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
         <h2 style="
           padding-top:14px;
-          padding-bottom:8px;
+          padding-bottom:8px; 
           color:#4D3060;
             text-align: left;
             border-bottom:2px solid #4D3060; 
-            text-transform:uppercase;
-              font-size: 20px;
-              line-height: 1.2;
-              font-weight: 300;
-              
-            ">Breaking News</h2>
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Breaking news</h2>
+          </mj-text>
 
-          <p style="color:black;
-              font-size: 18px;
-              line-height: 1.4; 
-              font-weight: 250;
-              text-align: left;
-              padding-top:20px; 
-              padding-bottom:0px;"><strong>Summary: A passenger plane and an army black hawk helicopter collided over the Potomac River. </strong></p>
+           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
         
           <p style=" color:black;
               font-size: 16px;
               line-height: 1.4; 
-              font-weight: 250;
               text-align: left;
-              padding-top:6px; 
+              padding-top:16px; 
               padding-bottom:0px;
             ">A regional passenger airline, American Airlines Flight 5342, and a military black hawk collided over Washington D.C., marking it the major commercial airline crash since 2009. Fatalities are being reported, and rescue missions are underway. The flight carried a total of 60 passengers and 4 crew members while the three army soldiers were aboard the Black Hawk helicopter (<a href="https://link.presidentialsummary.com/ps-30-01-2025-h1-1-follow-live-updates" target="_blank">follow live updates</a>).</p>
             <p style=" color:black;
               font-size: 16px;
               line-height: 1.4; 
-              font-weight: 250;
               text-align: left;
               padding-top:6px; 
               padding-bottom:0px;
@@ -47,4 +38,3 @@
       </mj-column>
     </mj-section>
 <!-- breaking new live -->
-   
