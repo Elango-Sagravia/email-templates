@@ -1,0 +1,570 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ 50501 protests against the budget cuts</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Trump’s overseas drilling plans</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ WrestleMania 41 highlights</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+    
+    <!-- breaking news-->
+       
+<!-- breaking news live -->
+    <mj-spacer height="10px" />
+    
+     <mj-section css-class="mj_section" padding-bottom="0px" background-color="#ffffff" border= "2px solid #4D3060" >
+      <mj-column >
+      <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+        <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Breaking news</h2>
+          </mj-text>
+
+           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        
+          <p style=" color:black;
+              font-size: 16px;
+              line-height: 1.4; 
+              text-align: left;
+              padding-top:16px; 
+              padding-bottom:0px;
+            ">Pope Francis, the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-breaking-news?source=website" target="_blank">266th leader of the Catholic Church</a> and the first Latin American Pope, passed away on Easter Monday. He had been struggling with a series of health problems, including double pneumonia, for which he spent five weeks in the hospital. “This morning at 7:35 am CEST, the Bishop of Rome, Francis, returned to the home of the Father," said Cardinal Kevin Farrell. </p>
+            <p style=" color:black;
+              font-size: 16px;
+              line-height: 1.4; 
+              text-align: left;
+              padding-top:6px; 
+              padding-bottom:0px;
+            ">Pope Francis blessed crowds in St Peter’s Square on Easter Sunday. He called for freedom of thought and tolerance in his Easter Sunday address. "There can be no peace without freedom of religion, freedom of thought, freedom of expression, and respect for the views of others," his speech read.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+<!-- breaking new live -->
+   
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2; 
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Easter ceasefire in Ukraine</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/military-chaplain-easter-blessing-ukrainian-soldiers-zaporizhia.png" alt="A military chaplain sprays holy water on Ukrainian soldiers during the Easter service near a front line in the Zaporizhia region of Ukraine" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>A military chaplain sprays holy water on Ukrainian soldiers during the Easter service near a front line in the Zaporizhia region of Ukraine. Credits: Andriy Andriyenko/Ukrainian Armed Forces via Reuters
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">President Zelenskyy reported over <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h1-1-2000-violations?source=website" target="_blank">2,000 violations</a> during the Easter ceasefire. The 30-hour ceasefire, proposed by Russia, was met with alleged reciprocal attacks as Russia and Ukraine accused each other of breaching it.<p>
+          <p style="font-size: 16px; line-height: 1.5">
+        The Russian defense ministry said that Ukraine shelled 444 bullets and carried out 900 drone strikes on its positions in Ukraine's eastern Donetsk region. Meanwhile, Zelenskyy dismissed the ceasefire as a fake PR exercise to appease the US.</p>
+          <p style="font-size: 16px; line-height: 1.5">During the truce, the two nations completed their <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h1-2-largest-prisoner-swap?source=website" target="_blank">largest prisoner swap</a> (277 Ukrainians and 246 Russians), mediated by the UAE.  In a parallel development, the Russian Direct Investment Fund (RDIF) and Qatar Investment Authority (QIA) signed an agreement to establish a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h1-3-2b-investment-platform?source=website" target="_blank">$2B investment platform</a> to strengthen economic ties and boost bilateral cooperation. </p>
+          <p style="font-size: 16px; line-height: 1.5">President Putin is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h1-4-scheduled-to-meet?source=website" target="_blank">scheduled to meet</a> Oman’s Sultan Haitham bin Tariq, which coincides with ongoing US-Iran nuclear talks. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" /> 
+
+<!--primary ad -->
+   <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+      <mj-raw> 
+        <a href="https://link.presidentialsummary.com/ps-21-apr-2025-p-ad-a8" target="_blank" style="color:black">
+    </mj-raw>
+        <mj-column>
+        <mj-spacer height="14px"/>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+              <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+          <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+            <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Creatine gummies, clean and strong</h2>
+              </mj-text>
+              <mj-spacer height="12px"/>
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/21-apr-2025-A8.png" alt="a8"/>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            Tasty, simple, no mess, no prep,<br/>
+            Just chew and go, you're set to rep.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            3 grams packed in every bite,<br/>
+            Fueling strength, endurance, might.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            Vegan, Halal, and gluten-free,<br/>
+            A powerful boost for every body.
+</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Unleash your power</a></p>
+            </mj-text>
+            <mj-spacer height="10px" />
+        </mj-column>
+  <mj-raw>
+    </a>
+  </mj-raw>
+  </mj-section>
+
+<!-- /primary ad -->
+
+
+<mj-spacer height="10px" />
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+              Severe Easter weather
+        </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/tornado-watch-arkansas-kansas-louisiana-missouri-oklahoma-nws.png" alt="A tornado watch was issued for parts of Arkansas, Kansas, Louisiana, Missouri, and Oklahoma, the National Weather Service said" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>A tornado watch was issued for parts of Arkansas, Kansas, Louisiana, Missouri, and Oklahoma, the National Weather Service said. Credits: Indian Express</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Tornado destructions continue across the US, with the latest one in Oklahoma leaving <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h2-5-three-people-dead?source=website" target="_blank">three people dead</a>. Moreover, severe weather warnings continue to threaten parts of the south-central and Midwest US. According to Bob Oravec, lead forecaster with the National Weather Service’s Weather Prediction Center, 17 tornado-related events were reported on Saturday.</p>
+          <p style="font-size: 16px; line-height: 1.5">The storm also brought heavy rain up to 5 to 10 centimeters over north-central Texas and central-eastern Oklahoma. The National Weather Service said the damage reveals the tornado's speed could have been between 86 and 110 mph (138 to 177 kph). </p>
+          <p style="font-size: 16px; line-height: 1.5">The storm accelerated as it moved northeast, posing significant risks, including hail, strong winds, and heavy rainfall across Arkansas, Missouri, southern Illinois, and southeastern Iowa. </p>
+          <p style="font-size: 16px; line-height: 1.5">This also puts a heavy toll on the state of Oklahoma, as Saturday overlapped with the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h2-6-30th-anniversary?source=website" target="_blank">30th anniversary</a> of the 1995 Oklahoma City bombing. It was the biggest incident of homegrown terror to happen in the US and claimed over 168 lives, including 19 children. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;">No more kings</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>Summary: This time, 50501 protests called out deportations and budget cuts. </strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Protesters gathered across the US on Saturday as part of the latest <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h3-7-50501-protest?source=website" target="_blank">50501 protest</a>, a coordinated demonstration against President Trump’s recent policies. Crowds formed outside the White House, Tesla dealerships, and city centers, demanding the return of Kilmar Ábrego García, who was mistakenly deported to El Salvador. They also addressed the budget cuts by the Department of Government Efficiency. </p>
+          <p style="font-size: 16px; line-height: 1.5">This movement follows the "<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-h3-8-hands-off?source=website" target="_blank">Hands Off</a>" demonstrations in early April, as there are signs of increasing unrest among the citizens over Trump’s actions. It was mainly peaceful, and demonstrators carried signs reading "No Kings," a nod to the 250th anniversary of the start of the American Revolutionary War.</p>
+          <p style="font-size: 16px; line-height: 1.5">Trump’s approval rating continues to decline, especially in topics related to the economy, as a recent Reuters/Ipsos poll shows a dip to 43% from 47%. The previous 50501 protest drew larger crowds than Saturday's, with demonstrations taking place across 1,200 locations in all 50 US states.</p>
+          <p style="font-size: 16px; line-height: 1.5">The 50501 protest stands for “50 protests, 50 states, 1 movement.”</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The US and Iran are set to hold a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br1-9-third-round-of-indirect-talks?source=website" target="_blank">third round of indirect talks</a> on Tehran’s nuclear program next weekend in Muscat, Oman</strong>. Iran’s Foreign Minister Abbas Araghchi described the Rome talks with US envoy Steve Witkoff as “constructive.” Despite mutual distrust, both sides say progress has been made, and an agreement may be possible if demands are reasonable.</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Hong Kong’s oldest pro-democracy party is dissolving under pressure from China</strong>, marking the end of a decades-long push for democratic reform in the city. National security laws, arrests, and shrinking political space have sidelined the Democratic Party. Analysts say the move reflects Beijing’s tightening grip and the near-total collapse of political dissent in Hong Kong (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br2-10-fall-of-dissent?source=website" target="_blank">fall of dissent</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- secondary ad  -->
+
+        <!-- <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-21-mar-2025-s-ad-gs" style="color:black">
+    </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Geopolitical Summary</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">The “why” behind events</h2>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+            <li><strong>26 EU leaders reaffirmed their support for Ukraine</strong>, while Zelenskyy stressed the need for artillery funding.</li>
+            <li><strong>Venezuelan President Nicolas Maduro condemned the deportations of 238 people</strong>, calling it a "kidnapping."</li>
+            <li><strong>How are the USA and China vying for Africa’s rare earth minerals?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+        <strong>Every successful company has a turning point</strong>, a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+        </p>
+         <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+        <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+        </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed,
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">join Geopolitical Summary</p>
+          </mj-text> 
+      </mj-column> 
+    
+    </mj-section> 
+    
+      <mj-raw>
+       </a>
+      </mj-raw> -->
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Chinese tech giants, including Alibaba, JD.com, and Pinduoduo, are leading a multibillion-dollar campaign to help exporters shift to domestic trade</strong> amid rising US tariffs and trade tensions. With government backing and patriotic momentum, these firms are investing heavily in local procurement, AI advertising, and seller support, aligning commercial goals with Beijing’s political priorities (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br3-11-inshoring?source=website" target="_blank">inshoring</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>India plans to amend its nuclear liability law to cap accident-related penalties on suppliers, aiming to attract foreign, especially US, nuclear firms</strong>. The move supports India’s goal to boost nuclear power capacity to 100 GW by 2047 and strengthen trade ties with the US. The changes align with global norms, shifting safety responsibility to plant operators (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br4-12-atomic-bait?source=website" target="_blank">atomic bait</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The Trump administration has launched a plan to expand overseas oil and gas drilling, including potential zones in the Arctic</strong>. The Interior Department opened a 45-day public comment period to shape a five-year leasing program. Existing Gulf auctions will continue, and planning boundaries may expand under the revised initiative (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br5-13-crude-ambitions?source=website" target="_blank">crude ambitions</a>).</p>
+<!--one-sentence-ad--> 
+                    <!-- <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border: 1px solid black;
+              border-radius:10px;
+              padding-left: 14px;
+              padding-top:4px;
+              padding-bottom:4px;
+              margin-bottom: 15px;
+                    "><strong>Love Business & Markets? Stay ahead with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls" target="_blank">Long and Short</a></strong>, a weekly recap of global economic news, straight to your inbox. Smart, sharp, and essential. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls" target="_blank">Sign up here</a>!</p> -->
+
+<!--/ad-one-sentence -->
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/tiangong-ultra-wins-humanoid-robot-half-marathon-beijing.png" alt="Tiangong Ultra crosses the finish line to claim the championship of the world's first humanoid robot half-marathon in Beijing" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Tiangong Ultra crosses the finish line to claim the championship of the world's first humanoid robot half-marathon in Beijing. Credits: VCG
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>China hosted the world’s first humanoid robot half-marathon in Beijing, where over 20 bipedal robots ran a 21-kilometer course</strong> alongside 12,000 human participants. Tiangong Ultra, the robot with the fastest time, needed human assistance as a human ran ahead with a signaling device on his back, enabling the robot to imitate his movements. Though the robots needed battery swaps, experts say the field is heating globally (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br6-14-robot-race-images?source=website" target="_blank">robot race images</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>A study suggests early Earth may have had much more hydrogen than previously believed</strong>, challenging previous assumptions about the origin of water on Earth. Researchers analyzed the rare LAR 12252 meteorite, which is similar to early Earth, and found high levels of intrinsic hydrogen. This supports the theory that Earth may have been "wet" from the start, rather than acquiring water through space collisions (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br7-15-study-details?source=website" target="_blank">study details</a>).</p>
+                  
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Ryan Gosling is set to star in a "Star Wars" movie, titled Star <i>Wars: Starfighter</i></strong>, slated for theatrical release on May 28, 2027. Directed by Shawn Levy, the film takes place five years after <i>The Rise of Skywalker</i> and introduces newer characters in an unexplored part of the galaxy. Written by Jonathan Tropper, the script has been praised by Gosling, a longtime fan, for its adventure and heart. The film marks a fresh chapter in the Star Wars universe, separate from the Skywalker saga and part of Disney's expanding franchise (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br8-16-starry-scoop?source=website" target="_blank">starry scoop</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The NBA Playoffs tipped off Saturday with the Los Angeles Lakers falling 117-95 to the Minnesota Timberwolves in Game 1</strong>, despite a third-quarter surge led by Luka Dončić’s 37-point debut. New York Knicks guard Jalen Brunson overcame an ankle scare to spark a 21-0 fourth-quarter run, helping the Knicks stun the Detroit Pistons 123-112. The Denver Nuggets edged out the Los Angeles Clippers 112-110 in overtime, thanks to a clutch 3-pointer from Christian Braun. Meanwhile, the Indiana Pacers dominated the Milwaukee Bucks 117-98 behind Pascal Siakam’s 25 points, with Milwaukee missing Damian Lillard (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br9-17-nba-playoff?source=website" target="_blank">NBA playoffs</a>).</p>
+                  
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">WrestleMania 41 Sunday highlights (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br10-18-watch-here?source=website" target="_blank">watch here</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">
+India's roads are among the world's deadliest (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br11-19-see-why?source=website" target="_blank">see why</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Your please and thank you’s cost OpenAI a fortune (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br12-20-what-do-you-mean?source=website" target="_blank">how much?</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Astronaut’s awe-inspiring views from space (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-21-04-2025-br13-21-view-images?source=website" target="_blank">view images</a>). 
+            </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 2002, French President Jacques Chirac faced a reelection challenge from far-right candidate Jean-Marie Le Pen but went on to win a second term two weeks later.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.<br/>
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
