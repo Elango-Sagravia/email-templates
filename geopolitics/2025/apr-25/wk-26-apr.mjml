@@ -1,0 +1,478 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Understand the forces shaping the world. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this weekend edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">
+          → Japan’s population hit a record low</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Algerian-French Row</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Indigenous children play in the Solimões River</p>
+          
+          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px"> Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/" target="_blank">Stay informed</a>. </p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇽🇰 War Crimes hearing of Former Kosovo President hits milestone
+</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">The war crimes trial of former Kosovo President Hashim Thaci reached a milestone on April 15, 2025, as prosecutors <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-r1-1-rested-its-case" target="_blank">rested their case</a> after over two years of presenting evidence. Thaci and three co-defendants are accused of leading a “joint criminal enterprise” during and after the ‘98 and ‘99 Kosovo war, which allegedly included the detention of over 400 people and at least 102 killings.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Critics argue the prosecution failed to prove a chain of command or coordinated enterprise. The Kosovo Specialist Chambers, created in 2016 and based in The Hague, continues to face backlash, including from US figures like Richard Grenell, who called Thaci’s detention a “grave injustice.”
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Despite political pressure, legal experts expect the trial to conclude with a verdict by spring 2026. Thaci, a former leader of the Kosovo Liberation Army, has pleaded not guilty, and defense lawyers argue the KLA did not have centralized command structures.
+          </p>
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇯🇵 Japan population continues to falter</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">For the 14th year running, Japan's population decreased to a <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-r2-2-record-low-of-120-million" target="_blank">record low of 120.3 million</a> as of October 2024. The non-foreign population dropped by over 900,000. This ongoing trend is driven by Japan’s low birth percentage and aging population, resulting in a shrinking workforce and fewer consumers. The Japanese government keeps trying to make concessions to encourage young families to start procreating. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          It has also turned to young foreigners as a source of labor, but it retains one of the world’s strictest immigration policies. Foreign workers are allowed to stay only temporarily. Additionally, Japan has a stringent policy on dual citizenship, which limits the ability to offer it to its large diaspora communities in Brazil, the United States, and Canada.
+          </p>
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px; line-height:1.2;">
+          <strong>🇩🇿 Algerian diplomatic row with France</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+          Tensions are once <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-r3-3-back-on-the-rise" target="_blank">again rising</a> between Algeria and France, sparked by the arrest of an Algerian consular official in France, accused of kidnapping activist Amir DZ. In retaliation, Algeria expelled 12 French diplomats. In a recent escalation, France expelled 12 Algerian officials and recalled its ambassador from Algiers, capital of Algeria. This marks the most serious diplomatic fallout between the two countries since Algeria’s independence.
+          </p>
+            <p style="font-size: 16px; line-height: 1.5"> 
+           Amir DZ, a prominent government critic with over a million TikTok followers, was granted asylum in France after being abducted in Paris last year. The incident occurred just days after both nations had shown signs of reconciliation. With tensions rooted in a complex colonial past, the current crisis risks undermining recent diplomatic progress.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+           
+
+   <mj-spacer height="10px" />
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.geopoliticalsummary.com/gs-26-apr-2025-p-ad-bh" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #8C3321; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-bh.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Uncover the deals that reshaped the game,<br/>
+          Big moves and risks that earned their fame.
+          </p>
+          <p style="font-size: 16px; line-height: 24px">
+           From bold achievements to failures laid bare,<br/>
+           We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Step ahead with insights that sharpen your view,<br/>
+          Join us for stories that give you a clue.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;">Join Business History</a></p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+    <!-- /primary ad -->
+
+   <mj-spacer height="10px" />
+   
+
+    <!-- the big quesstion -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">The big question</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">
+          What is China’s Polar Silk Road?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px; line-height:1.5;">The Polar Silk Road project started in 2018 as part of China's larger Belt and Road Initiative (BRI). It focuses on <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-bq1-5-developing-arctic-shipping-routes" target="_blank">developing Arctic shipping routes</a> that connect to different economic areas. China has utilized its ties with Russia and the melting ice to create these shipping routes. </p>
+          <p style="font-size:16px; line-height:1.5;">The Northern Sea Route along Russia’s northern coast is the most important, as it significantly reduces shipping times between Asia and Europe compared to traditional Suez Canal routes. While the project promotes cooperation, the Polar Silk Road raises concerns among Arctic states.</p>
+           <p style="font-size:16px; line-height:1.5;">Low profitability and resistance from these states often hinder Chinese capital allocation. Even with only a minor presence and viewing the Arctic as a long-term strategic plan, China’s actions can pose security risks, particularly in terms of intelligence gathering.</p>
+            <p style="font-size:16px; line-height:1.5;">The United States is concerned about <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-bq1-6-chinas-growing-influence" target="_blank">China’s growing influence</a> in the Arctic, calling for closer monitoring and stronger alliances to ensure regional governance is safeguarded. The US has even used the issue as a pretext for considering the acquisition of Greenland.</p>
+             <p style="font-size:16px; line-height:1.5;">Norway has joined the US in <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-bq1-7-expressing-skepticism" target="_blank">expressing skepticism</a> over China’s Arctic involvement. Last year, Norway blocked the sale of the last available piece of land in Svalbard to Chinese investors. Although Svalbard is under Norwegian jurisdiction and open to all visitors, it strictly prohibits military activity. Norwegian Prime Minister Jonas Gahr Støre warned against being naive about China’s cooperation with Russia in both the Arctic and Ukraine.</p>
+             <p style="font-size:16px; line-height:1.5;"><i>China’s full arctic <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-bq1-8-policy" target="_blank">policy</a>.</i></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- secondary ad  --> 
+
+    <!-- <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-8-mar-2025-s-ad-gs" target="_blank" style="color:black">
+    </mj-raw>
+          <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Long and Short</i>
+              </p>
+            </mj-text>  
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Markets in minutes</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">Warren Buffet said, <strong>"Risk comes from not knowing what you're doing."</strong> The best way to manage risk? Stay informed.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+              </p>
+              
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+                  <li><strong>Unbiased</strong></li>
+                  <li><strong>Fact-checked</strong></li>
+                  <li><strong>5-minute read</strong> (no fluff, no noise)</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Join Long and Short</a></p>
+                </mj-text>
+            </mj-column>
+          </mj-section>
+    <mj-raw>
+        </a>
+    </mj-raw> -->
+
+<!-- /secondary ad -->
+
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">On this day</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- On this day -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+          On this day in 1775, the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-otd1-9-american-revolution" target="_blank">American Revolution</a> began. It started with the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-19-04-2025-otd1-10-battles-of-lexington-and-concord" target="_blank">battles of Lexington and Concord</a>, initially a skirmish between British regulars and American provincials, marking the opening of the American Revolution. The 13 British colonies, with help from France, Spain, and the Netherlands, eventually gained their independence. By issuing the Declaration of Independence, which was adopted by the Continental Congress, the 13 American colonies severed their political connections to Great Britain.
+            </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400; 
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/indigenous-children-solimoes-river-alvaraes-intercultural-games-marajai-amazonas.png" alt="Indigenous children play in the Solimões River during the Alvarães Indigenous Intercultural Games and Dances in the village of Marajaí, Amazonas state" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i> 
+          Indigenous children play in the Solimões River during the Alvarães Indigenous Intercultural Games and Dances in the village of Marajaí, Amazonas state. Credits: AFP/Getty Images
+          </i>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Guess the flag</h2>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border-radius="10px" border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/guess-the-flag-slovenia.png" alt="Guess the flag" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section --> 
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-19-04-2025-gtf" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+             
+              ">Slovenia</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-19-04-2025-gtf" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+             border-radius:10px;
+          
+              ">Russia
+</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-19-04-2025-gtf" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;                                    background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+           
+              ">Serbia
+</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-19-04-2025-gtf" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+              
+              ">Slovakia
+</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+          Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
