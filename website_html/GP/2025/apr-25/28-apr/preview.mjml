@@ -1,0 +1,87 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            "><strong>In this edition:</strong> </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ India-Pakistan water wars</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ South Korean opposition picks candidate </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ What happened in Armenia’s genocide?</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+              
+              
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="font-size:24px;line-height:1.2;font-weight:500; margin-top:2px !important">
+          Trump critical of Putin’s motives
+</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/zelenskiy_trump_meet_vatican_funeral_pope_francis.png" alt="Ukraine's President Volodymyr Zelenskiy and US President Donald Trump meet while they attend the funeral of Pope Francis at the Vatican" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Ukraine's President Volodymyr Zelenskiy and US President Donald Trump meet while they attend the funeral of Pope Francis at the Vatican. Credits: Ukrainian Presidential Press Service/Handout via REUTERS </i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+           Trump is <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-28-04-2025-h1-1-further-questioning?source=website" target="_blank">further questioning</a> Putin's desire for peace. This came after he met with President Zelensky at the Vatican, their first face-to-face meeting since the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-28-04-2025-h1-2-oval-office-clash?source=website" target="_blank">Oval Office clash</a> in February. During their brief 15-minute talk, Zelensky thanked Trump for the "good meeting." He hopes for a lasting ceasefire and peace to prevent more conflict.</p>
+          <p style="font-size:16px;line-height:1.5;filter:blur(5px);">
+          In a Truth Social post sent as he returned from Rome, Trump raised doubts about Putin’s intentions. He cited the ongoing Russian missile strikes on Ukrainian cities and civilian areas. Meanwhile, Zelensky stresses the need for a complete and unconditional ceasefire. He said he would negotiate if Russia demonstrates a genuine willingness to end the war.</p>
+        
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
