@@ -1,0 +1,560 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw> 
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Eurovision allows Palestinian flags</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ China’s panda bond rush</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Titanic letter sold for nearly $400,000</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+    
+    <!-- breaking news-->
+   
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Congress passes a bipartisan bill</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/bill-passing-revenge-porn-criminalization-house-vote-republican-opposition.png" alt="Bill criminalizing revenge porn was passed by The House, despite being opposed by two Republican representatives" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          Bill criminalizing "revenge porn" was passed by The House, despite being opposed by two Republican representatives. Credits: Newsweek
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          After passing the House with firm support, a bipartisan bill called the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h1-1-take-it-down-act" target="_blank">Take It Down Act</a> is headed to Trump’s desk. Republican Ted Cruz and Democrat Amy Klobuchar <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h1-2-introduced-this-legislation" target="_blank">introduced this legislation</a>, which passed the House with over 400 votes.<p>
+          <p style="font-size: 16px; line-height: 1.5">
+       The purpose of the bill is to tackle “revenge porn” and non-consensual deepfakes by making it illegal to publish intimate images whether real or computer-generated without consent. Offenders may face fines, imprisonment, or both. It will also require online platforms to have a way for victims to ask for content withdrawal within 48 hours.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Melania Trump, who also heavily backed the bill, praised it as crucial in protecting children's privacy and dignity. She connected it to her earlier <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h1-3-be-best-initiative" target="_blank">Be Best initiative</a>, which focused on child welfare, online safety, and opioid abuse. Cruz called the bill a big victory for young women and girls.</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" /> 
+<!-- primary ad --> 
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+          <mj-raw> 
+            <a href="https://link.presidentialsummary.com/ps-2-may-2025-p-ad-A15" target="_blank" style="color:black">
+        </mj-raw>
+            <mj-column>
+            <mj-spacer height="14px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2">
+                  <i>In partnership with Upscale Media</i>
+              </p>
+            </mj-text>
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                color: #4D3060; 
+                  text-align: left;
+                  letter-spacing:1px;
+                  border-bottom:2px solid #4D3060;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Glow & strength with marine collagen</h2>
+                  </mj-text>
+                  <mj-spacer height="12px"/>
+              <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/2-may-2025-A15.png" alt="Ad-A15"/>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px">
+                Glow from within, strong and bright,<br/>
+                Marine collagen keeps skin just right.</p>
+                <p style="font-size: 16px; line-height: 24px">
+                Hydrate, restore, joints stay strong,<br/>
+                Two fresh flavors to take along.</p>
+                <p style="font-size: 16px; line-height: 24px">
+                Easy to mix, sip with ease,<br/>
+                Beauty and strength, made to please!</p>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px">
+                <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Available in refreshing flavors</a></p>
+                </mj-text>
+                <mj-spacer height="10px" />
+            </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+      </mj-section>
+<!-- primary ad -->
+
+    <mj-spacer height="10px" />
+
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-spacer height="20px" />
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 Mineral agreement signed
+            </h2>
+            </mj-text>
+            <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/us-ukraine-minerals-deal-2025-preferential-access-natural-resources.png" alt="The US and Ukraine have signed a long-awaited minerals deal, providing Washington with preferential access to Kyiv’s natural resources" href="https://www.presidentialsummary.com" />
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+              <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+              The US and Ukraine have signed a long-awaited minerals agreement, providing Washington with a preferential gateway to Kyiv’s natural resources. Credits: NYT</i></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+              It’s finally here. The United States and Ukraine have <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h2-4-signed-a-long-awaited" target="_blank">signed a long-awaited</a> agreement to establish the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h2-5-united-states-ukraine-reconstruction-investment-fund" target="_blank">United States-Ukraine Reconstruction Investment Fund</a>. This agreement grants the US a preferential gateway to Ukraine’s valuable natural resources, including rare earth minerals, natural gas, and oil. It creates a jointly governed fund, funded by 50% of Ukraine’s licensing revenues and US aid, excluding past support.</p>
+              
+              <p style="font-size: 16px; line-height: 1.5">
+              Revenue and control will be shared equally, and Ukraine will fully own its resources without repaying previous assistance. Earlier drafts of the agreement required repayment, which could have harmed Ukraine’s EU goals. While security guarantees that President Zelenskyy wanted are not included, the agreement does mention strategic alignment and long-term cooperation.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+              It will last for 10 years and signals US support for Ukraine’s sovereignty and recovery during the ongoing war. Officials say the fund will attract global investment and strengthen Ukraine’s economy and security through equal partnership.</p>
+            </mj-text>
+            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          </mj-column>
+        </mj-section>
+        <!-- Content sections -->
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">Palestinian flags allowed at Eurovision
+    </h2>
+            </mj-text>
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Eurovision has relaxed its strict flag policy among its audience but imposes more stringent rules on artists.</strong></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+              The European Broadcasting Union (EBU) has updated <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h3-6-eurovision-s-flag-policy" target="_blank">Eurovision's flag policy</a>. The policy allows the audience to wave Palestinian flags, but stricter rules apply to performers. While spectators can display any flag that is authorized in Switzerland, artists may show their country's official flag in designated areas. This change effectively bans flags such as the Pride, Palestinian, and EU flags.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+              The EBU says it is trying to balance personal expression with visual clarity and neutrality. LGBTQ+ advocacy groups criticized the policy and called it exclusionary and harmful to Eurovision's inclusive legacy. The contest, once seen as apolitical, faces political tensions, especially with ongoing criticism of Israel’s participation during its war in Gaza. </p>
+              <p style="font-size: 16px; line-height: 1.5">
+              Some find it hypocritical that Russia and Belarus <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-spotlight-h3-7-were-removed" target="_blank">were removed</a> from the song contest, but Israel wasn’t given the same repercussion. Critics say these rules hurt Eurovision’s spirit of diversity and expression. Organizers struggle with neutrality in a contest often influenced by global events. 
+              </p>
+             
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The UK and US launched joint airstrikes on Houthi targets in Yemen, marking the first public operation under the Trump administration</strong>. British Typhoon jets hit drone-manufacturing sites near Sanaa with precision bombs, aiming to reduce civilian risk and curb attacks on international ships in the Red Sea. The US has carried out over 800 airstrikes under “Operation Rough Rider,” but the Houthis remain active (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-ga-br1-1-8-joint-attack" target="_blank">joint attack</a>).</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>​China has lifted sanctions on five EU lawmakers, clearing a key obstacle to restarting trade talks with the bloc</strong>. The sanctions were imposed in 2021 after the EU and allies condemned China’s treatment of Uyghurs, prompting the European Parliament to freeze official dialogue. This move comes as Trump’s recent tariff hikes push China and the EU into closer dialogue despite their profound political differences (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-ga-br2-1-9-second-chances" target="_blank">second chances</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    
+    <!-- secondary ad  -->
+
+        <!-- <mj-raw>
+      <a href="https://link.presidentialsummary.com/ps-21-mar-2025-s-ad-gs" style="color:black">
+    </mj-raw>
+    
+    <mj-section background-color="#ffffff" css-class="mj_fsection" >
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px" >
+      <mj-spacer height="12px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Geopolitical Summary</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-left: 5px;
+          color:#4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">The “why” behind events</h2>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+            <li><strong>26 EU leaders reaffirmed their support for Ukraine</strong>, while Zelenskyy stressed the need for artillery funding.</li>
+            <li><strong>Venezuelan President Nicolas Maduro condemned the deportations of 238 people</strong>, calling it a "kidnapping."</li>
+            <li><strong>How are the USA and China vying for Africa’s rare earth minerals?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+        <strong>Every successful company has a turning point</strong>, a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.
+        </p>
+         <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+        <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+        </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed,
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">join Geopolitical Summary</p>
+          </mj-text> 
+      </mj-column> 
+    
+    </mj-section> 
+    
+      <mj-raw>
+       </a>
+      </mj-raw> -->
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Tether, the issuer behind the nearly $150B USDT stablecoin, has finalized its acquisition of a 70% stake in Adecoagro, a major Latin American agricultural firm</strong>, to expand its reach beyond crypto. The move gives Tether control over food, bioenergy, and renewable assets in Brazil, Argentina, and Uruguay. Adecoagro’s board was reshuffled after the agreement, and its stock rose 2.6% (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-b&m-br3-1-11-crypto-crops" target="_blank">crypto crops</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Foreign companies rush into China’s panda bond market to lock in lower borrowing expenses and hedge against rising US-China tensions</strong>. In 2024, panda bond trade hit a record $26.5B, with companies like Mercedes-Benz and HSBC borrowing Chinese currency to fund local operations and reduce risk. China's low interest and easier rules on moving funds overseas have made this borrowing more appealing (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-b&m-br4-1-12-panda-gains" target="_blank">panda gains</a>). </p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The US economy shrank 0.3% in early 2025, the first drop in three years</strong>, as Trump’s trade wars led to a rush of imports and weaker consumer spending. Inflation picked up, putting the Federal Reserve in a tough spot between fighting rising expenses and supporting growth. Job growth also slowed in April. Economists warn that Trump’s unpredictable tariffs are raising the risk of a recession (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-b&m-br5-1-13-tariff-woes" target="_blank">tariff woes</a>).</p>
+<!--one-sentence-ad--> 
+                    <!-- <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border: 1px solid black;
+              border-radius:10px;
+              padding-left: 14px;
+              padding-top:4px;
+              padding-bottom:4px;
+              margin-bottom: 15px;
+                    "><strong>Love Business & Markets? Stay ahead with <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls" target="_blank">Long and Short</a></strong>, a weekly recap of global economic news, straight to your inbox. Smart, sharp, and essential. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-17-apr-2025-one-sentence-ad-ls" target="_blank">Sign up here</a>!</p> -->
+
+<!--/ad-one-sentence -->
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/shenzhou-19-return-capsule-landing-taikonauts-dongfeng-north-china.png" alt="The return capsule of the Shenzhou-19 crewed spacecraft, carrying taikonauts Cai Xuzhe, Song Lingdong, and Wang Haoze, touched down at the Dongfeng landing site in North China" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>The return capsule of the Shenzhou-19 crewed spacecraft, carrying taikonauts Cai Xuzhe, Song Lingdong, and Wang Haoze, touched down at the Dongfeng landing site in North China. Credits: Xinhua
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Three Chinese astronauts from the Shenzhou-19 mission safely returned to Earth after six months aboard the Tiangong space station</strong>, where they conducted experiments and completed a record-setting spacewalk. Their replacements, the all-male Shenzhou-20 crew, launched last week amid a grand send-off and have taken over operations. The newer crew will conduct scientific research and test defenses against space debris during their mission (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-s&t-br6-1-14-homecoming" target="_blank">homecoming</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>World, the biometric ID company known for its eyeball-scanning Orbs, announced partnerships to expand its reach</strong>. It's teaming up with Tinder in Japan for identity verification and working with Kalshi, Morpho, and Stripe to let users sign in or pay using their World ID. The company also unveiled The World Card, a crypto-linked Visa that automatically converts digital assets into fiat for everyday spending (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-s&t-br7-1-15-more-on-world" target="_blank">more on World</a>).</p>
+                  
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Chelsea bagged their sixth straight Women’s Super League title with a 1-0 triumph over Manchester United, thanks to a late goal from Lucy Bronze</strong>. The victory keeps them unbeaten this season and in the running for a domestic treble, having already bagged the League Cup. Arsenal’s surprising 5-2 loss to Aston Villa helped Chelsea secure the title with two games left (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-s&c-br8-1-16-game-highlights" target="_blank">game highlights</a>). 
+</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Martin Scorsese is producing a documentary, Aldeas — A New Story, featuring the late Pope Francis’ final on-camera interview</strong>. The film will include behind-the-scenes footage and conversations between Scorsese and Francis. It follows a global cinema program that helps global communities create short films, aligning with Francis’ vision of creativity as a tool for unity and hope (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-s&c-br9-1-17-papal-film" target="_blank">papal film</a>). </p>
+                  
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">April’s best science images (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-whatnot-br10-1-18-see-images" target="_blank">see images</a>).
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Japan halts train after snake spotted on tracks (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-whatnot-br11-1-19-read-story" target="_blank">read story</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A Titanic letter sold for nearly $400,000 at auction (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-whatnot-br12-1-20-pricey-messages" target="_blank">pricey messages</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Tate Modern marks 25 years with 25 iconic and unforgettable moments (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-1-may-25-lss-whatnot-br13-1-21-arty-party" target="_blank">arty party</a>).
+</p>
+            
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 2004, the European Union expanded to include Cyprus, the Czech Republic, Estonia, Hungary, Latvia, Lithuania, Malta, Poland, Slovakia, and Slovenia.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            
+            <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.<br/>
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
