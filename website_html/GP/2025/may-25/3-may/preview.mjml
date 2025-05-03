@@ -1,0 +1,83 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">
+          → Germany forms the government</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Apple’s great Indian move</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Stalin nostalgia</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇩🇪 Friedrich Merz forms the government</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Germany’s next coalition government is set <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-recap-h1-1-to-take-power?source=website" target="_blank">to take power</a>. The Social Democrats (SPD) have approved an agreement to join forces with the conservatives CDU/CSU, enabling conservative leader Friedrich Merz to become chancellor. Despite finishing third in February’s election with its worst postwar result, the SPD secured key ministries in exchange for supporting the CDU/CSU majority without involving the far-right AfD. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            SPD members overwhelmingly backed the coalition, with 84.6% voting in favor. SPD co-leader Lars Klingbeil will become vice-chancellor and finance minister, though critics question his experience. Merz’s cabinet includes pro-Ukraine and anti-immigration figures. The coalition agreement is expected to be signed on Monday, and Merz will be formally elected Chancellor on Tuesday.
+          </p>
+          
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇲🇱 Coup leader gains backing to be president </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Mali's military leader, Gen Assimi Goïta, has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-recap-h2-2-gained-support?source=website" target="_blank">gained support</a> from key allies to stay president until 2030, cementing military rule in the country. Goïta had promised elections after his 2021 coup but has since postponed the shift to democracy. A recent national conference, which major opposition groups boycotted, suggested suspending elections and possibly dissolving political parties.
+          </p>
+          
+         
+          </mj-text>
+          </mj-column>
+          </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

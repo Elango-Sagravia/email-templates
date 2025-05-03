@@ -1,0 +1,468 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <mj-section background-color="#ffffff"> 
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">Did you know that the King of the UK receives daily updates on government affairs through a red dispatch box every morning?</p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5;  padding-left: 10px">
+          → Germany forms the government</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Apple’s great Indian move</p>
+
+          <p style="font-size: 16px; line-height: 1.5; padding-left: 10px">
+          → Stalin nostalgia</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column> 
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THIS WEEK IN GEOPOLITICS -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px; line-height:1.2;">
+          <strong>🇩🇪 Friedrich Merz forms the government</strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Germany’s next coalition government is set <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-recap-h1-1-to-take-power?source=website" target="_blank">to take power</a>. The Social Democrats (SPD) have approved an agreement to join forces with the conservatives CDU/CSU, enabling conservative leader Friedrich Merz to become chancellor. Despite finishing third in February’s election with its worst postwar result, the SPD secured key ministries in exchange for supporting the CDU/CSU majority without involving the far-right AfD. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            SPD members overwhelmingly backed the coalition, with 84.6% voting in favor. SPD co-leader Lars Klingbeil will become vice-chancellor and finance minister, though critics question his experience. Merz’s cabinet includes pro-Ukraine and anti-immigration figures. The coalition agreement is expected to be signed on Monday, and Merz will be formally elected Chancellor on Tuesday.
+          </p>
+          
+          </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size:18px;line-height:1.2;">
+          <strong>🇲🇱 Coup leader gains backing to be president </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Mali's military leader, Gen Assimi Goïta, has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-recap-h2-2-gained-support?source=website" target="_blank">gained support</a> from key allies to stay president until 2030, cementing military rule in the country. Goïta had promised elections after his 2021 coup but has since postponed the shift to democracy. A recent national conference, which major opposition groups boycotted, suggested suspending elections and possibly dissolving political parties.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The junta leader said he stuck to his original plan because of fears about jihadist violence.. Mali’s geopolitical direction aligns with others military leaders in Burkina Faso and Niger, forming ther Sahel states. They collectively reject ECOWAS and French influence in favor of Russian influence. 
+          </p>
+         
+          </mj-text>
+
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:18px; line-height:1.2;">
+          <strong>🇮🇳 Apple aims to source all US iPhones from India </strong> 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+            Apple is planning to <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-recap-h3-3-move-the-assembly?source=website" target="_blank">move the assembly</a> of iPhones for the US market to India by 2026. This shift aims to reduce reliance on China amid the Trump administration’s trade war and potential tariffs. Around 90% of iPhones are manufactured in China. Trump's tariff wars and rising geopolitical concerns are causing this shift.
+          </p>
+            <p style="font-size: 16px; line-height: 1.5"> 
+          Apple is increasing production in India by working with suppliers such as Foxconn and Tata. Recently, Tata shipped $2B worth of iPhones to the US. Experts say that even with pressure to bring manufacturing to the US, it’s not practical. High expenses and labor issues make it difficult. An iPhone made in America could raise the retail value to over $3,000. Thus, India remains the better choice for Apple’s future production plans.
+          </p>
+          </mj-text>
+          </mj-column>
+          </mj-section>
+
+           
+
+   <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.geopoliticalsummary.com/gs-3-may-2025-p-ad-bh?source=website" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>   
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px; 
+          color: #8C3321; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+                
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Uncover the deals that reshaped the game,<br/>
+          Big moves and risks that earned their fame.
+          </p>
+          <p style="font-size: 16px; line-height: 24px">
+           From bold achievements to failures laid bare,<br/>
+           We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Step ahead with insights that sharpen your view,<br/>
+          Join us for stories that give you a clue.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;">Join Business History</a></p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+   <mj-spacer height="10px" />
+   
+
+    <!-- the big quesstion -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">The big question</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">Why does China have cable cutters?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px; line-height:1.5;">
+          A few weeks ago, it was reported that China had developed a compact <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-tbq-h1-4-deep-sea-cable-cutting-device?source=website" target="_blank">deep-sea cable-cutting device</a> capable of severing communication lines. It can cut fortified cables at depths of 4,000 meters and was described as a development that could reset the global structure. However, reports indicate that China's undersea cable cutter is <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-tbq-h1-5-more-of-a-political-theatre?source=website" target="_blank">more of a political theatre</a> than a breakthrough.</p>
+          <p style="font-size:16px; line-height:1.5;">
+          Experts say the technology isn’t very advanced. Many ships already have tools to sever cables. They say that below 1,500 metres, cables aren't armoured, negating the need for a super-powered cutter. However, the cutter fits into China's “grey zone” tactics to pressure Taiwan and deter Western powers. </p>
+          <p style="font-size:16px; line-height:1.5;">
+          The cutter helps China present a narrative that the West is failing in its infrastructure. China showcases itself as an alternative with its high-tech cable-laying vessels and capacity to keep infrastructure safe. </p>
+          <p style="font-size:16px; line-height:1.5;">
+          Analysts warn that long-term threats, such as seabed mining, carry greater risks to undersea cable networks, especially near the Pacific Islands. With no clear accountability, these mining operations could accidentally damage infrastructure or hide sabotage.</p>
+          <p style="font-size:16px; line-height:1.5;">
+          While the cutter garners more attention, China’s increasing control over undersea infrastructure through construction, repair, and gateway to remote seabeds is likely to have a larger role in reshaping global communications and geopolitics.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- secondary ad  --> 
+
+    <!-- <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-8-mar-2025-s-ad-gs" target="_blank" style="color:black">
+    </mj-raw>
+          <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Long and Short</i>
+              </p>
+            </mj-text>  
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Markets in minutes</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">Warren Buffet said, <strong>"Risk comes from not knowing what you're doing."</strong> The best way to manage risk? Stay informed.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+              </p>
+              
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+                  <li><strong>Unbiased</strong></li>
+                  <li><strong>Fact-checked</strong></li>
+                  <li><strong>5-minute read</strong> (no fluff, no noise)</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Join Long and Short</a></p>
+                </mj-text>
+            </mj-column>
+          </mj-section>
+    <mj-raw>
+        </a>
+    </mj-raw> -->
+
+<!-- /secondary ad -->
+
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">On this day</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+
+    <!-- On this day -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+      <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+          On this day in 1979, <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-3-may-25-otd-6-margaret-thatcher?source=website" target="_blank">Margaret Thatcher</a>, a representative of the Conservative Party, was elected as the Prime Minister of the United Kingdom. She made history by becoming the first woman in Europe to hold the position and later became the longest-serving British PM since 1827. Her supporters remember her as the “Iron Lady” who saw the end of the Cold War and transformed the economy. Her opposers see her as a figure who raised inequalities among socioeconomic lines. Thatcher left a polarizing legacy, affecting the UK and the rest of the world.
+            </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400; 
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/russian-communist-party-stalin-portrait-may-day-moscow
+.png" alt="Members and supporters of the Russian Communist Party carry a portrait of Joseph Stalin during May Day celebrations near the Karl Marx monument in Moscow, Russia" href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Members and supporters of the Russian Communist Party carry a portrait of Joseph Stalin during May Day celebrations near the Karl Marx monument in Moscow, Russia. Credits: Sergei Ilnitsky/EPA
+          </i>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Guess the flag</h2>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border-radius="10px" border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/guess-the-flag-angola.png" alt="Guess the flag" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section --> 
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor?source=website" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+             
+              ">East Timor </a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor?source=website" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+             border-radius:10px;
+          
+              ">Papua New Guinea </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor?source=website" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;                                    background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+           
+              ">Angola</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor?source=website" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+              
+              ">Mozambique</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <!-- This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</br> -->
+            <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            ">
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
