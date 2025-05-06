@@ -5,11 +5,6 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3">
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">plus US withdrawal from Europe</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
     <mj-section background-color="#ffffff">
@@ -17,7 +12,6 @@
       <mj-column padding="10px 12px" width="100%">
         <mj-spacer height="16px" />
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
-        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
           <p style="
@@ -30,7 +24,7 @@
               line-height: 1.5;
             "><strong>In this edition:</strong></p>
         </mj-text> 
-        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 0px 18px" style=" width:100%;">
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
             <tr>
               <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
               <td style="font-size:16px;line-height:1.6;">Future of US bases in Europe</td>
@@ -46,14 +40,6 @@
               Do movies have geopolitical implications?</td>
             </tr>
         </mj-table>
-        <mj-text  padding="10px 2px" font-family="Roboto+Serif" color="#000000">
-        <p style="
-              font-size: 16px;
-              line-height: 1.5;
-              margin-bottom: 0px;
-              margin-top:10px;
-            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopolitics.world/" target="_blank"> Stay informed</a>.</p>
-        </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
     </mj-section>
@@ -92,11 +78,11 @@
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size:16px;line-height:1.5;">
-           PM Benjamin Netanyahu said the security cabinet had decided on a "<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h1-1-forceful-operation" target="_blank">forceful operation</a>" to destroy Hamas. The aim is to "conquer" the territory and sustain a presence. Israeli forces will advance deeper into Gaza, pushing civilians south while strengthening control over key areas. The plan aims to limit UN-led aid and replace it with Israeli-run hubs.</p>
+           PM Benjamin Netanyahu said the security cabinet had decided on a "<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h1-1-forceful-operation?source=website" target="_blank">forceful operation</a>" to destroy Hamas. The aim is to "conquer" the territory and sustain a presence. Israeli forces will advance deeper into Gaza, pushing civilians south while strengthening control over key areas. The plan aims to limit UN-led aid and replace it with Israeli-run hubs.</p>
           <p style="font-size:16px;line-height:1.5;">
          Netanyahu continues to promote Donald Trump’s proposal of the ethnic cleansing of Gaza. Humanitarian organizations have condemned the restrictions on aid distribution hubs, and Hamas has described the move as “political blackmail.” The Israeli government faces pressure from far-right coalition partners to reoccupy Gaza, but a significant faction of Israeli society is jaded by the war and actively protesting this. </p>
           <p style="font-size:16px;line-height:1.5;">
-          Meanwhile, Hamas also has internal friction. They recently set a curfew and are <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h1-2-executing-people" target="_blank">executing people</a> for allegedly looting. Many Gazans are in a dire situation and find Hamas counterproductive in getting Israel to halt strikes. Trump’s visit to the Middle East could impact ceasefire talks and humanitarian aid.
+          Meanwhile, Hamas also has internal friction. They recently set a curfew and are <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h1-2-executing-people?source=website" target="_blank">executing people</a> for allegedly looting. Many Gazans are in a dire situation and find Hamas counterproductive in getting Israel to halt strikes. Trump’s visit to the Middle East could impact ceasefire talks and humanitarian aid.
          </p>
         
         </mj-text>
@@ -106,7 +92,7 @@
 <!-- primary ad --> 
     <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
           <mj-raw> 
-            <a href="https://link.geopoliticalsummary.com/gs-6-may-2025-p-ad-A17" target="_blank" style="color:black">
+            <a href="https://link.geopoliticalsummary.com/gs-6-may-2025-p-ad-A17?source=website" target="_blank" style="color:black">
         </mj-raw>
             <mj-column>
             <mj-spacer height="14px"/>
@@ -166,11 +152,11 @@
          <strong>Summary: The far-right AfD party has filed a lawsuit against its intelligence agency over an “extremist” label. </strong>
          </p>
           <p style="font-size:16px;line-height:1.5;">
-          The Alternative for Germany (AfD) party <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h2-3-is-suing" target="_blank">is suing</a> Germany's domestic intelligence agency (BfV). The agency labeled the party a "right-wing extremist" group, which could lead to more surveillance and political isolation, affecting the party's image before the upcoming elections. The agency's report classified the party as a racist and anti-Muslim organisation.</p>
+          The Alternative for Germany (AfD) party <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h2-3-is-suing?source=website" target="_blank">is suing</a> Germany's domestic intelligence agency (BfV). The agency labeled the party a "right-wing extremist" group, which could lead to more surveillance and political isolation, affecting the party's image before the upcoming elections. The agency's report classified the party as a racist and anti-Muslim organisation.</p>
           <p style="font-size:16px;line-height:1.5;">
           The move means the ruling coalition could limit or halt public funding for the AfD. The opposition party questioned the intelligence agencies' power to label political groups. While German lawmakers want to ban the AfD, the constitution court guidelines say a party must exhibit a "combative and aggressive" nature to implement a ban, which the party has stayed clear of.</p>
           <p style="font-size:16px;line-height:1.5;">
-          Meanwhile, Germany’s center-left party (SPD) has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h2-4-confirmed-its-ministers" target="_blank">confirmed its ministers</a> for the coalition government led by Chancellor-designate Friedrich Merz. Some of the key appointments are:</p>
+          Meanwhile, Germany’s center-left party (SPD) has <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-spotlight-h2-4-confirmed-its-ministers?source=website" target="_blank">confirmed its ministers</a> for the coalition government led by Chancellor-designate Friedrich Merz. Some of the key appointments are:</p>
           <ul style="font-size:16px;line-height:1.5; padding-left:20px;">
           <li>Lars Klingbeil as FM and Vice Chancellor</li>
           <li>Boris Pistorius, who keeps the Defense Ministry</li>
@@ -216,10 +202,10 @@
          <strong>Summary: Trump’s second term has sparked speculation about the US withdrawing from its European military bases.</strong>
          </p>
           <p style="font-size:16px;line-height:1.5;">
-           What is the future of transatlanticism? Trump's second term brought <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-analysis-h1-5-renewed-speculation" target="_blank">renewed speculation</a> about a potential US troop withdrawal from Germany. Experts and local officials say such a move is unlikely in the near future. Around 37,000 American troops remain stationed in Germany, primarily at Ramstein Air Base and other installations in Rhineland-Palatinate.
+           What is the future of transatlanticism? Trump's second term brought <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-analysis-h1-5-renewed-speculation?source=website" target="_blank">renewed speculation</a> about a potential US troop withdrawal from Germany. Experts and local officials say such a move is unlikely in the near future. Around 37,000 American troops remain stationed in Germany, primarily at Ramstein Air Base and other installations in Rhineland-Palatinate.
           </p>
           <p style="font-size:16px;line-height:1.5;">
-          In a recent interview with the Center for European Policy Analysis, retired General Wesley  Clark <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-analysis-h1-6-stressed-the-importance" target="_blank">stressed the importance</a> of the US military presence in Europe. He believes it is crucial for global security and deterrence. He warns that Eastern Europe is a geopolitical tinderbox under Russian pressure.</p>
+          In a recent interview with the Center for European Policy Analysis, retired General Wesley  Clark <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-analysis-h1-6-stressed-the-importance?source=website" target="_blank">stressed the importance</a> of the US military presence in Europe. He believes it is crucial for global security and deterrence. He warns that Eastern Europe is a geopolitical tinderbox under Russian pressure.</p>
           <p style="font-size:16px;line-height:1.5;">
           Any US withdrawal could signal weakness to both Moscow and Beijing. He pointed out that bases like Ramstein, Rota, and Lakenheath help project US power and support Ukraine’s defense. Forward deployments in NATO’s eastern flank are not just symbolic. They provide training, deterrence, and quick response capabilities.</p>
           <p style="font-size:16px;line-height:1.5;">
@@ -256,20 +242,20 @@
       <mj-spacer height="10px"/>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size:16px;line-height:1.5;">
-           <strong>🇺🇦 Ukraine - Zelenskyy warns foreign delegations.</strong> Zelenskyy warned that Ukraine cannot assure the safety of foreign delegations visiting Moscow for the May 9 Victory Day Parade. He expressed concerns that Russia could stage provocations, such as bombings, and blame Ukraine. Russian officials criticized his statement (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h1-7-strong-warning" target="_blank">strong warning</a>).
+           <strong>🇺🇦 Ukraine - Zelenskyy warns foreign delegations.</strong> Zelenskyy warned that Ukraine cannot assure the safety of foreign delegations visiting Moscow for the May 9 Victory Day Parade. He expressed concerns that Russia could stage provocations, such as bombings, and blame Ukraine. Russian officials criticized his statement (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h1-7-strong-warning?source=website" target="_blank">strong warning</a>).
           </p>
           <p style="font-size:16px;line-height:1.5;">
-           <strong>🇬🇦 Gabon - President sworn in.</strong> Brice Oligui Nguema was sworn in as president, pledging democratic renewal after leading a 2023 coup. He vowed to unite the nation, reduce youth unemployment, and diversify the oil-dependent economy. His inauguration follows a landslide election victory and marks a return to the constitutional ways (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h2-8-revival-of-democracy" target="_blank">revival of democracy</a>). 
+           <strong>🇬🇦 Gabon - President sworn in.</strong> Brice Oligui Nguema was sworn in as president, pledging democratic renewal after leading a 2023 coup. He vowed to unite the nation, reduce youth unemployment, and diversify the oil-dependent economy. His inauguration follows a landslide election victory and marks a return to the constitutional ways (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h2-8-revival-of-democracy?source=website" target="_blank">revival of democracy</a>). 
           </p>
           <p style="font-size:16px;line-height:1.5;">
-           <strong>🇷🇼 Rwanda - Talks with the US.</strong> Rwanda is discussing accepting deported migrants from the US. The discussions follow US efforts to establish international partnerships for deporting foreign nationals amid crackdowns on visa holders and criminal suspects. Rwanda has previously offered to house deported criminals and failed asylum seekers for Western nations (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h3-9-early-discussions" target="_blank">early discussions</a>). 
+           <strong>🇷🇼 Rwanda - Talks with the US.</strong> Rwanda is discussing accepting deported migrants from the US. The discussions follow US efforts to establish international partnerships for deporting foreign nationals amid crackdowns on visa holders and criminal suspects. Rwanda has previously offered to house deported criminals and failed asylum seekers for Western nations (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h3-9-early-discussions?source=website" target="_blank">early discussions</a>). 
           </p>
           <p style="font-size:16px;line-height:1.5;">
-           <strong>🇷🇴 Romania - PM resigns and fall of coalition.</strong> Romanian PM Marcel Ciolacu resigned after his coalition's candidate lost in the presidential election's first round. Right-wing Nationalist George Simion led with 40.5% and will face pro-EU mayor Nicușor Dan in the May 18 runoff. Ciolacu urged his party to exit the ruling coalition (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h4-10-political-turmoil" target="_blank">political turmoil</a>).
+           <strong>🇷🇴 Romania - PM resigns and fall of coalition.</strong> Romanian PM Marcel Ciolacu resigned after his coalition's candidate lost in the presidential election's first round. Right-wing Nationalist George Simion led with 40.5% and will face pro-EU mayor Nicușor Dan in the May 18 runoff. Ciolacu urged his party to exit the ruling coalition (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h4-10-political-turmoil?source=website" target="_blank">political turmoil</a>).
           </p>
           <p style="font-size:16px;line-height:1.5;">
            <strong>🇮🇷 Iran - Abbas Araghchi visits Pakistan.</strong> 
-           Iranian FM Abbas Araghchi arrived in Islamabad for a one-day visit to discuss rising tensions between Pakistan and India following an attack in disputed Kashmir. While specific discussions were not confirmed, the Iranian ambassador stated the visit would address ways to de-escalate tensions. Araghchi is also expected to visit India later this week (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h5-11-diplomatic-talks" target="_blank">diplomatic talks</a>). 
+           Iranian FM Abbas Araghchi arrived in Islamabad for a one-day visit to discuss rising tensions between Pakistan and India following an attack in disputed Kashmir. While specific discussions were not confirmed, the Iranian ambassador stated the visit would address ways to de-escalate tensions. Araghchi is also expected to visit India later this week (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-worldwide-h5-11-diplomatic-talks?source=website" target="_blank">diplomatic talks</a>). 
           </p>
           
         </mj-text>
@@ -311,14 +297,14 @@
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size:16px;line-height:1.5;">     
-         Movies and geopolitics are closely linked. Movies can be a <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-foundations-h1-12-soft-power" target="_blank">soft power</a> used by governments to promote certain narratives. Cinema often reflects and shapes how people view international events. Hollywood has long depicted the American military fighting against the Russian villain, which projects that Russians are evil-minded.
+         Movies and geopolitics are closely linked. Movies can be a <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-foundations-h1-12-soft-power?source=website" target="_blank">soft power</a> used by governments to promote certain narratives. Cinema often reflects and shapes how people view international events. Hollywood has long depicted the American military fighting against the Russian villain, which projects that Russians are evil-minded.
         </p>
           <p style="font-size:16px;line-height:1.5;">
         These subtle hints acted as a political influence over time, especially towards the end of the Cold War in the 1980s. The Cold War led to spy thrillers and nuclear dramas. Meanwhile, China has built a growing industry of state-supported films to boost national pride and reinforce its political messages. Russia uses historical dramas and war films to foster patriotism and support its geopolitical views.</p>
           <p style="font-size:16px;line-height:1.5;">
          Conversely, real-world geopolitical changes affect film narratives. After 9/11, movies about terrorism, intelligence, and Middle Eastern conflicts rose. Themes such as cyberwarfare, climate change, and authoritarianism have started taking shape in movies recently.</p>
          <p style="font-size:16px;line-height:1.5;">
-        Erich Schwartzel’s nonfiction book, <i>Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy</i>, examines China’s <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-foundations-h1-13-rising-influence" target="_blank">rising influence</a> on Hollywood and the global film scene. US studios seek to tap into China's rich market, so they often adjust their content to prevent upsetting Beijing. Schwartzel called this “anticipatory censorship.” The book shows how Chinese political goals subtly change global entertainment, affecting everything from casting to storylines.</p>
+        Erich Schwartzel’s nonfiction book, <i>Red Carpet: Hollywood, China, and the Global Battle for Cultural Supremacy</i>, examines China’s <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-6-may-25-foundations-h1-13-rising-influence?source=website" target="_blank">rising influence</a> on Hollywood and the global film scene. US studios seek to tap into China's rich market, so they often adjust their content to prevent upsetting Beijing. Schwartzel called this “anticipatory censorship.” The book shows how Chinese political goals subtly change global entertainment, affecting everything from casting to storylines.</p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -346,13 +332,6 @@
             ">
             This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.<br/>
             Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
-          <p style="
-              color:#000;
-              font-size:12px;
-              line-height: 2;
-            ">
-            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
         </mj-text>
         <mj-spacer height="12px"></mj-spacer>
         <mj-social font-size="15px" mode="horizontal">
