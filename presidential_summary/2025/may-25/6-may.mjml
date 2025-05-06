@@ -1,0 +1,526 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-raw> 
+      <div style="display: none; max-height: 0px; overflow: hidden;">Stay informed, widen your worldview.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
+      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px; 
+            ">→ Trump’s “Meet the Press” highlights</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ 100% tariffs on US movies produced abroad</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-left: 10px;
+            ">→ Record attendance at Copacabana Beach</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              margin-bottom: 0px;
+            ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com" target="_blank">Stay informed</a>.</p>
+        </mj-text> 
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+
+    
+    <!-- breaking news-->
+   
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">End of the Buffett era</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/Warren-Buffett.png" alt="Warren Buffett has announced his retirement after 60 iconic years at the helm of Berkshire Hathaway" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          Warren Buffett has announced his retirement after 60 iconic years at the helm of Berkshire Hathaway. Credits: Reuters
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Warren Buffett, one of the most iconic investors in history, has announced he <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h1-1-will-step-down" target="_blank">will step down</a> as CEO of Berkshire Hathaway at the end of 2025. He named Greg Abel, currently overseeing Berkshire’s non-insurance businesses, as his successor. The announcement came at the company’s annual shareholder meeting, and the board will formally review the recommendation later this year. <p>
+          <p style="font-size: 16px; line-height: 1.5">
+         The 94-year-old Buffett will remain Chairman and retain his significant ownership stake (roughly 14%, valued at around $164B). Under his leadership, Berkshire became a corporate empire, controlling shares in companies like Geico and BNSF. Since investing in Apple in 2016, Berkshire’s $35B stake soared to $173B by 2023.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h1-2-greg-abel" target="_blank">Greg Abel</a>, originally from Canada, joined the company through its 1999 trade of MidAmerican Energy. He later became CEO of Berkshire Hathaway Energy and helped expand it into one of the company’s biggest businesses. While respectful of Buffett’s legacy, his style may bring a subtle shift.</p>
+          
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<mj-spacer height="10px" /> 
+<!-- primary ad --> 
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+          <mj-raw> 
+            <a href="https://link.presidentialsummary.com/ps-6-may-2025-p-ad-A17" target="_blank" style="color:black">
+        </mj-raw>
+            <mj-column>
+            <mj-spacer height="14px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2">
+                  <i>In partnership with Upscale Media</i>
+              </p>
+            </mj-text>
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                color: #4D3060; 
+                  text-align: left;
+                  letter-spacing:1px;
+                  border-bottom:2px solid #4D3060;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Sachet a day keeps the bloat away</h2>
+                  </mj-text>
+                  <mj-spacer height="12px"/>
+              <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/6-may-2025-A17.png" alt="Ad-A17"/>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px">
+                Bloat relief, calm and clear,<br/>
+                Apple cider blends appear.</p>
+                <p style="font-size: 16px; line-height: 24px">
+                Ginger, dandelion, soothe inside,<br/>
+                Digest with ease, let wellness guide.</p>
+                <p style="font-size: 16px; line-height: 24px">
+               Flavors fresh, sip with delight,<br/>
+                Gut in balance, feeling right!</p>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px">
+                <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Grab easy-to-mix sachets</a></p>
+                </mj-text>
+                <mj-spacer height="10px" />
+            </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+      </mj-section>
+<!-- primary ad -->
+
+    <mj-spacer height="10px" />
+
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-spacer height="20px" />
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 Trump talks tough
+            </h2>
+            </mj-text>
+            <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-defends-agenda-amid-economic-uncertainty.png" alt="Trump rejects concerns about economic uncertainty as he defends his agenda" href="https://www.presidentialsummary.com" />
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+              <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+              Trump rejects concerns about economic uncertainty as he defends his agenda. Credits: NBC</i></p>
+            </mj-text>
+            <mj-text padding="10px 12px 4px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+              In an interview with NBC’s Kristen Welker, President Trump <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h2-3-addressed-topics" target="_blank">addressed topics</a> that included the economy, immigration, and cryptocurrency. Here’s a look at some of the pointers that stood out in the conversation:</p>
+            </mj-text>
+            <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 10px 18px" style=" width:100%;">
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;">
+              <strong>No third term:</strong> Trump denied plans to run for a third term. While he previously joked about staying longer, he acknowledges that the 22nd Amendment prohibits it.</td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;"><strong>Confusion on upholding the Constitution:</strong> He said he “does not know” whether he's required to uphold the Constitution, as he defended his administration's actions to eradicate illegal immigrants.</td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;">
+              <strong>Border security:</strong> He defended his ongoing immigration emergency decree, saying the border is more secure than ever. </td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;">
+              <strong>The economy:</strong> He refused to take full responsibility for the state of the economy, claiming the positive aspects were part of the "Trump economy" and the negatives were due to Biden.</td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;">
+              <strong>Kids don’t need 30 dolls:</strong> Trump suggested Americans could manage with fewer goods when questioned about the domestic impact of the tariff. </td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;">→</td>
+              <td style="font-size:16px;line-height:1.5;">
+              <strong>A recession is OK:</strong> He argued that the US is in a "transition period" and downplayed economic anxieties.</td>
+            </tr>
+         </mj-table>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+             As his administration started negotiating trade deals with over 170 countries, Trump confirmed that some tariffs could be permanent.</p>
+             <p style="font-size: 16px; line-height: 1.5">
+             Fact-check Trump’s assertions <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h2-4-here" target="_blank">here</a>.</p>
+            </mj-text>
+            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          </mj-column>
+        </mj-section>
+        <!-- Content sections -->
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">Houthis strike Israel
+    </h2>
+            </mj-text>
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 18px; line-height: 1.5"><strong>Summary: Houthis launched a missile attack on Ben-Gurion airport and warned Israel of a comprehensive air blockade. </strong></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+              A hypersonic ballistic missile fired by Houthi rebels in Yemen <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h3-5-struck-near-tel-aviv" target="_blank">struck near Tel Aviv</a>’s Ben Gurion Airport on Sunday, leading to more than a dozen injuries, and forcing multiple international airlines to suspend or delay flights. Israeli and US defense systems, including Arrow and <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h3-6-thaad" target="_blank">THAAD</a>, failed to intercept the missile, marking a rare breach of two of the world’s most advanced air defense systems.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+              The Houthis, backed by Iran, claimed responsibility and warned of “a comprehensive air blockade” on Israeli airports. The attack came hours before Israeli cabinet ministers were set to vote on escalating military operations in Gaza. Netanyahu called for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-spotlight-h3-7-further-measures" target="_blank">further measures</a>, and Defense Minister Katz warned of a “sevenfold” retaliation.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+              Meanwhile, Hamas has praised the attack and called Yemen “a twin of Palestine.” Sunday’s strike marks the third consecutive day of missile launches from Yemen toward Israel. 
+              </p>
+             
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Far-right leader George Simion bagged the first round of Romania’s presidential election</strong> rerun with 40.5% of the vote, positioning himself for a runoff against centrist Nicușor Dan. Simion, a Trump ally and EU critic, pledged to end military aid to Ukraine, potentially weakening NATO’s eastern front and emboldening Russia while promising to restore “Romanian sovereignty” (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-ga-br1-1-8-black-sheep-of-the-eu" target="_blank">black sheep of the EU</a>). </p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Nicaragua has withdrawn from UNESCO</strong> after the organization awarded its 2025 World Press Freedom Prize to <i>La Prensa</i>, an exiled Nicaraguan newspaper. The prize recognized the newspaper's courageous reporting despite <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-ga-br2-1-9-severe-repression" target="_blank">severe repression</a>, including a crackdown on dissent since 2018 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-ga-br2-2-10-withdrawal" target="_blank">withdrawal</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>​​US crude oil value dropped over 4% after OPEC+, as it estimates an increase in production by 411,000 barrels a day in June</strong>. This follows a similar production boost in May, totaling more than 800,000 additional barrels over two months. The surge in supply comes amid concerns over a potential recession, with tariffs and low demand contributing to falling oil values. Major oil companies like Chevron and Exxon are witnessing a decline in earnings (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-b&m-br3-1-11-oil-drop" target="_blank">oil drop</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Trump said he would levy 100% tariffs on all US movies produced in foreign lands</strong> and insists that movies should be made in America. In recent times, other countries like the UK and Canada have offered incentives to attract filmmakers and studios, which Trump calls a national threat. However, his statement didn’t mention whether American production companies producing films abroad would be affected and didn’t define a structure for streaming platforms (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-b&m-br4-1-12-screen-scene" target="_blank">screen scene</a>). </p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Chinese exporters are accused of using origin-washing tactics, such as repackaging and mislabeling goods, to bypass Trump-era tariffs</strong>. They lightly modify or simply repackage goods in third countries, then export them as “Made in Vietnam” or “Made in South Korea.” In Q1 2025, South Korea’s customs agency reported nearly $21M worth of falsely labeled exports, almost equaling the total for all of 2024. Most were Chinese goods destined for the US (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-b&m-br5-1-13-origin-washing" target="_blank">origin washing</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/tim-friede-snake-venom-experiment-california.png" alt="Tim Friede, a self-taught snake expert based in California, exposed himself to the venom of snakes over the course of nearly 18 years" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Tim Friede, a self-taught snake expert based in California, exposed himself to the venom of snakes over the course of nearly 18 years. Credits: CNN
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Researchers developed a potential antivenom cocktail that could protect against venom from multiple snake species</strong>, thanks to Tim Friede. ​​To build immunity, he purposely let himself be bitten by snakes 202 times over the past 20 years. The therapy combines the existing drug varespladib with the antibodies from his blood, which provides protection against venom from 19 species of deadly snakes, including the king cobra (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-s&t-br6-1-14-snake-man" target="_blank">snake-man</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Huawei is building a chip production line in Shenzhen to manufacture 7nm smartphones and Ascend AI chips</strong>, marking its entry into high-end chipmaking. The company is also developing a regional semiconductor ecosystem, aiming to reduce China’s reliance on foreign tech and compete with companies like NVIDIA and TSMC. Huawei collaborates with start-ups like SiCarrier and SwaySure (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-s&t-br7-1-15-rasing-the-chip-game" target="_blank">rasing the chip game</a>).</p>
+                  
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Lady Gaga performed to a record-breaking 2.5 million fans at Rio de Janeiro’s Copacabana Beach on Saturday</strong>, setting an attendance record for a female artist. Her show, <i>Mayhem on the Beach</i>, surpassed Madonna’s previous record at the same venue. Despite a foiled bomb plot, the show continued without incidents, with two suspects arrested (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-s&c-br8-1-16-bombshell-show" target="_blank">bombshell show</a>).
+</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Miami Grand Prix highlights:</strong> Oscar Piastri bagged his fourth race of the season; Andrea Kimi Antonelli made history as the youngest driver to secure an F1 pole position; Haas’ Laura Mueller became F1’s first female race engineer (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-s&c-br9-1-17-race-rundown" target="_blank">race rundown</a>).</p>
+                  
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Why did Europeans fail at tech? (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-whatnot-br10-1-18-watch-explanation-video" target="_blank">watch explanation video</a>)
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">£10 Lowry painting from 1926 sells for £800,00 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-whatnot-br11-1-19-art-jackpot" target="_blank">art jackpot</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Elon Musk’s Starbase in Texas is officially becoming a city (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-whatnot-br12-1-20-city-launch" target="_blank">city launch</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">2025 Kentucky Derby horses are related to legendary racehorse Secretariat (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-5-may-25-lss-whatnot-br13-1-21-derby-dynasty" target="_blank">derby dynasty</a>).
+</p>
+            
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1862, Mexico repelled French forces at the Battle of Puebla, a victory that became a symbol of resistance and is now celebrated as Cinco de Mayo.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            
+            <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.<br/>
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+          <p style="
+              color:#000;
+              font-size:12px;   
+              line-height: 2;
+            ">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
