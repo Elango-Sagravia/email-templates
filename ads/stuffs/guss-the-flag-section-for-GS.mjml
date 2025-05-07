@@ -1,0 +1,106 @@
+<!-- Guess the flag -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Guess the flag</h2>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff">
+        <mj-image border-radius="10px" border="1px solid black" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/guess-the-flag-angola.png" alt="Guess the flag" href="https://www.geopoliticalsummary.com" />
+      </mj-column> 
+    </mj-section>
+    <!-- buttons section --> 
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!--  first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor" class="button-style" style="
+              
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;              
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+             
+              ">East Timor </a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!--  second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor" class="button-style" style="
+              display: inline-block;
+              width:100%;                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+             background-color: rgba(6,38,109,0.2);
+             border-radius:10px;
+          
+              ">Papua New Guinea </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding="0px 0px">
+      <mj-column css-class="remove-padding">
+        <!-- Your first column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor" class="button-style" style="
+              display: inline-block;
+              width: 100%;
+              margin-bottom: 10px;
+              padding: 8px 6px ;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size:14px;                                    background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+           
+              ">Angola</a>
+        </mj-text>
+      </mj-column>
+      <mj-column css-class="remove-padding">
+        <!-- Your second column -->
+        <mj-text align="center" font-family="Roboto+Serif">
+          <a href="https://link.geopoliticalsummary.com/gs-3-may-25-gtf-7-east-timor" class="button-style" style="
+              display: inline-block;
+              width:100%;                                           margin-bottom: 10px;
+              padding: 8px 6px;
+              text-decoration: none;
+              border: 2px solid #06266d;
+              color: black;
+              line-height: 1.5;
+              text-align: center;
+              font-size: 14px;
+              background-color: rgba(6,38,109,0.2);
+              border-radius:10px;
+              
+              ">Mozambique</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
