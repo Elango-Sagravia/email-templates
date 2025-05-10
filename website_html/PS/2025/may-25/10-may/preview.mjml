@@ -1,0 +1,100 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+   <mj-section background-color="#ffffff">
+        <mj-spacer height="10px" />
+        <mj-column padding="10px 12px" width="100%">
+          <mj-spacer height="16px" />
+          <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+          </mj-text> 
+          <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.6;">
+                AI in human development</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">What do we know about the India-Pakistan conflict?</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">Sistine Chapel doors closed</td>
+              </tr>
+          </mj-table>
+          <mj-text  padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          </mj-text>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+        </mj-column>
+      </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THE BIG ONE-->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Spotlight of the week
+</h2> 
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <!-- THE BIG ONE contents-->
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">A threat to US supremacy
+</h2> 
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/white-house-protest-gaza-peace-demonstration.png" alt="Many demonstrators converged opposite the White House on Saturday to call for an end to Israeli military action in Gaza" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF"> 
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>Many demonstrators converged opposite the White House on Saturday to call for an end to Israeli military action in Gaza. Credits: Jose Luis Magana/AP</i>
+          </p>
+        </mj-text>
+       
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+          <p style="font-size: 16px; line-height: 1.5">
+          For decades, the US has stood firmly behind Israel. In the context of the ongoing Israel-Palestine conflict, critics argue that Washington’s deep-rooted support for Israel reflects broader geopolitical priorities, not just shared democratic values.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Since the Cold War, American influence has faced major challenges: the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-may-25-sotw-h1-1-2008-economic-crisis?source=website" target="_blank">2008 economic crisis</a>, withdrawal from Afghanistan (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-may-25-sotw-h1-2-see-timeline?source=website" target="_blank">see timeline</a>), and its fading presence in Africa. In the Middle East, support for Israel provides the US a foothold, a way to project strength, protect trade routes, and counter rivals like Iran. Israel, in turn, receives military aid and acts as a reliable partner in one of the world’s most volatile regions (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-may-25-sotw-h1-3-see-data?source=website" target="_blank">see data</a>).</p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">That same support, however, comes with geopolitical consequences. Many argue it prevents a just resolution for Palestinians. An independent and sovereign Palestine would force the US to rethink its role, not just in the Middle East, but in a world where old powers are being questioned.</p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Track the Israeli-Palestinian conflict <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-10-may-25-sotw-h1-4-here?source=website" target="_blank">here</a>.</p>
+        </mj-text> 
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

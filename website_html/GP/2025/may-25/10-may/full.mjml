@@ -1,0 +1,387 @@
+<mjml>
+  <mj-head> 
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;} .remove-padding td {padding-left: 10px !important;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" /> 
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer; border: 2px solid rgba(6,38,109,1) !important; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">   
+    <mj-spacer height="15px"></mj-spacer>  
+    <!-- Logo Header --> 
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;    
+              line-height: 1.5; 
+              margin-top:2px;
+            ">Geopolitical Summary is now as big as 🇧🇧 <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://en.wikipedia.org/wiki/Barbados" target="_blank">Barbados</a>. Share us with your friends and let's reach the size of 🇻🇺 <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://en.wikipedia.org/wiki/Vanuatu" target="_blank">Vanuatu</a> next. Copy link <strong><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/" target="_blank">here</a></strong>.</p>
+          <p style="
+              font-size: 16px;  
+              line-height: 1.5;
+            "><strong>In this edition:</strong></p>
+        </mj-text> 
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 0px 18px" style=" width:100%;">
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+              <td style="font-size:16px;line-height:1.6;">
+               Why is Friedrich Merz unpopular?</td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+              <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+               Meet Slovenia</td>
+            </tr>
+            <tr>
+              <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+              <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+               Victory Day parades</td>
+            </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- /header -->
+    <mj-spacer height="10px"></mj-spacer>
+
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Analysis</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">Alternative resolution for Palestine</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/israelis-palestinians-alternate-scenario-amid-violence.png" alt="Although Israelis and Palestinians are in an exceptionally violent phase of their history, there is an alternate scenario for them" href="https://www.geopoliticalsummary.com" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Although Israelis and Palestinians are in an exceptionally violent phase of their history, there is an alternate scenario for them. Credits: The Century Foundation
+          </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+          Is it time for Palestinians to reject violent extremism and embrace Israeli security? The displaced Palestinians demand a <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-10-may-25-analysis-h1-1-radical-way-of-thinking?source=website" target="_blank">radical way of thinking</a> towards the Hamas-Israel war. They reject Hamas’ armed resistance and claim that extremists have captured the activist movement. With no military, political, or economic advantage, these settlers believe that Hamas’ maximalist rhetoric should end. 
+            </p>
+            <p style="font-size:16px;line-height:1.5;">
+          Gazan-American Ahmed Fouad Alkhatib argues that the lack of a political home for moderate voices has deprived them of space to exchange perspectives. He believes that a two-nation equation is the pragmatic resolution for both parties. Alkhatib calls for accepting Israel’s existence and understanding Israeli security as complementary to the Palestinian pursuit of independence.
+            </p>
+            <p style="font-size:16px;line-height:1.5;">
+          While ⅔ of the population are descendants of the <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-10-may-25-analysis-h1-2-1948-palestinian-exodus?source=website" target="_blank">1948 Palestinian exodus</a> refugees, they don’t necessarily share the right of return to land idea. Alkhatib believes peace and coexistence are necessary to preserve Palestinian heritage. He envisions a future where Palestinians could use the Gaza Strip’s geography to their advantage in building a coastal enclave.
+            </p>
+            <p style="font-size:16px;line-height:1.5;">
+          While the diaspora shares diverse perspectives, extremists on both sides ignore or suppress their voices, choosing instead to promote narrow interests. 
+            </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+           
+
+   <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.geopoliticalsummary.com/gs-10-may-2025-p-ad-bh?source=website" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>   
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+        </p> 
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px; 
+          color: #8C3321; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+                
+            ">BEHIND THE SCENES OF BUSINESSES</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Uncover the deals that reshaped the game,<br/>
+          Big moves and risks that earned their fame.
+          </p>
+          <p style="font-size: 16px; line-height: 24px">
+           From bold achievements to failures laid bare,<br/>
+           We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Step ahead with insights that sharpen your view,<br/>
+          Join us for stories that give you a clue.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;">Join Business History</a></p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+   <mj-spacer height="10px" />
+   
+
+    <!-- the big quesstion -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#06266D;
+            text-align: left;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">The big question</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">Why is Friedrich Merz unpopular?</h2>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px; line-height:1.5;">
+          Friedrich Merz clinched Germany’s national election in February, but his <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-10-may-25-tbq-h1-3-popularity-declined?source=website" target="_blank">popularity declined</a>. An April Forsa poll showed that just 21% of Germans consider him trustworthy, a nine-point drop since August. Support for his leadership is also weak: 40% view him as a strong leader, and 27% believe he understands people’s concerns. More broadly, Germany is experiencing a general decline in trust toward centrist and mainstream parties.</p>
+          <p style="font-size:16px; line-height:1.5;">
+          Merz has lost credibility due to a series of controversial actions. In January, he cooperated with the far-right AfD on a contentious immigration bill. Then in March, he reversed his stance on public liability, approving $1.14T despite having ruled out such borrowing throughout the election campaign. These decisions have alienated many voters, including members of his party.</p>
+          <p style="font-size:16px; line-height:1.5;">
+          He also faces accusations of misogyny and has especially weak support among women and younger voters. In 1997, he was among the Bundestag members who voted against recognizing marital rape as a crime. Although initially viewed as a business-savvy alternative to populists, his focus on immigration has failed to halt the rise of the AfD. Under his leadership, support for the CDU has stagnated, while the AfD’s backing has doubled.</p>
+         
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- secondary ad  --> 
+
+    <!-- <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-8-mar-2025-s-ad-gs" target="_blank" style="color:black">
+    </mj-raw>
+          <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="34px">
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Long and Short</i>
+              </p>
+            </mj-text>  
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:8px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">Markets in minutes</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">Warren Buffet said, <strong>"Risk comes from not knowing what you're doing."</strong> The best way to manage risk? Stay informed.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to learn more about the stories that built (or broke) the greatest businesses?</strong>
+              </p>
+              
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px;">
+                  <li><strong>Unbiased</strong></li>
+                  <li><strong>Fact-checked</strong></li>
+                  <li><strong>5-minute read</strong> (no fluff, no noise)</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Join Long and Short</a></p>
+                </mj-text>
+            </mj-column>
+          </mj-section>
+    <mj-raw>
+        </a>
+    </mj-raw> -->
+
+<!-- /secondary ad -->
+
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Know the topography </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+    <mj-column>
+    <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000" >
+          <h2 style="font-size:24px;line-height:1.2;font-weight:400; margin-top:2px;">Slovenia</h2>
+        </mj-text>
+      <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/slovenia-topography.png" alt="Map showing the topography of Slovenia" href="https://www.geopoliticalsummary.com" />
+         <!-- <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Members and supporters of the Russian Communist Party carry a portrait of Joseph Stalin during May Day celebrations near the Karl Marx monument in Moscow, Russia. Credits: Sergei Ilnitsky/EPA
+          </i>
+          </p>
+        </mj-text> -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:16px;line-height:1.5;">
+         Slovenia is a tiny country sharing borders with Austria, Hungary, Croatia, and Italy. It was part of the Habsburg Monarchy until 1918, then joined the Kingdom of Yugoslavia. After WWII, it became a republic within socialist Yugoslavia. In 1991, Slovenia declared independence, leading to a brief <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-10-may-25-ktt-h1-4-10-day-war?source=website" target="_blank">10-day war</a>. Its smooth transition to democracy, rapid westernization, and market economy enabled it to join NATO and the EU in 2004. Slovenia  acts as a bridge between Western Europe and the Western Balkans (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-10-may-25-ktt-h1-5-learn-more?source=website" target="_blank">learn more</a>).
+            </p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size:17px;line-height:1.5;">
+           <strong><i>Fun facts</i></strong></p>
+
+
+          
+          <p style="font-size:16px;line-height:1.5;">
+            - Slovenia is the country with the most beekeepers per capita.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+            - Slovenia's national anthem is a drinking song.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+            - Slovenia is home to NBA basketball star Luka Doncic.
+          </p>
+          <p style="font-size:16px;line-height:1.5;">
+            - Its capital city, Ljubljana, means "the beloved" in Slovene. 
+          </p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-top:14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400; 
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+       <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/russian-armored-vehicles-military-parade-80th-anniversary-victory-nazi-germany.png" alt="A large crowd of protesters in Istanbul, Turkey, holding up mobile phone lights and banners during a night demonstration." href="https://www.geopoliticalsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>While rehearsing for a military parade commemorating the 80th anniversary of the victory over Nazi Germany in World War II, spectators watch Russian armored vehicles driving along a road in Moscow, Russia. Credits: REUTERS/Anton Vaganov
+          </i>
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+    
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7; 
+            ">
+             <!-- This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</br> -->
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/geopoliticalsum" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
