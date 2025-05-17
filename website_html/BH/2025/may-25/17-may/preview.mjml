@@ -1,0 +1,110 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+   
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">
+          Fastest growing enterprise software ever! </h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+        Game over 
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Before Slack became the go-to workplace communication tool, it was something entirely different—a game.
+          </p>
+           <p style="font-size: 16px; line-height: 1.5">
+        Stewart Butterfield, who had previously co-founded the photo-sharing site Flickr (<a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-17-05-2025-sold-to-yahoo?source=website" target="_blank">sold to Yahoo for $25M</a>), reunited his original team to launch a startup called Tiny Speck. Their first product was Glitch, a quirky, multiplayer online game Butterfield described as “Monty Python crossed with Dr. Seuss on acid.”
+          </p>
+           <p style="font-size: 16px; line-height: 1.5">
+         Despite its charm, Glitch failed to attract a large enough user base and became a commercial flop. The game’s foundation, built on Adobe Flash, also restricted its ability to evolve or scale. This was not ideal, especially for a startup that had raised $16M in venture capital.
+          </p>
+           <p style="font-size: 16px; line-height: 1.5">
+         On December 9, 2012, just 18 months after launch, <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-17-05-2025-glitch-was-shut-down?source=website" target="_blank">Glitch was shut down</a>.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         With the company running out of funds, Butterfield offered to return what remained to investors. But then came a bold proposal: instead of calling it quits, why not back one last idea?
+          </p>
+
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/glitch-game-tiny-speck-stewart-butterfield-slack-founder.png" alt="The game Glitch was developed by Tiny Speck, a company founded by Stewart Butterfield, who also co-founded Flickr and later Slack" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            The game Glitch was developed by Tiny Speck, a company founded by Stewart Butterfield, who also co-founded Flickr and later Slack. Credits: Tiny Speck</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Glitch failed to attract the user base needed to sustain it and was a commercial flop. Glitch had other problems too. The game had been built using Adobe Flash, a dying technology that made porting Glitch to modern platforms virtually impossible. Not the most encouraging news when your startup has raised $16M and investor expectations are sky-high.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          When Glitch ceased operations, Tiny Speck was left with just enough funds to provide severance packages to its staff. Butterfield, facing what looked like a failed experiment, made a rather daring proposal: he’d return the funds to investors unless… they wanted to back one more idea.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          While building Glitch, Tiny Speck’s team was scattered across New York, San Francisco, and Vancouver and struggled with communication while working remotely. Frustrated with emails, they relied on <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-17-05-2025-internet-relay-chat?source=website" target="_blank">Internet Relay Chat (IRC)</a>. a clunky ’90s protocol that was powerful but archaic. They built a chat tool tailored to their needs to stay on top of Glitch's operations. Need to share a file? Add a feature that does it. Want to search old messages? Build a searchable archive. Tired of messages disappearing? Make it asynchronous.
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
