@@ -1,0 +1,338 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> Behind the scenes of legendary businesses. </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          <p style="
+              font-size: 16px; 
+              line-height: 1.5;
+              margin-bottom: 0px; 
+              margin-top:10px;
+            ">Was this email forwarded to you? <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Brock Pierce: Chaos, crypto, and comebacks</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Sol searching</h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         In 2017, Hurricane Maria ripped through Puerto Rico, leaving behind a battered economy. Amid the devastation, most saw tragedy. But Brock Pierce saw a possibility. By the time he arrived in Puerto Rico that year, <strong>Pierce was already a well-known name in the blockchain world:</strong> an investor in experimental ventures, co-founder of Tether and EOS, and a veteran of several spectacular business flameouts. He was about to lead an ideological migration. 
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/brock-pierce-2020-presidential-run-former-child-actor.png" alt="Brock Pierce, former child actor from “The Mighty Ducks” and “First Kid,” announced he is running for president in 2020" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>Brock Pierce, former child actor from “The Mighty Ducks” and “First Kid,” announced he is running for president in 2020. Credits: Buena Vista Pictures/Courtesy Everett Collection</i>
+          </p>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+
+          Alongside other newly minted crypto millionaires, he began snapping up property and pitching a utopian vision, one of a <strong>blockchain-powered society called “Puertopia.” That name didn’t last, as they rebranded it to “Sol.”</strong> By early 2018, dozens of crypto entrepreneurs were selling their California homes and shipping out to Puerto Rico to capitalize on generous tax incentives. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          But the dream quickly became messier. Pierce purchased at least 14 properties, including a hurricane-damaged beach resort, an old hospital, and a children’s museum turned “idea space.” <strong>None of them materialized into the crypto-powered oases they were hyped up to be.</strong> The hospital struggled with basic operations. The museum sat empty. The resort led to <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-10-05-2025-lawsuits-unpaid-bills-and-loss-of-ownership" target="_blank">lawsuits, unpaid bills, and losing ownership</a> to a disgruntled partner. It wouldn’t be the first time Pierce’s big visions ran aground. Nor would it halt him.
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+
+<mj-spacer height="10px" />
+
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://link.businesshistory.co/bh-17-may-2025-p-ad-GS" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Geopolitical Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #06266D; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #06266D;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">THE “WHY” BEHIND EVENTS</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/ad-gs.png" alt="The why behind the events"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Dive into the stories that shape our fate,<br/>
+          From global conflicts to diplomatic debate.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Behind each headline lies a deeper view,<br/>
+           We bring you insights clear and true.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed, stay ahead, don’t fall behind,<br/>
+          Join us and sharpen your mind.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Join Geopolitical Summary</a></p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->
+
+
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff">
+    <mj-column>
+      <mj-spacer height="14px" />
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">The relentless pursuit of Pierce</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Born in Minnesota, Pierce began his career as a child actor. You might remember him as young Gordon Bombay in <i>The Mighty Ducks</i> or the president’s son in First Kid. But by 16, he had retired from acting. He joined <strong>Marc Collins-Rector and Chad Schackley to establish Digital Entertainment Network</strong> (DEN), a company that collapsed under the weight of sexual assault allegations.
+         </p>
+         </mj-text>
+         <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/brock-pierce-east-village-church-puerto-rican-monastery-club.png" alt="Former presidential candidate Brock Pierce wants to convert a former East Village church into a rental residence, he's already turning a former Puerto Rican monastery into a club" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>Former presidential candidate Brock Pierce wants to convert a former East Village church into a rental residence, he's already turning a former Puerto Rican monastery into a club. Credits: James Messerschmidt</i>
+          </p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          Next came Internet Gaming Entertainment (IGE), a trailblazer selling digital currency for online games. Then came ZAM (sold to Tencent), Titan Gaming (rebranded as Playsino), and the crypto boom. In 2013, <strong>Pierce co-founded Blockchain Capital</strong>, one of the earliest venture firms focused solely on blockchain. He worked with Mastercoin, which pioneered the ICO model and ignited a global fundraising craze.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-10-05-2025-he-co-founded-tether" target="_blank">He co-founded Tether</a>, which is one of the most traded cryptocurrencies, and Block. One, which raised a mind-blowing $4B. At one point, <i>Forbes</i> estimated his net worth between $700M and $1.1B. Just when you thought Brock Pierce couldn’t surprise you anymore, <strong>he launched an independent run for president in 2020</strong>, just a day after Kanye West announced his bizarre bid, in the middle of a global pandemic.</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Presidential election and rocky road</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         <strong>Brock Pierce’s 2020 presidential run wasn’t about heading the White House</strong> but about challenging the status quo and <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-10-05-2025-reimagining-the-system" target="_blank">reimagining the system</a>. He even drew on Bhutan’s Gross National Happiness index to propose a more human-centered measure of national development. He also made history as the first US presidential candidate to receive a vote via blockchain. While his campaign didn’t gain electoral traction, the core of his vision, bringing crypto into mainstream governance, is unfolding under Donald Trump’s second term.</p>
+<!-- 
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/trump-taj-mahal-liquidation-sale-crowds-expected-60-days.png" alt="The Trump Taj Mahal liquidation sale is expected to attract hundreds of people each day during the 60-day sale" href="https://www.businesshistory.co" />
+           <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>The Trump Taj Mahal liquidation was expected to attract hundreds of people each day during the 60-day window. Credits: Craig Matthews/Press of Atlantic City</i>
+          </p>
+        </mj-text> -->
+
+          <p style="font-size: 16px; line-height: 1.5">
+          Ironically, the disruptive, digital-first future Pierce imagined is beginning to take shape under the leadership of a former president who once seemed worlds apart from that vision. And yet, for all his innovation and foresight, <strong>Pierce’s ventures often seem to end in chaos, conflict, or courtroom drama</strong>. In Puerto Rico, lawsuits from unpaid partners, failed projects, and unrealized promises represent one chapter in the many roles he plays.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          For all the flops, he keeps coming back, raising funds, reinventing industries, and rallying people around newer ideas. Whether he seems as a visionary or a vaporware salesman, there’s no denying his relentlessness, almost irrational persistence. <strong>Pierce’s story reveals that the road to disruption is rarely a straight line</strong>. It’s paved with hype, lawsuits, rebrands, and unfinished hospitals. But if you can stomach the chaos and are willing to keep showing up, you might build something that lasts.</p>
+          </mj-text> 
+      </mj-column>
+  </mj-section> 
+
+    <!-- banner -->  
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section"> 
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color=" #8C3321" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">Shark Tank investor Daymond John started FUBU by sewing hats in his mother’s house, selling them on street corners.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7; 
+            ">
+             <!-- This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</br> -->
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+           
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
