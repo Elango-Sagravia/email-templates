@@ -1,0 +1,491 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Header -->
+      <mj-section background-color="#ffffff">
+        <mj-spacer height="10px" />
+        <mj-column padding="10px 12px" width="100%">
+          <mj-spacer height="16px" />
+          <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+          </mj-text> 
+          <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.6;">
+                 Trump-Putin conversation</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                 US Senate advances GENIUS bill</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                 Microsoft employee disrupts CEO's speech</td>
+              </tr>
+          </mj-table>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+        </mj-column>
+      </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Deportation drive</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/venezuela-refugee-crisis-8-million-migrants-2014-unhcr-report.png" alt="According to the UN's refugee agency, almost 8Mn Venezuelans have left their homeland since the crisis began in 2014" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          According to the UN's refugee agency, almost 8Mn Venezuelans have left their homeland since the crisis began in 2014. Credits: AP Photos
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          The US Supreme Court has cleared the way for the Trump administration to end Temporary Protected Status (TPS) for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h1-1-350-000-venezuelans?source=website" target="_blank">350,000 Venezuelans</a>. TPS allows people from nations experiencing war, natural disasters, or other crises to stay and work legally in the US. This ruling overturns a California court’s decision, temporarily blocking the policy change.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      Initially, protections for Venezuelans were set to end in October 2026, but the administration has moved that deadline up to April 2025. Since it was an emergency appeal, the justices did not provide a reasoning for the ruling. The sudden shift could abandon many without judicial status, employment, or protection. In August, the Trump administration is also expected to revoke TPS protections for many Haitians.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+       Meanwhile, the administration has launched a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h1-2-voluntary-deportation-program?source=website" target="_blank">“voluntary deportation” program</a>. Under the initiative, the US government flew 68 migrants back to Honduras and Colombia. Each received a $1,000 debit card and was told they may be eligible to apply for judicial reentry. While Trump has promised to ramp up deportations, this program is framed as a softer, more controlled approach.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+
+<!-- primary ad -->
+<mj-spacer height="10px" /> 
+ <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+      <mj-raw> 
+        <a href="https://link.presidentialsummary.com/ps-20-may-2025-p-ad-A25?source=website" target="_blank" style="color:black">
+    </mj-raw>
+        <mj-column>
+        <mj-spacer height="14px"/>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+              <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+          <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+            <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Light on calories, big on power</h2>
+              </mj-text>
+              <mj-spacer height="12px"/>
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/20-may-2025-A25.png" alt="A25"/>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            Boosts your flow, fuels your game,<br/>
+            L-Citrulline powers your veins aflame.</p>
+            <p style="font-size: 16px; line-height: 24px">
+           Clear Whey light, fresh and clean,<br/>
+           90 calories—stay lean and mean.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            Eight bold flavors, crisp and bright,<br/>
+          Athlete-tested, pure delight!</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+            Available in 8 fruity flavors</a></p>
+            </mj-text>
+            <mj-spacer height="10px" />
+        </mj-column>
+  <mj-raw>
+    </a>
+  </mj-raw>
+  </mj-section>
+<!-- primary ad --> 
+
+    <mj-spacer height="10px" />
+
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-spacer height="20px" />
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 No scope for a ceasefire
+            </h2>
+            </mj-text>
+            <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-putin-meeting-discuss-ukraine-conflict-resolution.png" alt="Trump told reporters ahead of the conversation that he and Putin must meet soon to discuss resolving the conflict" href="https://www.presidentialsummary.com" />
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+              <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           Trump told reporters ahead of the conversation that he and Putin must meet to discuss resolving the conflict. Credits: AL Jazeera</i></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+             Trump held a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h2-3-two-hour-conversation-with-putin?source=website" target="_blank">two-hour conversation with Putin</a>, aiming to push for a ceasefire in Ukraine. He announced that he would solicit ceasefire talks "immediately" and emphasized the “excellent tone and spirit” of the conversation despite no concrete progress. Trump suggested that if Putin doesn't cooperate, he may "just back away." He also cited interest from the Vatican in hosting peace talks.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+           Meanwhile, Putin reiterated Russia's longstanding conditions that must be met before real negotiations occur. It includes <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h2-4-ukraine-pulling-out?source=website" target="_blank">Ukraine pulling out</a> of four regions annexed by Russia, even though it doesn’t fully control them. He also insists Ukraine stay neutral, drop NATO ambitions, scale down its military, and that the West recognize these annexations. Additionally, Russia wants sanctions lifted as part of any peace agreement. </p>
+             <p style="font-size: 16px; line-height: 1.5">
+          Despite Trump's self-assured tone, he appears to have little leverage over Putin on the ceasefire process. Trump briefed several world leaders post-conversation, including Ukrainian President Zelenskyy and European Commission President von der Leyen. European leaders, however, expressed caution and discussed <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h2-5-additional-sanctions?source=website" target="_blank">additional sanctions</a> if Russia fails to cooperate at this juncture. </p>
+           
+             
+            </mj-text>
+            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          </mj-column>
+        </mj-section>
+        <!-- Content sections -->
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">    
+       Israel offensive demonstration
+    </h2>
+            </mj-text>
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 18px; line-height: 1.5"><strong>
+             Summary: Israel launched a ground offensive to expand operational control of the Gaza Strip.</strong></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+            Israel launched <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h3-6-operation-gideon-s-chariots?source=website" target="_blank">Operation Gideon’s Chariots</a>, a major ground offensive in Gaza aimed at dismantling Hamas’s military infrastructure, securing the release of hostages, and tightening control over the territory. Since the offensive began, Israeli forces have killed over 250 Palestinians, including civilians and journalists. An airstrike on a tent camp in the Al-Mawasi area of Khan Younis killed 36 displaced civilians.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+           The offensive has intensified the humanitarian crisis in Gaza. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h3-7-limited-aid-deliveries?source=website" target="_blank">Minimal aid deliveries</a> have resumed after a nearly three-month blockade. They target hospitals, including the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h3-8-indonesian?source=website" target="_blank">Indonesian</a> and Al-Awda hospitals, raising fears of mass casualties. Countries including the UK, France, and Canada have <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h3-9-expressed-deep-concern?source=website" target="_blank">expressed deep concern</a> over the escalation and threatened sanctions if the offensive continues without adequate humanitarian provisions. 
+              </p>
+              <p style="font-size: 16px; line-height: 1.5">
+          The operation signals a long-term Israeli presence in Gaza, raising concerns about the future governance of the territory. PM Benjamin Netanyahu faces domestic criticism for failing to prioritize the captive returns. He discussed the possibility of permanently displacing Gaza’s population. 
+              </p>
+               <p style="font-size: 16px; line-height: 1.5">
+         However, Israel could face economic strain as the US shifts from a “special relationship” to a more transactional, multipolar Middle East policy. The operation draws its name from the biblical story of Gideon, who defeated a larger enemy force using just 300 men.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The UK and EU have agreed to a post-Brexit reset covering trade, fishing, defense, and energy cooperation</strong>. A key part of the agreement extends the EU waterway to British fishing waters until 2038, in exchange for easing trade barriers on food and agricultural imports, and providing more gateways for British passport holders to automated controls at EU borders. The agreement could boost the UK economy by nearly £9B by 2040 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-ga-br1-1-10-brexit-reverse?source=website" target="_blank">Brexit reverse</a>).</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>France will build a €400M high-security prison in the Amazon jungle of French Guiana to isolate drug traffickers and radical Islamists</strong>. Set to open by 2028 in Saint-Laurent-du-Maroni, the prison will hold up to 500 people, with a separate wing designed to house the most dangerous criminals. This follows recent violent attacks on French jails and prison staff (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-ga-br2-1-11-jungle-jail?source=website" target="_blank">jungle jail</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Shares of China’s biggest battery maker, CATL, jumped over 18% in their Hong Kong debut</strong>, showing strong investor interest from the growing electric vehicle market. The company raised $4.6B from the trade to build a factory in Hungary to supply European car makers. Despite tariff concerns and a fall in revenue last year, their gains increased by 15% (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-b&m-br3-1-12-cell-sell?source=website" target="_blank">cell sell</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The US Senate advanced the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-b&m-br4-1-13-genius-bill?source=website" target="_blank">GENIUS bill</a> to regulate stablecoins</strong>, the cryptocurrencies tied to stable assets like the US dollar. After failing to gain support earlier, the revised bill cleared a key 60-vote hurdle on Monday, moving it toward final debate and a vote. It requires stablecoin issuers to hold full reserves, comply with anti-money laundering laws, and follow strict consumer protections (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-b&m-br4-2-14-coin-control?source=website" target="_blank">coin control</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Nippon Steel wants to invest $14B in US Steel, including $4B to build a steel mill, provided the Trump administration approves the takeover</strong>. The government will review the agreement again by May 21, following national security concerns that had previously blocked it under President Biden. The agreement targets growth from US infrastructure spending and benefits from steel tariffs protecting the domestic market (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-b&m-br5-1-15-steel-drama?source=website" target="_blank">steel drama</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/grok-3-azure-vs-x-models-restrictions-comparison.png" alt="The Grok 3 and Grok 3 mini models in Azure AI Foundry are decidedly more locked down than the Grok models on X" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+        The Grok 3 and Grok 3 mini models in Azure AI Foundry are decidedly more locked down than the Grok models on X. Credits: Getty Images / NurPhoto / Contributor
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Microsoft Azure provides a managed gateway to Grok 3 and Grok 3 Mini AI models developed by Elon Musk’s startup xAI</strong>. Available through Azure AI Foundry, these versions are more secure and enterprise-ready. The versions on Azure are more controlled and come with additional tools for customization, data integration, and governance (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-s&t-br6-1-16-ai-integration?source=website" target="_blank">AI integration</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>India's latest Earth observation satellite mission failed after the rocket’s third stage malfunctioned about six minutes after launch</strong>. The EOS-09 satellite, meant to monitor Earth’s day and night, was lost and didn’t reach its intended orbit. This was to be the ninth mission in India’s Earth Observation Satellite series, critical for national security and border surveillance (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-s&t-br7-1-17-failure-to-launch?source=website" target="_blank">failure to launch</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Scottie Scheffler clinched his first PGA Championship at Quail Hollow, marking his third major title</strong> after Masters wins in 2022 and 2024. Despite early struggles in the final round, he finished strong to secure a five-stroke victory over Bryson DeChambeau and others. Scheffler called the victory “very sweet” and aims for his fourth major at the upcoming US Open (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-s&c-br8-1-18-scheffler-streak?source=website" target="_blank">Scheffler streak</a>).
+</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Denzel Washington received a surprise honorary Palme d’Or at the Cannes Film Festival during the premiere of Spike Lee’s film Highest 2 Lowest</strong>, marking Washington’s first lead role at Cannes and his first festival appearance since 1993. The film is the fifth collaboration between Lee and Washington and an adaptation of Akira Kurosawa’s 1963 classic High and Low (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-s&c-br9-1-19-surprise-wins?source=website" target="_blank">surprise wins</a>).</p>
+                  
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Sesame Street’s latest season is coming to Netflix (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-whatnot-br10-1-20-elmo-and-chill?source=website" target="_blank">Elmo and chill</a>).
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Chatbot counseling, helpful or not? (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-whatnot-br11-1-21-know-more?source=website" target="_blank">know more</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">These brothers hunt down Sicily’s one-euro homes (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-whatnot-br12-1-22-cheap-chateau?source=website" target="_blank">cheap Chateau</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A British man sets a record for the fastest run across Australia (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-whatnot-br13-1-23-record-stride?source=website" target="_blank">record stride</a>).
+            </p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Microsoft employee disrupts CEO speech with pro-Palestine protest (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-lss-whatnot-br14-1-24-nadella-interrupted?source=website" target="_blank">Nadella interrupted</a>).
+            </p>
+            
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1862, US President Abraham Lincoln signed the Homestead Act, offering 160 acres of public land free to settlers who lived on and cultivated it for at least five years.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+           <p style="
+              color:#000;
+              font-size:10px;   
+              line-height: 1.7;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

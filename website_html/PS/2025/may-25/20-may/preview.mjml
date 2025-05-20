@@ -1,0 +1,102 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Header -->
+      <mj-section background-color="#ffffff">
+        <mj-spacer height="10px" />
+        <mj-column padding="10px 12px" width="100%">
+          <mj-spacer height="16px" />
+          <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+          </mj-text> 
+          <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.6;">
+                 Trump-Putin conversation</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                 US Senate advances GENIUS bill</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                 Microsoft employee disrupts CEO's speech</td>
+              </tr>
+          </mj-table>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+        </mj-column>
+      </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Deportation drive</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/venezuela-refugee-crisis-8-million-migrants-2014-unhcr-report.png" alt="According to the UN's refugee agency, almost 8Mn Venezuelans have left their homeland since the crisis began in 2014" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          According to the UN's refugee agency, almost 8Mn Venezuelans have left their homeland since the crisis began in 2014. Credits: AP Photos
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          The US Supreme Court has cleared the way for the Trump administration to end Temporary Protected Status (TPS) for <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h1-1-350-000-venezuelans?source=website" target="_blank">350,000 Venezuelans</a>. TPS allows people from nations experiencing war, natural disasters, or other crises to stay and work legally in the US. This ruling overturns a California court’s decision, temporarily blocking the policy change.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      Initially, protections for Venezuelans were set to end in October 2026, but the administration has moved that deadline up to April 2025. Since it was an emergency appeal, the justices did not provide a reasoning for the ruling. The sudden shift could abandon many without judicial status, employment, or protection. In August, the Trump administration is also expected to revoke TPS protections for many Haitians.</p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+       Meanwhile, the administration has launched a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-20-may-25-spotlight-h1-2-voluntary-deportation-program?source=website" target="_blank">“voluntary deportation” program</a>. Under the initiative, the US government flew 68 migrants back to Honduras and Colombia. Each received a $1,000 debit card and was told they may be eligible to apply for judicial reentry. While Trump has promised to ramp up deportations, this program is framed as a softer, more controlled approach.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
