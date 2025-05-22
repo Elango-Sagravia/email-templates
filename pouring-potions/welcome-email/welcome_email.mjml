@@ -4,7 +4,7 @@
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
 
-    <mj-style>.button-style:hover { background-color: #000 !important; color: #fff !important; } </mj-style>
+    <mj-style>.button-style:hover { background-color: #2d7139 !important; color: #fff !important; } </mj-style>
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
@@ -19,19 +19,19 @@
       <mj-column  padding="10px 12px 0px 12px" width="100%"> 
       <mj-spacer height="22px" />
 
-        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.pouringpotions.com/logo.png" href="https://www.pouringpotions.com/logo.png" alt="" />
 
       <mj-spacer height="8px" />
 
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
-        <mj-text padding="10px 2px 10px 2px" font-family="Roboto+Serif" color="#000000">
+        <mj-text padding="10px 2px 10px 2px" font-family="Roboto+Serif" color="#2d7139">
           <p style="
               font-size: 16px;
               line-height: 1.4;
               margin-top:2px;
             "><i>“They say an apple a day keeps the doctor away. Personally, we recommend apples and a sense of humor.”</i></p>
         </mj-text>
-        <mj-text padding="0px 2px 10px 2px" font-family="Roboto+Serif" color="#000000" align="right">
+        <mj-text padding="0px 2px 10px 2px" font-family="Roboto+Serif" color="#2d7139" align="right">
           <p style="
               font-size: 16px;
               line-height: 1;
@@ -51,7 +51,7 @@
 
     <mj-section background-color="#ffffff"  >
       <mj-column  padding="0px 12px 6px 12px" width="100%"> 
-        <mj-text padding="0px 2px 10px 2px" font-family="Roboto+Serif" color="#000000" >
+        <mj-text padding="0px 2px 10px 2px" font-family="Roboto+Serif" color="#2d7139" >
           <p style="
               font-size: 16px;
               line-height: 1.4;
@@ -72,8 +72,8 @@
               width: 150px; 
               margin: 0 auto;
               border-radius: 50px;
-              border:1px solid #000;
-              color: #000;
+              border:1px solid #2d7139;
+              color: #2d7139;
               text-decoration: none;" 
               href="https://www.presidentialsummary.com/" 
               target="_blank"
@@ -86,7 +86,7 @@
       <mj-column background-color="#ffffff" width="100%">
         <mj-text padding="0px 28px 20px 28px" font-family="Roboto">
           <h2 style="
-          color: green;
+          color: #2d7139;
             text-align: left;
               font-size: 22px;
               line-height: 1.2;
@@ -101,15 +101,15 @@
       <mj-column>
       <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 28px 10px 28px" style=" width:100%;">
               <tr >
-                <td style="font-size:24px; width:20px; vertical-align: top; padding-right:22px;line-height:1.6; "><span style="background-color:green; padding:6px 16px; border-radius:80px;color:#fff;">1</span></td>
-                <td style="font-size:16px;line-height:1.6;padding-bottom:20px;color:green;">
+                <td style="font-size:24px; width:20px; vertical-align: top; padding-right:22px;line-height:1.6; "><span style="background-color:#2d7139; padding:6px 16px; border-radius:60%;color:#fff;">1</span></td>
+                <td style="font-size:16px;line-height:1.6;padding-bottom:20px;color:#2d7139;">
                 <strong>Fresh, Science backed insights</strong><br/>
                 Each of our newsletters are carefully crafted,<br/>
                 So that there is no damn thing that would go missed by you Or nothing that you cannot understand, trust me you will have<br/>fun while reading, thats the goal. </td>
               </tr>
               <tr>
-                <td style="font-size:24px; width:20px; vertical-align: top; padding-right:22px; line-height:1.6; "><span style="background-color:green; padding:6px 16px; border-radius:80px;color:#fff;">2</span></td>
-                <td style="font-size:16px;line-height:1.5;line-height:1.6;color:green;"><strong>Content shaped by you</strong><br/>Suggest topics, Ask questions by emailing us on<br/>newsletter<a href="mailto:@pouringpotions.com" target="_blank">@pouringpotions.com</a>, we create what matters most to you.<br/></td>
+                <td style="font-size:24px; width:20px; vertical-align: top; padding-right:22px; line-height:1.6; "><span style="background-color:#2d7139; padding:6px 16px; border-radius:60%;color:#fff;">2</span></td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;color:#2d7139;"><strong>Content shaped by you</strong><br/>Suggest topics, Ask questions by emailing us on<br/><a href="mailto:newsletter@pouringpotions.com" target="_blank">newsletter@pouringpotions.com</a>, we create what matters most to you.<br/></td>
               </tr>
               
           </mj-table>
@@ -120,40 +120,23 @@
     <mj-section background-color="#ffffff">
       <mj-column>
       <mj-spacer height="26px"></mj-spacer>
-      <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/palestinian-flag-during-israel-eurovision-rehearsal-2025.png" alt="A visitor holds up a Palestinian flag during Yuval Raphael's performance for Israel during the final rehearsal for the second semifinal of the Eurovision Song Contest" href="https://www.presidentialsummary.com" />
+      <mj-image padding="0px 0px" width="600px" src="https://www.pouringpotions.com/welcome-email.png" alt="welcome email" />
       <mj-spacer height="20px"></mj-spacer>
       <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 10px" />
       <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#2d7139">
           <p style="font-size: 16px; line-height: 1.4"><strong>How often you will see us : Every Thursday & Sunday.</strong></p>
           <p style="font-size: 16px; line-height: 1.4">No nonsense emailing. No fluff. Just smarter, stronger living, twice a week.</p>
           <p style="font-size: 16px; line-height: 1.4">Welcome aboard, our journey to smarter health begins !</p>
         </mj-text>
         <mj-spacer height="10px"></mj-spacer>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#2d7139">
           <p style="font-size: 16px; line-height: 1.4;">Stay curious,<br/>Stay strong.</p>
           <p style="font-size: 16px; line-height: 1.4;padding-top:6px;"><i>Twinkle<br/>CEO and Founder<br/>Pouring Potions.</i></p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
-    
-     <!-- Spotlight 3-->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="20px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color: #000;
-            text-align: center;
-              font-size: 22px;
-              line-height: 1.2;
-              font-weight: 300;
-              
-            ">Social media Follows  </h2>
-        </mj-text>
-      </mj-column>
-    </mj-section>
 
     <!-- Spotlight contents-->
 
@@ -167,8 +150,8 @@
       <mj-social-element 
         padding="12px 12px"
         icon-size="30px"
-        href=" https://www.facebook.com/profile.php?id=61562652791256"
-        src="https://www.presidentialsummary.com/icons/social/facebook.png"
+        href="https://www.facebook.com/people/Pouring-Potions/61573169005142/"
+        src="https://www.pouringpotions.com/icons/social/facebook.png"
        >
       </mj-social-element>
 
@@ -176,8 +159,8 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href=" https://x.com/presidentialsum"
-        src="https://www.presidentialsummary.com/icons/social/x.png"
+        href="https://x.com/PouringPotions"
+        src="https://www.pouringpotions.com/icons/social/x.png"
         >
       </mj-social-element>
 
@@ -185,30 +168,23 @@
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://www.instagram.com/presidentialsummary/"
-        src="https://www.presidentialsummary.com/icons/social/instagram.png">
+        href="https://www.instagram.com/pouringpotions.read/"
+        src="https://www.pouringpotions.com/icons/social/instagram.png">
       </mj-social-element>
 
       <!-- Reddit Icon -->
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://www.reddit.com/user/PresidentialSummary/"
-        src="https://www.presidentialsummary.com/icons/social/reddit.png"
+        href="https://www.pinterest.com/pouringpotions/"
+        src="https://www.pouringpotions.com/icons/social/pinterest.png"
         >
       </mj-social-element>
       <mj-social-element 
       padding="12px 12px"
         icon-size="30px"
-        href="https://www.linkedin.com/showcase/presidentialsummary/"
-        src="https://www.presidentialsummary.com/icons/social/linkedin.png"
-        >
-      </mj-social-element>
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href=" https://www.threads.net/@presidentialsummary"
-        src="https://www.presidentialsummary.com/icons/social/threads.png"
+        href="https://www.threads.com/@pouringpotions.read?xmt=AQGztONnqZXbYBN1wljX2kho6TVq38mZxZAPHibzt9odsCU"
+        src="https://www.pouringpotions.com/icons/social/threads.png"
         >
       </mj-social-element>
     </mj-social>
@@ -224,8 +200,8 @@
        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
         <mj-text 
         padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
-          <p style="font-size: 12px; color: #000; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="font-size: 12px; color: #000; line-height: 2">
+          <p style="font-size: 12px; color: #2d7139; line-height: 2"> Interested in connecting with curious, informed readers? <a href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="font-size: 12px; color: #2d7139; line-height: 2">
             <a href="https://www.presidentialsummary.com/unsubscribe?email=test@test.com&user_id=%user_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
         </mj-text>
@@ -234,20 +210,20 @@
 
     <mj-section background-color="white">
       <mj-column width="25%" vertical-align="middle">
-       <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+       <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.pouringpotions.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
       </mj-column>
       <mj-column width="75%" vertical-align="middle">
        <mj-text>
        <p style="
           margin-top:25px;
           text-align:center;
-          font-size: 10px; color: #667085; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
+          font-size: 10px; color: #2d7139; line-height: 1.5"> 30 <span>N</span> <span>Gould</span>
             <span>St, Ste N, Sheridan, WY 82801, United States</span>
           </p>
           <p style="   
            margin-bottom:14px;
            text-align:center;
-           font-size: 10px; color: #667085; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+           font-size: 10px; color: #2d7139; line-height: 0"> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
        </mj-text>
       </mj-column>
     </mj-section>
