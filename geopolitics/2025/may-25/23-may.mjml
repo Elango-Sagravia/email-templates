@@ -13,10 +13,10 @@
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
-    <mj-section background-color="#ffffff">
+    <mj-section background-color="#ffffff"> 
       <mj-spacer height="10px" />
       <mj-column padding="10px 12px" width="100%">
-        <mj-spacer height="16px" />
+        <mj-spacer height="16px" /> 
         <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
         <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
