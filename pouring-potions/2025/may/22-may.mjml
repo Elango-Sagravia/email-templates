@@ -213,19 +213,47 @@
        
         <mj-spacer height="40px"></mj-spacer>
         <mj-social font-size="15px" mode="horizontal">
-          <!-- Facebook Icon -->
-          <mj-social-element padding="12px 10px" icon-size="26px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.pouringpotions.com/icons/social/facebook.png">
-          </mj-social-element>
-          <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 10px" icon-size="26px" href=" https://x.com/presidentialsum" src="https://www.pouringpotions.com/icons/social/x.png">
-          </mj-social-element>
-          <!-- Instagram Icon -->
-          <mj-social-element padding="12px 10px" icon-size="26px" href="https://www.instagram.com/presidentialsummary/" src="https://www.pouringpotions.com/icons/social/instagram.png">
-          </mj-social-element>
-          <!-- <mj-social-element padding="12px 10px" icon-size="26px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.pouringpotions.com/icons/social/linkedin.png">
-          </mj-social-element> -->
-          <mj-social-element padding="12px 10px" icon-size="26px" href="https://www.threads.net/@presidentialsummary" src="https://www.pouringpotions.com/icons/social/threads.png">
-          </mj-social-element>
+           <!-- Facebook Icon -->
+      <mj-social-element 
+        padding="12px 12px"
+        icon-size="30px"
+        href="https://www.facebook.com/people/Pouring-Potions/61573169005142/"
+        src="https://www.pouringpotions.com/icons/social/facebook.png"
+       >
+      </mj-social-element>
+
+      <!-- X (Twitter) Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://x.com/PouringPotions"
+        src="https://www.pouringpotions.com/icons/social/x.png"
+        >
+      </mj-social-element>
+
+      <!-- Instagram Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://www.instagram.com/pouringpotions.read/"
+        src="https://www.pouringpotions.com/icons/social/instagram.png">
+      </mj-social-element>
+
+      <!-- Reddit Icon -->
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://www.pinterest.com/pouringpotions/"
+        src="https://www.pouringpotions.com/icons/social/pinterest.png"
+        >
+      </mj-social-element>
+      <mj-social-element 
+      padding="12px 12px"
+        icon-size="30px"
+        href="https://www.threads.com/@pouringpotions.read?xmt=AQGztONnqZXbYBN1wljX2kho6TVq38mZxZAPHibzt9odsCU"
+        src="https://www.pouringpotions.com/icons/social/threads.png"
+        >
+      </mj-social-element>
         </mj-social>
         <mj-text padding="10px 46px" font-family="Arial, Helvetica, sans-serif">
           <p style="
