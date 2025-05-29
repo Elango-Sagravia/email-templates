@@ -1,0 +1,492 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3"> 
+    <mj-spacer height="15px"></mj-spacer>   
+    <!-- Header -->
+      <mj-section background-color="#ffffff">
+        <mj-spacer height="10px" />
+        <mj-column padding="10px 12px" width="100%">
+          <mj-spacer height="16px" />
+          <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+            <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Did you know the President of the United States receives a top-secret briefing on national security every morning?</p>
+            <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+          </mj-text> 
+          <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.6;">
+               Musk exits DOGE</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                 Reed Hastings joins Anthropic</td>
+              </tr>
+              <tr>
+                <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+                <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+                DeepSeek’s updated AI model</td>
+              </tr>
+          </mj-table>
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+        </mj-column>
+      </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">
+           Judiciary blocks tariffs</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/us-court-international-trade-stops-trump-global-tariffs.jpg" alt="A three-judge panel at the US Court of International Trade, a relatively low-profile court in Manhattan, stopped Trump’s global tariffs" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          A three-judge panel at the US Court of International Trade, a relatively low-profile court in Manhattan, stopped Trump’s global tariffs. Credits: Chip Somodevilla/Getty Images
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         A US <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h1-1-us-court-blocked?source=website" target="_blank">federal court blocked</a> President Trump’s extensive global tariffs, ruling that he overstepped his authority under the 1977 International Emergency Economic Powers Act (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h1-2-ieepa?source=website" target="_blank">IEEPA</a>). The court ordered a 10-day window for a permanent injunction, potentially grinding Trump’s global tariffs to a halt. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           The court alleged that the Trump administration has not met the criteria to invoke IEEPA. The court concurred that Trump lacked the authority to impose tariffs even after declaring a national emergency. Two separate lawsuits challenged the tariffs: one from the nonpartisan Liberty Justice Center on behalf of <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h1-3-small-import-businesses?source=website" target="_blank">small import businesses</a>, and another from a coalition of <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h1-4-12-us-state?source=website" target="_blank">12 US state</a> governments.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+         The court ruling halts Trump’s 30% tariffs on China, 25% tariffs on goods imported from Mexico and Canada, and the 10% universal tariffs on goods coming into the United States. However, it does not affect the 25% tariffs on autos, auto parts, steel, or aluminum, which were liable under Section 232 of the Trade Expansion Act. </p>
+         <p style="font-size: 16px; line-height: 1.5">
+        Meanwhile, the Department of Justice lawyers argued that the tariffs are a political question and the courts can’t decide. The Trump administration appealed the decision, leaving the situation uncertain for consumers and companies. If the ruling is ultimately upheld, businesses that paid tariffs could be entitled to refunds with interest.</p>
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+ 
+<!-- primary ad -->
+ <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+      <mj-raw> 
+        <a href="https://link.presidentialsummary.com/ps-29-may-2025-p-ad-A30?source=website" target="_blank" style="color:black">
+    </mj-raw>
+        <mj-column>
+        <mj-spacer height="14px"/>
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+              <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+          <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+            <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Unleash strength, defy the burn</h2>
+              </mj-text>
+              <mj-spacer height="12px"/>
+          <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/29-may-2025-A30.png" alt="A30"/>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            Push past limits, train with might,<br/>
+            Beta-Alanine fuels your fight.</p>
+            <p style="font-size: 16px; line-height: 24px">
+           Endurance high, fatigue stays low,<br/>
+           Stronger muscles start to grow.</p>
+            <p style="font-size: 16px; line-height: 24px">
+            Vegan, tested, clean and assured,<br/>
+          Peak strength gains, fully secured!</p>
+          </mj-text>
+          <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+           Get yours before it’s gone</a></p>
+            </mj-text>
+            <mj-spacer height="10px" />
+        </mj-column>
+  <mj-raw>
+    </a>
+  </mj-raw>
+  </mj-section>
+<!-- primary ad -->
+
+    <mj-spacer height="10px" />
+
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-spacer height="20px" />
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 Musk exits DOGE
+            </h2>
+            </mj-text>
+            <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/elon-musk-doge-departure-government-efficiency-trump.jpg" alt="Musk called for the DOGE mission to become a way of functioning throughout the government and thanked Trump" href="https://www.presidentialsummary.com" />
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+              <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           Musk called for the DOGE mission to become a way of functioning throughout the government and thanked Trump. Credits: The Washington Post</i></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+             Elon Musk has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h2-5-officially-stepped-down?source=website" target="_blank">officially stepped down</a> from his 114-day role as a special government employee at the White House. Musk’s departure came just after <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h2-6-he-criticized?source=website" target="_blank">he criticized</a> the “One Big Beautiful Bill Act,” which he said clashed with DOGE’s expense-cutting mission. The bill is projected to add $2.3T to the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h2-7-federal-deficit?source=website" target="_blank">federal deficit</a> over the next decade, with some models estimating up to $3.8T.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+           His time at DOGE was turbulent. The initiative carried out 260,000 layoffs, including key personnel in healthcare and education. Major unions accused DOGE of unconstitutional actions and unauthorized data collection. Meanwhile, 14 US states sued Musk and DOGE for overstepping judicial boundaries and undermining key government functions.
+           </p>
+             <p style="font-size: 16px; line-height: 1.5">
+         He will focus on his companies as <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h2-8-tesla-stock-dropped?source=website" target="_blank">Tesla stock dropped</a> nearly 50% from its December peak. His public image suffered as his car dealerships became the targets of protests and vandalism. Once the poster boy of the Trump administration, he will have an unceremonious departure, as he <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-05-2025-thanked-trump?source=website" target="_blank">thanked Trump</a> in his X post. </p>
+         <p style="font-size: 16px; line-height: 1.5">
+         Musk initially set out to cut upward of $2T through the initiative. However, the DOGE website asserts $175B in savings, though the numbers are questionable. While Musk said DOGE will continue to operate, its future remains unclear. </p>
+            </mj-text>
+            <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          </mj-column>
+        </mj-section>
+        <!-- Content sections -->
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">    
+       Trade wars hit jobs
+    </h2>
+            </mj-text>
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 18px; line-height: 1.5"><strong>
+           Summary: The US-China trade tension will result in the loss of 7Mn jobs.</strong></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+           The International Labor Organization (ILO) expects 53Mn jobs to be created in 2025, 7Mn <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h3-9-less-than-original-projections?source=website" target="_blank">less than original projections</a>. This drop is primarily due to the US-China trade war, which intensified under President Trump and is slowing the global economy. The ILO uses the International Monetary Fund's (IMF) latest outlook to inform its predictions, which have recently been revised downward from 3.2% to 2.8%.</p>
+              <p style="font-size: 16px; line-height: 1.5">
+           The <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h3-10-ilo-says?source=website" target="_blank">ILO states</a> that 84Mn jobs across 71 countries are linked either directly or indirectly to US consumer spending and liabilities. Of those, around 56Mn jobs are in the Asia-Pacific region, due to its manufacturing and export relationships. In North America, more than 13Mn jobs in Canada and Mexico are also vulnerable due to their trade links under <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-spotlight-h3-11-usmca?source=website" target="_blank">USMCA</a>. 
+              </p>
+              <p style="font-size: 16px; line-height: 1.5">
+         Employers are growing cautious about hiring as the erratic trade and tariff landscape makes it hard for global companies to plan hiring, production, or long-term capital allocation. Additionally, in countries with weaker safety nets, workers are being pushed into informal jobs, gig work, or even unemployment. This shift increases the risk of wage stagnation and could exacerbate salary inequality, particularly in already vulnerable economies.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+
+
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>EU Foreign Policy Chief Kaja Kallas warned that the bloc is ready to impose sanctions on China over a cyberattack</strong> targeting the Czech Republic's Ministry of Foreign Affairs. They allege that since 2022, APT31, linked to China’s intelligence services, has targeted critical infrastructure. However, the specifics of any punitive measures remain unclear and would require unanimous approval from all 27 member states (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-ga-br1-1-12-cyber-clash?source=website" target="_blank">cyber clash</a>).</p>
+                    
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Mexico is holding its first-ever judicial elections on Sunday</strong>, with many judges and all nine Supreme Court seats chosen by popular vote instead of appointment. Supporters say this will make courts more democratic and accountable, but critics fear it could allow politicians or criminal groups to influence the judiciary (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-ga-br2-1-13-voting-for-justice?source=website" target="_blank">voting for justice</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>SHEIN is shifting its IPO plans from London to Hong Kong after Chinese regulators delayed approval for the London listing</strong>. The London IPO faced complications from allegations of forced labor linked to China’s Xinjiang region and political tensions with the US. SHEIN’s valuation is expected to decline due to tariffs and changing trade rules (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-b&m-br3-1-14-ipo-detour?source=website" target="_blank">IPO detour</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The Trump administration directed US chip design software suppliers to halt selling to Chinese companies</strong>, aiming to hinder China’s progress. This move targets firms, including Cadence, Synopsys, and Siemens EDA, which control about 80% of China’s chip design market. The affected items include semiconductor design software, chemical compounds like butane and ethane, industrial machinery, and aviation-related equipments
+ (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-b&m-br4-1-15-design-battle?source=website" target="_blank">design battle</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Reed Hastings, co-founder and former CEO of Netflix, joined the board of AI startup Anthropic</strong>. Hastings supports Anthropic’s mission to develop AI responsibly, addressing its social and safety challenges, and minimizing the negative impacts of AI. The company recently launched its Claude 4 AI models (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-b&m-br5-1-16-hastings-on-board?source=website" target="_blank">Hastings on board</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+
+  
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ancient-whale-diet-vs-modern-whales-bone-chemistry-analysis.jpg" alt="Chemical data extracted from the bones suggest that the feeding habits of these ancient whales differed slightly from those of their modern counterparts" href="https://www.presidentialsummary.com" />
+         <mj-text padding="0px 12px 4px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+       Chemical data extracted from the bones suggest that the feeding habits of these ancient whales differed slightly from those of their modern counterparts. Credits: Alexandre Lefebvre
+</i></p>
+        </mj-text>
+
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Researchers uncovered some of the oldest whale bone tools, dating back 19,000 to 20,000 years</strong>, near Spain’s Bay of Biscay, using advanced techniques like mass spectrometry and radiocarbon dating. These tools came from at least five large whale species, including sperm, fin, blue, and gray whales. The study also revealed ancient whales’ feeding habits, offering insights into past marine ecosystems (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-s&t-br6-1-17-tool-tales?source=website" target="_blank">tool tales</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>DeepSeek released an updated version of its R1 reasoning AI model</strong> on the popular developer platform, Hugging Face. This version is available under a permissive MIT license for commercial use. The update is described as minor with 685Bn parameters. Without modification, the model likely can’t run on consumer-grade hardware (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-s&t-br6-2-18-power-up-model?source=website" target="_blank">power up model</a>).</p>
+                    
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Quinta Brunson, creator and star of <i>Abbott Elementary</i>, was honored with a key to Philadelphia and a mural at her former school</strong>, Andrew Hamilton. The school inspired the setting of her hit show, and students and staff contributed to the mural, titled "Blooming Features." Brunson insisted it feature actual community members instead of actors to highlight local pride (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-s&c-br7-1-19-philly-s-pride?source=website" target="_blank">Philly’s pride</a>).
+</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Chelsea bagged their first-ever UEFA Conference League title with a 4-1 comeback victory over Real Betis</strong>. Trailing 1-0 at halftime after a sloppy goal and booed by fans, they turned it around because of Cole Palmer’s two brilliant assists to Enzo Fernández and Nicolas Jackson. Jadon Sancho and Moisés Caicedo added goals, sealing Chelsea’s first major trophy since 2022 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-s&c-br8-1-20-watch-game-highlights?source=website" target="_blank">watch game highlights</a>).</p>
+                  
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">10 best TV shows to watch this June (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-whatnot-br9-1-21-see-the-list?source=website" target="_blank">see the list</a>).
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Beatboxing and move busting nuns go viral (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-whatnot-br10-1-22-watch-video?source=website" target="_blank">watch video</a>). 
+</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Japan bans flashy baby names like Pikachu and Nike (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-whatnot-br11-1-23-read-why?source=website" target="_blank">read why</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The controversial Eminem album that shook the ’00s (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-whatnot-br11-2-24-shady-shocked?source=website" target="_blank">shady-shocked</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Denmark helps stressed students recharge with nature study breaks (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-29-may-25-lss-whatnot-br11-3-25-lessons-under-trees?source=website" target="_blank">lessons under trees</a>).
+            </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1953, Edmund Hillary and Tenzing Norgay became the first climbers to successfully reach the summit of Mount Everest, the world's highest mountain.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+           <p style="
+              color:#000;
+              font-size:10px;   
+              line-height: 1.7;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
