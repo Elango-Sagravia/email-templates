@@ -1,0 +1,96 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+       
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+         
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">
+          Reviving oil wells: Hilcorp turns trash into treasure</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+        Crude awakening
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        Around the world, and especially in the US, oil wells follow a familiar cycle: discovery, exploratory drilling, infrastructure development, extraction, and ultimately, abandonment. That last step usually arrives when production begins to decline and the well is no longer environmentally or economically viable. For big oil players like ExxonMobil, Chevron, Shell, or BP, it's often not worth the effort to keep a tired old well running. So, they walk away. 
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/jeffrey-hildebrand-carbon-capture-project-opening-2017-fort-bend-county-houston.jpg" alt="text: Jeffrey Hildebrand attends the 2017 opening ceremony for a carbon-capture project in Fort Bend County, southwest of Houston" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            Jeffrey Hildebrand attends the 2017 opening ceremony for a carbon-capture project in Fort Bend County, southwest of Houston. Credits: Paul Ladd/Associated Press</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            But Jeffery Hildebrand saw potential where others saw dead ends. In 1989, he co-founded <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-31-05-2025-hilcorp-energy-company?source=website" target="_blank">Hilcorp Energy Company</a>, a business built around acquiring and reviving mature oil and gas fields that the majors had deemed unprofitable. The company’s early strategy focused on acquiring aging assets in regions such as Texas, Louisiana, and Mississippi, which were characterized by old wells and overlooked potential. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+         Hilcorp based its business model around smart engineering and ruthless efficiency. The company extends the vitality of old wells by utilizing a suite of <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-31-05-2025-enhanced-oil-recovery?source=website" target="_blank">enhanced oil recovery</a> techniques, combined with effective operations and strategic investments. They kept their wells productive by clearing out debris, such as sand and mineral buildup, replacing worn-out parts, and upgrading equipment.
+          </p>
+         
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
