@@ -3,21 +3,9 @@
     <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
-
-    <!-- <mj-style>
-    a.button:hover {
-      background: #ffffff !important;
-      color: #102341 !important;
-      
-    }
-  </mj-style> -->
+    <mj-preview>Wanna bet it takes less than 5 seconds?</mj-preview>
   </mj-head>
   <mj-body background-color="#f0f1f3">
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden;">Wanna bet it takes less than 5 seconds?</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
      
     <!-- Logo Header --> 
@@ -119,7 +107,7 @@
           <p style="font-size: 16px; line-height: 1.4;">
             <strong>Apple Mail users:</strong> Tap our email address at the top (next to "From:" on mobile) and select "Add to VIPs."
           </p> 
-          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.dubaisummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a></strong>. </p>
+          <p style="font-size: 16px; line-height: 1.4;"> For everyone else, check out our safelist instructions <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.dubaisummary.com/general/ensure-our-newsletter-reaches-your-inbox" target="_blank">here</a>. </p>
         </mj-text>
       </mj-column>
     </mj-section>
@@ -133,12 +121,12 @@
               color:#000;
               font-size:12px;
               line-height: 2;
-            "> <strong>Send us your feedback</strong> at <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="mailto:readers@dubaisummary.com" target="_blank">readers@dubaisummary.com</a>. </p>
+            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="mailto:readers@dubaisummary.com" target="_blank">readers@dubaisummary.com</a>. </p>
           <p style="
               color:#000;
               font-size:12px;
               line-height: 2; 
-            "> <strong>Interested in connecting with curious, informed readers?</strong> <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.dubaisummary.com/advertise" target="_blank">Advertise with us</a>.</p>
+            ">Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.dubaisummary.com/advertise" target="_blank">Advertise with us</a>.</p>
           <p style="
               color:#000;
               font-size:12px;   
