@@ -4,14 +4,14 @@
     <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
-  <mj-body background-color="#f0f1f3"> 
+  <mj-body background-color="#f0f1f3">  
     <mj-raw> 
       <div style="display: none; max-height: 0px; overflow: hidden;">
                  <span>+</span> Dubai’s plan</div>
       <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
-    <mj-spacer height="15px"></mj-spacer>   
+    <mj-spacer height="15px"></mj-spacer>    
     <!-- Header -->
       <mj-section background-color="#ffffff">
         <mj-spacer height="10px" />
@@ -21,12 +21,12 @@
           <mj-image width="1px" src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
           <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
           <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
-
+<!-- 
             <p style="
             color: #102341;
                 font-size: 16px;  
                 line-height: 1.5;
-              "><strong>Thursday, June 12, 2025</strong></p>
+              "><strong><i>Thursday, June 12, 2025</i></strong></p> -->
           </mj-text> 
           <mj-image border-radius="10px" padding="10px 0px" width="600px" src="https://www.dubaisummary.com/email/images/weather.jpg" alt="Calling the conversation “very good,” Trump said in a social media post after the call that follow-up talks would soon be arranged with his economic team" href="https://www.dubaisummary.com" />
           <mj-text  padding="10px 2px" font-family="Roboto+Serif" color="#000000">
@@ -173,7 +173,7 @@
         🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.coca-cola-arena.com/music/1206/abida-parveen" target="_blank">Book tickets</a>
               </p>
         </mj-text>
-      <mj-divider  border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 4px 12px" /> 
+      <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
         <!-- ------ -->
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
             <h2 style="              
@@ -182,7 +182,7 @@
             font-weight: 400;
             margin-top: 2px !important;">    
             The Little Mermaid (family musical show)
-            </h2>
+            </h2> 
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
               <p style="font-size: 16px; line-height: 1.5">
@@ -197,7 +197,7 @@
         🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://dubai.platinumlist.net/event-tickets/98965/the-little-mermaid-at-the-raj-mahal-theatre-in-dubai-parks-and-resorts" target="_blank">Book tickets</a>
               </p>
         </mj-text>
-      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 4px 12px" />
+      <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
         <!-- ------ -->
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
             <h2 style="              
@@ -207,7 +207,7 @@
             margin-top: 2px !important;">    
             Basketball Champions League Asia Finals (sports tournament)
             </h2>
-        </mj-text>
+        </mj-text> 
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
               <p style="font-size: 16px; line-height: 1.5">
           Watch the top basketball clubs from across Asia compete in the finals of the Basketball Champions League Asia 2025.</p>
@@ -340,7 +340,7 @@
          <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.glassdoor.com/job-listing/customer-service-representative-loom-collection-JV_IC2204498_KO0,31_KE32,47.htm?jl=1009765685470" target="_blank">Apply here</a>
               </p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
         <!-- ----- -->
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
         <h2 style="              
@@ -361,7 +361,7 @@
          <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.glassdoor.com/job-listing/human-resources-hr-manager-real-estate-golden-crown-real-estate-l-l-c-JV_IC2204498_KO0,38_KE39,69.htm?jl=1009682251997" target="_blank">Apply here</a>
               </p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+       <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
         <!-- --- -->
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
         <h2 style="              
