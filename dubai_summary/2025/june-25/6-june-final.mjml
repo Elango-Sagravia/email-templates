@@ -13,7 +13,7 @@
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer>    
     <!-- Header -->
-      <mj-section background-color="#ffffff">
+      <mj-section background-color="#ffffff" padding-bottom="0px">
         <mj-spacer height="10px" />
         <mj-column padding="10px 12px" width="100%">
           <mj-spacer height="16px" />
@@ -41,7 +41,6 @@
                 margin-bottom: 0px;
               ">Was this email forwarded to you? <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://www.dubaisummary.com/" target="_blank">Join Dubai Summary</a>.</p>
           </mj-text>
-          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
         </mj-column>
       </mj-section>
     <!-- Header -->
@@ -510,7 +509,7 @@
               color: #667085;
               line-height: 0;
               margin-bottom:14px;
-            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+            ">Copyright © 2025 Summary Media FZ-LLC, All rights reserved.</p>
         </mj-text>
       </mj-column>
     </mj-section>
