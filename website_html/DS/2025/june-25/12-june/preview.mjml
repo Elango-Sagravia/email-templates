@@ -1,0 +1,135 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">  
+
+    <mj-spacer height="15px"></mj-spacer>    
+    <!-- Header -->
+      <mj-section background-color="#ffffff" padding-bottom="0px">
+        <mj-spacer height="10px" />
+        <mj-column padding="10px 12px" width="100%">
+          <mj-spacer height="16px" />
+          <mj-image padding="10px 12px" css-class="light_img" width="140px" src="https://www.dubaisummary.com/logo-grey.png" href="https://www.dubaisummary.com" alt="" />
+          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          </mj-text> 
+<!-- weather image -->
+          <mj-image border-radius="10px" padding="10px 0px" width="600px" src="https://www.dubaisummary.com/email/images/dubai-weather-39-degrees-june-12.jpg" alt="Dubai heats up to 39°C on a sunny Thursday, June 12" href="https://www.dubaisummary.com" />
+
+          <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+          </mj-text>
+
+          <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;">
+            The laughter factory</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            Explore careers</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> 
+            A move that turned Dubai into a trading hub</td>
+          </tr>
+        </mj-table>
+
+        </mj-column>
+      </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->  
+
+    <mj-spacer height="10px" /> 
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#102341;
+            text-align: left;
+            border-bottom:2px solid #102341; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>   
+        </mj-text>
+      </mj-column>
+    </mj-section> 
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">
+          The world’s highest metro station</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/dubai-metro-blue-line-expansion-30km-14-stations.jpg" alt="The Blue Line will add 30km to the Dubai Metro network, and is set to have 14 stations" href="https://www.dubaisummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          The Blue Line will add 30km to the Dubai Metro network, and is set to have 14 stations. Credits: Khaleej Times
+            </i></p>
+        </mj-text>
+        
+        <mj-text padding="10px 12px 16px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+       Dubai is planning an addition to its skyline, the world’s highest metro station. Designed by the architects behind the Burj Khalifa (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-11-jun-25-spotlight-h1-2-skidmore-owings-merrill?source=website" target="_blank">Skidmore, Owings & Merrill</a>), the Emaar Metro Station will rise 74 metres above ground and will become a part of the city’s upcoming Blue Line. It will open on September 9, 2029, exactly 20 years after Dubai’s first metro line launched.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Sheikh Mohammed, Ruler of Dubai, laid the foundation stone for the Blue Line and officially approved the design of the station. With a three-level layout, pedestrian bridge gateway, and striking vertical lines, the design is described as a “gateway to the future.” </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         Once operational, it’s expected to serve up to 160,000 passengers every day, reinforcing the city’s long-term vision for high-capacity, sustainable public transport.</p>
+         <p style="font-size: 16px; line-height: 1.5">
+        See the design <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-11-jun-25-spotlight-h1-3-here?source=website" target="_blank">here</a>.</p>
+          </mj-text>
+           <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 0px 12px" />
+      </mj-column>
+      </mj-section>
+        <mj-section css-class="mj_section" background-color="#ffffff">
+          <mj-column>
+            <mj-spacer height="16px" />
+            <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+              <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 Money laundering crackdown
+            </h2>
+            </mj-text>
+            <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/uae-article-14-anti-money-laundering-sanctions-2018-law.jpg" alt="The sanctions were under Article (14) of the Federal Decree Law No. (20) of 2018 on Anti-Money Laundering" href="https://www.dubaisummary.com" />
+            <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+              <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           The sanctions were under Article (14) of the Federal Decree Law No. (20) of 2018 on Anti-Money Laundering. Credits: Gulf Insider</i></p>
+            </mj-text>
+            <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 1.5">
+            The UAE has issued fines exceeding Dh339M on monetary institutions as part of a comprehensive effort to strengthen anti-money laundering (AML) enforcement. Recent penalties include Dh12.3M against <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-11-jun-25-spotlight-h3-4-six-exchange-houses?source=website" target="_blank">six exchange houses</a> and Dh200M in earlier actions. Regulators also banned some individuals from working in this sector. </p>
+              <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          This crackdown isn’t restricted to banks. The Central Bank is expanding its oversight to real estate, gold trading, coverage, and auditing. The Ministry of Economy has partnered with the Dubai Police to enhance surveillance. 
+           </p>
+         
+            </mj-text>
+          </mj-column>
+        </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
