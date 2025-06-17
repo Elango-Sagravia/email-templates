@@ -4,174 +4,170 @@
     <!-- <mj-style>
       .social-icon img { width: 28px !important; height: 28px !important; }
     </mj-style> -->
-    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important; border: 1px solid #F9D342 !important;} </mj-style>
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #5452DA !important; border: 1px solid #5452DA !important;} </mj-style>
   </mj-head>
-  <mj-body>  
-    <mj-spacer height="10px" />  
+  <mj-body>
+    <mj-spacer height="10px" />
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
         <mj-spacer height="30px" />
-        <mj-image width="150px" src="https://www.geopoliticalsummary.com/logo-dark.png"  target="_blank" href="https://www.geopoliticalsummary.com/"/>
-        <mj-spacer height="10px" />
-        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px"/>
+        <mj-image width="180px" src="https://www.geopoliticalsummary.com/logo-dark.png" target="_blank" href="https://www.geopoliticalsummary.com/" />
+        <mj-spacer height="20px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px" />
       </mj-column>
-    </mj-section> 
-
+    </mj-section>
     <mj-section padding="0" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-      <mj-spacer height="10px" /> 
-        <mj-image padding="0" width="600px" src="https://www.geopoliticalsummary.com/verify.gif" href="https://www.moviesuggestions.com" alt="gif not there" />
+        <mj-spacer height="10px" />
+        <mj-image padding="0" width="600px" src="https://www.geopoliticalsummary.com/gs-verify.gif" href="https://www.geopoliticalsummary.com/" alt="gif not there" />
       </mj-column>
     </mj-section>
-
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-        <mj-spacer height="20px" />
-        <mj-text padding="0px 12px">  
-          <mj-raw> 
-              <div style="">
-                <div style="background: #000000; mix-blend-mode:screen;">
-                  <div style="background: #000000; mix-blend-mode:difference;">
-                    <h2 style="font-size:40px; font-weight:bold; color:#E7EDF0; line-height:1.2;">Yes, we know.<br /> An email to confirm an<br /> email.</h2>
-                            </div>
-                       </div>
-                     </div>
-                 </mj-raw>
+        <mj-text padding="0px 12px">
+          <mj-raw>
+            <div style="">
+              <div style="background: #000000; mix-blend-mode:screen;">
+                <div style="background: #000000; mix-blend-mode:difference;">
+                  <h2 style="text-align:center;font-size:29px; font-weight:600px; color:#fff; line-height:150%;"> Verify your email</h2>
+                </div>
+              </div>
+            </div>
+          </mj-raw>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-        <mj-spacer height="40px" />
+        <mj-spacer height="10px" />
         <mj-text padding="10px 12px">
-        <mj-raw>
-              <div style="">
-                <div style="background: #000000; mix-blend-mode:screen;">
-                  <div style="background: #000000;  mix-blend-mode:difference;">
-                  <p style="font-size:16px; color: #999999; line-height:1.5;">
-                  Hi there, <br />
-                  <br /> Hit the button below to verify your email and start getting the best movie picks every Friday.
-                  </p>
-                    </div>
-                      </div>
-                        </div>
-                </mj-raw>
+          <mj-raw>
+            <div style="">
+              <div style="background: #000000; mix-blend-mode:screen;">
+                <div style="background: #000000;  mix-blend-mode:difference;">
+                  <p style="width:80%; margin: 0 auto; text-align:center; font-size:16px; color: rgba(255, 255, 255, 0.6); line-height:150%;font-weight:300"> Hit the button below to <span style="color:#fff; font-weight:600">verify</span> your email and start getting your daily dose of Geopolitical Summary. </p>
+                </div>
+              </div>
+            </div>
+          </mj-raw>
         </mj-text>
       </mj-column>
     </mj-section>
-
     <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
         <mj-spacer height="40px" />
         <mj-text align="center">
-        <mj-raw>
-              <div style="">
-                <div style="background: #000000; mix-blend-mode:screen;">
-                  <div style="background: #000000; mix-blend-mode:difference;">
-          <a href="https://www.moviesuggestions.com/" class="button-style" style="
+          <mj-raw>
+            <div style="">
+              <div style="background: #000000; mix-blend-mode:screen;">
+                <div style="background: #000000; mix-blend-mode:difference;">
+                  <a href="https://www.geopoliticalsummary.com/" class="button-style" style="
               
               display: inline-block;
-              width: 40%;
-              padding: 16px;
+              width: 35%;
+              padding: 10px 14px;
               text-decoration: none;
-              color: #080707;
+              color: #ffffff;
               line-height: 1.2;
-              letter-spacing: 1px;
+              letter-spacing: 1.28px;
               text-align: center;
-              text-transform: uppercase;
-              font-size: 18px;
-              font-weight: 700;              
-              background-color: #F9D342;
-              border: 1px solid #F9D342;
-              border-radius: 40px;
+              font-size: 16px;
+              font-weight: 600;              
+              background-color: #5452DA;
+              border: 1px solid #5452DA;
+             
               ">Verify</a>
+                </div>
               </div>
-                      </div>
-                        </div>
-                </mj-raw>
+            </div>
+          </mj-raw>
         </mj-text>
         <mj-spacer height="20px" />
       </mj-column>
     </mj-section>
-
-<!-- footer -->
-  <mj-section padding="10px 18px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+    <!-- footer -->
+    <mj-section padding="10px 18px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px"/>
-        <mj-spacer height="20px"/>
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px" />
+        <mj-spacer height="20px" />
         <mj-text font-family="Arial, Helvetica, sans-serif" padding="0px 12px">
-        <mj-raw>
-                <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
-                <div style="background:#000; mix-blend-mode:screen;">
-                    <div style="background:#000; mix-blend-mode:difference;">
-          <p style=" font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 1px solid  #F9D342; color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
-          <p style=" font-size: 12px; color: #808080; line-height: 2">
-            <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
-          </p>
-          </div>
+          <mj-raw>
+            <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
+              <div style="background:#000; mix-blend-mode:screen;">
+                <div style="background:#000; mix-blend-mode:difference;">
+                  <p style="
+              color: #808080;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: #808080;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
+                  <p style="
+              color: #808080;
+              font-size:12px;
+              line-height: 2;
+            ">Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: #808080;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+                  <p style="
+              color: #808080;
+              font-size:12px;
+              line-height: 2;
+            "><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: #808080;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.</p>
                 </div>
-                </div>
-                </mj-raw>
+              </div>
+            </div>
+          </mj-raw>
         </mj-text>
       </mj-column>
     </mj-section>
-  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+    <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-      <mj-spacer height="20px"/>
-        <mj-social mode="horizontal" padding="0">
+        <mj-spacer height="20px" />
+        <mj-social font-size="15px" mode="horizontal">
           <!-- Facebook Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
           </mj-social-element>
           <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
           </mj-social-element>
           <!-- Instagram Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
           </mj-social-element>
           <!-- Reddit Icon -->
-          <!-- linkedIn -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/movie-suggestions/
-" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
           </mj-social-element>
-          <!-- threads -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
           </mj-social-element>
         </mj-social>
-        
       </mj-column>
     </mj-section>
-  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
-      <mj-column >
-      <mj-spacer height="20px"/>
-        <mj-text font-family="Arial, Helvetica, sans-serif"> 
-        <mj-raw>
-                <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
-                <div style="background:#000; mix-blend-mode:screen;">
-                    <div style="background:#000; mix-blend-mode:difference;">
-           <p style="
+    <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="10px" />
+        <mj-text font-family="Arial, Helvetica, sans-serif">
+          <mj-raw>
+            <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
+              <div style="background:#000; mix-blend-mode:screen;">
+                <div style="background:#000; mix-blend-mode:difference;">
+                  <p style="
           text-align:center;
           line-height: 1.5;
           font-size: 12px; 
           color: #808080;
           "> 30 <span>N</span> <span>Gould</span>
-            <span>St, Ste N, Sheridan, WY 82801, United States</span>
-          </p>
-          <p style="   
+                    <span>St, Ste N, Sheridan, WY 82801, United States</span>
+                  </p>
+                  <p style="   
           text-align:center;
                     line-height: 1.5;
           font-size: 12px; 
           color: #808080;
           "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
-          </div>
                 </div>
-                </div>
-                </mj-raw>
-        </mj-text> 
-        <mj-spacer height="20px"/>
+              </div>
+            </div>
+          </mj-raw>
+        </mj-text>
+        <mj-spacer height="20px" />
       </mj-column>
     </mj-section>
-    
     <mj-spacer height="10px" />
   </mj-body>
 </mjml>
