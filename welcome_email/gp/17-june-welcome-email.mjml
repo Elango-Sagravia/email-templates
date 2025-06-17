@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } </mj-style>
+    <!-- <mj-style>
+      .social-icon img { width: 28px !important; height: 28px !important; }
+    </mj-style> -->
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #F9D342 !important; border: 1px solid #F9D342 !important;} </mj-style>
+  </mj-head>
+  <mj-body>  
+    <mj-spacer height="10px" />  
+    <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="30px" />
+        <mj-image width="150px" src="https://www.geopoliticalsummary.com/logo-dark.png"  target="_blank" href="https://www.geopoliticalsummary.com/"/>
+        <mj-spacer height="10px" />
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px"/>
+      </mj-column>
+    </mj-section> 
+
+    <mj-section padding="0" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+      <mj-spacer height="10px" /> 
+        <mj-image padding="0" width="600px" src="https://www.geopoliticalsummary.com/verify.gif" href="https://www.moviesuggestions.com" alt="gif not there" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="0px 12px">  
+          <mj-raw> 
+              <div style="">
+                <div style="background: #000000; mix-blend-mode:screen;">
+                  <div style="background: #000000; mix-blend-mode:difference;">
+                    <h2 style="font-size:40px; font-weight:bold; color:#E7EDF0; line-height:1.2;">Yes, we know.<br /> An email to confirm an<br /> email.</h2>
+                            </div>
+                       </div>
+                     </div>
+                 </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="40px" />
+        <mj-text padding="10px 12px">
+        <mj-raw>
+              <div style="">
+                <div style="background: #000000; mix-blend-mode:screen;">
+                  <div style="background: #000000;  mix-blend-mode:difference;">
+                  <p style="font-size:16px; color: #999999; line-height:1.5;">
+                  Hi there, <br />
+                  <br /> Hit the button below to verify your email and start getting the best movie picks every Friday.
+                  </p>
+                    </div>
+                      </div>
+                        </div>
+                </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section padding="20px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-spacer height="40px" />
+        <mj-text align="center">
+        <mj-raw>
+              <div style="">
+                <div style="background: #000000; mix-blend-mode:screen;">
+                  <div style="background: #000000; mix-blend-mode:difference;">
+          <a href="https://www.moviesuggestions.com/" class="button-style" style="
+              
+              display: inline-block;
+              width: 40%;
+              padding: 16px;
+              text-decoration: none;
+              color: #080707;
+              line-height: 1.2;
+              letter-spacing: 1px;
+              text-align: center;
+              text-transform: uppercase;
+              font-size: 18px;
+              font-weight: 700;              
+              background-color: #F9D342;
+              border: 1px solid #F9D342;
+              border-radius: 40px;
+              ">Verify</a>
+              </div>
+                      </div>
+                        </div>
+                </mj-raw>
+        </mj-text>
+        <mj-spacer height="20px" />
+      </mj-column>
+    </mj-section>
+
+<!-- footer -->
+  <mj-section padding="10px 18px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px"/>
+        <mj-spacer height="20px"/>
+        <mj-text font-family="Arial, Helvetica, sans-serif" padding="0px 12px">
+        <mj-raw>
+                <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
+                <div style="background:#000; mix-blend-mode:screen;">
+                    <div style="background:#000; mix-blend-mode:difference;">
+          <p style=" font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 1px solid  #F9D342; color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
+          <p style=" font-size: 12px; color: #808080; line-height: 2">
+            <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          </div>
+                </div>
+                </div>
+                </mj-raw>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column>
+      <mj-spacer height="20px"/>
+        <mj-social mode="horizontal" padding="0">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-fb.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/MovieSuggest" src="https://www.moviesuggestions.com/social-icons/ms-x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-insta.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/movie-suggestions/
+" src="https://www.moviesuggestions.com/social-icons/ms-ln.png">
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@moviesuggestions" src="https://www.moviesuggestions.com/social-icons/ms-thread.png">
+          </mj-social-element>
+        </mj-social>
+        
+      </mj-column>
+    </mj-section>
+  <mj-section padding="0" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
+      <mj-column >
+      <mj-spacer height="20px"/>
+        <mj-text font-family="Arial, Helvetica, sans-serif"> 
+        <mj-raw>
+                <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
+                <div style="background:#000; mix-blend-mode:screen;">
+                    <div style="background:#000; mix-blend-mode:difference;">
+           <p style="
+          text-align:center;
+          line-height: 1.5;
+          font-size: 12px; 
+          color: #808080;
+          "> 30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p style="   
+          text-align:center;
+                    line-height: 1.5;
+          font-size: 12px; 
+          color: #808080;
+          "> Copyright © 2024 Sagravia LLC, All rights reserved. </p>
+          </div>
+                </div>
+                </div>
+                </mj-raw>
+        </mj-text> 
+        <mj-spacer height="20px"/>
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px" />
+  </mj-body>
+</mjml>
