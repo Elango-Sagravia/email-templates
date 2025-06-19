@@ -6,11 +6,11 @@
     </mj-style> -->
     <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #080707 !important; color: #5452DA !important; border: 1px solid #5452DA !important;} </mj-style>
   </mj-head>
-  <mj-body>
+  <mj-body> 
     <mj-spacer height="10px" />
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
-        <mj-spacer height="30px" />
+        <mj-spacer height="30px" /> 
         <mj-image width="180px" src="https://www.geopoliticalsummary.com/logo-dark.png" target="_blank" href="https://www.geopoliticalsummary.com/" />
         <mj-spacer height="20px" />
         <mj-divider border-width="1px" border-style="solid" border-color="rgba(128, 128, 128, 0.24)" width="100%" padding="0px 12px" />
@@ -21,7 +21,7 @@
         <mj-spacer height="10px" />
         <mj-image padding="0" width="600px" src="https://www.geopoliticalsummary.com/gs-verify.gif" href="https://www.geopoliticalsummary.com/" alt="gif not there" />
       </mj-column>
-    </mj-section>
+    </mj-section>  
     <mj-section padding="10px 12px" background-color="#000" background-url="https://www.moviesuggestions.com/black-bg.png">
       <mj-column>
         <mj-text padding="0px 12px">
