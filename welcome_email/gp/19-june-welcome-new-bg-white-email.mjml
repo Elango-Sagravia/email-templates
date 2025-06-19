@@ -3,6 +3,8 @@
     <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" />
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+
+    <mj-style> /* Hover effect for buttons */ .button-style:hover { background-color: #fff !important; color: #5452DA !important; border: 1px solid #5452DA !important;} </mj-style>
   </mj-head>
   <mj-body background-color="#f0f1f3">
     <mj-raw>
@@ -25,157 +27,89 @@
       </mj-column>
     </mj-section> 
 
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection" padding-top="0px">
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection" padding-bottom="0px">
       <mj-spacer height="0px"></mj-spacer>
       <mj-column background-color="#ffffff" width="100%">
-        <mj-image padding="0" width="400px" src="https://www.geopoliticalsummary.com/gs-transparant-verify.gif" href="https://www.geopoliticalsummary.com/" alt="gif not there" />
+        <mj-image padding="0" width="200px" src="https://www.geopoliticalsummary.com/gs-transparant-verify.gif" href="https://www.geopoliticalsummary.com/" alt="gif not there" />
       </mj-column>
     </mj-section> 
 
-    <!-- Spotlight contents -->
-
-    <!-- Content sections -->
     <mj-section background-color="#ffffff">
       <mj-column>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">- <strong>Daily briefing</strong> with the top headlines in a format that takes just minutes to read.</p>
-          <p style="font-size: 16px; line-height: 1.4">- One geopolitics <strong>educational brief</strong> every day.</p>
-          <p style="font-size: 16px; line-height: 1.4">- <strong>Special Saturday edition</strong> for our most inquisitive readers…</p>
-          <p style="font-size: 16px; line-height: 1.4">… and even more special <strong>exclusive editions</strong> from time to time.</p>
-          <p style="font-size: 16px; line-height: 1.4">Most importantly, expect to learn the WHY behind the current events.</p>
-         
+          <h2 style="text-align:center;font-size:29px; font-weight:600px; color:#000; line-height:150%;"> Verify your email</h2>
         </mj-text>
-        <mj-text font-family="Roboto" >
-          <a style="
-              display:block;
-              background:#06266D;
-              font-size: 16px;
-              line-height: 1.5;
-              padding: 10px;
-              text-align: center;
-              width: 200px; 
-              margin: 0 auto;
-              border-radius: 0px;
-              color: #FFFFFF;
-              text-decoration: none;" 
-              href="https://www.geopolitics.world/" 
-              target="_blank"
-             >Check the latest issue</a>
-        </mj-text>
-       <mj-spacer height="3px" />
+        <mj-spacer height="10px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.4">To ensure we don’t end up in spam, you will receive another email with instructions on how to add us to your safelist.</p>
-           <p style="font-size: 16px; line-height: 1.4">Happy reading!</p>
+         <p style="width:80%; margin: 0 auto; text-align:center; font-size:16px; color: #000; line-height:150%;font-weight:300"> Hit the button below to <span style="color:#000; font-weight:600">verify</span> your email and start getting your daily dose of Geopolitical Summary. </p>
         </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-spacer height="10px"></mj-spacer>
-    
-     <!-- Spotlight 3-->
-    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
-      <mj-spacer height="0px"></mj-spacer>
-      <mj-column background-color="#ffffff" width="100%">
-        <mj-text padding="10px 12px 0px 12px" font-family="Roboto" color="white">
-          <h2 style="
-          color:#06266D;
-            text-align: left;
-            letter-spacing:6px;
-            border-bottom:2px solid #06266D;
-            text-transform:uppercase;
-              font-size: 20px;
+        <mj-spacer height="20px" />
+        <mj-text font-family="Roboto" align="center">
+           <a href="https://www.geopoliticalsummary.com/" class="button-style" style="
+
+              display: inline-block;
+              width: 35%;
+              padding: 10px 14px;
+              text-decoration: none;
+              color: #ffffff;
               line-height: 1.2;
-              font-weight: 300;
-              padding: 18px 8px 10px 8px;
-              
-            ">FOLLOW US ON SOCIAL MEDIA</h2>
-        </mj-text>
+              letter-spacing: 1.28px;
+              text-align: center;
+              font-size: 16px;
+              font-weight: 600;              
+              background-color: #5452DA;
+              border: 1px solid #5452DA;
+             
+              ">Verify</a>
+        </mj-text> 
+       <mj-spacer height="3px" />
       </mj-column>
     </mj-section>
 
-    <!-- Spotlight contents-->
-
-    <!-- Content sections -->
-    <mj-section background-color="#ffffff">
-   <mj-column>
-    <mj-spacer height="24px" />
-    <mj-social font-size="15px" mode="horizontal" padding="0px">
-
-      <!-- Facebook Icon -->
-      <mj-social-element 
-        padding="12px 12px"
-        icon-size="30px"
-        href="https://www.facebook.com/profile.php?id=61562847449514"
-        src="https://www.geopolitics.world/icons/social/facebook.png"
-       >
-      </mj-social-element>
-
-      <!-- X (Twitter) Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://x.com/geopoliticalsum"
-        src="https://www.geopolitics.world/icons/social/x.png"
-        >
-      </mj-social-element>
-
-      <!-- Instagram Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.instagram.com/geopoliticsummary/"
-        src="https://www.geopolitics.world/icons/social/instagram.png">
-      </mj-social-element>
-
-      <!-- Reddit Icon -->
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.reddit.com/user/GeopoliticsWorld/"
-        src="https://www.geopolitics.world/icons/social/reddit.png"
-        >
-      </mj-social-element>
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href="https://www.linkedin.com/showcase/geopoliticsworld/"
-        src="https://www.geopolitics.world/icons/social/linkedin.png"
-        >
-      </mj-social-element>
-      <mj-social-element 
-      padding="12px 12px"
-        icon-size="30px"
-        href=" https://www.threads.net/@geopoliticsummary"
-        src="https://www.geopolitics.world/icons/social/threads.png"
-        >
-      </mj-social-element>
-    </mj-social>
-  </mj-column>
-</mj-section>
-
-<!-- footer section -->
+    <!-- 2 columns section -->
     <mj-section background-color="white">
       <mj-column>
-      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px 30px 12px" />
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="
               color:#000;
               font-size:12px;
               line-height: 2;
-            "> Send us your feedback at <a href="mailto:readers@geopolitics.world" target="_blank">readers@geopolitics.world</a>. </p>
+            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="mailto:readers@geopoliticalsummary.com" target="_blank">readers@geopoliticalsummary.com</a>. </p>
           <p style="
               color:#000;
               font-size:12px;
               line-height: 2;
-            "> Interested in connecting with curious, informed readers? <a href="https://www.geopolitics.world/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
           <p style="
               color:#000;
               font-size:12px;
               line-height: 2;
             ">
-            <a href="https://www.geopolitics.world/unsubscribe?email=test@test.com" target="_blank">Unsubscribe</a> from this email.
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://www.geopoliticalsummary.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
           </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/profile.php?id=61562847449514" src="https://www.geopoliticalsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/readgeopolitics" src="https://www.geopoliticalsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/geopoliticalsummary/" src="https://www.geopoliticalsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@geopoliticalsummary" src="https://www.geopoliticalsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
           <p style="
-              margin-top:35px;
+              margin-top:0px;
                text-align:center;
               font-size:10px;
               color: #667085;
@@ -185,7 +119,7 @@
               text-align:center;
               font-size:10px;
               color: #667085;
-              line-height: 0;
+              line-height: 1.5;
               margin-bottom:14px;
             ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
         </mj-text>
