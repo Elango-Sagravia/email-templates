@@ -1,0 +1,346 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+         
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <!-- <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">
+          Reviving oil wells: Hilcorp turns trash into treasure</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+       <mj-spacer height="18px"></mj-spacer>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+        Fall of Faraday Future
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+       Back in 2014, Chinese tech entrepreneur Jia Yueting, Faraday Future, promised a <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.theverge.com/2018/11/13/18088438/faraday-future-electric-cars-ev-news-layoffs-bankruptcy" target="_blank">smartphone on wheels</a>. The FF91, a futuristic electric SUV, claimed a 0-60 mph time of under 2.5 seconds and a range of over 370 miles. It was marketed as the "Tesla killer." Faraday did everything, dramatic reveals and big-name hires from Apple, BMW, and Tesla itself. They envisioned AI-powered co-pilots that learned your driving habits. 
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/faraday-future-ff91-car-showcase.jpg" alt="Faraday Future FF 91 electric vehicle on display with people observing." href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            The Faraday Future FF 91 on display at a tech expo. Credits: Maurizio Pesce/Wikipedia</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           They introduced "<a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.google.com/search?client=safari&rls=en&q=fardaay++%22Variable+Platform+Architecture%22%2C&ie=UTF-8&oe=UTF-8" target="_blank">Variable Platform Architecture</a>", a modular platform that could support sedans, SUVs, and even sports cars. However, when Faraday Future made its public debut in 2016, the cracks began to show. A highly publicized self-parking demo failed while live. Their proposed $1B factory in Nevada ultimately didn’t materialize. Battery materials and chip shortages plagued the FF91’s development. 
+            </p>
+            <p style="font-size: 16px; line-height: 1.5">
+            With loose accounting practices and mismanaged funds, KPMG withdrew as their auditor, further unsettling suppliers and stakeholders. At one point, FF burned through $800M in just six months, without a single car. By 2019, Jia Yueting filed for personal bankruptcy. Jump to mid‑2025, and Faraday Future is still around, but barely. The FF91 finally delivered 16 units as of January 2025. 
+            </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+
+<mj-spacer height="10px" />
+
+<!--primary ad -->
+    <!-- Content sections -->
+<mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px"> 
+    <mj-raw> 
+      <a href="https://www.presidentialsummary.com/" target="_blank" style="color:black">
+   </mj-raw>
+      <mj-column>
+      <mj-spacer height="14px"/>
+      <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+        <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Presidential Summary</i>
+        </p>
+      </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color: #4D3060; 
+            text-align: left;
+            letter-spacing:1px;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+               
+            ">STAY INFORMED, WIDEN YOUR WORLDVIEW</h2>
+            </mj-text>
+             <mj-spacer height="12px"/>
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-ps.png" alt="Just sit back and press play"/>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Expand your view with facts that stay,<br/>
+          No bias, no spin, just news our way.</p>
+          <p style="font-size: 16px; line-height: 24px">
+           Politics, culture, tech, and trade,<br/>
+           We break it down, clear and laid.</p>
+          <p style="font-size: 16px; line-height: 24px">
+          Stay informed and lead the way,<br/>
+          Join us, and don’t miss a day.</p>
+        </mj-text>
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Presidential Summary</a></p>
+          </mj-text>
+          <mj-spacer height="10px" />
+      </mj-column>
+ <mj-raw>
+  </a>
+ </mj-raw>
+</mj-section>
+
+<!-- /primary ad -->
+ 
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-column>
+       <mj-spacer height="18px"></mj-spacer>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+        Modularity and its defects
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+       In September 2013, Dutch designer and Design Academy Eindhoven graduate Dave Hakkens had a <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://startuptalky.com/google-project-ara-failure-case-study/" target="_blank">radical idea</a>. The idea was called <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.onearmy.earth/project/phonebloks" target="_blank">Phonebloks</a>, a modular smartphone that lets you swap out individual components instead of replacing the entire device. Each part, camera, battery, storage, and processor, would be a separate chip-like “block” that slides into a baseboard, or “endoskeleton.” 
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/google-project-ara-modular-phone.jpg" alt="Hands holding a modular smartphone with customizable components and small display showing weather." href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            Google’s Project Ara - a modular smartphone designed for swappable parts and ultimate customization. Credits: onearmy.earth</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Motorola, then a Google subsidiary, picked up the idea under the name <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://youtu.be/PQqudiUdGuo?si=6zgiFccKNhHAhayu" target="_blank">Project Ara</a>. Backed by <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://en.wikipedia.org/wiki/Google_ATAP" target="_blank">Google’s ATAP</a> team, they aimed to bring Phonebloks to market, starting at just $50 for a basic kit. The vision was to create an open hardware platform, just like Android is for software. However, getting swappable components to fit and function in a compact frame was an engineering nightmare. Even more challenging was getting large companies to cooperate. 
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          If Phonebloks had succeeded, it would have been a game-ender for many major brands. Google, to its recognition, gave it a shot. But Project Ara was eventually shelved in 2016. Still, had the idea been nurtured and matured, we might be living in a very different smartphone world. E-waste would be significantly lower, and a global hardware developer ecosystem could have flourished.
+          </p>
+         
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="4px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+        Holograms and headaches
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+       The <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.theverge.com/2018/10/29/18027782/red-hydrogen-one-review-all-hype" target="_blank">Red Hydrogen One</a>, released in 2018 with a hefty $1,295 tag, promised some wildly futuristic features. Developed by Red Digital Cinema, its appeal was a "holographic" 4-View display, designed to show 3D content without the need for glasses. Red also promised a modular design, allowing users to attach high-end components, including a cinema-grade camera module, thereby transforming the device into a filmmaking tool.
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/red-hydrogen-one-phone.jpg" alt="RED Hydrogen One smartphone with 3D display shown alongside a pair of anaglyph 3D glasses." href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+            The RED Hydrogen One promised a revolution in mobile visuals with its holographic display and 3D tech. Credits: The Verge</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            But things quickly fell apart. The holographic display turned out to be more of a blurry, headache-inducing experience. Its camera was mediocre, the mobile was bulky, and its performance lagged far behind competitors. The much-hyped modular accessories, especially the camera module that Red fans were drooling over, never saw the light of day.
+            </p>
+          <p style="font-size: 16px; line-height: 1.5">
+       Internally, Red pointed fingers at its original design manufacturer in China for subpar hardware and software integration. However, to the tech world, it seemed more like Red had over-promised, under-delivered, and <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://mashable.com/article/red-hydrogen-one-failure-stupid-explanation" target="_blank">passed the blame</a> when things went awry. The Hydrogen One became a colossal flop and was widely considered one of the worst tech products of 2018.
+          </p>
+         
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+    <!-- banner -->  
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section"> 
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color=" #8C3321" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">Duolingo initially generated revenue through crowdsourced translation, with users unknowingly translating real company content during language exercises.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+         
+          <!-- <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7; 
+            ">
+             This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</br>
+            Some advertisements in this newsletter are served through Passendo, an external ad platform. While we work to ensure all ads meet our standards, we do not have direct control over their content.</p> -->
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+           
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
