@@ -1,0 +1,519 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is now as big as 🇻🇬 British Virgin Islands. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇱🇮 Liechtenstein next.</p> 
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;">
+            Trump guts Voice of America</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> 
+            Tesla launches robotaxi services</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            16Bn login credentials leaked</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Trump hits Iran’s nuke sites</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/us-not-at-war-iran-trump-warns-more-strikes.jpg" alt="Top administration officials insist the US is not at war with Iran, but Trump has warned the US could launch more attacks" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          Top administration officials insist the US is not at war with Iran, but Trump has warned the US could launch more attacks. Credits: Planet Labs</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        
+        President Trump confirmed that <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h1-1-us-warplanes-bombed?source=website" target="_blank">US warplanes bombed</a> Iran’s three major nuclear facilities, Fordow, Natanz, and Isfahan. Named “Operation Midnight Hammer,” they used powerful 30,000-pound bunker-busting bombs. Trump declared the strikes “completely obliterated” Iran’s nuclear enrichment capacity. However, independent verification is still pending. 
+
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h1-2-iaea?source=website" target="_blank">IAEA</a>, the UN’s nuclear watchdog, says it cannot inspect the sites until hostilities subside. Iranian officials claim they evacuated enriched uranium before the attacks and deny the strikes caused catastrophic damage. A Russian Security Council Deputy <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h1-3-backed-tehran-s-assertion?source=website" target="_blank">backed Tehran’s assertion</a>, saying the sites appeared unaffected or just slightly damaged. </p>
+          <p style="font-size: 16px; line-height: 1.5">
+        Iran’s President Masoud Pezeshkian called the US strikes proof that Washington is aligned with Israel’s campaign against Iran. Tehran denounced the US and Israel at an emergency UN Security Council meeting. They seek to inflict economic pain on the US by closing the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h1-4-strait-of-hormuz?source=website" target="_blank">Strait of Hormuz</a>, a strategically important waterway through which over 20% of the world’s oil supply passes. 
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-23-june-2025-p-ad-A13?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Natural & restorative sleep support 😴</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/23-june-2025-A13.jpg" alt="campaign-A13" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+           Relax, unwind, and drift away,
+           <br /> Natural calm to end your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Magnesium, herbs, a soothing blend,<br />
+           Sleep restored, let stress suspend.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sip with ease, flavors light,<br /> Peaceful rest, a blissful night!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+            Grab yours worldwide</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+  <!-- primary ad -->
+
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                  UN convenes for Iran resolution</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/iran-un-security-council-us-aggression-condemnation.jpg" alt="Iran requested the UN Security Council meeting to address the unlawful act of aggression and to condemn it in the strongest possible terms" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          Iran requested the UN Security Council meeting to address the unlawful act of aggression and to condemn it in the strongest possible terms. Credits: AFP</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+          The UN Security Council convened an <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h2-5-emergency-session?source=website" target="_blank">emergency session</a> after the US carried out airstrikes on Iran’s key nuclear sites. Russia, China, and Pakistan proposed a draft resolution demanding an immediate and unconditional ceasefire. They circulated the draft text and asked members to share their comments by Monday evening. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         China’s ambassador stressed that diplomatic avenues had not yet been exhausted, while Russia <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h2-6-accused-the-us?source=website" target="_blank">accused the US</a> of repeating the same unfounded justifications used before the Iraq War. However, Acting US Ambassador Dorothy Shea defended the strikes, claiming Iran had long concealed its nuclear ambitions, and the measure was necessary. Israel’s representative praised the attack as an essential last-resort measure.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+       The proposed resolution faces strong opposition from Washington and may be vetoed, prolonging the diplomatic deadlock. It is carefully worded to refrain from directly naming the US or Israel. A resolution needs at least nine votes in favor and no vetoes by the United States, France, Britain, Russia, or China to pass. 
+          </p>
+          
+         
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                  Trump guts Voice of America</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>
+          Summary: The Trump administration fired over 600 VOA journalists amid Trump’s broader media assault. </strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         The Trump administration effectively <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h3-7-dismantled-voice-of-america?source=website" target="_blank">dismantled Voice of America</a>, the US-funded international news outlet, by firing over 600 journalists. Among those fired were Persian-language reporters who had just been recalled to cover the US strikes on Iran, but were abruptly locked out mid-shift after receiving termination notices.</p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+         Currently, just 250 employees will remain across the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h3-8-us-agency-for-global-media?source=website" target="_blank">US Agency for Global Media</a>, including Voice of America and the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h3-9-office-of-cuba-broadcasting?source=website" target="_blank">Office of Cuba Broadcasting</a>. This falls just above the minimum judicial operational requirement. Several VOA journalists have sued to block the agency's dismantling. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+         The Trump administration describes it as a move to eliminate “dysfunction, waste, and bias” within the agency. Trump’s decision also aligns with his <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-spotlight-h3-10-broader-assault-on-public-media?source=website" target="_blank">broader assault on public media</a>, including attempts to defund NPR and PBS. </p>
+         <p style="font-size: 16px; line-height: 1.5"> 
+         The outlet is seen as America’s soft power tool, especially in countries like China, Iran, North Korea, and Russia, where independent journalism is restricted or banned. Critics warn the move could damage the US's credibility in promoting global press liberation.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>A suicide bombing at the Greek Orthodox Church in Damascus killed at least 22 people and injured over 60 during a Sunday service</strong>. The attacker, reportedly linked to the Islamic State, opened fire before detonating an explosive vest inside the church. It’s the first major attack in Damascus since the civil war ended, raising concerns over renewed sectarian violence (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h1-11-attack-on-sanctuary?source=website" target="_blank">attack on sanctuary</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">​<strong>​NATO members agreed to raise their defense spending goal to 5% of GDP by 2035, but Spain opted out</strong>. Spanish PM Pedro Sanchez insists Spain will stick to spending around 2.1% to refrain from cuts to social programs. The move risks tension with Trump, who has long criticized European countries for underfunding defense (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h1-12-spain-takes-a-stand?source=website" target="_blank">Spain takes a stand</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!-- <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px">
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Dubai Summary</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-bottom:8px;
+              padding-left: 5px;
+              color:#4D3060; 
+                text-align: left;
+                letter-spacing:1px;
+                  font-size: 26px;
+                  line-height: 1.2;
+                  font-weight: 300;
+                  
+                ">The pulse of Dubai</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+            <li>​<strong>​The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+            <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+            <li><strong>Where is Nunavut?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+            <strong>Dubai is always on the move. Can you keep up?</strong> 
+            From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+            </p>
+            <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+            <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+            </p>
+            </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Dubai Summary</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- secondary ad  -->
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Mira Murati, former CTO of OpenAI, raised $2B for her stealth AI startup, Thinking Machines Lab, valued at $10B currently</strong>. The company hasn’t disclosed product details, but it has attracted major investors, including Andreessen Horowitz. Murati retains controlling voting power, signaling a founder-led approach similar to other large AI ventures (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h2-13-capital-locked?source=website" target="_blank">capital locked</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Tesla launched its robotaxi service in Austin with self-driving Model Y vehicles</strong>, each monitored by a safety driver, and accessible to select influencers. Elon Musk suggests the service, priced at $4.20 per ride, will shortly expand despite ongoing regulatory investigations. Critics believe technology isn’t ready for broad deployment, and Texas laws may challenge the company's launch (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h2-14-austin-on-autopilot?source=website" target="_blank">Austin on autopilot</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>SoftBank founder Masayoshi Son is proposing a $1T AI and robotics complex in Arizona</strong> to bring in top tech companies and chipmakers. He suggested establishing an open-trade zone and utilizing the same funding model as the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h2-15-stargate-project?source=website" target="_blank">Stargate project</a>. The plan fits with Son’s focus on AI, backed by investments in companies like Nvidia, OpenAI, and others through the SoftBank Vision Fund (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h2-16-ai-megaproject?source=website" target="_blank">AI megaproject</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/early-universe-radio-waves-first-stars-discovery.jpg" alt="Radio waves from the early universe carry secrets of its first stars, and scientists are decoding them using bold new models and telescopes" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          Radio waves from the early universe carry secrets of its first stars, and scientists are decoding them using bold new models and telescopes. Credits: Shutterstock</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Astronomers have shown that the 21-centimeter radio signal from hydrogen can reveal the masses of the universe’s first stars</strong>, formed 100Mn years after the Big Bang. Using models and upcoming telescopes like REACH and SKA, scientists aim to decode early star formation and cosmic evolution by analyzing how X-ray and UV radiation shaped this signal (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h3-17-star-uncode?source=website" target="_blank">star uncode</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Cybernews researchers discovered 16Bn leaked login credentials from multiple breaches, exposing users from platforms like Google, Facebook, and Apple</strong>. Likely stolen via infostealer malware, the dataset highlights the growing scale of cyberattacks. With recent hacks targeting major firms like Aflac, experts urge users to enhance their cyber hygiene (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h3-18-protect-yourself?source=website" target="_blank">protect yourself</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+             <strong>The Oklahoma City Thunder beat the Indiana Pacers 103–91 in Game 7 to clinch their first NBA championship</strong>. Shai Gilgeous-Alexander led with 29 points and 12 assists, while Indiana struggled after Tyrese Haliburton exited early with a potential Achilles injury. It caps a record-breaking season for OKC, which bagged victory in 68 regular-season games and went 16–7 in the playoffs (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h4-19-game-recap?source=website" target="_blank">game recap</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+                   <strong>Kyrgyz director Aktan Arym Kubat clinched Best Picture at the 2025 Shanghai Film Festival for <i>Black Red Yellow</i></strong>, a moving story about rural existence. The second place was shared by Japan’s On Summer Sand and China’s Wild Nights, Tamed Beasts. Portuguese actor Jose Martins bagged Best Actor for The Scent of Things Remembered. The festival also showed interest in how AI could shape future filmmaking (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h4-20-full-winners-list?source=website" target="_blank">full winners list</a>).
+                    </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The Great Masked Ball takes place in Versailles (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h5-21-see-photos?source=website" target="_blank">see photos</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The US faces dangerously hot weather in a rare June heatwave (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h5-22-heat-alert?source=website" target="_blank">heat alert</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">The Phoenix Suns trade Kevin Durant to the Houston Rockets (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h5-23-rockets-launch?source=website" target="_blank">Rockets launch</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Archaeologists discover 3,600-year-old tomb of unknown Egyptian pharaoh (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-23-jun-25-lss-h5-24-mummy-mystery?source=website" target="_blank">mummy mystery</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1314, the Battle of Bannockburn began, leading to a decisive Scottish victory over the English and securing independence under Robert the Bruce.
+            </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7;
+            ">
+            This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional.
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
