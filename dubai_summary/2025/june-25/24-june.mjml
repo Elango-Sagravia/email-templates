@@ -609,7 +609,7 @@
           border-radius="10px"
           padding="10px 12px"
           width="600px"
-          src="https://www.dubaisummary.com/email/images/flamingos-winter-breeding-ground-nature-reserve.png"
+          src="https://www.dubaisummary.com/email/images/flamingos-winter-breeding-ground-nature-reserve.jpg"
           alt="This expansive reserve also serves as a breeding ground each year for crustaceans, mammals and fish, but it is the flamingos that steal the show in winter"
           href="https://www.dubaisummary.com"
         />
@@ -988,6 +988,11 @@
               >
                 Dubai holds over
                 <a
+                  style="
+                    text-decoration: none;
+                    border-bottom: 2px solid #ffffff;
+                    color: #ffffff;
+                  "
                   href="https://link.dubaisummary.com/ds-24-jun-25-dyk-18-300-world-records"
                   target="_blank"
                   >300 world records</a
