@@ -2,7 +2,6 @@
   <mj-head>
   </mj-head>
   <mj-body>
-
     <!-- header -->
     <!-- blur bg image -->
     <mj-wrapper padding="0px" 
@@ -17,6 +16,7 @@
           href="https://moviesuggestions.com/" padding="10px 12px" 
           width="150px" 
           src="https://moviesuggestions.com/logo.png" />
+         
           <mj-spacer height="6px" />
           <mj-text padding="8px 12px" color="#fff">
             <mj-raw>
@@ -164,32 +164,38 @@
 
     <!--primary  ad-a2 -->
     <!-- title -->
-    <!-- <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
+    <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
       <mj-raw>
-        <a href="https://link.presidentialsummary.com/ps-25-mar-2025-p-ad-ms" target="_blank" style="color:black">
+        <a href="https://link.moviesuggestions.com/ms-26-june-2025-p-ad-W1-5?source=website" target="_blank" style="color:black">
       </mj-raw>
       <mj-column>
-        <mj-spacer height="20px" />
+        <mj-spacer height="30px" />
+         <!-- <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          width="100%"
+        /> -->
         <mj-text padding="10px 12px">
           <mj-raw>
             <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
               <div style="background:#000; mix-blend-mode:screen;">
                 <div style="background:#000; mix-blend-mode:difference;">
                   <p style="color: #E7EDF0; font-size: 12px; font-weight:300; line-height: 1.2;text-align:center;">
-                    <i>In partnership with Upscale Media</i>
+                    <i>In partnership with Mood</i>
                   </p>
-                  <h2 style="color: #E7EDF0;
-                        text-align:center;
-                        margin:0;
-                        font-size: 26px;
-                        font-weight: 500;
-                        line-height: 1.2;"> Unleash your strength with BodyFuel™ Creatine</h2>
+                  <h2 style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;">
+                        Get 20% off these innovative ‘rapid onset’ THC gummies</h2>
                 </div>
               </div>
             </div>
           </mj-raw>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://presidentialsummary.com/email/images/ad-a2.png" alt="Unleash your strength with BodyFuel™ Creatine" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.moviesuggestions.com/email/ad/26-june-2025-W1-5.jpg" alt="campaign-W1-5" />
         <mj-text padding="0px 12px">
           <mj-raw>
             <div style="background:#000; background-image:linear-gradient(#000,#000); color:#fff;">
@@ -199,41 +205,40 @@
                         font-size: 17px;
                         font-style: normal;
                         font-weight: 400;
-                        line-height: 1.5;"> For workouts that push you, no need to debate,<br /> BodyFuel Creatine keeps gains up to date! </p>
+                        line-height: 1.5;">Mood’s new rapid onset THC gummies deliver <strong>gentle body relaxation</strong> with a strong but balanced, clear-headed euphoria — all in as little as five minutes.</p>
                   <p style="color: #E7EDF0;
                                 font-size: 16px;
                                 font-style: normal;
                                 font-weight: 400;
-                                line-height: 1.5;"> Pure and micronized, it fuels every rep,<br /> Boosting power with every step. </p>
-                  <p style="color: #E7EDF0;
-                                font-size: 16px;
-                                font-style: normal;
-                                font-weight: 400;
-                                line-height: 1.5;"> Flavored or plain, just mix and go,<br /> For muscle and strength, it steals the show! </p>
-                  <p style="color: #E7EDF0;
-                                font-size: 16px;
-                                font-style: normal;
-                                font-weight: 400;
-                                line-height: 1.5;"> Vegan-friendly, for all who train,<br /> Recovery enhanced, goodbye to pain! 💪 </p>
+                                line-height: 1.5;">Plus, Mood gummies are USA-grown and <strong>tested by third-party labs</strong> to ensure they meet federal legal and health standards.</p>
                   <p style="margin:0;
-                        color: #;
                         font-size: 16px;
                         font-style: normal;
                         font-weight: 400;
                         line-height: 1.5;">
-                    <a href="#" target="_blank" style="color:#F9D342; text-decoration:none;"> Get yours before it’s gone</a>
+                    <a href="https://link.moviesuggestions.com/ms-26-june-2025-p-ad-W1-5" target="_blank" style="color: #F9D342;
+                    font-size: 17px;
+                    font-style: normal;
+                    font-weight: 400;
+                    line-height: 1.5;"> Get 20% off your order for a limited time with code FIRST20.</a>
                   </p>
                 </div>
               </div>
             </div>
-          </mj-raw>
+          </mj-raw> 
         </mj-text>
-        <mj-spacer height="20px" />
+        <mj-spacer height="10px" />
+        <!-- <mj-divider
+          border-style="dotted"
+          border-width="1px"
+          border-color="lightgrey"
+          width="100%"
+        /> -->
       </mj-column>
       <mj-raw>
         </a>
       </mj-raw>
-    </mj-section> -->
+    </mj-section>
     <!-- /ad-a2 -->
 
 
@@ -440,5 +445,7 @@
         </mj-text>
       </mj-column>
     </mj-section>
+    <!-- #3 -->
+    
   </mj-body>
 </mjml>
