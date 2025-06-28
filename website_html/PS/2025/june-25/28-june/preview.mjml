@@ -1,0 +1,313 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
+      margin-bottom: 10px; }
+    </mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇬🇱 Greenland.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇧🇲 Bermuda next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              BNPL affects credit scores
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Is political violence on the rise in America?
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Lady Liberty's Mouth of America
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 0px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- THE BIG ONE-->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Spotlight of the week
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- THE BIG ONE contents-->
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            UN reboots itself
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/un80-about-people-not-bureaucracy.jpg"
+          alt="Rather than bureaucratic reform, UN80 is ultimately about people, those who rely on the UN’s support during crisis, conflict, or development challenges"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Rather than bureaucratic reform, UN80 is ultimately about people,
+              those who rely on the UN’s support during crisis, conflict, or
+              development challenges. Credits: Bard
+            </i>
+          </p>
+        </mj-text>
+
+        <mj-text
+          padding="10px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UN has launched the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-28-jun-25-sotw-h1-1-un80-initiative?source=website"
+              target="_blank"
+              >UN80 Initiative</a
+            >
+            to mark its 80th anniversary. It’s a comprehensive reform effort
+            aimed at making the UN more relevant, efficient, and impactful. The
+            pandemic, wars, growing global inequality, climate change, and rapid
+            tech developments have put the UN's ability to respond effectively
+            under scrutiny.
+          </p>
+
+          <p style="font-size: 16px; line-height: 1.5">
+            Led by Under-Secretary-General Guy Ryder, the initiative’s major
+            workstreams include:
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Streamlining internal operations and relocating functions to
+              lower-expense locations
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Reviewing nearly 4,000 mandates to identify redundancies and
+              prioritize tasks
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Assessing structural changes and realigning programmes across the
+              system
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Using AI and data analysis to support the mandate review process
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text
+          padding="10px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            The UN80 initiative is grouped into seven thematic clusters:
+            covering peace and security, humanitarian response, development,
+            human rights, training and research, and specialized agencies. The
+            process includes input from regional offices and UN bodies
+            worldwide, making it a rare system-wide reform push. Initial
+            proposals are expected by mid-2025, with final decisions to be made
+            by member states.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
