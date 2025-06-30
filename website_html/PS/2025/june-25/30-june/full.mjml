@@ -1,0 +1,532 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is as big as 🇬🇱 Greenland. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇧🇲 Bermuda next.</p> 
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;">
+            Israel ordered evacuations from Gaza</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> 
+            US energy utilities investments</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            India and the Neanderthal genome</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Senate reviews spending bill</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/senate-passes-bill-51-49-vote-june-28.jpg" alt="The legislation cleared a key hurdle late June 28, receiving a tight 51-49 vote in the Senate" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+            The legislation cleared a key hurdle late June 28, receiving a tight 51-49 vote in the Senate. Credits: Politico</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        The US Senate clerk has finished reading the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h1-1-940-page-spending-bill?source=website" target="_blank">940-page spending bill</a> and will consider dozens of amendments <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h1-2-before-a-final-vote" target="_blank">before a final vote</a>, expected June 30. Next, there will be up to 20 hours of debate split evenly between the Republicans and Democrats. If the Senate passes it, the House plans to vote on July 2. 
+
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The Congressional Budget Office says the bill could add $3.3T to the liability over 10 years, mainly from extending <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h1-3-trump-s-2017-tax-cuts?source=website" target="_blank">Trump’s 2017 tax cuts</a>, which alone set back $4T. It also proposes $625B in Medicaid cuts, risking coverage for 7.6Mn Americans. On immigration, the bill pumps $150B into DHS, including $45B for detention centers and $27B for mass deportations.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+      Meanwhile, the bill does provide some tax perks: a $25,000 tip salary exemption and a $6,000 deduction for seniors, though these are capped by salary. Critics argue that they benefit the wealthy more than the working class, while reducing aid for low-salary families. 
+        </p>
+        <p style="font-size: 16px; line-height: 1.5">
+     GOP Senator Thom Tillis opposed the spending bill over a projected $26B cut to Medicaid in North Carolina. Later, he announced he <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h1-4-won-t-seek-reelection?source=website" target="_blank">won’t seek reelection</a> in 2026, calling it “not a hard choice” given the political climate. Trump called the retirement “great news” and is already looking for a replacement. 
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-30-june-2025-p-ad-A17?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Sachet a day keeps the bloat away</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/30-june-2025-A17.jpg" alt="campaign-A17" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+           Bloat relief, calm and clear,
+           <br /> Apple cider blends appear.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Ginger, dandelion, soothe inside,<br />
+           Digest with ease, let wellness guide.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Flavors fresh, sip with delight,<br /> 
+          Gut in balance, feeling right!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+           Grab easy-to-mix sachets</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+  <!-- primary ad -->
+
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                Canada withdraws digital tax </h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/tech-tax-3-percent-levy-domestic-foreign-companies.jpg" alt="The tax would have applied to both domestic and foreign tech companies with a 3% levy" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           The tax would have applied to both domestic and foreign tech companies with a 3% levy. Credits: Reuters</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+         Just hours before the first payments were due, Canada announced it would rescind the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h2-5-digital-service-tax?source=website" target="_blank">digital service tax</a> “in anticipation” of a broader, mutually beneficial trade agreement. The tax, set to take effect, targets US tech giants such as Amazon, Meta, and Google. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      Trump blasted it as an attack on the US and accused Canada of mimicking the EU’s approach to taxing American companies. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h2-6-trump-further-announced?source=website" target="_blank">Trump further announced</a> that the US would halt trade negotiations and warned Canada it would face tariffs within seven days. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      While the situation de-escalated the trade standoff, the markets reacted quickly, with tech stocks dipping. The Trump administration signaled an impending trade investigation under <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h2-7-article-301-of-the-trade-bill?source=website" target="_blank">Article 301 of the Trade Bill</a> to assess economic harm.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      The digital services tax was first introduced in 2020 to address a taxation gap. The large tech companies were earning significant revenues from Canadians, but were not taxed. The US goods trade with Canada totaled roughly $762B last year. 
+          </p>
+
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 Florida detention facility opening</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>
+         Summary: Florida’s detention facility ignites protests over its rushed construction on sacred and ecologically sensitive land.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           President Trump is expected to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h3-8-attend-the-formal-opening?source=website" target="_blank">attend the formal opening</a> of the controversial immigration detention center in the Florida Everglades. The state leaders have dubbed it the “Alligator Alcatraz.” The $450M facility will house up to 5,000 undocumented immigrants and is already drawing national attention. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+         But outrage is mounting from <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-spotlight-h3-9-indigenous-communities?source=website" target="_blank">indigenous communities</a>. The detention center is surrounded on three sides by Miccosukee and Seminole homes and sacred ceremonial sites. Tribal members say the land has deep spiritual significance. On Friday, environmental groups filed lawsuits to halt the facility’s opening, citing ecological destruction and unlawful land seizure. Hundreds of people turned out to protest. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+        Governor Ron DeSantis seized the land using emergency powers he invoked in early 2023 and seized the Everglades airfield without needing county approval. Although the land is located in Miami-Dade County, local officials had no say, triggering intense backlash from county leaders and tribal governments.</p>
+        <p style="font-size: 16px; line-height: 1.5"> 
+        The facility also sits on land that is over 96% wetlands, adjacent to Big Cypress National Preserve. Conservation groups argue that the construction poses a threat to wildlife and undermines decades of taxpayer-funded restoration efforts in the Everglades. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Israel ordered evacuations from Gaza City and Jabalia to al-Mawasi</strong>, a designated "safe zone," ahead of increased military measures. At least 86 people were killed as a result of Israeli attacks in the 24 hours before midday on Sunday. Meanwhile, Trump pushed for a ceasefire, claiming Netanyahu is negotiating with Hamas and an agreement could come within a week (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h1-10-gaza-ablaze?source=website" target="_blank">Gaza ablaze</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Over 140,000 Serbians took to the streets in Belgrade demanding early elections</strong> and an end to President Aleksandar Vucic’s 12-year rule. Clashes broke out between police and protesters as dozens were arrested. Vucic refused snap elections, despite growing unrest over corruption and last year’s <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h1-11-deadly-train-station-collapse?source=website" target="_blank">deadly train station collapse</a> (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h1-12-serbia-rallies?source=website" target="_blank">Serbia rallies</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!-- <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px">
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Dubai Summary</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-bottom:8px;
+              padding-left: 5px;
+              color:#4D3060; 
+                text-align: left;
+                letter-spacing:1px;
+                  font-size: 26px;
+                  line-height: 1.2;
+                  font-weight: 300;
+                  
+                ">The pulse of Dubai</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+            <li>​<strong>​The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+            <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+            <li><strong>Where is Nunavut?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+            <strong>Dubai is always on the move. Can you keep up?</strong> 
+            From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+            </p>
+            <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+            <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+            </p>
+            </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Dubai Summary</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- secondary ad  -->
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Chinese EV battery giant CATL is expanding globally following a record Hong Kong IPO</strong>, with investments in factories across Hungary, Germany, Spain, and Indonesia. With domestic growth slowing due to market value wars and overcapacity, it’s targeting Europe despite tariffs. CATL is also introducing battery-swapping tech to cut EV expenses (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h2-13-charge-empire?source=website" target="_blank">charge empire</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Nvidia insiders, including CEO Jensen Huang, have sold over $1B in shares in the past year, with $500M sold this month as stock hit record highs</strong>. Huang’s pre-planned trade began after a 90-day cooling-off period, potentially earning him $900M. Nvidia’s valuation has surged to $3.8T amid strong AI demand, recovering from China-related trade setbacks (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h2-14-chip-cashout?source=website" target="_blank">chip cashout</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>US energy utilities are set to invest over $212B by 2025 to meet soaring electricity demand from AI-driven data centers</strong>, raising concerns about higher consumer bills. Regulators warn of long-term affordability issues and inflated infrastructure planning. Companies like Amazon and Microsoft are helping offset these expenses through special payments. (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h2-15-watt-s-next?source=website" target="_blank">Watt’s next?</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border="1px solid black" border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/samsung-one-ui-7-security-enhancements-advanced-threat-protection.jpg" alt="With One UI 7, Samsung goes further by introducing additional protections that address more advanced or high-risk threat scenarios" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          With One UI 7, Samsung goes further by introducing additional protections that address more advanced or high-risk threat scenarios. Credits: Unsplash</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+           <strong>Samsung is urging Galaxy users to enable anti-theft tools in One UI 7</strong>. These updates utilize AI to detect suspicious behavior and require biometric authentication in unfamiliar settings. Key features like identity verification and security delay protect even if your PIN is compromised (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h3-16-galaxy-guard?source=website" target="_blank">Galaxy guard</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Using DNA from over 2,700 Indians, scientists reconstructed half of the Neanderthal genome</strong>, finding India has the highest Neanderthal ancestry among non-Africans. The study shows how ancient migrations and social structures shaped genetic diversity. It also links archaic genes to immune traits, offering insights for more precision health strategies in India (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h3-17-gene-uncoded?source=website" target="_blank">gene uncoded</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+             <strong>During the race weekend coinciding with the release of F1: The Movie, Lando Norris’ dominant Austrian GP victory slashed teammate Oscar Piastri’s title lead to 15 points</strong>. Despite a near-miss incident with Piastri, Norris kept control. McLaren praised Norris' growth and the duo’s respectful rivalry. With Max Verstappen largely out of contention, the championship is shaping up to be a tight McLaren two-horse race (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h4-18-race-reset?source=website" target="_blank">race reset</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+                  <strong>Italian fashion label Prada has acknowledged the Indian roots of its footwear line.</strong> The sandals, showcased at the Milan Fashion Week, had an open-toe braided pattern that closely resembled the traditional Kolhapuri sandals. Prada described the sandals as "leather footwear" but did not mention their Indian origins, prompting backlash (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-06-2025-cultural-appropriation?source=website" target="_blank">cultural appropriation</a>).
+                    </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Jeff Bezos and Lauren Sánchez tied the knot in Venice (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h5-20-see-photos?source=website" target="_blank">see photos</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Archaeologists uncover tomb in Turkey linked to King Midas (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h5-21-gold-find?source=website" target="_blank">gold find</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Scientists identify a newer blood group in just one Guadeloupe woman (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h5-22-bloody-rare?source=website" target="_blank">bloody rare</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">China’s humanoid robot soccer team outshines the national men’s team (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jun-25-lss-h5-23-watch-video?source=website" target="_blank">watch video</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">On this day in 1934, during the “Night of the Long Knives,” Adolf Hitler ordered the execution of many leaders of the Nazi SA paramilitary group by his SS guards.
+            </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+          
+          <!-- <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7;
+            ">
+            This is a paid advertisement for Mood. Products may contain THC and are intended for adults 21+. This is not medical advice.</p> -->
+            <p style="
+              color:#000;
+              font-size:10px; 
+              line-height: 1.7;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition, and the content is for informational purposes only.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
