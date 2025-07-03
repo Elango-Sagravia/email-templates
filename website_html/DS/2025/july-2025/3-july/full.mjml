@@ -1,0 +1,1129 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
+      margin-bottom: 10px; }
+    </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+        </mj-text>
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 0px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-july-3.jpg"
+          alt="Dubai weather july 3"
+          href="https://www.dubaisummary.com"
+        />
+
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Flights to Damascus are back
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Michelin-grade wagyu at TakaHisa
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Dubai’s independence from Abu Dhabi
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Elite moves to the UAE
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/fast-growing-markets-migrating-millionaires-montenegro-uae-malta-usa-costa-rica.jpg"
+          alt="Most of the fast-growing markets are popular destinations for migrating millionaires, such as Montenegro, the UAE, Malta, the USA, and Costa Rica"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Most of the growing markets are popular destinations for migrating
+              millionaires, such as Montenegro, the UAE, Malta, the USA, and
+              Costa Rica. Credits: One Investments
+            </i>
+          </p>
+        </mj-text>
+
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE is expected to welcome around 9,800 millionaires in 2025,
+            according to Henley & Partners' latest Private Wealth Migration
+            Report (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h1-2-see-data?source=website"
+              target="_blank"
+              >see data</a
+            >). That would make it the top destination for high-net-worth
+            individuals globally for the third consecutive year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>What’s driving this move?</strong> A mix of Golden Visa
+            incentives, low taxes, and global instability elsewhere. Dubai and
+            Abu Dhabi are particularly attractive to those fleeing high-tax
+            regimes, such as the UK, where changes to the “non-dom” tax status
+            have triggered a wave of relocations (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h1-3-more-about-non-dom?source=website"
+              target="_blank"
+              >more about non-dom</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The list of newer residents includes major names like
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h1-4-pavel-durov?source=website"
+              target="_blank"
+              >Pavel Durov</a
+            >, founder of Telegram, and
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h1-5-michael-platt?source=website"
+              target="_blank"
+              >Michael Platt</a
+            >, co-founder of BlueCrest Capital.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 0px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="16px" />
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            UAE flights return to Syria
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/uae-syria-diaspora-travel-route-growth.jpg"
+          alt="This route holds particular significance in serving the Syrian diaspora in the region and meeting the growing travel demand between the UAE and Syria"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              This route holds particular significance in serving the Syrian
+              diaspora in the region and meeting the growing travel demand
+              between the UAE and Syria. Credits: Khaleej Times</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Air Arabia, the UAE’s low-cost carrier based in Sharjah, announced
+            it will resume
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h2-6-direct-flights-to-damascus?source=website"
+              target="_blank"
+              >direct flights to Damascus</a
+            >
+            starting July 10, ending a suspension that had been in place since
+            2012 due to the Syrian conflict.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The airline will operate four non-stop daily flights, aiming to meet
+            rising demand from the large Syrian diaspora. The UAE is home to
+            over 350,000 Syrian nationals, many of whom play a key role in the
+            economy. Bilateral trade between the UAE and Syria reached $680Mn in
+            2024, a 23% increase from the year before.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h2-7-flydubai?source=website"
+              target="_blank"
+              >Flydubai</a
+            >
+            restarted its daily Damascus flights on June 26, and
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-spotlight-h2-8-emirates?source=website"
+              target="_blank"
+              >Emirates</a
+            >
+            will resume its route on July 16, with daily service expected by
+            October.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            What’s happening?
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Tease Me Pool Brunch (<i>brunch + party</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Dubai’s cheekiest poolside brunch meets golden hour beats and a
+            high-energy after party at Barasti Beach.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓 Saturdays, 5 July – 27 September | 🕗 5:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            📍
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h1-9-barasti-beach?source=website"
+              target="_blank"
+              >Barasti Beach</a
+            >
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h1-10-book-tickets?source=website"
+              target="_blank"
+              >Book tickets</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            9D Breathwork Meditation (<i>wellness</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Unwind with a two-hour immersive breathwork journey in a 360°
+            digital art space, designed to help release emotional blockages and
+            bring mental clarity.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓 Thursday, 10 July | 🕘 20:00 – 22:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            📍
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h2-11-theatre-of-digital-art-toda?source=website"
+              target="_blank"
+              >Theatre of Digital Art (ToDA)</a
+            >
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h2-12-book-tickets?source=website"
+              target="_blank"
+              >Book tickets</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            The Penthouse presents: m.O.N.R.O.E. (<i>music</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Miami-based DJ, m.O.N.R.O.E., brings deep, soulful house to the
+            sky-high decks of FIVE Palm Jumeirah. Expect Burning Man vibes and
+            grooves that go late into the night.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓 Saturday, 5 July | 🕘 From 10:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            📍
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h3-13-the-penthouse-five?source=website"
+              target="_blank"
+              >The Penthouse, FIVE</a
+            >
+            Palm Jumeirah
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-wh-h3-14-more-info?source=website"
+              target="_blank"
+              >More info</a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Fresh in town
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Place to visit
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/kite-beach-14km-jogging-track-swimming-sunset-to-sunrise.jpg"
+          alt="Kite Beach boasts a 14km jogging track, and parts of Kite Beach allow swimming from sunset to sunrise, as well as during the day"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Kite Beach boasts a 14km jogging track, and parts of Kite Beach
+              allow swimming from sunset to sunrise, as well as during the day.
+              Credits: Visit Dubai
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Kite Beach</strong> → Located along Jumeirah Beach Road,
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-fit-h1-15-kite-beach?source=website"
+              target="_blank"
+              >Kite Beach</a
+            >
+            is one of Dubai’s most popular zero-fee entry spots for sun, sand,
+            and sports. You’ll find paddle boarding, kite surfing, and beach
+            volleyball right alongside smoothie bars, walking trails, and a view
+            of the Burj Al Arab.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            It’s also home to
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-fit-h1-16-xpark-by-etisalat?source=website"
+              target="_blank"
+              >XPark by Etisalat</a
+            >, a skate park that draws bikers and boarders daily. It’s open 24/7
+            (note: dining and sports facilities have varying hours). It's best
+            to visit early in the morning or late in the afternoon to escape the
+            midday heat.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Where to eat
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>TakaHisa (Downtown Dubai)</strong> → A high-end Japanese
+            dining experience with a focus on top-grade wagyu and seafood,
+            located at the luxurious
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-fit-h2-17-banyan-tree-hotel?source=website"
+              target="_blank"
+              >Banyan Tree hotel</a
+            >. Between the beef and seafood menus, the beef wins by far,
+            especially the boiled wagyu, which is rich, tender, and
+            unforgettable.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-fit-h2-18-take-a-look?source=website"
+              target="_blank"
+              >Take a look</a
+            >.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Pro tip:</strong> Turn down the outdoor seating, it’s too
+            dim to appreciate the presentation.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Explore careers
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Junior Real Estate Admin - Princess Properties LLC
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 4,000–5,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Seeking a proactive admin professional to
+            support day-to-day operations in a real estate office. Duties
+            include managing listings, coordinating showings, handling client
+            communications, and supporting advertising efforts. Ideal for
+            someone organized, tech-savvy, and experienced in CRM tools.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-ec-h1-19-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ----- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Mid-Level Operations Manager - Consegna Delivery Service
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 8,000–11,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Consegna is hiring an Operations Manager
+            to oversee logistics operations, manage rider fleets, and build
+            strong client relationships with food delivery partners. Ideal
+            candidates have at least 2 years of experience in operations or
+            logistics (preferably in food delivery), strong leadership skills,
+            and a hands-on, analytical mindset.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-ec-h2-20-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- --- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Senior Accountant - DIA Trendz DMCC
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 6,000–7,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> DIA Trendz is seeking a Senior Accountant
+            to oversee monetary reporting, reconciliations, stock audits,
+            payables, receivables, and currency flow management. Candidates
+            should have 5 to 10 years of experience and be well-versed in
+            accounting standards and compliance.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-ec-h3-21-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px" />
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            A moment in history
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section
+      css-class="mj_section"
+      background-color="#ffffff"
+      padding-bottom="6px"
+    >
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Independence from Abu Dhabi
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            In the early 19th century, Dubai was under the control of Abu Dhabi,
+            and both were part of the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-amih-h1-22-bani-yas-tribe?source=website"
+              target="_blank"
+              >Bani Yas tribe</a
+            >. But in 1833, a group of about 800 people from the Al Bu Falasah
+            subtribe, led by Maktoum bin Butti, broke away. They sailed north
+            and settled along the Dubai Creek, establishing an independent
+            settlement.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            This move marked the beginning of the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-3-jul-25-amih-h1-23-al-maktoum-dynasty?source=website"
+              target="_blank"
+              >Al Maktoum dynasty</a
+            >
+            in Dubai, a ruling family that continues to govern the emirate to
+            this day. The location, near the natural harbor of the Creek, helped
+            Dubai thrive as a center for trade, fishing, and pearl diving. The
+            leadership also adopted an open trade policy, attracting merchants
+            from across the region and laying the groundwork for the global city
+            Dubai would eventually become.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-text
+          padding="0px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+            "
+          >
+            Did you know?
+          </h2>
+        </mj-text>
+        <mj-section
+          border-radius="10px"
+          background-color="#102341"
+          padding="10px 12px"
+        >
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p
+                style="
+                  font-size: 18px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  padding: 22px 12px 8px 12px;
+                  text-align: center;
+                  margin: 0;
+                  color: #ffffff;
+                "
+              >
+                In some parts of Dubai, you can withdraw gold bars from ATMs.
+              </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="mailto:readers@dubaisummary.com"
+              target="_blank"
+              >readers@dubaisummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/advertise"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/people/Dubai-Summary/61576229295087/"
+            src="https://www.dubaisummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/dubaisummary/"
+            src="https://www.dubaisummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/dubai-summary/about/"
+            src="https://www.dubaisummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.com/@dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            S8, Level 2, Building 3, Dubai Design District, Dubai
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2025 Summary Media FZ-LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

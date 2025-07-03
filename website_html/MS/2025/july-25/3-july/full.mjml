@@ -2,12 +2,6 @@
   <mj-head>
   </mj-head>
   <mj-body>
-    <mj-raw> 
-      <div style="display: none; max-height: 0px; overflow: hidden;">
-       Plus Prehistoric Planet</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->  
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw> 
     <!-- header -->
     <!-- blur bg image -->
     <mj-wrapper padding="0px" 
@@ -22,10 +16,7 @@
           href="https://moviesuggestions.com/" padding="10px 12px" 
           width="150px" 
           src="https://moviesuggestions.com/logo.png" />
-          <mj-image 
-          width="1px" 
-          src="https://www.moviesuggestions.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" 
-          alt="" />
+         
           <mj-spacer height="6px" />
           <mj-text padding="8px 12px" color="#fff">
             <mj-raw>
@@ -138,7 +129,7 @@
                     <strong>Pro tip:</strong> Keep your expectations low. </p>
                   <p>
                     <a 
-                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-jurassic-world-rebirth"
+                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-jurassic-world-rebirth?source=website"
                     target="_blank" 
                     style="color: #F9D342;
                     font-size: 17px;
@@ -153,7 +144,7 @@
         </mj-text>
         <mj-image
         width="600px" 
-        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-jurassic-world-rebirth" 
+        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-jurassic-world-rebirth?source=website" 
         src="https://moviesuggestions.com/email/images/3-july-2025/jurassic-world-rebirth-jungle-expedition-scene.jpg" 
         alt="A tense jungle expedition unfolds as three explorers wade through murky waters in Jurassic World: Rebirth"
         padding="10px 12px"
@@ -181,7 +172,7 @@
     <!-- title -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png" padding="0px 12px 0px 12px">
       <mj-raw>
-        <a href="https://link.moviesuggestions.com/ms-3-july-2025-p-ad-W3-6" target="_blank" style="color:black">
+        <a href="https://link.moviesuggestions.com/ms-3-july-2025-p-ad-W3-6?source=website" target="_blank" style="color:black">
       </mj-raw>
       <mj-column>
         <mj-spacer height="30px" />
@@ -238,7 +229,7 @@
                   </p>
                 </div>
               </div>
-            </div>
+            </div> 
           </mj-raw> 
         </mj-text>
         <mj-spacer height="10px" />
@@ -333,7 +324,7 @@
         </mj-text>
         <mj-image
         width="600px" 
-        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-godzilla-v-kong" 
+        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-godzilla-v-kong?source=website" 
         src="https://moviesuggestions.com/email/images/3-july-2025/godzilla-vs-kong-epic-battle-on-aircraft-carrier-scene.jpg" 
         alt="Godzilla and King Kong clash in an intense battle on top of a massive aircraft carrier amidst smoke and chaos in a scene from Godzilla vs. Kong"
         border-radius="10px"
@@ -360,7 +351,7 @@
                  
                   <p>
                     <a 
-                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-godzilla-v-kong" target="_blank" 
+                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-godzilla-v-kong?source=website" target="_blank" 
                     style="color: #F9D342;
                     font-size: 17px;
                     font-style: normal;
@@ -420,7 +411,7 @@
         </mj-text>
         <mj-image 
         width="600px"
-        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-a-quite-place" 
+        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-a-quite-place?source=website" 
         src="https://moviesuggestions.com/email/images/3-july-2025/a-quiet-place-father-protecting-son-scene.jpg" 
         alt="A tense scene from A Quiet Place showing a father covering his son's mouth to keep silent while hiding by a tree in a forest"
         padding="10px 12px 0px 12px"
@@ -444,7 +435,7 @@
                    This nail-biting, edge-of-the-seat entertainer is hailed for its immaculate sound design. It was praised for reinventing the horror genre and for strong performances by Emily Blunt and John Krasinski. Emily Blunt clinched a Screen Actors Guild Award for Best Supporting Actress. The commercial triumph of this movie led to A Quiet Place Part II and a spinoff, A Quiet Place: Day One.</p>
                   <p>
                     <a 
-                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-a-quite-place" 
+                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-a-quite-place?source=website" 
                     target="_blank" 
                     style="color: #F9D342;
                     font-size: 17px;
@@ -504,7 +495,7 @@
         </mj-text>
         <mj-image 
         width="600px"
-        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-kingdom-of-the-planet-of-the-apes" 
+        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-kingdom-of-the-planet-of-the-apes?source=website" 
         src="https://moviesuggestions.com/email/images/3-july-2025/kingdom-of-the-planet-of-the-apes-human-and-apes-on-quest.jpg" 
         alt="Scene from Kingdom of the Planet of the Apes featuring a determined chimpanzee warrior holding a spear, a rugged human woman, and an orangutan companion walking through a desolate landscape."
         padding="10px 12px 0px 12px" 
@@ -527,7 +518,7 @@
                     line-height: 1.5;">
                  The movie throws light on how ideologies evolve and are manipulated over generations. It also showcases the difference between fear-based rule and compassion-based rule among the apes. Boasting fewer fight sequences than earlier films, the immersive landscape and the impressive CGI-generated apes make you feel like a part of the clan. The movie allows you to constantly interact with the film as the characters go through difficult decisions. </p>
                   <p>
-                    <a href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-kingdom-of-the-planet-of-the-apes" 
+                    <a href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-kingdom-of-the-planet-of-the-apes?source=website" 
                     target="_blank" 
                     style="color: #F9D342;
                     font-size: 17px;
@@ -607,7 +598,7 @@
         </mj-text>
         <mj-image 
         width="600px" 
-        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-prehistoric-planet" 
+        href="https://link.moviesuggestions.com/ms-03-07-2025-official-trailer-prehistoric-planet?source=website" 
         src="https://moviesuggestions.com/email/images/3-july-2025/prehistoric-planet-herd-of-dinosaurs-in-forest-clearing.jpg" alt="A herd of herbivorous dinosaurs, including adults and juveniles, walking through a forest clearing under a cloudy sky in a scene from Prehistoric Planet"
         padding="10px 12px 0px 12px" 
         border-radius="10px" />
@@ -630,7 +621,7 @@
                     The show is rooted in the latest paleontological evidence. From feathered dinosaurs to social behavior, Prehistoric Planet aims to update perceptions of dinosaurs with the most accurate science. It blends cinematic storytelling, CGI innovation, and scientific expertise to transport viewers to the age of dinosaurs. Unlike other shows, this series treats these animals like real wildlife, complete with behavior, hierarchy, parenting, and survival tactics.</p>
                     <p>
                     <a 
-                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-prehistoric-planet" 
+                    href="https://link.moviesuggestions.com/ms-03-07-2025-where-to-watch-prehistoric-planet?source=website" 
                     target="_blank" 
                     style="color: #F9D342;
                     font-size: 17px;
@@ -679,14 +670,14 @@
                     font-style: normal;
                     font-weight: 400;
                     line-height: 1.4;">
-                   In Jurassic World: Rebirth, the terrifying D-Rex, nicknamed Distortus Rex, is a failed hybrid experiment with six limbs, designed to evoke both fear and pity. Inspired by creatures like the Rancor and Xenomorph, it walks awkwardly on gorilla-like arms. Director Gareth Edwards said its tragic design was meant to feel like a “monster that never should’ve existed.”
+                   In Jurassic World: Rebirth, the terrifying D‑Rex, nicknamed Distortus Rex, is a failed hybrid experiment with six limbs, designed to evoke both fear and pity. Inspired by creatures like the Rancor and Xenomorph, it walks awkwardly on gorilla-like arms. Director Gareth Edwards said its tragic design was meant to feel like a “monster that never should’ve existed.”
                    </p>
-                </div> 
+                </div>
               </div>
-            </div> 
+            </div>
           </mj-raw>
         </mj-text>
-      </mj-column> 
+      </mj-column>
     </mj-section>
     <!-- banner2 -->
     <mj-section background-color="#040302" background-url="https://www.moviesuggestions.com/black-bg.png">
@@ -724,10 +715,6 @@
               <div style="background:#000; mix-blend-mode:screen;">
                 <div style="background:#000; mix-blend-mode:difference;">
                   <p style=" font-size: 12px; color: #808080; line-height: 2"> Send us your feedback at <a style="text-decoration: none; border-bottom: 1px solid  #F9D342; color:#808080;" href="mailto:readers@moviesuggestions.com" target="_blank">readers@moviesuggestions.com</a>. </p>
-                 
-                  <p style=" font-size: 12px; color: #808080; line-height: 2">
-                    <a style="text-decoration: none; border-bottom: 1px solid #F9D342; color:#808080;" href="https://www.moviesuggestions.com/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-                  </p>
                   <!-- <p style=" font-size: 12px; color: #808080; line-height: 2">
                     This is a paid advertisement for Mood. Products may contain THC and are intended for adults 21+. This is not medical advice.
                   </p> -->
