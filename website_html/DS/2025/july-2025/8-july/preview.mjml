@@ -1,0 +1,332 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
+      margin-bottom: 10px; }
+    </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+        </mj-text>
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 0px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-july-8.jpg"
+          alt="Dubai weather july 8"
+          href="https://www.dubaisummary.com"
+        />
+
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Sharjah-Munich flights announced
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Visit Dubai Frame, try Korean BBQ
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              The arrival of Islam in the UAE
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            No Golden Visa
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/golden-visa-policy-excludes-crypto-investors.jpg"
+          alt="The officials clarified that golden visas are issued according to clear and officially approved frameworks and criteria, which do not include digital currency investors"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The officials clarified that golden visas are issued according to
+              clear and officially approved frameworks and criteria, which do
+              not include digital currency investors. Credits: TOI
+            </i>
+          </p>
+        </mj-text>
+
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE government has
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-8-jul-25-spotlight-h1-2-officially-rejected?source=website"
+              target="_blank"
+              >officially rejected</a
+            >
+            recent assertions that cryptocurrency holders are eligible for the
+            country’s Golden Visa. This followed a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-8-jul-25-spotlight-h1-3-post-by-max-crown?source=website"
+              target="_blank"
+              >post by Max Crown</a
+            >, the CEO of the Ton Foundation, who claimed that Toncoin investors
+            could secure a 10-year UAE residency by staking tokens and paying a
+            $35,000 fee.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Context:</strong> Golden Visas are typically granted to
+            investors in real estate, entrepreneurs, exceptional talent,
+            scientists, top graduates, and other clearly defined categories.
+            VARA (Virtual Assets Regulatory Authority) has further confirmed
+            that Toncoin is neither a licensed nor a regulated entity in the
+            UAE.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Bottom line:</strong> Authorities urged the public to rely
+            on official government channels for accurate visa information. Read
+            more about the Golden Residency Program
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-8-jul-25-spotlight-h1-4-here?source=website"
+              target="_blank"
+              >here</a
+            >.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 0px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="16px" />
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Sharjah to Munich
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/air-arabia-airbus-a320-a321-fleet-overview.jpg"
+          alt="Air Arabia operates a fleet comprising Airbus A320 and A321 aircraft, the world’s best-selling single-aisle aircraft"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Air Arabia operates a fleet comprising Airbus A320 and A321
+              aircraft, the world’s best-selling single-aisle aircraft. Credits:
+              Air Arabia</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Air Arabia has announced the launch of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-8-jul-25-spotlight-h2-5-direct-flights-from-sharjah-to-munich?source=website"
+              target="_blank"
+              >direct flights from Sharjah to Munich</a
+            >, Germany’s third-largest city, starting December 15, 2025. The
+            low-cost carrier will operate the route three times a week, linking
+            the UAE with one of Europe’s key business and tourism hubs.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Big picture:</strong> This move marks Air Arabia’s continued
+            expansion in Europe. Just weeks ago, the airline announced a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-8-jul-25-spotlight-h2-6-direct-route-to-prague?source=website"
+              target="_blank"
+              >direct route to Prague</a
+            >, set to begin on December 20, 2025. These additions join existing
+            destinations like Vienna, Athens, Milan Bergamo, Krakow, and Warsaw.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            Munich, Bavaria’s economic powerhouse, provides strong demand from
+            UAE-based professionals, tourists, and business travelers. Adel Al
+            Ali, CEO of Air Arabia, emphasized Munich’s strategic value as both
+            a cultural and economic hub.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
