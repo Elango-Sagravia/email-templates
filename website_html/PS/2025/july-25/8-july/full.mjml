@@ -1,0 +1,525 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is as big as 🇬🇱 Greenland. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇧🇲 Bermuda next.</p> 
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;">
+            UN calls for global reforms</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> 
+            Apple tones down Liquid Glass</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+         Images from the Aerial Photographer of the Year contest</td>
+          </tr>
+        </mj-table>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Trump escalates trade wars</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-letters-japan-south-korea-leaders.jpg" alt="Japan’s Prime Minister Shigeru Ishiba and South Korea’s President Lee Jae-myung were the first recipients of Trump’s letters" />
+        
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           Japan’s Prime Minister Shigeru Ishiba and South Korea’s President Lee Jae-myung were the first recipients of Trump’s letters. Credits: AFP</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+     President Trump restarted global <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h1-1-trade-tensions?source=website" target="_blank">trade tensions</a> by notifying 14 countries about the updated tariffs ranging from 25% to 40%, which are set to take effect on August 1. He said these duties could be avoided if nations agree to manufacture goods in the US or show cooperation.
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+      Trump cited large trade deficits as the reason behind the increased tariffs. Last year, the 14 targeted countries exported a combined $465B worth of goods to the US, with Japan and South Korea alone accounting for $280B. Trump believes these tariffs will help bring jobs back to the US and reduce dependency on foreign manufacturing.
+        </p>
+        <p style="font-size: 16px; line-height: 1.5">
+       Japan and South Korea, two close allies, are facing 25% tariffs, while others like Cambodia and South Africa will see higher tariffs of up to 36% and 30%. The targeted exports include autos, auto parts, semiconductors, pharmaceuticals, machinery, platinum, and apparel. 
+        </p>
+        <p style="font-size: 16px; line-height: 1.5">
+    Trump <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h1-2-also-threatened?source=website" target="_blank">also threatened</a> up to 70% duties on countries that support the BRICS alliance, which he labeled as promoting an “anti-American” agenda. This warning could complicate trade talks with BRICS members, some of whom are currently negotiating with the Trump administration.
+        </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-8-july-2025-p-ad-A22?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Omega 3 for heart & health ❤️</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/8-july-2025-A22.jpg" alt="campaign-A22" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+           Omega-3 for heart so strong,
+           <br /> EPA, DHA, health lasts long.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+         Softgel ease, pure and clean,<br />
+         Tested, trusted, athlete’s dream.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+         Halal, veggie, packed with care,<br /> 
+         Daily wellness, fuel to spare!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+         Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+  <!-- primary ad -->
+
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+               Trump's gift and ceasefire discussion</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-gaza-ceasefire-nobel-peace-prize-bid.jpg" alt="An agreement ending the war in Gaza would be another data point in Trump’s effort to clinch the Nobel Prize" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+           An agreement ending the war in Gaza would be another data point in Trump’s effort to clinch the Nobel Prize. Credits: CNN</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+      During the White House dinner, Israeli PM Benjamin Netanyahu <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h2-3-gifted-trump?source=website" target="_blank">gifted Trump</a> a nomination letter for the Nobel Peace Prize, praising Trump for his diplomatic efforts, especially in the Israel-Hamas conflict.  
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Meanwhile, Egypt and the US negotiators are currently in Qatar, brokering a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h2-4-60-day-truce?source=website" target="_blank">60-day truce</a>, phased hostage releases by Hamas, a partial Israeli military pullback, and humanitarian aid into Gaza. Both Hamas and Israel have signaled tentative support for the US-developed framework. If agreed, the ceasefire could bring an end to the 21-month war and boost Trump’s image as a global peacemaker.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+ Out of 50 Israeli hostages believed to be in Gaza, about 20 are thought to be alive. Hamas has signaled a willingness to release them if assured of a permanent ceasefire. The militant group is pressing for UN-managed aid instead of US-backed humanitarian aid, citing concerns about trust and transparency.
+          </p>
+           <p style="font-size: 16px; line-height: 1.5">
+Past ceasefires were short-lived, and over 57,000 Palestinians have been killed, intensifying the urgency for a lasting resolution. 
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                 UN calls for global reforms</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>
+        Summary: At the BRICS summit and the WSIS anniversary, UN officials emphasized the need for an updated global governance framework.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         At the 17th BRICS summit in Rio de Janeiro, UN Secretary-General António Guterres emphasized the human impact of environmental devastation and climate change. He warned that the world faces <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h3-5-accelerating-climate-disasters?source=website" target="_blank">accelerating climate disasters</a>, deepening inequality, and outdated international institutions. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+        Guterres urged BRICS nations to lead efforts in modernizing multilateral institutions, such as the UN Security Council and international monetary bodies. He emphasized that artificial intelligence must be a global asset, not an elite tool, and advocated for human rights and equity to underpin AI governance. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+      Meanwhile, at the 20th anniversary of the World Summit on the Information Society, UN Human Rights Chief Volker Türk warned that while digital technologies provide transformative benefits, they also <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-spotlight-h3-6-pose-risks?source=website" target="_blank">pose risks</a> like privacy violations, censorship, and algorithmic bias. </p>
+        <p style="font-size: 16px; line-height: 1.5"> 
+       He stressed the urgency of human rights-based governance in the digital age and called for global collaboration to ensure an inclusive, secure, and ethical digital future.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The US plans to delist Hayat Tahrir al-Sham, a Sunni Islamist militant group in Syria, from its list of foreign terrorist groups</strong> after it helped oust the Assad regime. The US and UK are lifting sanctions and offering aid for rebuilding the nation. While the interim government promises reform, concerns linger over violent incidents targeting minority groups (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h1-7-rebel-turnaround?source=website" target="_blank">rebel turnaround</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>At least 11 were killed and over 500 arrested in Kenya during the anti-government protests</strong>. Protesters demanded reforms and an end to police brutality, as authorities faced accusations of excessive force and links to armed gangs. Central Nairobi was sealed, stranding commuters and blocking gateways to rallies (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h1-8-kenyan-uprising?source=website" target="_blank">Kenyan uprising</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!-- <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px">
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Dubai Summary</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-bottom:8px;
+              padding-left: 5px;
+              color:#4D3060; 
+                text-align: left;
+                letter-spacing:1px;
+                  font-size: 26px;
+                  line-height: 1.2;
+                  font-weight: 300;
+                  
+                ">The pulse of Dubai</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+            <li>​<strong>​The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+            <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+            <li><strong>Where is Nunavut?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+            <strong>Dubai is always on the move. Can you keep up?</strong> 
+            From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+            </p>
+            <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+            <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+            </p>
+            </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Dubai Summary</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- secondary ad  -->
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Samsung expects its second-quarter gains to drop by 56% due to weak AI chip trade and US export restrictions to China</strong>. However, analysts said the decline was also due to delays in supplying high-bandwidth memory chips to Nvidia. Still, the company plans to trade back $2.85B in shares and expects a slow recovery through mobile launches and HBM chip trade to other clients (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h2-9-trade-slip?source=website" target="_blank">trade slip</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Huawei’s Noah Ark Lab denies assertions that its Pangu Pro Moe AI model copied Alibaba’s Qwen 2.5 14B</strong>, saying it was developed and trained independently. The accusations came from a paper by HonestAGI, which cited strong similarities. Huawei stated that it adhered to open-source principles and developed the model using its Ascend chips (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h2-10-copy-clash?source=website" target="_blank">copy clash</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Brazilian FinTech XP is suing short seller Grizzly Research in for defamation over a March report</strong> accusing it of running a “Madoff-like Ponzi scheme.” XP states that the assertions have caused over $100M in damage, including investor withdrawals and stock declines. Grizzly alleged XP misused derivatives and funneled client funds through special funding vehicles (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h2-11-expensive-assertion?source=website" target="_blank">expensive assertion</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/prehistoric-fossils-reveal-submerged-landscape-elephant-hippo.jpg" alt="The fossils, including some shown here from elephant-like and hippopotamus-like creatures, are helping to re-create what a landscape drowned by the sea once looked like" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          The fossils, including some shown here from elephant-like and hippopotamus-like creatures, are helping to re-create what a landscape drowned by the sea once looked like. Credits: Harold Berghuis</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+          <strong>A dredging project in Java uncovered over 6,000 fossils</strong>, including two Homo erectus skull fragments, revealing a long-lost river landscape beneath the Madura Strait. Dated to 131,000–146,000 years ago, the finds show early humans hunted buffalo and turtles. Researchers say they may have had advanced hunting skills (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h3-12-fossil-bounty?source=website" target="_blank">fossil bounty</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Apple’s iOS 26 beta 3 tones down the Liquid Glass design after complaints that it was too translucent and hard to read</strong>. It reduces effects in areas such as notifications and Apple Music’s navigation bar, improving usability. Earlier issues, like a see-through Control Center, were addressed in beta 2 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h3-13-glass-pass?source=website" target="_blank">glass pass</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+           <strong>Grigor Dimitrov had to retire from his Wimbledon Round of 16 match against Jannik Sinner</strong>, even though he was leading by two sets, after injuring his chest while serving. It was a tough blow, as he had been playing strongly, and it added to his string of injury-related Grand Slam exits. Sinner moves on to face Ben Shelton in the quarterfinals (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h4-14-injury-curse?source=website" target="_blank">injury curse</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+                <strong>Charlize Theron criticized Hollywood for avoiding female-led combat films</strong>, calling them "too risky" compared to those led by men. She highlighted the double standard where men receive repeated chances despite their flops, while women don’t. Known for <i>Mad Max</i>: Fury Road and <i>Atomic Blonde</i>, she recently reprised her role in <i>The Old Guard</i> 2 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h4-15-action-bias?source=website" target="_blank">combat bias</a>).
+                    </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A Chihuahua helps rescue a man trapped in a Swiss glacier (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h5-16-tiny-hero?source=website" target="_blank">tiny hero</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">2025 International Aerial Photographer of the Year contest (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h5-17-see-images?source=website" target="_blank">see images</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A Spanish woman sets a Guinness World Record by collecting 15,485 egg cups (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h5-18-50-years-of-effort?source=website" target="_blank">50 years of effort</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">People line up for Disney World’s lost and found trade, chasing expensive items (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-8-jul-25-lss-h5-19-magic-deals?source=website" target="_blank">magic deals</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">
+            On this day in 1497, Vasco da Gama set sail from Lisbon with four ships, eventually opening a sea route from Europe to Asia around the Cape of Good Hope.
+            </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+            <p style="
+              color:#000;
+              font-size:10px; 
+              line-height: 1.7;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
