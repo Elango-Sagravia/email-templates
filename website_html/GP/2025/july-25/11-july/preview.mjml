@@ -1,0 +1,229 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom:
+      10px;}</mj-style
+    >
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇬🇱 Greenland.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇧🇲 Bermuda next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Popular Forces challenge Hamas
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Ursula von der Leyen survived a no-confidence vote
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              The story behind the creation of Liberia
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 0px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- breaking news -->
+    <!--/ breaking news -->
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Spotlight -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            African inequality
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/african-wealth-gap-rich-vs-poor.jpg"
+          alt="A fraction of the African population still enjoys the lion’s share of the spoils while the rest struggle to make ends meet"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              A fraction of the African population still enjoys the lion’s share
+              of the spoils while the rest struggle to make ends meet. Credits:
+              Anders Pettersson/Getty Images</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> The four richest Africans hold $57.4B in
+            wealth - more than half the continent’s population combined. Over
+            the past five years, African billionaires have seen a 56% increase
+            in their wealth, and currently control nearly $4T. There is also a
+            wide gender wealth gap where men hold three times more wealth than
+            women (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-11-jul-25-spotlight-h1-1-the-report?source=website"
+              target="_blank"
+              >the report</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The reason:</strong> Africa’s tax structures are nearly
+            three times less effective than the global average at redistributing
+            wealth. Reliance on consumption taxes like VAT (which applies to
+            basic goods and services) forces the poor to spend more on
+            essentials, while budget cuts reduce availability to healthcare and
+            education. Imposing a modest 1% tax on the wealth and 10% on the
+            revenue of the richest could raise $66B each year.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            <strong> The challenge:</strong> Political exclusion plays a key
+            role in the cycle of inequality. High entry fees demanded by
+            political parties, along with common vote-buying practices,
+            effectively keep the poor from running for elections. As a result,
+            the wealthy control government decisions and protect their own
+            interests.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

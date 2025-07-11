@@ -1,0 +1,324 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
+      margin-bottom: 10px; }
+    </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+        </mj-text>
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 0px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-july-11.jpg"
+          alt="Dubai weather july 11"
+          href="https://www.dubaisummary.com"
+        />
+
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              UAE raises housing financing age to 95
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Anatolian dishes with a modern edge
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              How old is Dubai?
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+
+    <!-- breaking news-->
+    <!-- /breaking news -->
+
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            UAE leaves the high-risk list
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/monaco-currency-laundering-high-risk-jurisdictions.jpg"
+          alt="Monaco and nine other jurisdictions are subject to high-level scrutiny due to their currency laundering control"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Monaco and nine other jurisdictions are under high-level scrutiny
+              due to their currency laundering control. Credits: TOI
+            </i>
+          </p>
+        </mj-text>
+
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The European Commission recently updated its list of “high-risk
+            third countries,”
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-11-jul-25-spotlight-h1-2-removing-the-uae?source=website"
+              target="_blank"
+              >removing the UAE</a
+            >
+            along with several others, including the Philippines, Panama, and
+            Senegal. UAE Minister of State called the move a recognition of the
+            country’s progress in aligning with international standards to
+            combat currency crime.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The list is part of the EU’s framework for identifying jurisdictions
+            that require additional monitoring of currency laundering and
+            counter-terrorist financing practices. The Financial Action Task
+            Force (global currency laundering and terrorist financing watchdog)
+            had previously placed the UAE under closer scrutiny, but
+            acknowledged its progress in implementing reforms.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Countries added to the updated list include Lebanon, Kenya, Laos,
+            and Venezuela, among
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-11-jul-25-spotlight-h1-3-several-others?source=website"
+              target="_blank"
+              >several others</a
+            >.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 0px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="16px" />
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Housing credits extended
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/suhail-mazrouei-uae-banking-insurance-collaboration.jpg"
+          alt="Ministers praised the collaboration with the banking sector and national insurance companies, noting that it reflects the UAE’s strategic vision"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Ministers praised the collaboration with the banking sector and
+              national risk coverage companies, noting that it reflects the
+              UAE’s strategic vision. Credits: Getty Images</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE Ministry of Energy and Infrastructure has extended the
+            housing credits coverage age to 95 years, offering full risk
+            coverage to support senior citizens.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-11-jul-25-spotlight-h2-4-the-move?source=website"
+              target="_blank"
+              >The move</a
+            >
+            tackles previous challenges where financing was denied after age 70,
+            resulting in the rejection of some financing applications from
+            senior citizens.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The initiative is represented by the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-11-jul-25-spotlight-h2-5-sheikh-zayed-housing-programme?source=website"
+              target="_blank"
+              >Sheikh Zayed Housing Programme</a
+            >
+            in collaboration with the Central Bank of the UAE. It is designed to
+            enhance family stability and ensure long-term monetary security by
+            covering both death and permanent disability.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            In line with this policy shift, the Central Bank has issued a
+            regulatory notice allowing institutions and financing companies to
+            adopt a more flexible financing model.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
