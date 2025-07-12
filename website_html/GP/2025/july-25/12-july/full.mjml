@@ -1,0 +1,807 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom:
+      10px;} .remove-padding td {padding-left: 10px !important;}</mj-style
+    >
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+    <mj-style>
+      /* Hover effect for buttons */ .button-style:hover { background-color:
+      rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer;
+      border: 2px solid rgba(6,38,109,1) !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇬🇱 Greenland.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇧🇲 Bermuda next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              ​​Why is Europe exiting the Mine Treaty?
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Meet Sri Lanka
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Run for cover
+            </td>
+          </tr>
+        </mj-table>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 0px"
+        />
+      </mj-column>
+    </mj-section>
+    <!-- /header -->
+    <mj-spacer height="10px"></mj-spacer>
+
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-spacer height="0px"></mj-spacer>
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            Central Asian-Afghan connection
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/central-asia-seeks-alternative-to-russian-trade-route.jpg"
+          alt="The war in Ukraine is forcing Central Asian governments to seek alternatives to the well-established northern corridor via Russia"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The war in Ukraine is forcing Central Asian governments to seek
+              alternatives to the well-established northern corridor via Russia.
+              Credits: UNRCCA
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Central Asian countries are increasingly
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-analysis-h1-1-collaborating-with-afghanistan?source=website"
+              target="_blank"
+              >collaborating with Afghanistan</a
+            >
+            through trade, rail links, and regional forums to promote stability
+            and mutual economic benefits. The recent Russian recognition of the
+            Taliban may encourage Central Asian nations to follow suit.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The context:</strong> The landlocked position of Central
+            Asian countries forces them to see Afghanistan as a potential
+            transport route, especially with disruptions caused by the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-analysis-h1-2-russia-ukraine-war?source=website"
+              target="_blank"
+              >Russia-Ukraine war</a
+            >. Trade between Central Asia and Afghanistan is on the rise,
+            already reaching $1.1B. Taliban officials have become more active at
+            regional events, signaling the country’s openness for business.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The challenge:</strong> Countries like Uzbekistan,
+            Kazakhstan, and Turkmenistan are planning railway links through
+            Afghanistan. But there are concerns. Ongoing tensions between Iran
+            and Israel, and between Pakistan and India, raise fears of
+            instability. On top of that, building rail lines through
+            Afghanistan’s mountains will require advanced engineering and
+            significant funding, both in short supply.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The impact:</strong> If successful, the projects could
+            reshape trade routes across Asia, reduce reliance on Russia, and
+            give Afghanistan economic lifelines.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- <mj-spacer height="10px" /> -->
+    <!-- primary ad -->
+    <!-- <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-28-june-2025-p-ad-W1-3" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Mood</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #06266D; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #06266D;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Get 20% off these innovative ‘rapid onset’ THC gummies</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/ad/28-june-2025-W1-3.jpg" alt="campaign-w1-3" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Mood’s new rapid onset THC gummies deliver <strong>gentle body relaxation</strong> with a strong but balanced, clear-headed euphoria — all in as little as five minutes.</p>
+          <p style="font-size: 16px; line-height: 24px">
+         Plus, Mood gummies are USA-grown and <strong>tested by third-party labs</strong> to ensure they meet federal legal and health standards.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">
+            Get 20% off your order for a limited time with code FIRST20.</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- primary ad -->
+
+    <mj-spacer height="10px" />
+
+    <!-- the big quesstion -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            The big question
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- contents -->
+    <mj-section
+      css-class="mj_section"
+      background-color="#ffffff"
+      padding-bottom="6px"
+    >
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            Why is Europe exiting the Mine Treaty?
+          </h2>
+        </mj-text>
+
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Estonia, Latvia, Lithuania, Finland, and
+            Poland have withdrawn from the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-tbq-h1-3-1997-mine-ban-treaty?source=website"
+              target="_blank"
+              >1997 Mine Ban Treaty</a
+            >, which bans the use, production, and stockpiling of antipersonnel
+            landmines. Their decision follows Russia’s widespread use of
+            landmines in the Ukraine war. On June 29, Ukraine also announced
+            plans to exit the treaty.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            About antipersonnel landmines (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-tbq-h1-4-video?source=website"
+              target="_blank"
+              >video</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> The countries argue that the treaty limits
+            their ability to defend against Russian aggression, especially along
+            vulnerable border regions. For them, landmines are seen as vital for
+            national security.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The reaction:</strong> Human Rights Watch and other
+            international groups criticized the withdrawal, and the UN
+            Secretary-General urged the withdrawing states to reconsider. The EU
+            reaffirmed support for the treaty earlier in 2025, but these exits
+            reveal growing internal divisions.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The human:</strong> With fewer restrictions, landmine use
+            could increase globally, reversing progress made over the past 28
+            years. Civilian lives remain at high risk, as many countries still
+            suffer long-term consequences of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-tbq-h1-5-old-mines-buried-decades-ago?source=website"
+              target="_blank"
+              >old mines buried decades ago</a
+            >.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- today ago -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Know the topography
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            Sri Lanka
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/sri-lanka-map.jpg"
+          alt="Sri Lanka map"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <!-- <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+          The Philippines takes its name from Philip II, king of Spain, who ruled the islands during the Spanish colonization in the 16th century. 
+          </i>
+          </p>
+        </mj-text> -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Sri Lanka is an island nation located southeast of India, often
+            nicknamed the
+            <i
+              ><a
+                style="
+                  text-decoration: none;
+                  border-bottom: 2px solid #06266d;
+                  color: black;
+                "
+                href="https://link.geopoliticalsummary.com/gs-12-jul-25-ktt-h1-6-pearl-of-the-indian-ocean?source=website"
+                target="_blank"
+                >Pearl of the Indian Ocean</a
+              ></i
+            >. With a long history of over 2,500 years, it has long been
+            celebrated for its cultural heritage, unique biodiversity, and
+            ancient links to Hindu epics like the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-ktt-h1-7-ramayana?source=website"
+              target="_blank"
+              >Ramayana</a
+            >. The country is especially known for preserving
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-12-jul-25-ktt-h1-8-theravada-buddhism?source=website"
+              target="_blank"
+              >Theravada Buddhism</a
+            >
+            and developing its advanced irrigation systems that supported its
+            ancient kingdoms.
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 17px; line-height: 1.5">
+            <strong><i>Fun facts</i></strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              The elephant is a national symbol, and every year the country
+              hosts a grand elephant parade.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Sri Lanka was the first country in the world to elect a female
+              prime minister.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              It was formerly known as
+              <strong><span style="font-size: 18px">Ceylon</span></strong
+              >, and it is famous for its tea.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              It is home to the Sri Maha Bodhi tree, the oldest tree in the
+              world.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              It has the highest literacy in South Asia.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Sri Lanka has two capitals: Colombo (commercial) and Sri
+              Jayawardenepura Kotte (administrative).
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section background-color="#ffffff">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Photo of the week
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/ukraine-air-raid-kyiv-metro-shelter.jpg"
+          alt="People take cover in a metro station during an air raid alert in Kyiv, Ukraine"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              People take cover in a metro station during an air raid alert in
+              Kyiv, Ukraine. REUTERS/Alina Smutko
+            </i>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <!-- footer section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:readers@geopoliticalsummary.com"
+              target="_blank"
+              >readers@geopoliticalsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://www.geopoliticalsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7">
+            This is a paid advertisement for Mood. Products may contain THC and
+            are intended for adults 21+. This is not medical advice.
+          </p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/profile.php?id=61562847449514"
+            src="https://www.geopoliticalsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/geopoliticalsum"
+            src="https://www.geopoliticalsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@geopoliticalsummary"
+            src="https://www.geopoliticalsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
