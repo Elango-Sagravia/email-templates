@@ -1,0 +1,372 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } td{ padding-top:0 !important; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden"> 
+      Behind the scenes of legendary businesses.</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
+    </mj-raw>
+
+    <mj-spacer height="15px"></mj-spacer>
+    
+    <!-- Logo Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px 10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.businesshistory.co/logo-gray.png" href="https://www.businesshistory.co" alt="" />
+        <mj-image width="1px" src="https://www.businesshistory.co/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+            ">Every successful company has a turning point—a risk that paid off, a product that redefined an industry, or a decision that changed everything. However, not every story is one of triumph; some of the most valuable lessons come from the failures and missteps that shaped the business landscape.</p>
+          
+          <p style="
+              font-size: 16px; 
+              line-height: 1.5;
+              margin-bottom: 0px; 
+              margin-top:10px;
+            ">Was this email forwarded to you? <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co" target="_blank">Stay informed</a>.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    
+    <mj-spacer height="10px"></mj-spacer>
+
+    <!-- Bussiness history -->
+    <!-- <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">
+          Reviving oil wells: Hilcorp turns trash into treasure</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section> -->
+
+    <!-- Content sections -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          color:#8C3321;
+            text-align: left;
+            border-bottom:2px solid #8C3321;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Three establishments that stood the test of time</h2> 
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+       <mj-spacer height="18px"></mj-spacer>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+       World’s oldest and functioning company  
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Kongo Gumi’s story begins in 578 AD, when Buddhism was taking root in Japan. Prince Shōtoku wanted a proper Buddhist temple built. So, he invited Shigemitsu Kongo, a master carpenter from Baekje, in modern-day Korea, to construct the Shitennō-ji Temple, Japan’s first Buddhist temple. That project launched a legacy that would <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-12-07-2025-1-last-over-1400-years" target="_blank">last over 1,400 years</a>.
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/showa-depression-kongo-gumi-tragedy.jpg" alt="The Showa Depression in the 1920s was a challenging period, leading to the tragic suicide of Kongo Haruichi, the 37th leader" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+          The Showa Depression in the 1920s was a challenging period, leading to the tragic suicide of Kongo Haruichi, the 37th leader. Credits: Kongo Gumi</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Kongo Gumi's expertise in traditional woodworking and joinery techniques made them vital to preserving Japan’s cultural heritage. The family-run business was passed down through more than 40 generations. But things took a turn in the 1980s. Japan’s economic bubble encouraged reckless borrowing, and Kongo Gumi, eager to diversify, expanded into real estate and development. 
+            </p>
+            <p style="font-size: 16px; line-height: 1.5">
+           When the bubble burst in the 1990s, the company was saddled with crushing debt. By 2006, it had accumulated about $343M and was forced to file for bankruptcy. That same year, it was absorbed by the Takamatsu Construction Group. The family’s direct ownership ended, but the company, still called Kongo Gumi, survived, continuing to restore temples, pagodas, and other national sites. Ironically, what centuries of upheaval couldn’t kill, modern debt almost did.
+            </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+
+<mj-spacer height="10px" />
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.businesshistory.co/bh-19-july-2025-p-ad-W9-2" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Nápreva</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #8C3321; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #8C3321;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Experience safe and effective relief from chronic pain with Nápreva.</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <!-- <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/ad/12-july-2025-W4-3.jpg" alt="campaign-w4-3" /> -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+         Over 50 million Americans, including those with demanding jobs, active lifestyles, or conditions like arthritis, struggle with chronic pain. Many also face harmful side effects from opioids, steroids, and over-the-counter painkillers. Nápreva's plant-based terpene formula provides rapid relief, helping users sleep better and reduce stress and anxiety. Clinical studies suggest terpenes may offer more effective relief than traditional drugs, without the unwanted side effects.</p>
+         <p style="font-size: 16px; line-height: 24px">
+        <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;">Try Nápreva today!</a> Enjoy a money-back guarantee and experience the healing power of plants.</p>
+        </mj-text>
+        <!-- <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;">
+            Learn More</a>
+          </p>
+        </mj-text> -->
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+  <!-- primary ad -->
+ 
+
+      <mj-spacer height="10px" />
+
+  <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-column>
+       <mj-spacer height="18px"></mj-spacer>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+       1,100 years on tap
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+     
+Tucked along the River Shannon in Athlone, Ireland, Sean’s Bar holds the title of the oldest pub in the country and arguably the oldest continuously operating bar in the world, <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-12-07-2025-2-dating-back-to-900-ad" target="_blank">dating back to 900 AD</a>. Legend has it that Luain Mac Luighdeach, its founder, first opened an unlicensed drinking spot near a key fording point on the river, making an ideal stop for travelers looking for rest, news, and a pint.
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/seans-bar-worlds-best-mind-blowing-lonely-planet-listed.jpg" alt="Sean’s bar is listed in both “25 of the Most Incredible Bars in the World” and “50 Bars to Blow Your Mind” by Lonely Planet" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+          Sean’s bar is listed in both “25 of the Most Incredible Bars in the World” and “50 Bars to Blow Your Mind” by Lonely Planet. Credits: Sean’s Bar</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           In the 1970s, renovations revealed that 9th-century wattle-and-daub walls and old coins were discovered inside the walls of the bar. These were carbon-dated and verified by the National Museum of Ireland, which supports its claim to being over 1,100 years old. Currently, the place has even earned itself a position in the Guinness Book of World Records as the oldest public house. 
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+       Inside, Sean’s Bar remains every bit the classic Irish pub, with whitewashed walls, wood beams, ancient stone floors, a well-stocked whiskey bar, live music, and pints of Guinness. It has even turned its age into a unique selling point and sells bottled whiskeys and merchandise themed around its legendary history. It attracts visitors from all over the world, not just for the drinks, but for witnessing the living history lesson that it is.
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="4px">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+      A centuries-old business of alchemy 
+        </h2>  
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+     Zildjian is not just one of the oldest companies in the world, but it's also one of the most iconic brands in modern music. Founded in 1623 in Constantinople, now Istanbul, within the Ottoman Empire, it has been crafting cymbals for <a 
+style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://link.businesshistory.co/bh-12-07-2025-3-over-400-years" target="_blank">over 400 years</a>, passing down its secret alloy recipe through 15 generations of the same family.
+          </p>
+        </mj-text> 
+
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.businesshistory.co/email/images/zildjian-cymbals-in-symphonies-rock-marching-jingles.jpg" alt="Zildjian cymbals have seen ubiquitous presence in music, whether in symphonies or rock anthems, marching bands, or even advertising jingles" href="https://www.businesshistory.co" />
+         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+           Zildjian cymbals have seen ubiquitous presence in music, whether in symphonies or rock anthems, marching bands, or even advertising jingles. Credits: Zildjian</i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         While attempting to turn base metals into gold, Avedis I, an Armenian alchemist in the Ottoman court, accidentally discovered a bronze alloy with a unique combination of durability and musical resonance. Sultan Osman II was impressed and he gave him the name “Zildjian,” from zil (cymbal) and dji (maker of). And thus, the Zildjian legacy was born, supplying cymbals first to Janissary military bands, then mosques, palaces, and eventually classical orchestras.
+            </p>
+          <p style="font-size: 16px; line-height: 1.5">
+     In 1929, Avedis Zildjian III, a 9th-generation descendant, moved the company to the US to meet growing demand from Western classical and jazz musicians. He set up shop in Massachusetts, turning the ancient family craft into a modern, industrial-scale global business. The company chose to adapt and improvise, scaling up production, standardizing cymbal sizes, and tailoring their sound to match the evolving needs of jazz drummers and big bands. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+   Craigie and Debbie Zildjian lead the company, the first women to helm the business in its 400-year history, proving once again that legacy doesn’t mean standing still.
+          </p>
+        </mj-text>
+      </mj-column> 
+    </mj-section>
+
+    <!-- banner -->  
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section"> 
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color=" #8C3321" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0;
+              color: #ffffff;
+            ">The Rubik’s Cube is the world’s best-selling toy, with over 450M sold.</p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+
+
+   <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+      <mj-spacer height="10px"/>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">Send us your feedback at <a 
+             style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="mailto:readers@businesshistory.co" target="_blank">readers@businesshistory.co</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">  Interested in connecting with curious, informed readers? <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> <a 
+            style="text-decoration: none; border-bottom: 2px solid  #8C3321; color: black;" href="https://www.businesshistory.co/unsubscribebyid?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+          </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            ">This is a paid advertisement for Nápreva. This is not medical advice. 
+          </p>
+          </mj-text>
+           <mj-spacer height="12px"></mj-spacer>
+
+          <mj-social  font-size="15px" mode="horizontal">
+
+            <!-- Facebook Icon -->
+            <mj-social-element 
+              padding="12px 10px"
+              icon-size="24px"
+              href="https://www.facebook.com/profile.php?id=61562972064543"
+              src="https://www.businesshistory.co/icons/social/facebook.png"
+            >
+            </mj-social-element>
+
+            <!-- X (Twitter) Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href="https://x.com/BusinessHistory"
+              src="https://www.businesshistory.co/icons/social/x.png"
+              >
+            </mj-social-element>
+
+            <!-- Instagram Icon -->
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.instagram.com/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/instagram.png">
+            </mj-social-element>
+
+            <!-- Reddit Icon -->
+           
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.linkedin.com/showcase/businesshistory/"
+              src="https://www.businesshistory.co/icons/social/linkedin.png"
+              >
+            </mj-social-element>
+            <mj-social-element 
+            padding="12px 10px"
+              icon-size="24px"
+              href=" https://www.threads.net/@businesshistory"
+              src="https://www.businesshistory.co/icons/social/threads.png"
+              >
+            </mj-social-element>
+          </mj-social>
+          <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" >
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
