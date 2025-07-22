@@ -1,0 +1,352 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
+      margin-bottom: 10px; }
+    </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff" padding-bottom="0px">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 0px"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+        </mj-text>
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 0px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-july-22.jpg"
+          alt="Dubai weather july 22"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 2px 0px 2px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="10px 18px 10px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Road closures in Dubai and Sharjah
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Laughing Nights
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              When Dubai almost became a part of India
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      css-class="mj_fsection"
+      background-color="#ffffff"
+      css-class="mj_fsection"
+    >
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text
+          padding="2px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-top: 14px;
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            UAE delivers Gaza help
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/gaza-blockade-water-shortage-crisis.jpg"
+          alt="The Israeli blockade has also led to an acute shortage of drinking water and deadly malnutrition was reported throughout the Strip"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The Israeli blockade has also led to an acute shortage of drinking
+              water and deadly malnutrition was reported throughout the Strip.
+              Credits: Bloomberg
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE sent its largest-ever aid ship, Khalifa, from Abu Dhabi’s
+            Khalifa Port to Egypt’s Al Arish Port, carrying 7,166 tonnes of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h1-2-essential-supplies-for-gaza?source=website"
+              target="_blank"
+              >essential goods for Gaza</a
+            >. On board are 4,372 tonnes of food, 1,433 tonnes of shelter
+            materials, 860 tonnes of clinical goods, 501 tonnes of health goods,
+            and 20 tankers to provide clean water.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The ship also carries a fully equipped field hospital with capacity
+            for 400 patients and 16 ambulances. This mission is part of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h1-3-operation-gallant-knight-3?source=website"
+              target="_blank"
+              >Operation Gallant Knight 3</a
+            >, the UAE’s ongoing effort to support Gaza. Once in Egypt, the
+            cargo will be transferred to trucks and delivered across the border
+            into Gaza.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            This major relief effort comes as ceasefire talks between Israel and
+            Hamas remain uncertain. Negotiations in Doha continue, with key
+            disagreements still unresolved despite weeks of mediation by the US,
+            Qatar, and Egypt.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Follow live updates
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h1-4-here?source=website"
+              target="_blank"
+              >here</a
+            >.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 0px 12px"
+        />
+      </mj-column>
+    </mj-section>
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="16px" />
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Road closures for mega projects
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/commuters-lose-time-in-traffic-frustration.jpg"
+          alt="Commuters have long voiced their frustrations, with some estimating that they lose up to a day each month stuck in traffic"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Commuters have long voiced their frustrations, with some
+              estimating that they sacrifice up to a day each month due to
+              congestion. Credits: Etihad Rail</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE is investing heavily in infrastructure to enhance travel
+            speed and convenience. To build these projects,
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h2-5-some-roads-are-temporarily-closed?source=website"
+              target="_blank"
+              >some roads are temporarily closed</a
+            >.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In Sharjah</strong>, roads linking Mleiha Road and Sharjah
+            Ring Road near University Bridge are closed until August 30. These
+            closures are to make space for
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h2-6-etihad-rail?source=website"
+              target="_blank"
+              >Etihad Rail</a
+            >, the national railway that will eventually connect all seven
+            emirates. <strong>In Dubai</strong>, work on the Metro Blue Line has
+            led to diversions around City Centre Mirdif. A roundabout between
+            5th and 8th Street is closed, with alternate routes provided.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            When completed in 2029, the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h2-7-blue-line?source=website"
+              target="_blank"
+              >Blue Line</a
+            >
+            will be the first metro route to cross Dubai Creek. It will link
+            busy residential areas to Dubai International Airport in just 20
+            minutes and is expected to reduce congestion by 20%. These upgrades
+            also support the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-22-jul-25-spotlight-h2-8-dubai-2040-urban-master-plan?source=website"
+              target="_blank"
+              >Dubai 2040 Urban Master Plan</a
+            >, which aims for a “20‑minute city” where most daily needs will be
+            within a short commute.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
