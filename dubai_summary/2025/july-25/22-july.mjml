@@ -2,8 +2,9 @@
   <mj-head>
     <mj-style>
       h2, img, p { margin: 0; } td { padding-top: 0 !important; } p {
-      margin-bottom: 10px; }
+      margin-bottom: 10px; } 
     </mj-style>
+    <mj-
     <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
     <mj-font
       name="Roboto+Serif"
@@ -46,7 +47,7 @@
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
-    <mj-section background-color="#ffffff" padding-bottom="0px">
+    <mj-section background-color="#ffffff" padding-bottom="0px" css-class="border">
       <mj-spacer height="10px" />
       <mj-column padding="10px 12px" width="100%">
         <mj-spacer height="16px" />
