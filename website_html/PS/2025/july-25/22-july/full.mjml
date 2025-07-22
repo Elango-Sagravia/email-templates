@@ -1,0 +1,525 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-spacer height="10px" />
+      <mj-column padding="10px 12px" width="100%">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
+        <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is as big as 🇩🇲 Dominica. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇰🇾 Cayman Islands next.</p> 
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;">
+           Coronavirus alert</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> 
+           Bangladeshi plane crash</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+       Google and OpenAI’s AI models trump Olympiad</td>
+          </tr>
+        </mj-table>
+        
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px; 
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Assassination files release</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/3700-unreleased-mlk-files-fbi-researchers.jpg" alt="According to researchers and the FBI, approximately 3,700 files held by federal authorities have still not been released" href="https://www.presidentialsummary.com" />
+        
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+             According to researchers and the FBI, approximately 3,700 files held by federal authorities have still not been released. Credits: ABC News</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+ The Trump administration has released over <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h1-1-240-000-pages-of-federal-records?source=website" target="_blank">240,000 pages of federal records</a> related to the 1968 assassination of Dr. Martin Luther King Jr. The King family was given exclusive gateway to the files two weeks before the public release. They have long questioned the official narrative, believing that James Earl Ray, who pleaded guilty in 1969, was not the true assassin. 
+        </p>
+          <p style="font-size: 16px; line-height: 1.5">
+The academics who have studied King want to see the FBI information on the surveillance of King and its efforts to discredit him as anti-American. However, they also suggest that the files should be viewed with a critical eye. The Department of Justice conducted reviews in 1977 and again in 2000, both of which determined that Ray acted alone and found no evidence of a government conspiracy.
+        </p>
+        <p style="font-size: 16px; line-height: 1.5">
+Critics are questioning why these files are being released, noting Trump’s ongoing Epstein‑related controversies. They also fear information tampering, referencing recent Defense Department efforts to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h1-2-erase-26-000-archived-war-hero-images?source=website" target="_blank">erase 26,000 archived war hero images</a>.  
+        </p>
+         
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+
+
+  <!-- primary ad -->
+    <mj-section background-color="#ffffff" css-class="mj_fsection" padding="0px 0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-22-july-2025-p-ad-A30?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column>
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Unleash strength, defy the burn</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/22-july-2025-A30.jpg" alt="campaign-A30" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+          Push past limits, train with might,
+           <br />Beta-Alanine fuels your fight.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+        Endurance high, fatigue stays low,<br />
+        Stronger muscles start to grow.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+        Vegan, tested, clean and assured,<br /> 
+        Peak strength gains, fully secured!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+        Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+  <!-- primary ad -->
+
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+               Washington Commanders gets political</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/trump-guardians-name-change-dolan.jpg" alt="Trump also said that the Cleveland Guardians baseball team should switch back to its old name, too, and called out Ohio Senate candidate Matt Dolan" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+             Trump also said that the Cleveland Guardians baseball team should switch back to its old name, too, and called out Ohio Senate candidate Matt Dolan. Credits: Independent</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+ Trump is pressuring the Washington Commanders NFL team to revert to its former name, the "Washington Redskins", a term widely condemned as a racial slur. He has threatened to block approval for a proposed <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h2-3-3-7b-stadium?source=website" target="_blank">$3.7B stadium</a> in Washington, D.C., unless the team complies.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+The team carried the “Redskins” name from 1937 to 2020, when <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h2-4-widespread-protests?source=website" target="_blank">widespread protests</a> and corporate pressure led to a rebranding as the Washington Commanders. A <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h2-5-2020-study?source=website" target="_blank">2020 study</a> showed that at least half of over 1,000 surveyed Native Americans found the old name offensive.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+However, Trump asserts massive Native American support for the old name, despite Native advocates arguing it is harmful and reduces their identity to a mascot. His stance comes as several states move to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h2-6-ban-native-mascots-in-schools?source=website" target="_blank">ban Native mascots in schools</a>, while his administration argues that such bans erase history.
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- Content sections -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+                  font-size: 24px;
+                  line-height: 1.5;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+              Pandemic virus alert</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>
+     Summary: A highly transmissible coronavirus variant is likely the reason for over a third of the current US cases.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+   A <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h3-7-newer-coronavirus-variant?source=website" target="_blank">newer coronavirus variant</a>, NB.1.8.1, which has already fueled hospitalization surges in parts of Asia, is spreading rapidly across the US. The CDC reported that the number of cases is growing or is likely to grow in at least 26 states, particularly among children under the age of four.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+    The symptoms of the variant closely resemble those of earlier coronavirus strains, including respiratory problems, such as cough and sore throat, as well as systemic issues like fever and fatigue. While it doesn’t appear to cause more severe illness, its higher transmissibility is prompting concern. </p>
+      <p style="font-size: 16px; line-height: 1.5">
+   At the same time, the Trump administration is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h3-8-restricting-a-gateway-to-updated-vaccines?source=website" target="_blank">restricting a gateway to updated vaccines</a>, limiting them mainly to seniors and high‑risk groups and demanding stricter trials before wider use. Health Secretary Robert F. Kennedy Jr. has also announced <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-spotlight-h3-9-plans-to-scale-back-vaccine?source=website" target="_blank">plans to scale back vaccine</a> recommendations for children and healthy pregnant women, a move that public health officials warn could put more people vulnerable.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- long stroy short -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
+      <mj-column background-color="#ffffff" width="100%">
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-top:14px;
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Brief content sections -->
+    <!-- Global Affairs -->
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="6px">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>At least 20 people were killed and over 170 injured when a Bangladeshi air force jet crashed</strong> into Milestone School in Dhaka after a mechanical failure. The pilot, who also died, tried to steer the plane away but crashed shortly after takeoff. Bangladesh has declared a national day of mourning as investigations begin (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h1-10-jet-tragedy?source=website" target="_blank">jet tragedy</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The UK and 27 other countries condemned Israel for killing Gaza civilians seeking aid</strong> and called for an immediate ceasefire. They criticized Israel’s aid delivery model, citing over 800 deaths during aid distribution. The UN says they can’t operate safely under current conditions and warns of potential mass starvation (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h1-11-hunger-trap?source=website" target="_blank">hunger trap</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!-- <mj-section background-color="#ffffff" css-class="mj_fsection" padding-bottom="0px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+      <mj-column background-color="#F6F1F8" width="96%" border-radius="10px">
+        <mj-spacer height="12px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+            <i>In partnership with Dubai Summary</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+              padding-bottom:8px;
+              padding-left: 5px;
+              color:#4D3060; 
+                text-align: left;
+                letter-spacing:1px;
+                  font-size: 26px;
+                  line-height: 1.2;
+                  font-weight: 300;
+                  
+                ">The pulse of Dubai</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+            <li>​<strong>​The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+            <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+            <li><strong>Where is Nunavut?</strong></li>
+          </ul>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+            <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+            <strong>Dubai is always on the move. Can you keep up?</strong> 
+            From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+            </p>
+            <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+            <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+            </p>
+            </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">Stay informed, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Join Dubai Summary</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- secondary ad  -->
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>AstraZeneca announced a $50B US funding by 2030 to expand drug manufacturing and R&D</strong>, with a facility in Virginia and upgrades across six states. The move aligns with Trump’s tariff push, which pressures pharmaceutical firms to manufacture domestically and reduce reliance on imports (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h2-12-drug-agreement?source=website" target="_blank">drug agreement</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Meta, X, and LinkedIn are contesting a €1B VAT claim from Italy</strong>, which argues that offering open profiles in exchange for user data is taxable. It's Italy’s first tech tax case to reach a hearing. Italy plans to seek non-binding advice from the EU’s VAT Committee, while the companies dispute the logic of taxing platform gateways (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h2-13-data-dues?source=website" target="_blank">data dues</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>The UK has signed a strategic partnership with OpenAI</strong> to collaborate on AI safety research and explore potential funding. The move supports PM Keir Starmer’s plan to make the UK an AI superpower. OpenAI may expand its London office, build additional data centers, and help deploy AI in sectors such as justice, defense, and healthcare (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h2-14-ai-alliance?source=website" target="_blank">AI alliance</a>). </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/machine-learning-earthquake-faults.jpg" alt="Machine learning has revealed complex patterns of seismic swarms and rough underground faults" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+      Machine learning has revealed complex patterns of seismic swarms and rough underground faults. Credits: Shutterstock</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Using machine learning, researchers uncovered over 86,000 earthquakes beneath Yellowstone's caldera</strong>. The study found that earthquake swarms often occur along rough, immature faults, unlike the smoother ones in regions like Southern California. This breakthrough could help improve hazard assessments, public safety, and geothermal planning in volcanic zones (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h3-15-quake-hunt?source=website" target="_blank">quake hunt</a>).</p>
+                    <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+                    <strong>Google and OpenAI’s AI models clinched medals at the International Mathematical Olympiad</strong>, solving five of six problems using general-purpose, natural language reasoning models. Researchers say this could help mathematicians solve unsolved research problems. OpenAI and Google both utilized experimental models, which could lead to AI reasoning extending beyond just mathematics (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h3-16-ai-olympiad?source=website" target="_blank">AI Olympiad</a>).
+       </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+        <strong>The Milwaukee Brewers beat the Los Angeles Dodgers 6-5 on Sunday, earning their 10th straight victory</strong>. Isaac Collins hit a go-ahead two-run single in the sixth inning, while Jackson Chourio extended his hitting streak to 14 games. Three Dodgers errors allowed Milwaukee to take the lead, as they have lost 10 of their last 12 games (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h4-17-game-highlights?source=website" target="_blank">game highlights</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+        <strong>Malcolm-Jamal Warner, best known as Theo Huxtable on <i>The Cosby Show</i>, has died at 54</strong> after drowning near the coast of Costa Rica. The Emmy-nominated actor was also known for <i>The Resident</i> and was a powerful voice in TV, music, and Black representation. He is survived by his wife and daughter (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h4-18-farewell-theo?source=website" target="_blank">farewell Theo</a>).
+                    </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- content section -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "><i>The Daily Show</i> gets a newer host (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h5-19-josh-johnson-who?source=website" target="_blank">Josh Johnson, who?</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">
+NASA employees protest Trump administration cuts (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h5-20-space-outcry?source=website" target="_blank">space outcry</a>).</p>
+            <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">
+AI video of Seoul palace flood exposes South Korea’s deepfake crisis (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h5-21-deep-trouble?source=website" target="_blank">deep trouble</a>).</p>
+             <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">
+Pokémon superfan sets Guinness World Record for 1,200 Gengar collection (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-22-jul-25-lss-h5-22-purple-toy?source=website" target="_blank">purple toy</a>).</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- banner -->
+    <mj-section padding="0px" background-color="#ffffff" css-class="mj_section">
+      <mj-column width="100%" padding="0px">
+        <mj-section border-radius="10px" background-color="#4D3060" padding="10px 12px">
+          <mj-column width="100%" padding="10px 12px">
+            <mj-text padding="0px" font-family="Roboto+Serif" color="#ffffff">
+              <p style="
+              font-size: 18px;
+              line-height: 1.5; 
+              font-weight: 400;
+              padding: 22px 12px 8px 12px;
+              text-align: center; 
+              margin: 0; 
+              color: #ffffff;
+            ">
+         On this day in 2013, Prince George Alexander Louis of Cambridge, the first child of Prince William and Catherine, was born in London.
+            </p>
+            </mj-text>
+          </mj-column>
+        </mj-section>
+      </mj-column>
+    </mj-section>
+    <!-- 2 columns section -->
+    <mj-section background-color="white">
+      <mj-column>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+        
+            <p style="
+              color:#000;
+              font-size:10px; 
+              line-height: 1.7;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
