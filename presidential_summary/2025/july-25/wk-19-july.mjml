@@ -13,6 +13,7 @@
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer> 
     <!-- Logo Header -->
+    <!-- Header -->
     <mj-section background-color="#ffffff">
       <mj-spacer height="10px" />
       <mj-column padding="10px 12px" width="100%">
@@ -21,11 +22,11 @@
         <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 0px" />
         <mj-text padding="10px 2px 0px 2px" font-family="Roboto+Serif" color="#000000">
-           <p style="
+          <p style="
                 font-size: 16px;    
                 line-height: 1.5; 
                 margin-top:2px;
-              ">Presidential Summary is as big as 🇩🇲 Dominica. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇰🇾 Cayman Islands next.</p> 
+              ">Presidential Summary is as big as :flag-ky: Cayman Islands. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of :flag-ad: Andorra next.</p>
           <p style="
                 font-size: 16px;  
                 line-height: 1.5;
@@ -34,17 +35,15 @@
         <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="10px 18px 10px 18px" style=" width:100%;">
           <tr>
             <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
-            <td style="font-size:16px;line-height:1.6;">
-           Climate change triples death</td>
+            <td style="font-size:16px;line-height:1.6;"> Reviving geothermal energy</td>
           </tr>
           <tr>
             <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
-            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
-           Is the USA ready for the 2026 FIFA World Cup?</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> Zelenskyy tightens control</td>
           </tr>
           <tr>
             <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
-            <td style="font-size:16px;line-height:1.5;line-height:1.6;">Chelsea celebrates their victory</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;"> Ozzy Osbourne passes away</td>
           </tr>
         </mj-table>
         <mj-text padding="10px 2px" font-family="Roboto+Serif" color="#000000">
@@ -57,6 +56,7 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 0px" />
       </mj-column>
     </mj-section>
+    <!-- Header --> 
     <mj-spacer height="10px"></mj-spacer>
     <!-- THE BIG ONE-->
     <mj-section css-class="mj_fsection" background-color="#ffffff" css-class="mj_fsection">
