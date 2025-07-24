@@ -1,0 +1,79 @@
+<!-- breaking news live -->
+<mj-spacer height="10px" />
+
+<mj-section
+  background-color="#4D3060"
+  padding="1px 0.5px 1px 1px"
+  border-radius="5px"
+>
+  <mj-column background-color="#ffffff" border-radius="5px" padding="0px">
+    <mj-text
+      padding="2px 12px 0px 12px"
+      font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+      color="white"
+    >
+      <h2
+        style="
+          padding-top: 14px;
+          padding-bottom: 8px;
+          color: #4d3060;
+          text-align: left;
+          border-bottom: 2px solid #4d3060;
+
+          font-size: 26px;
+          line-height: 1.2;
+          font-weight: 400;
+        "
+      >
+        Breaking news
+      </h2>
+    </mj-text>
+
+    <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+      <p
+        style="
+          color: black;
+          font-size: 16px;
+          line-height: 1.4;
+          text-align: left;
+          padding-top: 16px;
+          padding-bottom: 0px;
+        "
+      >
+        Pope Francis, the
+        <a
+          style="
+            text-decoration: none;
+            border-bottom: 2px solid #4d3060;
+            color: black;
+          "
+          href="https://link.presidentialsummary.com/ps-21-04-2025-breaking-news"
+          target="_blank"
+          >266th leader of the Catholic Church</a
+        >
+        and the first Latin American Pope, passed away on Easter Monday. He had
+        been struggling with a series of health problems, including double
+        pneumonia, for which he spent five weeks in the hospital. “This morning
+        at 7:35 am CEST, the Bishop of Rome, Francis, returned to the home of
+        the Father," said Cardinal Kevin Farrell.
+      </p>
+      <p
+        style="
+          color: black;
+          font-size: 16px;
+          line-height: 1.4;
+          text-align: left;
+          padding-top: 6px;
+          padding-bottom: 0px;
+        "
+      >
+        Pope Francis blessed crowds in St Peter’s Square on Easter Sunday. He
+        called for freedom of thought and tolerance in his Easter Sunday
+        address. "There can be no peace without freedom of religion, freedom of
+        thought, freedom of expression, and respect for the views of others,"
+        his speech read.
+      </p>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<!-- breaking new live -->
