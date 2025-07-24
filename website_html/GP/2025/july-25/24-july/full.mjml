@@ -5,18 +5,13 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f9f8f9">
-    <mj-raw>
-      <div style="display: none; max-height: 0px; overflow: hidden">  Plus Swiss influence on Africa</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; </div>
-    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-spacer height="16px" />
          <mj-image padding="10px 12px 0px 12px" css-class="light_img" width="150px" src="https://www.geopoliticalsummary.com/gp-logo-grey.png" href="https://www.geopoliticalsummary.com" alt="" />
-        <mj-image width="1px" src="https://www.geopoliticalsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        
          <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="4px 12px 10px 12px" />
         <mj-text padding="0px 12px 0px 12px " font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5; margin-top: 2px"> Geopolitical Summary is as big as 🇰🇾 Cayman Islands. <a style="
@@ -28,7 +23,7 @@
             <strong>In this edition:</strong>
           </p>
         </mj-text>
-        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 0px 18px" style="width: 100%">
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 10px 18px" style="width: 100%">
           <tr>
             <td style="
                 font-size: 18px;
@@ -62,16 +57,6 @@
             What is the Zangezur corridor?</td>
           </tr>
         </mj-table>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="
-              font-size: 16px;
-              line-height: 1.5;
-            "> Was this email forwarded to you? <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #06266d;
-                color: black;
-              " href="https://www.geopoliticalsummary.com/" target="_blank"> Stay informed</a>. </p>
-        </mj-text>
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
       </mj-column>
     </mj-section>  
@@ -107,13 +92,13 @@
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>The what:</strong> President Zelenskyy <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-1-signed-a-bill" target="_blank">signed a bill</a> that reduces the independence of two key anti-corruption agencies by placing them under the control of the prosecutor general. This will erase Russian influence from the system and reopen stalled criminal cases involving key officials. However, critics warn that the bill can undermine Ukraine’s EU integration and make the anti-corruption bodies dependent institutions. 
+            <strong>The what:</strong> President Zelenskyy <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-1-signed-a-bill?source=website" target="_blank">signed a bill</a> that reduces the independence of two key anti-corruption agencies by placing them under the control of the prosecutor general. This will erase Russian influence from the system and reopen stalled criminal cases involving key officials. However, critics warn that the bill can undermine Ukraine’s EU integration and make the anti-corruption bodies dependent institutions. 
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The why:</strong> The move follows the detention of top anti-corruption agency officials accused of <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-2-spying-for-russia" target="_blank">spying for Russia</a>. An audit of one agency exposed flaws in how it managed investigations, wiretaps, and forensic work (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-3-the-audit" target="_blank">the audit</a>). Zelenskyy promises the effective functioning of the agencies as he attempts to consolidate power within his loyalists. 
+           <strong>The why:</strong> The move follows the detention of top anti-corruption agency officials accused of <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-2-spying-for-russia?source=website" target="_blank">spying for Russia</a>. An audit of one agency exposed flaws in how it managed investigations, wiretaps, and forensic work (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-3-the-audit?source=website" target="_blank">the audit</a>). Zelenskyy promises the effective functioning of the agencies as he attempts to consolidate power within his loyalists. 
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The reaction:</strong> Ukrainians in cities like Kyiv and Lviv <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-4-protested-against-the-bill" target="_blank">protested against the bill</a>, calling for the protection of the agencies. The EU's Enlargement Commissioner described this legislation as a “serious step back,” while emphasizing the importance of the agencies. France's European Affairs minister urged Ukraine to reconsider its decision and stressed that France will be more vigilant. 
+           <strong>The reaction:</strong> Ukrainians in cities like Kyiv and Lviv <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h1-4-protested-against-the-bill?source=website" target="_blank">protested against the bill</a>, calling for the protection of the agencies. The EU's Enlargement Commissioner described this legislation as a “serious step back,” while emphasizing the importance of the agencies. France's European Affairs minister urged Ukraine to reconsider its decision and stressed that France will be more vigilant. 
           </p>
         </mj-text>
       </mj-column>
@@ -122,7 +107,7 @@
     <!-- primary ad -->
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-raw>
-        <a href="https://link.geopoliticalsummary.com/gs-24-july-2025-p-ad-A31" target="_blank" style="color:black">
+        <a href="https://link.geopoliticalsummary.com/gs-24-july-2025-p-ad-A31?source=website" target="_blank" style="color:black">
       </mj-raw>
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-spacer height="14px" />
@@ -184,13 +169,13 @@
             Summary: The Philippines and Indonesia are the latest two nations to appease Trump’s tariff threats and make a trade agreement.</strong>
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-          <strong>The what:</strong> The US has finalized trade <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-5-agreements-with-the-philippines-and-indonesia" target="_blank">agreements with the Philippines and Indonesia</a>, as Trump pushes to secure more agreements before his self-imposed August 1 deadline (the date he set to show progress on reshaping trade). The US currently has trade deficits with both countries, importing far more than it exports.
+          <strong>The what:</strong> The US has finalized trade <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-5-agreements-with-the-philippines-and-indonesia?source=website" target="_blank">agreements with the Philippines and Indonesia</a>, as Trump pushes to secure more agreements before his self-imposed August 1 deadline (the date he set to show progress on reshaping trade). The US currently has trade deficits with both countries, importing far more than it exports.
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The condition:</strong> The US will impose a 19% tariff on all imports from both countries, an expense ultimately borne by American businesses. In return, the Philippines will eliminate tariffs on American automobile exports, signaling a willingness to pursue an <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-6-open-market" target="_blank">open market</a> relationship with the US. Indonesia will eliminate non-tariff barriers, such as digital service taxes and pre-shipment inspections, adopt US motor vehicle safety standards, and lift restrictions on critical minerals.
+           <strong>The condition:</strong> The US will impose a 19% tariff on all imports from both countries, an expense ultimately borne by American businesses. In return, the Philippines will eliminate tariffs on American automobile exports, signaling a willingness to pursue an <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-6-open-market?source=website" target="_blank">open market</a> relationship with the US. Indonesia will eliminate non-tariff barriers, such as digital service taxes and pre-shipment inspections, adopt US motor vehicle safety standards, and lift restrictions on critical minerals.
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>The big picture:</strong> Analysts view this move as an <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-7-indirect-attack-on-china" target="_blank">indirect attack on China</a>, as it strengthens trade ties with other countries in Southeast Asia, particularly for critical minerals. However, China leads with respect to the localization of operations.
+            <strong>The big picture:</strong> Analysts view this move as an <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-spotlight-h2-7-indirect-attack-on-china?source=website" target="_blank">indirect attack on China</a>, as it strengthens trade ties with other countries in Southeast Asia, particularly for critical minerals. However, China leads with respect to the localization of operations.
           </p>
         </mj-text>
       </mj-column>
@@ -224,13 +209,13 @@
             <strong>Summary: Switzerland seeks to increase its influence in Africa through diplomacy, but faces challenges over its neutrality assertions. </strong>
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The what:</strong> Forecasts project that ⅓ of the world population will be living in Africa by 2100. This makes them central to global diplomatic interests, with 200 embassies and consulates opened across the continent, especially in the Global South. This has made the African Union (AU) more influential in shaping regional futures, and <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-analysis-h1-8-switzerland-is-seeking" target="_blank">Switzerland is seeking</a> to enhance its ties with the continent. 
+           <strong>The what:</strong> Forecasts project that ⅓ of the world population will be living in Africa by 2100. This makes them central to global diplomatic interests, with 200 embassies and consulates opened across the continent, especially in the Global South. This has made the African Union (AU) more influential in shaping regional futures, and <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-analysis-h1-8-switzerland-is-seeking?source=website" target="_blank">Switzerland is seeking</a> to enhance its ties with the continent. 
           </p>
           <p style="font-size: 16px; line-height: 1.5">
            <strong>The plan:</strong> Switzerland will support the AU with the Oran process, which focuses on the continental security reforms. They also support the establishment of the African Export-Import Bank (Afreximbank) in Geneva and provide monetary support to the African Development Bank. These efforts align with Switzerland’s broader diplomatic strategy and aim to strengthen ties with individual African states. 
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The challenge:</strong> The Swiss concept of neutrality is under scrutiny over their engagement with African states. Critics warn that Switzerland’s silence on human rights violations in African states undermines its credibility. They point to how their ignorance of inhumane conditions contradicts the legally understood definition of neutrality (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-analysis-h1-9-switzerland-views-neutrality" target="_blank">Switzerland views neutrality</a> as abiding by internal laws rather than complete political non-alignment).
+           <strong>The challenge:</strong> The Swiss concept of neutrality is under scrutiny over their engagement with African states. Critics warn that Switzerland’s silence on human rights violations in African states undermines its credibility. They point to how their ignorance of inhumane conditions contradicts the legally understood definition of neutrality (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-analysis-h1-9-switzerland-views-neutrality?source=website" target="_blank">Switzerland views neutrality</a> as abiding by internal laws rather than complete political non-alignment).
           </p>
         </mj-text>
       </mj-column>
@@ -311,19 +296,19 @@
               padding-top: 0px;
               padding-bottom: 6px;
             ">
-            <strong>🇸🇩 Sudan - Oil warzone.</strong> The national army and paramilitary groups are fighting over control of Sudan's oil-rich Kordofan region, which is home to vital oil infrastructure. While the national army still controls the oil fields, the paramilitary group threatened to expand the war to oil-producing Heglig in South Kordofan. This conflict has resulted in the death of 150,000 people and 12Mn forced exiles (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-10-war-for-oil-and-land" target="_blank">war for oil and land</a>).
+            <strong>🇸🇩 Sudan - Oil warzone.</strong> The national army and paramilitary groups are fighting over control of Sudan's oil-rich Kordofan region, which is home to vital oil infrastructure. While the national army still controls the oil fields, the paramilitary group threatened to expand the war to oil-producing Heglig in South Kordofan. This conflict has resulted in the death of 150,000 people and 12Mn forced exiles (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-10-war-for-oil-and-land?source=website" target="_blank">war for oil and land</a>).
           </p>
           <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
-           <strong>🇨🇳 China - 25th EU-China Summit.</strong> EU leaders will meet Chinese President Xi Jinping to commemorate 50 years of diplomatic relations at the 25th EU-China Summit. Beijing believes that the event would normalize its relationship with the EU. Despite optimism, the expectations are low as issues over China’s support for Russia, trade imbalances, and human rights concerns will remain unresolved (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-11-lowered-expectations" target="_blank">lowered expectations</a>).
+           <strong>🇨🇳 China - 25th EU-China Summit.</strong> EU leaders will meet Chinese President Xi Jinping to commemorate 50 years of diplomatic relations at the 25th EU-China Summit. Beijing believes that the event would normalize its relationship with the EU. Despite optimism, the expectations are low as issues over China’s support for Russia, trade imbalances, and human rights concerns will remain unresolved (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-11-lowered-expectations?source=website" target="_blank">lowered expectations</a>).
           </p>
           <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
-           <strong>🇹🇷 Turkey- Istanbul talks.</strong> Russia and Ukraine have agreed to exchange 1,200 prisoners of war during the peace talks in Istanbul. Russia also proposed returning the bodies of 3,000 deceased Ukrainian soldiers and offered a temporary ceasefire. Despite this exchange, the broader conflict remains unresolved, with both sides continuing to hold distant positions on key issues (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-12-hostage-diplomacy" target="_blank">hostage diplomacy</a>).
+           <strong>🇹🇷 Turkey- Istanbul talks.</strong> Russia and Ukraine have agreed to exchange 1,200 prisoners of war during the peace talks in Istanbul. Russia also proposed returning the bodies of 3,000 deceased Ukrainian soldiers and offered a temporary ceasefire. Despite this exchange, the broader conflict remains unresolved, with both sides continuing to hold distant positions on key issues (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-12-hostage-diplomacy?source=website" target="_blank">hostage diplomacy</a>).
           </p>
           <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
-           <strong>🇧🇩 Bangladesh - Students demand answers.</strong> Students gathered around the remains of the school building destroyed in the plane crash, claiming that the death toll was higher than reported. The government denied the assertions and stated that the identities of the dead are still being verified. At least 31 people are reported dead, including 25 children, and over 160 were injured (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-13-answer-in-numbers" target="_blank">answer in numbers</a>). 
+           <strong>🇧🇩 Bangladesh - Students demand answers.</strong> Students gathered around the remains of the school building destroyed in the plane crash, claiming that the death toll was higher than reported. The government denied the assertions and stated that the identities of the dead are still being verified. At least 31 people are reported dead, including 25 children, and over 160 were injured (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-13-answer-in-numbers?source=website" target="_blank">answer in numbers</a>). 
           </p>
           <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
-           <strong>🇺🇸 USA - Trans women Olympic ban.</strong> The US Olympic Committee has banned transgender women from women's events. This decision follows Trump's earlier executive decree to “protect” women’s sports. Critics say the ban is discriminatory, has no scientific basis, and harms trans athletes’ mental health. The host countries are allowed to set their own rules (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-14-injustice-to-trans-women" target="_blank">injustice to trans women</a>).
+           <strong>🇺🇸 USA - Trans women Olympic ban.</strong> The US Olympic Committee has banned transgender women from women's events. This decision follows Trump's earlier executive decree to “protect” women’s sports. Critics say the ban is discriminatory, has no scientific basis, and harms trans athletes’ mental health. The host countries are allowed to set their own rules (<a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-worldwide-14-injustice-to-trans-women?source=website" target="_blank">injustice to trans women</a>).
           </p>
         </mj-text>
       </mj-column>
@@ -360,13 +345,13 @@
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-           <strong>The what:</strong> The Zangezur Corridor is a planned 43-km (26.7-mile) transport route linking mainland Azerbaijan to its <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-15-nakhchivan-exclave" target="_blank">Nakhchivan exclave</a> through Armenia’s Syunik Province. Currently, goods moving between these regions must pass through Iran. The corridor, backed by Azerbaijan and Turkey, would provide a faster and more direct link between the regions. 
+           <strong>The what:</strong> The Zangezur Corridor is a planned 43-km (26.7-mile) transport route linking mainland Azerbaijan to its <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-15-nakhchivan-exclave?source=website" target="_blank">Nakhchivan exclave</a> through Armenia’s Syunik Province. Currently, goods moving between these regions must pass through Iran. The corridor, backed by Azerbaijan and Turkey, would provide a faster and more direct link between the regions. 
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-           Armenia, however, opposes it over concerns that it could undermine its sovereignty and security. This could change in the future as the relationship between Armenia and Azerbaijan shows a potential shift. The nations <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-16-met-on-july-10th" target="_blank">met on July 10th</a> to discuss possible peace solutions.
+           Armenia, however, opposes it over concerns that it could undermine its sovereignty and security. This could change in the future as the relationship between Armenia and Azerbaijan shows a potential shift. The nations <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-16-met-on-july-10th?source=website" target="_blank">met on July 10th</a> to discuss possible peace solutions.
           </p>
           <p style="font-size: 16px; line-height: 1.5"> 
-          <strong>The calculus:</strong> The future of the corridor affects more than just Armenia and Azerbaijan. Iran strongly objects, fearing that the route would weaken its role in regional trade and reduce its gateway to the South Caucasus. Turkey, whose interests are aligned with those of Azerbaijan, views the project as strategically important. The US has recently proposed <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-17-a-management-framework" target="_blank">a management framework</a> to mediate the tensions.</p>
+          <strong>The calculus:</strong> The future of the corridor affects more than just Armenia and Azerbaijan. Iran strongly objects, fearing that the route would weaken its role in regional trade and reduce its gateway to the South Caucasus. Turkey, whose interests are aligned with those of Azerbaijan, views the project as strategically important. The US has recently proposed <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" href="https://link.geopoliticalsummary.com/gs-24-jul-25-foundations-h2-17-a-management-framework?source=website" target="_blank">a management framework</a> to mediate the tensions.</p>
           <p style="font-size: 16px; line-height: 1.5">
            <strong>The future:</strong> Analysts believe a peace agreement between Azerbaijan and Armenia could be signed by fall 2025, possibly under US oversight. Proposals include international monitoring of transit, digital customs systems, and judicial guarantees to ensure respect for sovereignty. However, nothing official has been set up yet.
           </p>
@@ -385,13 +370,7 @@
                 border-bottom: 2px solid #06266d;
                 color: black;
               " href="https://www.geopoliticalsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
-          <p style="color: #000; font-size: 12px; line-height: 2">
-            <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #06266d;
-                color: black;
-              " href="https://www.geopoliticalsummary.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
+         
           <p style="color: #000; font-size: 10px; line-height: 1.7"> 
           This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p>
         </mj-text>
