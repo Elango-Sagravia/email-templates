@@ -1,0 +1,810 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-july-25.jpg"
+          alt="Dubai weather july 25"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 12px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Latest single visa for Gulf travel
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             Global Encounters Festival in Dubai
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              When Dubai opened its first airport
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Safest country in the world
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/abu-dhabi-safest-city-uae-safety-ranking.jpg"
+          alt="Abu Dhabi has topped the safety list for the ninth consecutive year, per reports"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             Abu Dhabi has topped the safety list for the ninth consecutive year, per reports. Credits: Nick Fewings/ Unsplash
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE has been officially named the safest country in the world in <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h1-2-numbeo-s-2025-mid-year-safety-index?source=website" target="_blank">Numbeo’s 2025 mid‑year Safety Index</a>, scoring 85.2 points. Andorra, Qatar, Taiwan, and Macao (China) followed in the top five.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Numbeo’s Safety Index is built from many crowd‑sourced surveys worldwide. It measures people’s sense of safety when walking alone during daylight and at night, as well as levels of crime, including theft, assault, and vandalism (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h1-3-methodology?source=website" target="_blank">methodology</a>). A higher rating indicates a lower perceived crime percentage and a stronger sense of security.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           The UAE had already ranked second earlier this year, but strong ratings in security and quality of living helped it climb to the top. Abu Dhabi led globally as the safest city with a rating of 88.2, while Dubai ranked fifth.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 10px 12px"
+        />
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           A single visa for the Gulf
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/gulf-region-budget-travel-abu-dhabi-uae.jpg"
+          alt="This will greatly benefit travelers on longer trips who are trying to see as much of the Gulf region as possible on a budget"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             This will greatly benefit travelers on longer trips who are trying to see as much of the Gulf region as possible on a budget. Credits: Unsplash</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Travel across the Gulf is about to get much easier. The latest Unified Tourist Visa, also known as the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h2-4-gcc-grand-tours-visa?source=website" target="_blank">GCC Grand Tours Visa</a>, will shortly allow visitors to enter Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE with a single permit instead of applying separately for each country.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The system (approved in 2023 and expected to launch by late 2025 or early 2026) will be fully online, with one application portal for all six countries. It’s designed for tourism, short stays, and visiting family or friends, rather than work or long-term residence.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Exact fees and validity (most probably 30–90 days) are yet to be announced, but it’s expected to be more budget-friendly than six separate visas. This latest system aims to make multi‑country Gulf trips as seamless as a Schengen‑style journey in Europe (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h2-5-about-schengen-visa?source=website" target="_blank">about Schengen visa</a>).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" /> 
+    <!-- Content sections -->
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            What’s happening?
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Spacetoon Memories (<i>music</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            A concert celebrating Spacetoon’s most beloved Arabic‑dubbed anime themes. Assem Sukkar, the voice behind classics like Dragon Ball and Sabeq wa Laheq, performs live in a show that brings back memories for an entire generation.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓Saturday, 2 August – Sunday, 3 August | 🕗 8:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h1-6-zabeel-theatre?source=website" target="_blank">Zabeel Theatre</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h1-7-book-tickets?source=website" target="_blank">Book tickets</a> (AED100–AED200)
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            ELEVATE RunClub Interval Sessions (<i>fitness</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Join ELEVATE RunClub for a focused track session designed to help you hit a latest 5K personal best. Led by endurance athlete Akram Berkani, these intervals work on speed, stamina, and technique.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓Saturday, 9 August | 🕘 8:00 pm – 9:15 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h2-8-isd-dubai-sports-city?source=website" target="_blank">ISD Dubai Sports City</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h2-9-book-tickets?source=website" target="_blank">Book tickets</a> (AED200–AED450)
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Global Encounters Festival opens in Dubai
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Over 4,000 young artists and athletes from more than 50 countries have gathered in Dubai for the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h3-10-global-encounters-festival-2025?source=website" target="_blank">Global Encounters Festival 2025</a>, a week‑long celebration of culture, sports, and unity.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Held from July 20 to 27 across various venues in Dubai, the festival is hosted by the Ismaili community and features competitions, art showcases, concerts, and exhibitions. Sheikh Nahyan bin Mubarak Al Nahyan, the UAE’s Minister of Tolerance and Coexistence, <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-wh-h3-11-inaugurated-the-event?source=website" target="_blank">inaugurated the event</a>, highlighting Dubai as a place where people of all backgrounds can live and work together in harmony.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            More than 25,000 visitors from the global Ismaili community are attending the event.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Fresh in town
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Place to visit
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dolphin-seal-performance-dubai-dolphinarium-uae.jpg"
+          alt="Over 40,000 visitors per month go to Dubai Dolphinarium to witness the magnificent performance of graceful bottlenose dolphins and playful seals in The Dolphin & Seal Show, the #1 in the UAE"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+                     Over 40,000 visitors monthly go to Dubai Dolphinarium to witness the graceful bottlenose dolphins and playful seals in The Dolphin & Seal Show, the #1 in the UAE. Credits: Platinumlist 
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-fit-h1-12-dubai-dolphinarium?source=website" target="_blank">Dubai Dolphinarium</a></strong> → Located inside Creek Park, Dubai Dolphinarium is a popular spot for families. You can watch dolphin and seal shows, catch an exotic bird demonstration, or even book a session to swim with dolphins. The venue is fully air‑conditioned, so it’s a nice way to spend a few hours indoors when it’s hot outside. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Good to know:</strong> Open daily from 9:00 a.m. to 7:00 p.m. (closed on Tuesdays). 
+          </p>
+        </mj-text>
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Where to eat
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-fit-h2-13-tresind-studio?source=website" target="_blank">Tresind Studio</a></strong> → Concealed inside The St. Regis hotel, Tresind Studio is Dubai’s sole 3‑Michelin‑starred restaurant and a creation of <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-fit-h2-14-chef-himanshu-saini?source=website" target="_blank">Chef Himanshu Saini</a>. Don’t confuse it with Tresind Dubai; this is a far more intimate and elevated experience. The tasting menu is widely praised as one of the finest in the world, boasting flawless service and a level of detail that makes every course truly memorable.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Pro tip:</strong> Go for the cocktail pairing. The drinks are low in alcohol, crafted to enhance each dish without overpowering your palate. 
+          </p>
+        </mj-text>
+        <!-- ------ -->
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Explore careers
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Junior - Operations Coordinator - Aeon Shipping
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 2,000–3,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Aeon Shipping LLC is hiring a full‑time Operations Coordinator to manage day‑to‑day international shipping tasks across sea, air, and land. The role involves coordinating with clients and transport partners, preparing documentation, tracking cargo, and resolving operational issues. Candidates should have 1-2 years of logistics experience, knowledge of UAE customs, and strong communication and multitasking skills.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-25-jul-25-ec-h1-15-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ----- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Mid-Level - Social Media Operator - PRBC
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 2,000–3,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> PRBC LLC is hiring a full‑time Social Media Operator to manage platforms like Facebook, Instagram, Google My Business, and TikTok. Applicants should have 3-5 years of experience in a similar role, with strong skills in video editing, shooting, and photography to create engaging content.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-25-jul-25-ec-h2-16-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- --- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Senior - Sales Manager - Savannah So Beautiful Landscaping
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 6,000–7,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Savannah So Beautiful Landscaping LLC is hiring a full‑time Senior Sales Manager for its garden center in Dubai. The role involves leading a team of Junior Sales Managers, setting and achieving sales targets, developing sales strategies, and ensuring excellent customer service. Candidates should have 8+ years of sales management experience, ideally in retail or horticulture.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;padding-bottom:4px;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-25-jul-25-ec-h3-17-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            A moment in history
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            When Dubai opened its first airport
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Back in the 1950s, Dubai didn’t have its airport. Travelers landed in Sharjah instead, as the British Royal Air Force (RAF) had a base there and preferred to maintain control over regional activities. Passengers heading to Dubai had to drive the rest of the way.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            But Sheikh Rashid bin Saeed (first vice president and second prime minister of the UAE) had bigger plans. He saw how air travel could open Dubai to trade and visitors, and despite British resistance, he pushed ahead. With help from former RAF pilot Freddie Bosworth, construction began on a site in Al Ghusais. In 1959, <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-amih-h1-18-dubai-s-very-first-airport?source=website" target="_blank">Dubai’s very first airport</a> opened, with a compacted sand runway.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            In the early days, Middle East Airlines and Kuwait Airways flew small propeller planes into Dubai. The runway wasn’t always up to the challenge. More powerful aircraft often blew sand away, forcing repairs. The terminal was just a simple building with two duty-free shops and a single immigration desk. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            It’s almost impossible to imagine those humble sand strips when you step into Dubai International Airport. What began as a single runway and a wooden desk has evolved into one of the world's busiest airports, connecting over 240 destinations and handling innumerable passengers annually.
+          </p>
+        </mj-text>
+        <!-- banner -->
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+            "
+          >
+            Did you know?
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #102341;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">
+          To address ethical concerns, Dubai replaced child jockeys in camel racing with robot riders. These remote-controlled jockeys are now a common sight in desert races.</div>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="mailto:readers@dubaisummary.com"
+              target="_blank"
+              >readers@dubaisummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/advertise"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/people/Dubai-Summary/61576229295087/"
+            src="https://www.dubaisummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/dubaisummary/"
+            src="https://www.dubaisummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/dubai-summary/about/"
+            src="https://www.dubaisummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.com/@dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            S8, Level 2, Building 3, Dubai Design District, Dubai
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2025 Summary Media FZ-LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

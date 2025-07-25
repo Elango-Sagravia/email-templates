@@ -1,0 +1,243 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-july-25.jpg"
+          alt="Dubai weather july 25"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 12px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Latest single visa for Gulf travel
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             Global Encounters Festival in Dubai
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              When Dubai opened its first airport
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Safest country in the world
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/abu-dhabi-safest-city-uae-safety-ranking.jpg"
+          alt="Abu Dhabi has topped the safety list for the ninth consecutive year, per reports"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             Abu Dhabi has topped the safety list for the ninth consecutive year, per reports. Credits: Nick Fewings/ Unsplash
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            The UAE has been officially named the safest country in the world in <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h1-2-numbeo-s-2025-mid-year-safety-index?source=website" target="_blank">Numbeo’s 2025 mid‑year Safety Index</a>, scoring 85.2 points. Andorra, Qatar, Taiwan, and Macao (China) followed in the top five.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Numbeo’s Safety Index is built from many crowd‑sourced surveys worldwide. It measures people’s sense of safety when walking alone during daylight and at night, as well as levels of crime, including theft, assault, and vandalism (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h1-3-methodology?source=website" target="_blank">methodology</a>). A higher rating indicates a lower perceived crime percentage and a stronger sense of security.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           The UAE had already ranked second earlier this year, but strong ratings in security and quality of living helped it climb to the top. Abu Dhabi led globally as the safest city with a rating of 88.2, while Dubai ranked fifth.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 10px 12px"
+        />
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           A single visa for the Gulf
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/gulf-region-budget-travel-abu-dhabi-uae.jpg"
+          alt="This will greatly benefit travelers on longer trips who are trying to see as much of the Gulf region as possible on a budget"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             This will greatly benefit travelers on longer trips who are trying to see as much of the Gulf region as possible on a budget. Credits: Unsplash</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Travel across the Gulf is about to get much easier. The latest Unified Tourist Visa, also known as the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h2-4-gcc-grand-tours-visa?source=website" target="_blank">GCC Grand Tours Visa</a>, will shortly allow visitors to enter Bahrain, Kuwait, Oman, Qatar, Saudi Arabia, and the UAE with a single permit instead of applying separately for each country.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The system (approved in 2023 and expected to launch by late 2025 or early 2026) will be fully online, with one application portal for all six countries. It’s designed for tourism, short stays, and visiting family or friends, rather than work or long-term residence.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+           Exact fees and validity (most probably 30–90 days) are yet to be announced, but it’s expected to be more budget-friendly than six separate visas. This latest system aims to make multi‑country Gulf trips as seamless as a Schengen‑style journey in Europe (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-25-jul-25-spotlight-h2-5-about-schengen-visa?source=website" target="_blank">about Schengen visa</a>).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
