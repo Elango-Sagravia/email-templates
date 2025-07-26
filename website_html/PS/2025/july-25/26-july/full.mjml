@@ -1,0 +1,339 @@
+<mjml>
+  <mj-head>  
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f9f8f9"> 
+    
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <!-- Header -->
+      <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px 6px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+       
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <mj-text padding="0px 12px 0px 12px " font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is as big as 🇰🇾 Cayman Islands. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇦🇩 Andorra next.</p>
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 10px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;"> 
+            158-year-old UK company destroyed</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            Hong Kong rules in favor of transgender rights</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            Should WNBA players be paid more?</td>
+          </tr>
+        </mj-table>
+      
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header --> 
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Content sections -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+        padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            ">Spotlight of the week</h2> 
+        </mj-text> 
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+         Deepfake weapons</h2> 
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/deepfake-global-threat.jpg" alt="A computer screen showing facial mapping software with a man’s face being analyzed, illustrating concerns about deepfake technology and its misuse." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF"> 
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+              Experts are warning that highly realistic fake videos can be used to deliberately disrupt nations and cause chaos. Credits: University of Luxembourg
+            </i>
+          </p>
+        </mj-text>
+       
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Deepfake pornography uses artificial intelligence to digitally replace someone’s face in explicit images or videos, usually without consent. This technology is increasingly being used as a tool of harassment, political attacks, and even monetary exploitation. The past few months have seen many reported cases showing a disturbing rise in AI-powered sexual abuse.</p>
+        
+          <p style="font-size: 16px; line-height: 1.5">
+          In the UK, a deepfake video targeted at the former cabinet minister <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-sotw-h1-1-penny-mordaunt?source=website" target="_blank">Penny Mordaunt</a> went viral, triggering parliamentary debates over how easily such material can be weaponised. In India, an AI-generated influencer known as <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-sotw-h1-2-babydoll-archi?source=website" target="_blank">“Babydoll Archi,”</a> created by an ex-husband using stolen images, gained over 1.4M likes and earned revenue before being exposed.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+        Meanwhile, Northern Ireland is moving to criminalize deepfake creation and sharing under a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-sotw-h1-3-recently-proposed-justice-bill?source=website" target="_blank">recently proposed justice bill</a>. A public consultation is open until October 6, considering penalties, court jurisdictions, and how to align emerging offenses with existing protections.</p>
+          </mj-text> 
+      </mj-column>
+    </mj-section>
+
+     <mj-spacer height="10px" /> 
+    
+  <!-- primary ad -->
+
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-26-july-2025-p-ad-BH?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="campaign-A32" />
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+         Uncover the deals that reshaped the game,<br />
+          Big moves and risks that earned their fame.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          From bold achievements to failures laid bare,<br /> 
+          We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Step ahead with insights that sharpen your view,<br /> 
+         Join us for stories that give you a clue.</p>
+        </mj-text>
+        <mj-text padding="0px 12px 6px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+            Join Business History</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+    <!-- primary ad -->
+  <!-- primary ad -->
+    <mj-spacer height="10px" />
+
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+             158-year-old company destroyed </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+       A 158-year-old UK logistics company, KNP, collapsed after a ransomware gang called Akira <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-recap-h1-4-infiltrated-its-systems?source=website" target="_blank">infiltrated its systems</a> by exploiting a weak employee login credentials. The hackers encrypted critical data and demanded an estimated £5M ransom. Unable to pay or recover their files, KNP was forced to shut down, resulting in 700 job losses.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+         The company claimed its IT systems met industry standards and that it had cyber coverage, but these precautions proved insufficient against the high-level ransomware attack. Recognizing the growing threat, the UK government is considering stricter rules, including banning ransom payments by public bodies and requiring private companies to report attacks and seek approval before making any payments.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+              Ecuador extradites cartel leader</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Ecuador’s drug lord, Adolfo “Fito” Macías, <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-recap-h2-5-has-been-extradited?source=website" target="_blank">has been extradited</a> to the United States to face charges of international drug and weapons trafficking. He was captured in June in a concealed bunker in Manta after being on the run for months. Fito had earlier escaped from a high‑security prison where he was serving a 34‑year sentence.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+       As the leader of <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-recap-h2-6-los-choneros?source=website" target="_blank">Los Choneros</a>, a gang linked to Mexican and Balkan cartels, Fito is accused of fueling Ecuador’s surge in cocaine exports and violent crime. Authorities also suspect he ordered the assassination of presidential candidate <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-recap-h2-7-fernando-villavicencio?source=website" target="_blank">Fernando Villavicencio</a>, further destabilizing the country’s politics.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+             Hong Kong ends bathroom ban</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         A Hong Kong court has ruled <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-recap-h3-8-in-favor-of-transgender-rights?source=website" target="_blank">in favor of transgender rights</a>, deciding that the current rules stopping transgender people from using public bathrooms that match their gender identity are unconstitutional. The judge said the rules violate privacy and equal rights protections, and the government has one year to update the regulations.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+         Under the existing system, bathroom use is determined by biological status at birth. Adults who use an opposite‑sex bathroom can be fined HK$2,000 (about $255), with exceptions for children under five accompanied by an adult. The court found this framework discriminatory and outdated.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big question -->
+    <mj-section background-color="#eff1f4"  css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+              
+            ">The big question</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Should WNBA players be paid more?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        WNBA players are openly pushing for better compensation, wearing shirts that read “<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-26-jul-25-tbq-h1-9-pay-us-what-you-owe-us?source=website" target="_blank">Pay us what you owe us</a>” at the recent All-Star Game. This public protest is a response to the failed negotiations over higher salaries, benefits, and improved working conditions.</p>
+         <p style="font-size: 16px; line-height: 1.5">
+       The league says it is operating at a loss ($40M in 2024), but recent growth tells a different story. Attendance is nearing 10,000 this season, media rights deals are worth far more than in the past, and team valuations are rising rapidly. Despite this, player salaries account for just a small fraction of the overall revenue. For example, the rookie minimum salary in the WNBA is $66,000, compared to $1.27M in the NBA.</p>
+         <p style="font-size: 16px; line-height: 1.5">
+        Supporters argue that higher pay would help retain talent, reduce the need for players to compete overseas in the offseason, and continue building the league’s momentum.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/hulk-hogan-superman-pose.jpg" alt="Wrestler Hulk Hogan flexing in a Superman pose over a black background." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+     Hulk Hogan, the legendary wrestler who helped propel WWE into global fame, passed away on Thursday at 71 from cardiac arrest at his Florida home. Credits: Wallpapers.com</i>
+          </p>
+        </mj-text> 
+         <!--banner  -->
+        <mj-text padding="20px 12px 10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #4D3060;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">On this day in 1956, Egyptian President Gamal Abdel Nasser nationalized the Suez Canal, triggering a crisis that led to a brief invasion by French, British, and Israeli forces.</div>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          
+          <!-- <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7; 
+            ">
+         This is a paid advertisement for Oricle Hearing. This is not medical advice.</p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px " font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+    </mj-section>  
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

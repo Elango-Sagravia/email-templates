@@ -1,0 +1,246 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } p {margin-bottom: 10px;} .remove-padding td
+      {padding-left: 10px !important;}</mj-style
+    >
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+    <mj-style>
+      /* Hover effect for buttons */ .button-style:hover { background-color:
+      rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer;
+      border: 2px solid rgba(6,38,109,1) !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇰🇾 Cayman Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇩 Andorra next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Why is Iran expelling Afghans?
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Meet Panama
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Trump pops up in Manhattan
+            </td>
+          </tr>
+        </mj-table>
+
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- /header -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            The Columbine effect
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/us-vs-mexico-school-shootings-2009-2018-statistics.jpg"
+          alt="Between 2009 and 2018, there were 3,500% more school shootings in the United States than there were in Mexico"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Between 2009 and 2018, there were 3,500% more school shootings in
+              the United States than there were in Mexico. Credits: Reuters
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong> The what:</strong> Gun violence in the US, which was
+            thought to be a domestic crisis, has turned into
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-26-jul-25-analysis-h1-1-a-global-issue?source=website"
+              target="_blank"
+              >a global issue</a
+            >. Researchers point to the Columbine effect (based on the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-26-jul-25-analysis-h1-2-1999-columbine-shooting?source=website"
+              target="_blank"
+              >1999 Columbine shooting</a
+            >) for the increased violence, which created a “cultural script,” to
+            carry out similar ideological and tactical attacks. Critics accuse
+            the US of exporting violence directly through the gun trade and
+            indirectly through social media by glorifying violence.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> The poor gun regulations in the US have
+            resulted in domestic and international weapon proliferation. They
+            also have fewer content moderation practices, which the fame-seeking
+            and ideological attackers exploit to find inspiration and spread
+            violence. Socio-economic reasons like poverty, mental health, and
+            inequality also lead to people becoming frustrated with society and
+            seeking violence to bring balance (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-26-jul-25-analysis-h1-3-15-common-reasons?source=website"
+              target="_blank"
+              >15 common reasons</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            <strong>The implications:</strong> Gun violence is damaging the US’s
+            soft power capabilities, hampering its foreign policy. Countries
+            like Australia, Germany, and Uruguay have issued warnings against
+            traveling to the US. Adversaries in China and Russia have repeatedly
+            pointed to the Columbine movement whenever a similar attack happens.
+            The global image of the US on the world stage has been reduced to
+            its political polarization and gun violence.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
