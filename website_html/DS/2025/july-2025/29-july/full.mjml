@@ -1,0 +1,811 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/dubai-weather-update-july-29.jpg"
+          alt="Dubai weather july 29"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Dubai Airshow 2025
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             The big fat fake wedding
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              When the dirham replaced the Gulf rupee
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Sharjah in UNESCO
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/faya-added-to-world-heritage-list.jpg"
+          alt="Faya’s inscription brings the total number of World Heritage sites to 1,226 across 168 countries, including 955 cultural, 231 natural, and 40 mixed sites"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             Faya’s inscription brings the total number of World Heritage sites to 1,226 across 168 countries, including 955 cultural, 231 natural, and 40 mixed sites. Credits: Sharjah Update
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            After <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-2-jebel-faya?source=website" target="_blank">Jebel Faya</a> was officially added to the UNESCO World Heritage List, Sharjah is currently seeking recognition for two additional archaeological sites: Mleiha and Wadi Al Helo. Both sites are already on UNESCO’s Tentative List, a crucial first step toward achieving full recognition.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           The sites are known for their prehistoric settlements and rare artifacts. Jebel Faya, considered one of the earliest desert sites inhabited by humans (dating back around 200,000 years), helped put Sharjah on the global scientific map. <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-3-mleiha?source=website" target="_blank">Mleiha</a> is a cultural and educational heritage hub, while <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-4-wadi-al-helo?source=website" target="_blank">Wadi Al Helo</a> holds remains of ancient copper mining.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The emirate has a strong conservation plan backed by local authorities and royal support. Sharjah added four sites to the Tentative List in 2023, and Jebel Faya’s triumph has set the stage for more.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 10px 12px"
+        />
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Dubai Airshow 2025
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/dubai-airshow-energy-and-innovation.jpg"
+          alt="This year’s edition of the air show is going to be the most ambitious yet, a tribute to the energy that drives the world’s largest international hub"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             This year’s edition of the air show is going to be the most ambitious yet, a tribute to the energy that drives the world’s largest international hub. Credits: Die Geissens Real Estate Dubai</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The Dubai Airshow 2025 is going to have a spectacular <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-5-finale?source=website" target="_blank">finale</a> at Atlantis the Palm on November 20, featuring headline performances by Teddy Swims and Grammy-winning producer <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-6-mark-ronson?source=website" target="_blank">Mark Ronson</a> (known for his collaborations with Amy Winehouse, Bruno Mars, and Lady Gaga). The gala dinner will welcome over 3,300 guests to celebrate global innovation in aviation.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            This year’s Airshow is themed “<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-7-the-future-is-here?source=website" target="_blank">The Future Is Here</a>” and is expected to host over 148,000 professionals from 98 countries. Organizers describe it as the most ambitious edition yet, aiming to drive multi-billion-dollar aerospace deals and spotlight next-generation technologies.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Over the years, the gala has hosted global icons such as Katy Perry and Maroon 5, establishing itself as one of Dubai’s premier social events.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" /> 
+    <!-- Content sections -->
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            What’s happening?
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Bun Xapa live (<i>music</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Expect afro beats and high energy from Bun Xapa. Known for his electric stage presence, the night will also feature sets by EZY, Bazz Key, and Qtee Rue. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           🗓Friday, 1 August | 🕗 10:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h1-8-cavo-restaurant?source=website" target="_blank">CAVO Restaurant</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h1-9-book-tickets?source=website" target="_blank">Book tickets</a>
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Kingdom Festival (<i>concerts</i>)
+
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Dubai’s biggest indoor Afrobeat and Amapiano party lands in Dubai. The Kingdom Festival boasts a vibrant lineup, featuring Zakes Bantwini, Uncle Waffles, and a Swazi DJ, alongside gourmet street food to fuel the party. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🗓Saturday, 9 August | 🕘 3:00 pm 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h2-10-dubai-world-trade-centre?source=website" target="_blank">Dubai World Trade Centre</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h2-11-book-tickets?source=website" target="_blank">Book tickets</a> (AED249–AED699)
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Band Baaja Baaraat - The Big Fat Fake Wedding (<i>party</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Dubai’s most filmy night lands at VICE with Band Baaja Baaraat - The Big Fat Fake Wedding. Expect DJ Sarpanch, live dhol, mehendi corners, shaadi snacks, all without the actual wedding. Traditional attire is a must.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          🗓Friday, 8 August | 🕘 10:00 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h3-12-vice-ramee-dream-hotel?source=website" target="_blank">Vice, Ramee Dream Hotel</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-wh-h3-13-book-tickets?source=website" target="_blank">Book tickets</a>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Fresh in town
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Place to visit
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/smurfs-village-family-fun-zones-miracle-garden.jpg"
+          alt="Don't miss the vibrant display of the new Smurfs Village, where you can meet the brilliant-blue characters in landscape arrangements across four immersive zones"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+            Don't miss the vibrant display of the latest Smurfs Village, where you can meet the brilliant-blue characters in landscape arrangements across four immersive zones. Credits: Miracle Garden
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-fit-h1-14-dubai-miracle-garden?source=website" target="_blank">Dubai Miracle Garden</a></strong> → Spanning 72,000 square meters, it’s home to over 150Mn blooming flowers shaped into castles, pathways, and massive-sized landmarks. One of its most iconic attractions is a Guinness World Record-holding Emirates A380 floral replica, built with over 500,000 fresh blooms. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Good to know:</strong> For a quieter experience, head to the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-fit-h1-15-butterfly-garden?source=website" target="_blank">Butterfly Garden</a> next door, where 15,000 butterflies flutter freely in ten climate-controlled domes.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Where to eat
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-fit-h2-16-la-dame-de-pic-dubai?source=website" target="_blank">La Dame de Pic Dubai</a></strong> → Set on the 25th floor of One&Only One Za’abeel, this is the Dubai debut of acclaimed French chef <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-fit-h2-17-anne-sophie-pic?source=website" target="_blank">Anne-Sophie Pic</a>. With its soft interiors, open kitchen, and signature marble-topped bar, the restaurant provides refined French cuisine through two elegant tasting menus: Symphony and Harmony. Expect delicate flavors, precision technique, and standout dishes like John Dory with razor clams.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Pro tip:</strong> Book a table around sunset for panoramic views, and go with the Harmony menu if it’s your first visit.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Explore careers
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Junior - Business Development Executive - Naqdi Global
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 4,000–5,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Naqdi Global is hiring a full-time Business Development Executive based in Downtown Dubai. The role is ideal for a proactive, results-driven candidate looking to kick-start a career. Responsibilities include identifying the latest leads, maintaining client relationships, promoting services, and managing CRM systems. Open to recent graduates with strong communication skills and a Bachelor's degree. No prior experience required.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-29-jul-25-ec-h1-18-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ----- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Mid-Level - Accountant (AR/AP) - RAK Logistics
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 6,000–7,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> RAK Logistics is seeking experienced accountants to join its accounting team in Dubai, with openings available in both Accounts Receivable (AR) and Accounts Payable (AP) departments. The roles involve full-cycle accounting tasks, such as bill processing, reconciliations, aging reports, closing reports, and audit support. Candidates must have 2–5 years of relevant experience and strong knowledge of ERP systems.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-29-jul-25-ec-h2-19-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- --- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Senior - Cybersecurity Team Leader - VSL Cyber Risk Management
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 12,000–19,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> VSL Cyber Risk Management is hiring a seasoned Cybersecurity Team Leader to oversee its security operations in Dubai Marina. This full-time role involves managing teams in penetration testing, malware analysis, and the development of security tools. Applicants must have 10–15 years of experience and proven leadership in cybersecurity roles. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;padding-bottom:4px;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-29-jul-25-ec-h3-20-register-here?source=website"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            A moment in history
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            When the dirham replaced the Gulf rupee
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Before the UAE had its currency, the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-amih-h1-21-gulf-rupee?source=website" target="_blank">Gulf rupee</a> was used across several Gulf states. Issued by the Government of India, it resembled the Indian rupee but was specifically designed for use outside the country. In the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-amih-h1-22-trucial-states?source=website" target="_blank">Trucial States</a> (what would later become the UAE), this was the official tender well into the 1960s.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           In 1966, India devalued the Gulf rupee, prompting panic across the Gulf. Suddenly, people holding the currency saw its value plummet overnight. Several states quickly introduced their currencies. Abu Dhabi temporarily adopted the Bahraini dinar, while Dubai switched to the Qatari riyal.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            When the United Arab Emirates was formed in 1971, it still lacked a unified national currency. That changed in 1973, when the UAE dirham was officially introduced as the country's currency.
+          </p>
+        </mj-text>
+        <!-- banner -->
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+            "
+          >
+            Did you know?
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #102341;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">
+          Dubai hosts the world’s richest horse race, the Dubai World Cup, with a prize pool of $12M.</div>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="mailto:readers@dubaisummary.com"
+              target="_blank"
+              >readers@dubaisummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/advertise"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/people/Dubai-Summary/61576229295087/"
+            src="https://www.dubaisummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/dubaisummary/"
+            src="https://www.dubaisummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/dubai-summary/about/"
+            src="https://www.dubaisummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.com/@dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            S8, Level 2, Building 3, Dubai Design District, Dubai
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2025 Summary Media FZ-LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

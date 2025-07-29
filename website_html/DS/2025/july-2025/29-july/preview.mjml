@@ -1,0 +1,240 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/dubai-weather-update-july-29.jpg"
+          alt="Dubai weather july 29"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Dubai Airshow 2025
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             The big fat fake wedding
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              When the dirham replaced the Gulf rupee
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Sharjah in UNESCO
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/faya-added-to-world-heritage-list.jpg"
+          alt="Faya’s inscription brings the total number of World Heritage sites to 1,226 across 168 countries, including 955 cultural, 231 natural, and 40 mixed sites"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             Faya’s inscription brings the total number of World Heritage sites to 1,226 across 168 countries, including 955 cultural, 231 natural, and 40 mixed sites. Credits: Sharjah Update
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            After <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-2-jebel-faya?source=website" target="_blank">Jebel Faya</a> was officially added to the UNESCO World Heritage List, Sharjah is currently seeking recognition for two additional archaeological sites: Mleiha and Wadi Al Helo. Both sites are already on UNESCO’s Tentative List, a crucial first step toward achieving full recognition.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           The sites are known for their prehistoric settlements and rare artifacts. Jebel Faya, considered one of the earliest desert sites inhabited by humans (dating back around 200,000 years), helped put Sharjah on the global scientific map. <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-3-mleiha?source=website" target="_blank">Mleiha</a> is a cultural and educational heritage hub, while <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h1-4-wadi-al-helo?source=website" target="_blank">Wadi Al Helo</a> holds remains of ancient copper mining.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The emirate has a strong conservation plan backed by local authorities and royal support. Sharjah added four sites to the Tentative List in 2023, and Jebel Faya’s triumph has set the stage for more.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px 10px 12px"
+        />
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Dubai Airshow 2025
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/images/dubai-airshow-energy-and-innovation.jpg"
+          alt="This year’s edition of the air show is going to be the most ambitious yet, a tribute to the energy that drives the world’s largest international hub"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             This year’s edition of the air show is going to be the most ambitious yet, a tribute to the energy that drives the world’s largest international hub. Credits: Die Geissens Real Estate Dubai</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The Dubai Airshow 2025 is going to have a spectacular <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-5-finale?source=website" target="_blank">finale</a> at Atlantis the Palm on November 20, featuring headline performances by Teddy Swims and Grammy-winning producer <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-6-mark-ronson?source=website" target="_blank">Mark Ronson</a> (known for his collaborations with Amy Winehouse, Bruno Mars, and Lady Gaga). The gala dinner will welcome over 3,300 guests to celebrate global innovation in aviation.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+            This year’s Airshow is themed “<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-29-jul-25-spotlight-h2-7-the-future-is-here?source=website" target="_blank">The Future Is Here</a>” and is expected to host over 148,000 professionals from 98 countries. Organizers describe it as the most ambitious edition yet, aiming to drive multi-billion-dollar aerospace deals and spotlight next-generation technologies.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
