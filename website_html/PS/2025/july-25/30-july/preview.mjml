@@ -1,0 +1,224 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇰🇾 Cayman Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇩 Andorra next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Harvard complies with Trump
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              The UK might recognize Palestine
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              OpenAI launches Study Mode
+            </td>
+          </tr>
+        </mj-table>
+
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Russian quake triggers warnings
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/high-water-vehicles-standby-rescue.jpg"
+          alt="Black Hawk helicopters have been activated, and high-water vehicles are ready to go in case authorities need to rescue people"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i
+              >Black Hawk helicopters have been activated, and high-water
+              vehicles are ready to go in case authorities need to rescue
+              people. Credits: Reuters</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            An
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h1-1-earthquake-of-8-8-magnitude?source=website"
+              target="_blank"
+              >earthquake of 8.8 magnitude</a
+            >
+            struck Russia’s Kamchatka Peninsula. This resulted in a 43-foot wave
+            that flooded the port, which injured several people. Multiple
+            aftershocks of lesser magnitude were felt across the region.
+            Authorities in Petropavlovsk declared a state of emergency and
+            issued a high alert on all services. The quake triggered tsunami
+            warnings in Japan, parts of the US, and the Philippines.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            A tsunami of 4ft above the tide level was detected at Kuji port in
+            Japan, and white waves washed up the shore in Tokyo. Their
+            authorities reported no injuries or damage, and their nuclear plants
+            were undisturbed. Meanwhile, the Philippines and Mexico issued
+            tsunami warnings as the impact could last for more than a day.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            Alaska and Hawaii observed unusual tide levels (between 1ft and
+            3ft). The Oregon Department of Emergency Management said the tsunami
+            was not significant, yet dangerous currents and strong waves may
+            pose risks. The US Tsunami Warning System expects waves of 3 to 10
+            feet in many Pacific nations and warns of aftershocks and rising sea
+            levels in the coming hours.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

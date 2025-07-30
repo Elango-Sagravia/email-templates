@@ -1,0 +1,471 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+   
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px 6px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+       
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <mj-text padding="0px 12px 0px 12px " font-family="Roboto+Serif" color="#000000">
+          <p style="
+                font-size: 16px;    
+                line-height: 1.5; 
+                margin-top:2px;
+              ">Presidential Summary is as big as 🇰🇾 Cayman Islands. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇦🇩 Andorra next.</p>
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 0px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;"> 
+            Harvard complies with Trump</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            The UK might recognize Palestine</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            OpenAI launches Study Mode</td>
+          </tr>
+        </mj-table>
+       
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;  
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060; 
+            
+              font-size: 26px;
+              line-height: 1.2; 
+              font-weight: 400;
+               
+            ">Spotlight</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px; 
+              line-height: 1.2;  
+              font-weight: 400;
+              margin-top: 2px !important; 
+            ">Russian quake triggers warnings</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/high-water-vehicles-standby-rescue.jpg" alt="Black Hawk helicopters have been activated, and high-water vehicles are ready to go in case authorities need to rescue people" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Black Hawk helicopters have been activated, and high-water vehicles are ready to go in case authorities need to rescue people. Credits: Reuters</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+          An <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h1-1-earthquake-of-8-8-magnitude?source=website" target="_blank">earthquake of 8.8 magnitude</a> struck Russia’s Kamchatka Peninsula. This resulted in a 43-foot wave that flooded the port, which injured several people. Multiple aftershocks of lesser magnitude were felt across the region. Authorities in Petropavlovsk declared a state of emergency and issued a high alert on all services. The quake triggered tsunami warnings in Japan, parts of the US, and the Philippines. </p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+          A tsunami of 4ft above the tide level was detected at Kuji port in Japan, and white waves washed up the shore in Tokyo. Their authorities reported no injuries or damage, and their nuclear plants were undisturbed. Meanwhile, the Philippines and Mexico issued tsunami warnings as the impact could last for more than a day.</p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+          Alaska and Hawaii observed unusual tide levels (between 1ft and 3ft). The Oregon Department of Emergency Management said the tsunami was not significant, yet dangerous currents and strong waves may pose risks. The US Tsunami Warning System expects waves of 3 to 10 feet in many Pacific nations and warns of aftershocks and rising sea levels in the coming hours.</p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+         Monitor the live updates <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h1-2-here?source=website" target="_blank">here</a>. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- primary ad -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-30-july-2025-p-ad-W3-2?source=website" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Brad's Deals</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Score the Best Hoka Shoe Deals This Summer</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/30-july-2025-p-ad-W3-2.jpg" alt="campaign-W3-2" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <!-- <p style="font-size: 16px; line-height: 24px"> 
+          Train harder, push on through,<br />
+          Taurine fuels the drive in you.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Hydrate, balance, stay on track,<br /> 
+          Digest with ease, no looking back.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Mind and body, strong and bright,<br /> 
+         Immune support, feel just right!</p> -->
+         <p style="font-size: 16px; line-height: 24px"> 
+         Gearing up for summer adventures? Treat your feet to Hoka’s unmatched comfort. Whether you're running, walking, or relaxing, Hoka shoes offer exceptional cushioning and support to keep you cool and comfortable all season long. Thanks to Brad’s Deals, we’ve rounded up the best spots to snag these high-performance shoes at amazing prices.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Shop Hoka's Best Summer Deals Today!</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section>
+    <!-- primary ad -->
+    <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" />
+        <!-- conatent 2 -->
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="             
+                  font-size: 24px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+                  Maxwell demands a pardon</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/markus-maxwell-interview-guidelines.jpg" alt="Markus wrote that any questions to Maxwell would have to be given to her in advance to ensure accuracy and fairness" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>Markus wrote that any questions to Maxwell would have to be given to her in advance to ensure accuracy and fairness. Credits: Laura Cavanaugh/Getty Images</i></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> 
+          Ghislaine Maxwell is being pushed to testify against Jeffrey Epstein before the GOP-led House Oversight Committee. But her attorney reported that she will provide the information if she is promised <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h2-3-immunity-or-a-presidential-pardon?source=website" target="_blank">immunity or a presidential pardon</a>. Currently, Maxwell is serving a 20-year prison sentence for helping Epstein recruit, groom, and abuse underage girls.</p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+          Meanwhile, Trump told reporters that he cut ties with Epstein after the financier stole employees from his business. The female workers include Virginia Giuffre, whom Maxwell recruited into Epstein’s trafficking activities, who died by suicide last year. Earlier, Trump had mentioned he cut ties with Epstein in the 2000s because he was being a “creep.”</p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Parallelly, the initially released footage of Epstein’s cell <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h2-4-jumped-forward-one-minute?source=website" target="_blank">jumped forward one minute</a> before midnight, prompting questions about the missing minute. Attorney General blamed the missing minute on nightly video resets from the outdated 1999-era equipment. However, experts dispute this as such resets are highly unusual and not standard in most surveillance systems. </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <!-- conatent 3 -->
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+            font-size: 24px;
+            line-height: 1.5;
+            font-weight: 400;
+            margin-top: 2px !important;">
+            Harvard complies with Trump</h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5"><strong>
+          Summary: The Trump administration subpoenaed Harvard for employment records and may have to pay a $500M settlement.</strong></p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Harvard University agreed to comply with the Trump administration’s demand to hand over I-9 (Employment Eligibility Verification), but restricted it to student-only roles, citing privacy concerns. The federal inquiry applies to all current employees and any individuals who worked for the university in the past year. Federal regulations allow the government to review a US employer’s paperwork. </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         Harvard is in talks to pay up to <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h3-5-500m-to-resolve-the-dispute?source=website" target="_blank">$500M to resolve the dispute</a> with the Trump administration over its DEI programs and responses to pro-Palestinian protests. This is more than twice Columbia University’s recent $210M settlement paid for a similar case. Trump personally demanded that Harvard pay more than Columbia. A key point of contention is Trump’s push for an external monitor, which Harvard opposes as it compromises institutional autonomy. </p>
+         <p style="font-size: 16px; line-height: 1.5">
+         Meanwhile, the Trump administration has launched an <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-spotlight-h3-6-investigation-into-duke-university?source=website" target="_blank">investigation into Duke University</a> and the Duke Law Journal for alleged racial preferences in selecting law journal members. In an independent investigation, the Duke School of Medicine and Duke Health are under scrutiny for racial discrimination in hiring, admissions, and scholarship decisions, which resulted in $108M federal funding freeze. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- long stroy short -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <!-- long stroy short content sections -->
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+            
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+           
+              
+            "> Long story short </h2>
+        </mj-text>
+        <!-- Global Affairs -->
+        <mj-text padding="14px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:1px;"> Global Affairs </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>UK PM Keir Starmer said Britain will recognize the Palestinian state unless Israel meets certain conditions</strong>, including a ceasefire and reopening aid entry to Gaza. Meanwhile, Starmer pressed that Hamas should release all hostages and should not be involved in the Gaza government in any capacity. The UK will assess the situation in September to take further measures (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h1-7-diplomatic-ultimatum?source=website" target="_blank">diplomatic ultimatum</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Russian airstrikes across Ukraine killed at least 22 people, which targeted a prison and a hospital</strong>. Ukraine retaliated by deploying long-range drones to hit oil depots and weapons plants. This exchange follows Trump’s threat to Russia of sanctions and tariffs if Putin doesn’t cease hostilities against Ukraine by August 8 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h1-8-sanction-countdown?source=website" target="_blank">sanction countdown<a/>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <!-- secondary ad -->
+          <!-- <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+              <mj-raw>
+                <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="display: block; text-decoration: none; cursor: pointer;">
+              </mj-raw>
+              <div style="
+                background-color: #F6F1F8;
+                border-radius: 8px;
+                padding: 10px 12px;
+                color: #000;
+              ">
+                <p style="font-size: 12px; line-height: 1.2; padding-top: 4px; padding-left: 4px; text-decoration: none;">
+                  <i>In partnership with Dubai Summary</i>
+                </p>
+                <div style="padding: 2px 12px 0px 12px; font-family: TNYAdobeCaslonPro, 'Times New Roman', serif; color: white;">
+                  <h2 style="
+              padding-bottom: 8px;
+              padding-left: 5px;
+              color: #4D3060; 
+              text-align: left;
+              letter-spacing: 1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            ">The pulse of Dubai</h2>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <ul style="font-size: 16px; line-height: 1.8; padding-left: 22px; text-decoration: none;" class="sec-ad-list">
+                    <li><strong>The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+                    <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+                    <li><strong>Where is Nunavut?</strong></li>
+                  </ul>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Dubai is always on the move. Can you keep up?</strong> From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+                  </p>
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+                  </p>
+                </div>
+                <div style="padding: 10px 12px 0px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;"> Stay informed, <span style="text-decoration: none; border-bottom: 2px solid #4D3060; color: black;">Join Dubai Summary</span>
+                  </p>
+                </div>
+              </div>
+              <mj-raw>
+                </a>
+              </mj-raw>
+          </mj-text> -->
+        <!--/ secondary ad  -->
+
+        <!-- B & F -->
+         <mj-text padding="0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:15px;">Business & Markets</h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Union Pacific will acquire Norfolk Southern in an $85B agreement to create the first US coast-to-coast freight rail network</strong>, pending regulatory approval. However, major railroad unions have opposed consolidation as it disrupts rail services and threatens jobs. After the announcement, Union Pacific and Norfolk Southern saw a dip in their share values (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h2-9-train-titan?source=website" target="_blank">train titan</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Tesla signed a $4.3B agreement with South Korea's LG Energy Solution to trade lithium-iron phosphate batteries for energy storage systems</strong>. This reduces Tesla’s reliance on Chinese imports amid rising tariffs. The batteries will be made at LGES’s Michigan plant, with the contract running from August 2027 to July 2030 and options to extend and expand supply depending on demand (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h2-10-cell-switch?source=website" target="_blank">cell switch</a>).</p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Nissan will shut down its Civac plant in Mexico by March 2026 in a global restructuring effort</strong> to cut expenses and improve efficiency. Production from the Civac plant (Nissan’s first plant outside Japan) will be shifted to the company’s Aguascalientes facility. The plan includes reducing global output from 3.5 to 2.5Mn vehicles and reducing the number of manufacturing sites from 17 to 10 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h2-11-auto-reset?source=website" target="_blank">auto reset</a>).</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <!-- S & T -->
+          <mj-text padding="10px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400; margin-top:5px;">Science & Tech</h3>
+        </mj-text>
+        <mj-image border-radius="10px" padding="0px 12px 10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/calcium-heated-plastic-formation.jpg" alt="When the calcium particles are added and it is heated and cured in an oven, it forms a plastic-like material" href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>  When the calcium particles are added and heated, and cured in an oven, they turn into a plastic-like material. Credits: Shutterstock</i></p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    "><strong>Researchers have identified a natural substance found in seashells that could create an alternative to conventional plastic</strong>. By incorporating calcium carbonate into poly (1,8-octanediol-co-citrate) (POC), a biodegradable polymer, the team engineered a material that can behave like plastic that doesn’t harm the marine environment (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h3-12-plastic-wonder?source=website" target="_blank">plastic wonder</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+           <strong>OpenAI launched Study Mode in ChatGPT to help students develop critical thinking skills by guiding them through questions</strong> rather than just providing answers. The optional feature uses GPT-4o and prompt tuning to promote learning. With the introduction of Study Mode, OpenAI aims to enhance its functionality as a learning tool beyond its current role as a web browser (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h3-13-study-aid?source=website" target="_blank">study aid</a>).
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <!-- S & C -->
+          <mj-text padding="10px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Sports & Culture </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+          <strong>Katie Ledecky bagged the 1500m freestyle at the World Swimming Championship</strong>, extending her 15-year streak and earning her sixth title in the event. With this victory, the American swimmer broke career medal ties with Michael Phelps and Ryan Lochte. The last time she lost a 1500m event was at the 2010 Potomac Valley Championships (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h4-14-ledecky-legacy?source=website" target="_blank">Ledecky legacy</a>). 
+          </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+                    ">
+          <strong>Director Matt Shakman didn’t reference <i>Thunderbolts*</i> post-credits scene in <i>Fantastic Four: First Steps</i></strong> because that scene was created after he finished his script. His film is set in Earth-828, which is a different timeline from <i>Thunderbolts*</i> <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h4-15-earth-616?source=website" target="_blank">Earth-616</a> (primary continuity). However, the post-credit scene shows a crossover of the timelines as we see Doctor Doom interacting with Reed Richards’ son (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h4-16-timeline-detour?source=website" target="_blank">timeline detour</a>).
+          </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <!-- whatnot -->
+                <mj-text padding="10px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h3 style="font-size: 24px; line-height: 1.2; font-weight: 400;margin-top:5px;"> Whatnot </h3>
+        </mj-text>
+        <mj-text padding="0px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;  
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">YouTube will be included in Australia's world-first social media ban for children under 16 (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h5-17-teen-watch?source=website" target="_blank">teen watch</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Truck driver spent 21 years building a NYC 3D model with Balsa wood and glue (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h5-18-tiny-empire?source=website" target="_blank">tiny empire</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">Study reveals that lifestyle changes may slow down early-stage Alzheimer’s (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h5-19-fade-delay?source=website" target="_blank">fade delay</a>). </p>
+          <p style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4D3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            ">A baby in China was injured after the mom followed an online tip (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-30-jul-25-lss-h5-20-bad-advice?source=website" target="_blank">bad advice</a>). </p>
+        </mj-text>
+        <!-- banner -->
+         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #4D3060;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">On this day in 1956, “In God we trust” was legally adopted as the national motto of the United States.</div>
+        </mj-text>
+        <!-- footer -->
+         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> 
+        <mj-spacer height="10px" />
+        <mj-text padding="2px 12px 10px 12px" font-family="Arial, Helvetica, sans-serif"> 
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2; 
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>.</p>
+         
+          <!-- <p style="
+              color:#000;
+              font-size:10px; 
+              line-height: 1.7;
+            ">This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>   
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif"> 
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085; 
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
