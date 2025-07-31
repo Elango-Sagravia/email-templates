@@ -52,14 +52,15 @@
           </mj-text>
           <mj-image border-radius="10px" padding="10px 14px " width="600px" src="https://www.pouringpotions.com/email/images/litmus-test.jpg" alt="Litmus test" href="https://www.pouringpotions.com" />
           <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
+        <mj-spacer height="20px" />
           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <h2 style="font-size: 16px; line-height: 1.5">
+          <h2 style="font-size: 18px; line-height: 1.5">
          <strong>Fun Fact :</strong>
           </h2>
           <p style="font-size: 16px; line-height: 1.5">
           <strong>Can an eye color reveal your level of discomfort?</strong></p>
           <p style="font-size: 16px; line-height: 1.5">
-          <strong><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: black;"  href="https://www.pouringpotions.com/archives/is-eye-color-a-health-indicator" alt="_blank">Read answer…</a></strong></p>
+          <strong><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: black;"  href="https://www.pouringpotions.com/archives/is-eye-color-a-health-indicator" alt="_blank">Read answer</a></strong></p>
           </mj-text>
           <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
       </mj-column>
@@ -217,7 +218,7 @@
               font-size:12px;
               color: #667085; 
               line-height: 1.5;
-            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="mailto:Support@pouringpotions.com" target="_blank">support@pouringpotions.com</a></p>
+            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="mailto:support@pouringpotions.com" target="_blank">support@pouringpotions.com</a></p>
           <p style="
               font-size:12px;
               color: #667085;
@@ -229,7 +230,7 @@
               color: #667085;
               line-height: 1.5;
               margin-bottom:14px;
-            "><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="https://www.pouringpotions.com/" target="_blank">Unsubscribe</a> from this email.</p>
+            "><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="https://www.pouringpotions.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.</p>
         </mj-text>
        
         <mj-spacer height="12px"></mj-spacer>
