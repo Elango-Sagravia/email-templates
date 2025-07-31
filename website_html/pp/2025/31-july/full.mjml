@@ -5,7 +5,6 @@
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
   <mj-body background-color="#f0f1f3"> 
-  
     <mj-spacer height="15px"></mj-spacer>   
     <!-- Header -->
       <mj-section background-color="#ffffff">
@@ -32,7 +31,7 @@
           <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
         </mj-column>
       </mj-section>
-    <!-- /Header --> 
+    <!-- /Header -->
 
     <mj-spacer height="10px" /> 
     <mj-section background-color="#ffffff">
@@ -47,18 +46,19 @@
           </mj-text>
           <mj-image border-radius="10px" padding="10px 14px " width="600px" src="https://www.pouringpotions.com/email/images/litmus-test.jpg" alt="Litmus test" href="https://www.pouringpotions.com" />
           <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
+        <mj-spacer height="20px" />
           <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
+          <h2 style="font-size: 18px; line-height: 1.5">
          <strong>Fun Fact :</strong>
-          </p>
+          </h2>
           <p style="font-size: 16px; line-height: 1.5">
           <strong>Can an eye color reveal your level of discomfort?</strong></p>
           <p style="font-size: 16px; line-height: 1.5">
-         Yes! Studies say light-eyed folks may tolerate pain better, while dark-eyed folks feel it intensely.</p>
+          Yes! Studies say light-eyed folks may tolerate pain better, while dark-eyed folks feel it intensely.</p>
           <p style="font-size: 16px; line-height: 1.5">
          But do you know another fact about dark-eyed people? They can handle alcohol better. Interesting, right?</p>
           <p style="font-size: 16px; line-height: 1.5">
-         So if you need an added shot next time, blame your eyes!</p>
+          So if you need an added shot next time, blame your eyes!</p>
           </mj-text>
           <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
       </mj-column>
@@ -216,14 +216,14 @@
               font-size:12px;
               color: #667085; 
               line-height: 1.5;
-            ">Send us your feedback at <a href="mailto:Support@pouringpotions.com" target="_blank">support@pouringpotions.com</a></p>
+            ">Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="mailto:support@pouringpotions.com" target="_blank">support@pouringpotions.com</a></p>
           <p style="
               font-size:12px;
               color: #667085;
               line-height: 1.5;
               margin-bottom:14px;
-            ">Interested in connecting with curious, informed readers? <a href="https://www.pouringpotions.com/contact" target="_blank">Advertise with us</a>.</p>
-           
+            ">Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="https://www.pouringpotions.com/advertise#advertise-form" alt="_blank">Advertise with us</a>.</p>
+            
         </mj-text>
        
         <mj-spacer height="12px"></mj-spacer>

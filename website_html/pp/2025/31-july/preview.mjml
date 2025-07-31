@@ -94,10 +94,11 @@
           href="https://www.pouringpotions.com"
         />
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
+        <mj-spacer height="20px" />
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
+          <h2 style="font-size: 18px; line-height: 1.5">
             <strong>Fun Fact :</strong>
-          </p>
+          </h2>
           <p style="font-size: 16px; line-height: 1.5">
             <strong>Can an eye color reveal your level of discomfort?</strong>
           </p>
@@ -116,8 +117,6 @@
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
       </mj-column>
     </mj-section>
-    <mj-spacer height="10px" />
-
     <mj-spacer height="15px"></mj-spacer>
   </mj-body>
 </mjml>
