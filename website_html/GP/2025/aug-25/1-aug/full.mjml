@@ -1,0 +1,887 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇻🇮 US Virgin Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇬 Antigua and Barbuda
+            next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Saudi Arabia’s war on drugs
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Lithuanian PM resigns
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              What was the Warsaw Uprising?
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- breaking news -->
+    <!--/ breaking news -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px "
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            Brazil under tariff pressure
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/us-sanctions-brazilian-judge-bolsonaro-investigation.jpg"
+          alt="The US administration's ire has been directed at the Brazilian Supreme Court judge in charge of investigating Bolsonaro"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The US administration's ire has been directed at the Brazilian
+              Supreme Court judge in charge of investigating Bolsonaro. Credits:
+              Reuters</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> President Trump imposed a 50% tariff on
+            Brazil to address its policies harming US companies, foreign policy,
+            and the economy. He accused Brazil of demanding content moderation
+            and user data under threat of penalty. He also condemned the
+            prosecution of former Brazilian President Jair Bolsonaro and imposed
+            sanctions on the Brazilian Supreme Court Judge (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-spotlight-h1-1-fact-sheet?source=website"
+              target="_blank"
+              >fact sheet</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> Trump asserts that these tariffs are a
+            retaliation for the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-spotlight-h1-2-prosecution-of-jair-bolsonaro?source=website"
+              target="_blank"
+              >prosecution of Jair Bolsonaro</a
+            >, his ally. Bolsonaro denies the assertions of a 2022 coup attempt
+            but acknowledges attempting to reverse the election results. The US
+            president also condemned the Brazilian Supreme Court judge’s orders
+            to shut down Bolsonaro’s social media account for spreading
+            disinformation.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The reaction:</strong> Brazil has
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-spotlight-h1-3-criticized-the-sanctions?source=website"
+              target="_blank"
+              >criticized the sanctions</a
+            >
+            on the judge and condemned the US for interfering in its justice
+            system. The Brazilian Treasury Secretary said the political motives
+            behind the tariffs undermine national sovereignty and the historical
+            relationship between the two countries.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-30-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #06266D; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #06266D;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/ad/30-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2 style="font-size: 24px; line-height: 1.2; font-weight: 500">
+            Ukraine’s policy reversal
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: Ukraine reversed a bill that offered the government more
+              control over two independent anti-corruption bodies.
+            </strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Ukraine
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-spotlight-h2-4-passed-a-bill?source=website"
+              target="_blank"
+              >passed a bill</a
+            >
+            restoring the independence of two principal anti-corruption bodies.
+            This follows the backlash from abroad and at home over the bill that
+            granted the Prosecutor General control of the independent agencies.
+            The latest bill introduces mandatory polygraph testing for officers
+            to prevent Russian infiltration. World leaders welcomed Ukraine’s
+            effort to restore democratic values.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> Young Ukrainians have protested against
+            the initial bill's passage, claiming it undermines the powers of the
+            independent agencies. They understood that the protection of the
+            agency was crucial for their EU integration. The Western partners
+            who fund the nation also saw the independence of the agency as
+            non-negotiable.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The controversy:</strong> Both bills were passed with
+            unanimous support during the parliamentary vote, raising concerns
+            over the President’s overreach. Many Ukrainians felt that Andriy
+            Yermak, President Zelenskyy's right-hand, influenced the recent
+            turnaround. The latest bill was passed after Zelenskyy rejected a
+            candidate selected to head the Bureau for Economic Security, an
+            agency responsible for investigating economic crimes.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- analysis -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            Saudi Arabia’s war on drugs
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong
+              >Summary: Saudi Arabia is disproportionately executing foreigners
+              on drug trafficking charges.</strong
+            >
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Saudi Arabia had 217 executions in 2025,
+            out of which 144 were related to drug trafficking, especially
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-analysis-h1-5-captagon?source=website"
+              target="_blank"
+              >captagon</a
+            >
+            (brand name of the drug fenetylline). The Saudi Crown Prince wants
+            to crack down under his “war on drugs” motive. He has increased the
+            border checkpoints on highways and at border crossings, and opted to
+            double down on arrests and capital punishment. The Saudi public
+            security director reported positive results from its fight against
+            drugs.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The issue:</strong> The people executed for ‌drug-related
+            offences were mainly foreigners from Egypt, Syria, and Pakistan.
+            Human rights groups argue these crimes should not carry the death
+            penalty and
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-analysis-h1-6-undermine-the-reformist-image?source=website"
+              target="_blank"
+              >undermine the reformist image</a
+            >
+            that the kingdom seeks to project. Experts believe that capital
+            punishment is not the resolution to the drug issue, and it can lead
+            to further global complications, as seen with the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-analysis-h1-7-2018-khashoggi-murder?source=website"
+              target="_blank"
+              >2018 Khashoggi murder</a
+            >.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The big picture:</strong> After the fall of Assad’s regime,
+            the interim government has effectively neutralized the production of
+            captagon. Meanwhile, the actors who profited from drug trafficking,
+            like Lebanon, have weakened due to the war in Israel. However,
+            analysts suggest that these situations can prevent the trafficking,
+            but they wouldn’t end the drug completely.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!--       
+    <mj-section background-color="#ffffff"  css-class="mj_fsection" padding-bottom="34px">
+          <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Dubai Summary</i>
+              </p>
+            </mj-text>
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:0px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">The pulse of Dubai</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;padding-top:8px;">
+             <strong>Dubai is always on the move. Can you keep up?</strong> From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+              </p>
+              </mj-text> 
+              <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+                  <li>DOGE deactivated over 600,000 federal credit cards, raising concerns about service disruptions.</li>
+                  <li>UN Commission says Israeli attacks on occupied Palestinian territory amount to crimes against humanity of extermination.</li>
+                  <li>The Florida Panthers beat the Edmonton Oilers 6-1 in Game 3 and lead the series 2-1.</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" >
+                Join Dubai Summary</a></p>
+                </mj-text>
+            </mj-column>
+            <mj-raw>
+        </a>
+      </mj-raw>
+  </mj-section> -->
+    <!-- /secondary ad -->
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Worldwide -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Worldwide
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/global-connection-flags-map-us-nigeria-lithuania-pakistan-myanmar-korea.jpg"
+          alt="Map showing international connections with flags of the United States, Nigeria, Lithuania, Pakistan, Myanmar, and South Korea marked across a global arc"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-top: 0px;
+              padding-bottom: 6px;
+            "
+          >
+            <strong>🇲🇲 Myanmar- State of emergency ended.</strong> Myanmar’s
+            junta has ended its four-year state of emergency ahead of elections
+            planned for December 2025. The election is widely criticized by
+            international bodies, boycotted by the opposition group, and seen as
+            an attempt to legitimize military rule. A recent law punishes
+            election-related dissent with up to 10 years of imprisonment (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-01-08-2025-burmese-political-tension?source=website"
+              target="_blank"
+              >Burmese political tensions</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇰🇷 South Korea - Population stagnation.</strong> South
+            Korea’s population had no growth in 2024. Reports showed that the
+            total population reached 51.8Mn, an increase of 31,000 from the
+            previous year, or 0.1%. The rise in foreign residents offset the
+            decline in Korean nationals. Nearly one-fifth of the population is
+            over 65 (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-worldwide-9-demographics-shift?source=website"
+              target="_blank"
+              >demographics shift</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong> 🇵🇰 Pakistan - Oil agreement.</strong> President Trump
+            announced an agreement with Pakistan to develop its oil reserves,
+            while Pakistan said it would lower US tariffs on its exports.
+            Pakistan hailed the arrangement as a "win-win," suggesting stronger
+            trade and funding between the two nations. The move follows Trump's
+            imposition of a 25% tariff on India (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-worldwide-10-trump-s-south-asian-shift?source=website"
+              target="_blank"
+              >Trump’s South Asian shift</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇱🇹 Lithuania - PM resigns.</strong> Lithuanian PM Gintautas
+            Paluckas resigned amid a crime investigation and left his position
+            as the head of the Social Democratic party. The probe involves the
+            firms linked to him that used EU funds to trade battery systems from
+            Garnis, a company partly owned by Paluckas. His departure follows
+            coalition pressure, as they need to find a replacement within 60
+            days (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-worldwide-11-pressure-on-parliament?source=website"
+              target="_blank"
+              >pressure on parliament</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇳🇬 Nigeria - Impact of aid cuts.</strong> Drastic aid cuts
+            in north-eastern Nigeria have worsened hunger and could drive people
+            towards a deadly militant group. The World Food Program has run out
+            of goods, leaving 1.4Mn displaced people vulnerable. Rising child
+            malnutrition, collapsing clinics, and deepening insecurity threaten
+            the region’s stability (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-worldwide-12-vulnerability-breeds-instability?source=website"
+              target="_blank"
+              >vulnerability breeds instability</a
+            >).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Foundations-->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Foundations
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            What was the Warsaw Uprising?
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/warsaw-uprising-home-army-surrenders-ww2.jpg"
+          alt="Without significant Allied support, the Home Army split into small, disconnected units and was forced to surrender"
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i
+              >Without significant Allied support, the Home Army split into
+              small, disconnected units and was forced to surrender. Credits:
+              Institute of National Remembrance</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The history:</strong> The
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-foundations-h1-13-warsaw-uprising?source=website"
+              target="_blank"
+              >Warsaw Uprising</a
+            >
+            was a military operation that started on August 1st, 1944, when the
+            Polish Home Army launched the effort to liberate Warsaw from the
+            German army. This was part of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-1-aug-25-foundations-h1-14-operation-tempest?source=website"
+              target="_blank"
+              >Operation Tempest</a
+            >, aimed at asserting Polish sovereignty before the Soviet army’s
+            arrival. The Home Army wanted to liberate the city in a few days.
+            However, the fighting lasted over two months.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The resistance:</strong> The uprising was led by the Polish
+            government-in-exile in London. About 45,000 Polish Home Army
+            fighters encountered 25,000 German troops, with the Polish Army
+            capturing most of the city. However, the Germans retaliated with a
+            brutal assault, killing 40,000 Polish civilians, and the Nazis took
+            the region under siege.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Meanwhile, the Soviet Red Army stayed on the east of the Vistula
+            River and did not come to their assistance. Moreover, they refused
+            to allow the Western Allies to use Soviet air bases to airlift goods
+            to the beleaguered Poles, which compromised the Polish Home Army’s
+            defense.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The outcome:</strong> The uprising continued for 63 days
+            before ending in surrender on October 2nd. Over 180,000 people,
+            mostly civilians, were killed, and Warsaw was systematically
+            destroyed. While the uprising ultimately failed, it remains a
+            powerful symbol of Polish resistance and national pride. Each year
+            on this day, this uprising is honored in Warsaw and other major
+            Polish cities with ceremonies and a moment of silence at 5 pm local
+            time.
+          </p>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="3px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:readers@geopoliticalsummary.com"
+              target="_blank"
+              >readers@geopoliticalsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://www.geopoliticalsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7"> 
+          This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/profile.php?id=61562847449514"
+            src="https://www.geopoliticalsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/readgeopolitics"
+            src="https://www.geopoliticalsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@geopoliticalsummary"
+            src="https://www.geopoliticalsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 4px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
