@@ -1,0 +1,390 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇬 Antigua and Barbuda.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇹🇴 Tonga next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">US vaccine issue</td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              60-day deadline for US drugs
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Google is setting age limits
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Another set of tariffs
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/us-import-tariffs-august-2025.png"
+          alt="Most recently announced or threatened tariffs on imports from the US’s top trading partners, on Aug 1, 2025"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Goods from all other countries not listed would be subject to a
+              10% US import tax. Credits: Reuters</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            President Trump signed an
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h1-1-executive-decree?source=website"
+              target="_blank"
+              >executive decree</a
+            >
+            modifying the reciprocal tariffs on imports from 69 countries,
+            ranging from 10% to 41%. Most of these tariffs will take effect on
+            August 7, with China and Mexico temporarily exempt as further talks
+            continue.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            In a separate bill, he raised tariffs on certain
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h1-2-canadian-imports-to-35?source=website"
+              target="_blank"
+              >Canadian imports to 35%</a
+            >, up from 25%, citing that Canada has not done enough to prevent
+            illegal fentanyl from getting into the US. Trump also threatened a
+            40% tariff on transshipped goods (products routed to other countries
+            to bypass tariffs). The government plans to set the rules for how it
+            will track and tax these shipments.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The tariffs are being imposed under the banner of reciprocity.
+            Countries with a trade surplus with the US (exporting more to the US
+            than importing) face higher tariffs, while countries with a trade
+            deficit face lower tariffs. To justify the move, Trump is citing the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h1-3-1977-ieepa-law?source=website"
+              target="_blank"
+              >1977 IEEPA law</a
+            >, which gives presidents broad authority during national
+            emergencies. Critics, however, argue that trade imbalances don’t
+            qualify.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Vaccine exemptions rise
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/herd-immunity-explained.jpg"
+          alt="Herd immunity, sometimes called community immunity, is like a shield that protects everyone in a group, even those who can’t protect themselves"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i
+              >Herd immunity, sometimes called community immunity, is like a
+              shield that protects everyone in a group, even those who can’t
+              protect themselves. Credits: Rustam Shaimov/iStock</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Childhood vaccine exemptions in the US have reached a record high.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h2-4-cdc-data?source=website"
+              target="_blank"
+              >CDC data</a
+            >
+            shows that 3.6% of kindergartners (about 138,000 children) were
+            exempted from at least one required vaccine in the 2024-25 school
+            year (an increase from 3.3% the year before). Most of the exemptions
+            were nonmedical, meaning the parents opted out for religious or
+            other personal reasons.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Vaccination coverage has dropped below the threshold considered
+            necessary for herd immunity. Just 92.5% of kindergartners received
+            the MMR (measles, mumps, rubella) and polio vaccines, and 92.1% got
+            the vaccine for DTaP (diphtheria, tetanus, and acellular pertussis).
+            Read more about herd immunity
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h2-5-here?source=website"
+              target="_blank"
+              >here</a
+            >.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            Meanwhile, Health Secretary Robert F.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-1-aug-25-spotlight-h2-6-kennedy-jr-announced?source=website"
+              target="_blank"
+              >Kennedy Jr. announced</a
+            >
+            that outside doctors and public health experts will no longer serve
+            on CDC advisory groups, which guide US vaccine policy. Several
+            health organizations are suing, accusing him of sidelining science
+            in vaccine policy decisions.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
