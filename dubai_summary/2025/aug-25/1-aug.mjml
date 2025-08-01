@@ -1,0 +1,922 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden">
+        Plus: explore Dubai careers
+      </div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
+      <div style="display: none; max-height: 0px; overflow: hidden">
+        &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;
+        &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;
+        &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;
+        &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199;
+        &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199;
+        &shy;&#847; &zwnj; &nbsp; &#8199; &shy;
+      </div>
+    </mj-raw>
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-image
+          width="1px"
+          src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-august-1.jpg"
+          alt="Dubai weather Aug 1"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+             Dh500k for top EdTech startups
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             Dubai’s indoor rainforest
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Everything with butter
+            </td>
+          </tr>
+        </mj-table>
+        <mj-text padding="10px 12px 18px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px">
+            Was this email forwarded to you?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/"
+              target="_blank"
+              >Join Dubai Summary</a
+            >.
+          </p>
+        </mj-text>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+          Al Nahdi license revoked
+
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/uae-central-bank-decision-article-137-law-14-2018.jpg"
+          alt="The decision was made under Article 137 of Federal Law No. 14 of 2018 on the UAE Central Bank and financial institution regulation"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+             The decision was made under Article 137 of Federal Law No. 14 of 2018 on the UAE Central Bank and monetary institution regulation. Credits: Nicole Hill/The National
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+           The Central Bank of the UAE (CBUAE) has officially <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-spotlight-h1-2-removed-al-nahdi-exchange" target="_blank">removed Al Nahdi Exchange</a> from its register of licensed exchange houses. The decision follows an investigation that found major breaches of anti-money laundering and counter-terrorism funding rules, as well as violations of international sanctions regulations.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           CBUAE said the revocation was necessary to preserve trust in the funding system. This is the latest in a series of enforcement actions aimed at strengthening monetary compliance in the UAE. Earlier this year, another exchange house was <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-spotlight-h1-3-fined-dh2mn" target="_blank">fined Dh2Mn</a> for similar violations. Further regulatory steps against Al Nahdi have not been confirmed. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          This move comes as the UAE continues efforts to improve funding oversight. The European Commission recently removed the UAE from its list of “<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-spotlight-h1-4-high-risk-third-countries" target="_blank">high-risk third countries</a>,” a sign of progress in tightening controls. 
+          </p>
+        </mj-text>
+       </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- primary ad -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <!-- <mj-raw>
+        <a href="" target="_blank" style="color:black">
+      </mj-raw> -->
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with BSH Home Appliances</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #102341; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #102341;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Legacy and perfection</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.dubaisummary.com/email/ad/1-aug-2025-p-ad-B3.jpg" alt="campaign-B3" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          For over 300 years, <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-Gaggenau" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Gaggenau</a> has embodied German precision and culinary excellence. Villa, townhouse, or penthouse, our cooktops become the heart of refined hospitality where tradition meets modern luxury. Crafted for those who value <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-legacy-and-perfection" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">legacy and perfection</a>, Gaggenau transforms every meal into a celebration of taste, family, and heritage. True distinction, now in your kitchen.</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-call-the-business-bay-showroom-at-800-42-44-36-28" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Call the Business Bay showroom at 800 42 44 36 28</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="6px" />
+      </mj-column>
+      <!-- <mj-raw>
+        </a>
+      </mj-raw> -->
+    </mj-section>
+    <!-- primary ad -->
+    <mj-spacer height="10px" /> 
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+           
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 6px !important;
+            "
+          >
+           Sharjah EdTech challenge
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/arabic-language-identity-for-children.jpg"
+          alt="Encouraging young children to connect with the Arabic language as a key part of their identity, not just a tool for communication"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+            Encouraging young children to connect with the Arabic language as a key part of their identity, not just a tool for communication. Credits: Gulf News</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Sharjah has launched the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-spotlight-h2-5-7th-access-sharjah-challenge" target="_blank">7th Access Sharjah Challenge</a>, offering Dh250,000 each to two startups whose EdTech solutions address future-ready skills or Arabic language development in early childhood. The winners will also test their tools at four selected educational institutions across the emirate.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            From over 2,000 expected applications, 10 startups will be shortlisted through a two-stage process: initial criteria-based selection followed by interviews assessing local fit and pilot readiness. Winners will be announced at the Sharjah International Summit on Improvement in Education, set for February 2026.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          The initiative aligns with the UAE’s push to modernize education, with the EdTech sector projected to grow 6% annually through 2030, and is led by the Sharjah Entrepreneurship Center (Sheraa).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" /> 
+    <!-- Content sections -->
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            What’s happening?
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           Voyage Club (<i>family/fun</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+          <strong>Looking for a beach day at the mall?</strong> <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h1-6-voyage-club" target="_blank">Voyage Club</a> has an indoor beach-themed activity taking place at City Centre Mirdif as part of Dubai Summer Surprises. The space features a variety of activities, including jewelry customization workshops, interactive games, and art displays by local UAE artists.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           🗓Wednesday, 23 July – Sunday, 10 August | 🕗 Open daily
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h1-7-city-centre-mirdif" target="_blank">City Centre Mirdif</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            🎟 Complimentary with a transaction of AED200 or more
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Best of Anime by Dreamlight (<i>entertainment</i>)
+
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Best of Anime by Dreamlight is a live concert featuring iconic anime soundtracks, performed on piano and violin at Zabeel Theatre. The show includes music from titles such as Naruto, One Piece, Death Note, Spirited Away, and Attack on Titan. Cosplay is welcome.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           🗓Friday, 15 August | 🕘 8:00 pm 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h2-8-jumeirah-zabeel-saray" target="_blank">Jumeirah Zabeel Saray</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h2-9-book-tickets" target="_blank">Book tickets</a> (AED125–AED225)
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+           South Border feat. Kris Lawrence (<i>music</i>)
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           Jay Durias and South Border join Kris Lawrence for a live show at Sheikh Rashid Auditorium, featuring classic Filipino ballads and R&B hits. The concert will include songs like Kahit Kailan and Moments of Love. SVIP ticket holders will receive front-row seats and a group photo session with the artists.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          🗓Saturday, 16 August | 🕘 7:30 pm
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h3-10-sheikh-rashid-auditorium" target="_blank">Sheikh Rashid Auditorium</a>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-wh-h3-11-book-tickets" target="_blank">Book tickets</a> (AED189–AED499)
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Fresh in town
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Place to visit
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/explore-exotic-flora-fauna-forest.jpg"
+          alt="Explore a whole new world of exotic flora and fauna in this fully immersive vertical tropical forest"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+            Explore a whole world of exotic flora and fauna in this fully immersive vertical tropical forest. Credits: Klook
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-fit-h1-12-the-green-planet" target="_blank">The Green Planet</a></strong> → Dubai’s indoor tropical rainforest is home to over 3,000 species of plants, animals, and birds, all housed within a multi-level glass biodome. Visitors can explore four rainforest zones, from the Canopy to the Flooded Rainforest, and see sloths, reptiles, and birds in an unrestricted roaming environment.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           <strong>Don’t miss:</strong> A short, 5-minute thunderstorm show happens several times a day, complete with sound, mist, and special effects.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Where to eat
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-fit-h2-13-swiss-butter" target="_blank">Swiss Butter</a></strong> → A casual steakhouse built around three mains (beef filet or ribeye, chicken breast, and salmon filet), all served with their signature Swiss Butter sauce. Each dish comes with a mesclun salad, a fresh baguette, chili flakes, and your choice of fries or baked potatoes. The short menu extends to two desserts: a molten chocolate fondant and a pain perdu. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           <strong>Pro tip:</strong> A full bar is available, and the house wine is a standout pick.
+          </p>
+        </mj-text>
+        <!-- ------ -->
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Explore careers
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Junior - Executive Search Consultant - Victor Meridian Management Consultancies
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 2,000–3,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Victor Meridian is seeking a consultant to manage recruitment for senior roles, support client relations, and help build a strong candidate pool. Requires 1 to 2 years of experience and a bachelor's degree.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-1-aug-25-ec-h1-14-register-here"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- ----- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Mid-Level - Public Relations Officer - Speedy Fleet
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 4,000–5,999/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> Speedy Fleet is hiring a PRO to handle UAE government processes, including visas, labor permits, and license renewals. The role requires 5+ years of UAE experience and strong knowledge of systems like MOHRE and GDRFA.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-1-aug-25-ec-h2-15-register-here"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+        <mj-divider
+          border-style="dashed"
+          border-width="1px"
+          border-color="lightgrey"
+          padding="0px 12px 4px 12px"
+        />
+        <!-- --- -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Senior - COO - VSL Cyber Risk Management Services
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Salary:</strong> AED 20,000+/month
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>Summary:</strong> VSL Cyber Risk is seeking a COO with a cybersecurity background to oversee operations and align strategic goals across technical and business functions. Candidates should have 15+ years of experience and expertise in frameworks like ISO 27001 and NIST.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;padding-bottom:4px;">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://link.dubaisummary.com/ds-1-aug-25-ec-h3-16-register-here"
+              target="_blank"
+              >Register here</a
+            >
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            A moment in history
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Dubai’s first skyscraper
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+           When the Dubai World Trade Centre (DWTC) was completed in 1979, it stood as <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-amih-h1-17-dubai-s-very-first-skyscraper" target="_blank">Dubai’s very first skyscraper</a> and marked the city’s first step into vertical architecture. Originally named Sheikh Rashid Tower, it was designed by UK firm <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-1-aug-25-amih-h1-18-john-r-harris-partners" target="_blank">John R. Harris & Partners</a> and commissioned by Sheikh Rashid bin Saeed Al Maktoum. Construction began around 1974, and the tower was officially inaugurated by Queen Elizabeth II in 1979.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         At 39 storeys and approximately 184 metres tall, the building became the tallest in Dubai and the broader Middle East when it opened. It served as a venue for exhibitions and events, laying the foundations for the city’s later growth. Over time, the DWTC complex expanded to include convention halls, hotels, residences, and offices, evolving into a business district.
+          </p>
+        </mj-text>
+        <!-- banner -->
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+            "
+          >
+            Did you know?
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #102341;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">
+          Dubai introduced robot police officers in 2017. They can patrol tourist areas, take reports, and are part of a broader push toward becoming a smart city.</div>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="mailto:readers@dubaisummary.com"
+              target="_blank"
+              >readers@dubaisummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/advertise"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              "
+              href="https://www.dubaisummary.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%"
+              target="_blank"
+              >Unsubscribe</a
+            >
+            from this email.
+          </p>
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/people/Dubai-Summary/61576229295087/"
+            src="https://www.dubaisummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/dubaisummary/"
+            src="https://www.dubaisummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/dubai-summary/about/"
+            src="https://www.dubaisummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.com/@dubaisummary"
+            src="https://www.dubaisummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            S8, Level 2, Building 3, Dubai Design District, Dubai
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2025 Summary Media FZ-LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
