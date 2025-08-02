@@ -1,0 +1,235 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } p {margin-bottom: 10px;} .remove-padding td
+      {padding-left: 10px !important;}</mj-style
+    >
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+    <mj-style>
+      /* Hover effect for buttons */ .button-style:hover { background-color:
+      rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer;
+      border: 2px solid rgba(6,38,109,1) !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇻🇮 US Virgin Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇬 Antigua and Barbuda
+            next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Why is the war in Sudan not ending?
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Meet Morocco
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              50th anniversary of the El Salvador student massacre
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- /header -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            The Crimean Tatar language
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/the-crimean-tatar-language.jpg"
+          alt="The Crimean Tatar flag and Ukrainian flag wave beside each other, with a government building in the background."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The Crimean Tatars are a Turkic ethnic group from the Crimean
+              Peninsula, by the Black Sea. Credits: Center for European Policy
+              Analysis
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> The Crimean Tatar language is spoken by
+            only around 100,000 people in Crimea, and UNESCO classifies it as
+            severely endangered (meaning it is spoken mostly by grandparents and
+            older generations, while parents may understand it but no longer
+            pass it on to their children). The language is central to the
+            identity of Crimean Tatars, the peninsula’s Indigenous population,
+            and links to their Turkic roots (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25--h1-1-full-list-of-endangered-languages?source=website"
+              target="_blank"
+              >full list of endangered languages</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The struggle:</strong> The language has survived mass
+            deportations under Stalin and decades of assimilation. Since Russia
+            annexed Crimea in 2014, Crimean Tatar language education has been
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25--h1-2-severely-restricted?source=website"
+              target="_blank"
+              >severely restricted</a
+            >. The number of schools teaching in Tatar fell from 384 to just
+            119. Families asking for Tatar-language classes are often turned
+            away or encouraged to choose Russian instead.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            <strong>The revival:</strong> Ukraine has expanded its support for
+            the language, especially since 2022, when the war with Russia
+            started. New university programs in Tatar philology have been
+            launched, and a national language commission was created. In 2021,
+            Ukraine officially adopted a Latin-based alphabet for Crimean Tatar,
+            aligning it with other Turkic languages.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

@@ -1,0 +1,736 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      h2,img,p { margin:0; } p {margin-bottom: 10px;} .remove-padding td
+      {padding-left: 10px !important;}</mj-style
+    >
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+    <mj-style>
+      /* Hover effect for buttons */ .button-style:hover { background-color:
+      rgba(6,38,109,1) !important; color: #ffffff !important; cursor: pointer;
+      border: 2px solid rgba(6,38,109,1) !important; }
+    </mj-style>
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Logo Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇻🇮 US Virgin Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇬 Antigua and Barbuda
+            next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Why is the war in Sudan not ending?
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Meet Morocco
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              50th anniversary of the El Salvador student massacre
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- /header -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            The Crimean Tatar language
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/the-crimean-tatar-language.jpg"
+          alt="The Crimean Tatar flag and Ukrainian flag wave beside each other, with a government building in the background."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The Crimean Tatars are a Turkic ethnic group from the Crimean
+              Peninsula, by the Black Sea. Credits: Center for European Policy
+              Analysis
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> The Crimean Tatar language is spoken by
+            only around 100,000 people in Crimea, and UNESCO classifies it as
+            severely endangered (meaning it is spoken mostly by grandparents and
+            older generations, while parents may understand it but no longer
+            pass it on to their children). The language is central to the
+            identity of Crimean Tatars, the peninsula’s Indigenous population,
+            and links to their Turkic roots (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25--h1-1-full-list-of-endangered-languages?source=website"
+              target="_blank"
+              >full list of endangered languages</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The struggle:</strong> The language has survived mass
+            deportations under Stalin and decades of assimilation. Since Russia
+            annexed Crimea in 2014, Crimean Tatar language education has been
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25--h1-2-severely-restricted?source=website"
+              target="_blank"
+              >severely restricted</a
+            >. The number of schools teaching in Tatar fell from 384 to just
+            119. Families asking for Tatar-language classes are often turned
+            away or encouraged to choose Russian instead.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The revival:</strong> Ukraine has expanded its support for
+            the language, especially since 2022, when the war with Russia
+            started. New university programs in Tatar philology have been
+            launched, and a national language commission was created. In 2021,
+            Ukraine officially adopted a Latin-based alphabet for Crimean Tatar,
+            aligning it with other Turkic languages.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Read more about the Crimean Tatars
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25--h1-3-here?source=website"
+              target="_blank"
+              >here</a
+            >.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- <mj-spacer height="10px" /> -->
+    <!-- primary ad -->
+    <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-26-july-2025-p-ad-BH" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #06266d; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #06266d;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/images/ad-bh.png" alt="campaign-A32" />
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+         Uncover the deals that reshaped the game,<br />
+          Big moves and risks that earned their fame.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          From bold achievements to failures laid bare,<br /> 
+          We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Step ahead with insights that sharpen your view,<br /> 
+         Join us for stories that give you a clue.</p>
+        </mj-text>
+        <mj-text padding="0px 12px 6px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266d; color: black;">
+            Join Business History</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- primary ad -->
+    <mj-spacer height="10px" />
+    <!-- the big quesstion -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            The big question
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            Why is the war in Sudan not ending?
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> The war in Sudan between the Sudanese
+            Armed Forces (SAF) and the Rapid Support Forces (RSF), which began
+            in April 2023, shows
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25-tbq-h1-4-no-signs-of-resolution?source=website"
+              target="_blank"
+              >no signs of resolution</a
+            >. Both sides believe they can achieve military victory and
+            therefore refuse to engage in constructive negotiations. The
+            fighting has fractured across regions, with ethnic militias and
+            local power brokers further complicating the conflict landscape.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The background:</strong> After Sudan’s long-time ruler, Omar
+            al-Bashir, was overthrown in 2019, the military and civilians tried
+            to share power. However, in 2021, the army took full control in a
+            coup led by
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25-tbq-h1-5-gen-burhan-and-gen-hemedti?source=website"
+              target="_blank"
+              >Gen Burhan and Gen Hemedti</a
+            >
+            (the same two men now fighting each other). They disagreed on how to
+            merge Hemedti’s RSF forces into the regular army and who would be in
+            charge. Neither wanted to give up power or influence, and in April
+            2023, tensions turned into fighting.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The foreign factor:</strong> External powers are
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25-tbq-h1-6-prolonging-the-conflict?source=website"
+              target="_blank"
+              >prolonging the conflict</a
+            >. The UEA is reportedly arming the RSF, while Egypt and Iran back
+            the SAF. These alliances keep both sides well supplied, and with it
+            prolong the war. Meanwhile, peace efforts, such as those hosted in
+            Jeddah and Geneva, have failed.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            With no pressure to negotiate, and foreign weapons still flowing in,
+            the war that has displaced more than 12M people shows no sign of
+            ending.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Know the topography -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Know the topography
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px;
+            "
+          >
+            Morocco
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/morocco-map.jpg"
+          alt="Map highlighting Morocco in red with its capital, Rabat, labeled."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Morocco is the only African nation with coastlines on both the
+              Mediterranean Sea and the Atlantic Ocean.
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Morocco is located at the intersection of Europe and Africa, with
+            coastlines of both the Mediterranean Sea and the Atlantic Ocean. It
+            has a rich history and a unique blend of Arab, Berber (or Amazigh -
+            descendants of the pre-Arab inhabitants of North Africa), and
+            European influences.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Morocco is a constitutional monarchy, one of only three remaining
+            monarchies in Africa - the other two being Lesotho and Eswatini
+            (formerly Swaziland). Although the country has a parliament, the
+            king still holds substantial power, including control over the
+            military and religious institutions. Read more about Morocco
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-2-aug-25-ktt-h1-7-here?source=website"
+              target="_blank"
+              >here</a
+            >.
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 17px; line-height: 1.5">
+            <strong><i>Fun facts</i></strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 20px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Argan trees are native to Morocco, and the country is
+              world-renowned for argan oil.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              The world’s
+              <a
+                style="
+                  text-decoration: none;
+                  border-bottom: 2px solid #06266d;
+                  color: black;
+                "
+                href="https://link.geopoliticalsummary.com/gs-02-08-2025-oldest-existing-university?source=website"
+                target="_blank"
+                >oldest existing university</a
+              >, Al Quaraouiyine, was founded in 859 AD in the city of Fez, in
+              Morocco.
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Traditional Moroccan cuisine revolves around couscous, tagines,
+              and mint tea.
+            </td>
+          </tr>
+        </mj-table>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- photo of the week -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom: 8px;
+            "
+          >
+            Photo of the week
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/el-salvador-massacre.jpg"
+          alt="A large gorilla-shaped effigy labeled “50 años de impunidad” is set on fire during a street protest, with people watching and holding signs in the background."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Students gather to commemorate the 50th anniversary of the student
+              martyrs from the University of El Salvador (who lost their lives
+              defending university autonomy and the rights of the Salvadoran
+              people) and to protest the state of emergency and the policies of
+              President Nayib Bukele's government. Credits: Anadolu/Getty Images
+            </i>
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:readers@geopoliticalsummary.com"
+              target="_blank"
+              >readers@geopoliticalsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://www.geopoliticalsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7">
+            This is a paid advertisement for Mood. Products may contain THC and
+            are intended for adults 21+. This is not medical advice.
+          </p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/profile.php?id=61562847449514"
+            src="https://www.geopoliticalsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/geopoliticalsum"
+            src="https://www.geopoliticalsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <!-- linkedIn -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <!-- threads -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@geopoliticalsummary"
+            src="https://www.geopoliticalsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

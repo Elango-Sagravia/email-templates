@@ -1,0 +1,347 @@
+<mjml>
+  <mj-head>  
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f9f8f9"> 
+    <mj-spacer height="15px"></mj-spacer> 
+    <!-- Logo Header -->
+    <!-- Header -->
+      <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image padding="10px 12px 6px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+       
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <mj-text padding="0px 12px 0px 12px " font-family="Roboto+Serif" color="#000000">
+           <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇬 Antigua and Barbuda.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇹🇴 Tonga next.
+          </p>
+          <p style="
+                font-size: 16px;  
+                line-height: 1.5;
+              "><strong>In this edition:</strong></p>
+        </mj-text>
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 0px 18px" style=" width:100%;">
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.6;"> 
+            Trump is accusing Beyoncé</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            A zoo that kills baboons</td>
+          </tr>
+          <tr>
+            <td style="font-size:18px; width:20px; vertical-align: top; padding-right:8px;line-height:1.6;">→</td>
+            <td style="font-size:16px;line-height:1.5;line-height:1.6;">
+            Palestine recognition is starting</td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header --> 
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Content sections -->
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+       <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+        padding-bottom:8px;
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            ">Spotlight of the week</h2> 
+        </mj-text> 
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">
+         EU-US trade agreement explained</h2> 
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/eu-us-trade-deal-explained.jpg" alt="Donald Trump sits across from Ursula von der Leyen with US and EU flags behind them, symbolizing the announcement of the EU–US trade agreement amid controversy." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF"> 
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
+            <i>
+             President Donald Trump and President of the European Commission Ursula von der Leyen shake hands as they announce a US-EU trade agreement. Credits: Andrew Harnik/Getty Images
+            </i>
+          </p>
+        </mj-text>
+       
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        The US and EU reached a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-1-provisional-trade-agreement?source=website" target="_blank">provisional trade agreement</a> last Sunday, ending a months-long dispute. Most EU exports to the US will face a 15% tariff, with some sectors being exempt (such as aircraft or select chemicals). However, the agreement is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-2-not-yet-legally-binding?source=website" target="_blank">not yet legally binding</a>. A joint statement is expected soon, and until then, negotiations on product-specific exemptions continue.</p>
+        
+          <p style="font-size: 16px; line-height: 1.5">
+          Steel and aluminium (currently facing 50% US tariffs) remain outside the agreement. The EU hopes to replace them with a quota system, but no timeline has been set. Meanwhile, Brussels pledged to invest $750B in US energy and give $514B in US-based investments over three years. However, officials admit these are just expressions of intent, not enforceable commitments.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+        While the agreement avoids a trade war, critics say Brussels <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-3-conceded-too-much?source=website" target="_blank">conceded too much</a>. The EU originally sought a 10% tariff but settled at 15% without securing equivalent US concessions. French and German officials voiced disappointment, while others called the agreement lopsided and poorly negotiated. The full and official text is still being drafted, and with Trump’s unpredictable approach, further changes are possible.</p>
+          </mj-text> 
+      </mj-column>
+    </mj-section>
+
+     <!-- <mj-spacer height="10px" />  -->
+    
+  <!-- primary ad -->
+<!-- 
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-26-july-2025-p-ad-BH" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Business History</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">BEHIND THE SCENES OF BUSINESSES</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/ad-bh.png" alt="campaign-A32" />
+        <mj-text padding="0px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+         Uncover the deals that reshaped the game,<br />
+          Big moves and risks that earned their fame.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          From bold achievements to failures laid bare,<br /> 
+          We uncover the truths that businesses share.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Step ahead with insights that sharpen your view,<br /> 
+         Join us for stories that give you a clue.</p>
+        </mj-text>
+        <mj-text padding="0px 12px 6px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">
+            Join Business History</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- primary ad -->
+  <!-- primary ad -->
+    <mj-spacer height="10px" />
+
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Recap</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+             Trump vs Beyoncé </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+      Donald Trump has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h1-4-accused-beyonc?source=website" target="_blank">accused Beyoncé</a>, Kamala Harris, and Democratic officials of violating campaign funding laws during an October 2024 rally in Houston. In a recent social media post, Trump claimed Democrats “illegally paid” Beyoncé to endorse Harris and called for prosecutions. </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         However, there is no federal law that bans payments for endorsements. Official records show the Harris campaign paid $165,000 to Beyoncé’s production company for event services. Beyoncé denied any wrongdoing, stating she appeared not as a public figure but “as a mother exercising her freedom.” </p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+              China’s child subsidies</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         China is offering expanded subsidies to encourage families to have <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h2-5-more-children?source=website" target="_blank">more children</a>. The central government plans to provide 3,600 yuan (around $500) for each child under age three, and local governments are also experimenting with additional benefits. In Sichuan province, for example, the marriage break could increase from 5 to 25 days, and maternity absence from 60 to 150 days.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+      The measures aim to address China’s declining birth trend, which has been falling for the third consecutive year. In 2024, 9.54M babies were born, compared to 17.86M in 2016. The decline is linked to high living expenses, long working hours, and the legacy of the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h2-6-one-child-policy?source=website" target="_blank">one-child policy</a>, which lasted from 1979 to 2015.</p>
+       <p style="font-size: 16px; line-height: 1.5">
+      Experts remain doubtful that the incentives will significantly reverse demographic trends.</p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="              
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;">
+             Zoo culls baboons</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+         Tiergarten Nürnberg Zoo in Germany has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h3-7-euthanized-12-guinea-baboons?source=website" target="_blank">euthanized 12 Guinea baboons</a> after the population in its enclosure grew too large, sparking aggressive behavior among the animals. The space was originally designed for 25 baboons, but it housed 43 at the time of the decision.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+         On Tuesday, the zoo shut down, citing “operational reasons,” as animal rights activists broke in and glued themselves to the ground in protest. Hours later, the zoo confirmed the culling. While not unusual in European zoos, the incident has revived ethical debates about animal welfare. It echoes <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h3-8-global-outrage-from-2014?source=website" target="_blank">global outrage from 2014</a> when Copenhagen Zoo euthanized a healthy giraffe and fed it to lions in front of visitors. </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- the big question -->
+    <mj-section background-color="#eff1f4"  css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+              
+            ">The big question</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+          <h2 style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            ">Why is French recognition of Palestine important?</h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+        France has formally announced it will <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-9-recognise-palestine?source=website" target="_blank">recognise Palestine</a> at the UN General Assembly in September, making it the first G7 country to do so. The <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-10-uk-is-expected-to-follow?source=website" target="_blank">UK is expected to follow</a> unless Israel halts its West Bank annexation, allows aid into Gaza, and agrees to a ceasefire. Both countries, along with Germany, are pushing a broader plan to promote a two-state solution based on pre-1967 borders (when Israel gained control of Gaza, the West Bank, and East Jerusalem during the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-11-six-day-war?source=website" target="_blank">Six-Day War</a>).</p>
+         <p style="font-size: 16px; line-height: 1.5">
+       While 174 of 193 UN states already recognize Palestine, it remains a quasi-state. It does not meet all four criteria of the Montevideo Convention (a treaty that defines what makes a state): a permanent population, defined territory, functioning government, and capacity to enter into relations with other states. Palestine meets some of these but not all; its institutions are split between the Palestinian Authority in the West Bank and Hamas in Gaza.</p>
+         <p style="font-size: 16px; line-height: 1.5">
+        If four of the five permanent members of the UN Security Council (France, the UK, China, and Russia) recognize Palestine, it could leave the US isolated in its opposition. That would make a major diplomatic turning point. Still, Israel and the US strongly <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-12-oppose-recognition?source=website" target="_blank">oppose recognition</a>, arguing it rewards Hamas after the October 7 attacks.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+          color:#4D3060;
+            text-align: left;
+            border-bottom:2px solid #4D3060;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+              padding-bottom:8px;
+            ">Photo of the week</h2>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/turkey-greece-wildfires.jpg" alt="A dramatic line of wildfire blazes through a dense forest at night, casting an intense red-orange glow and sending thick smoke into the sky." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
+     Smoke and flames from a forested area during a wildfire in Bursa, Turkey. Credits: Anadolu/Getty Images</i>
+          </p>
+        </mj-text> 
+         <!--banner  -->
+        <mj-text padding="20px 12px 10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div style="
+            background-color: #4D3060;
+            border-radius: 8px;
+            padding: 22px 12px;
+            font-size: 18px;
+            line-height: 1.5;
+            font-weight: 400;
+            text-align: center;
+            color: #ffffff;
+          ">On this day in 1990, Iraq invaded Kuwait, triggering the Persian Gulf War after Saddam Hussein refused to withdraw; a US-led coalition soon drove Iraqi forces out.</div>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-spacer height="10px"></mj-spacer>
+        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Send us your feedback at <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="mailto:readers@presidentialsummary.com" target="_blank">readers@presidentialsummary.com</a>. </p>
+          <p style="
+              color:#000;
+              font-size:12px;
+              line-height: 2;
+            "> Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://www.presidentialsummary.com/advertise#advertise-form" target="_blank">Advertise with us</a>. </p>
+          <!-- <p style="
+              color:#000;
+              font-size:10px;
+              line-height: 1.7; 
+            ">
+         This is a paid advertisement for Oricle Hearing. This is not medical advice.</p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://www.facebook.com/profile.php?id=61562652791256" src="https://www.presidentialsummary.com/icons/social/facebook.png">
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href=" https://x.com/presidentialsum" src="https://www.presidentialsummary.com/icons/social/x.png">
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/instagram.png">
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/presidentialsummary/" src="https://www.presidentialsummary.com/icons/social/linkedin.png">
+          </mj-social-element>
+          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.net/@presidentialsummary" src="https://www.presidentialsummary.com/icons/social/threads.png">
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px " font-family="Arial, Helvetica, sans-serif">
+          <p style="
+              margin-top:0px;
+               text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 1.5;
+            ">30 <span>N</span> <span>Gould</span> <span>St, Ste N, Sheridan, WY 82801, United States</span></p>
+          <p style="
+              text-align:center;
+              font-size:10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom:14px;
+            ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
+        </mj-text>
+    </mj-section>  
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
