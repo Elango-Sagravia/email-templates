@@ -48,19 +48,12 @@
           </ul>
   </mj-text> -->
   <mj-body background-color="#f0f1f3">
-    <mj-raw>
-      <!-- preview line -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> Magnesium - Powering every move you make</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
-      <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy;</div>
-    </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
     <mj-section background-color="#ffffff">
       <mj-column width="100%">
         <mj-spacer height="20px" />
         <mj-image padding="10px 12px" css-class="light_img" width="230px" src="https://www.pouringpotions.com/logo.png" href="https://www.pouringpotions.com" alt="" />
-        <mj-image padding="0px" width="1px" src="https://pouringpotions.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
         <mj-text padding="10px 14px 8px 14px" font-family="Roboto+Serif" color="#000000">
           <h2 style="
@@ -106,7 +99,8 @@
             <strong>Did you have a clue that Magnesium has a cosmic background?</strong>
           </p>
           <p style="font-size: 16px; line-height: 1.5">
-            <strong><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: black;" href="" alt="_blank">Check answer </a></strong>
+            Magnesium develops within massive stars.  When these stars are near the end of their lives, they explode. Thus, they scatter magnesium all over space.<br/>
+            And some of this stardust helped create planets like the Earth, and Magnesium as a cosmic gift to us. 
           </p>
         </mj-text>
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
@@ -128,7 +122,7 @@
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
         <mj-text padding="10px 46px" font-family="Roboto+Serif" color="#000000">
           <ul style="font-size: 16px; line-height: 1.5;padding-left:10px;">
-            <li>Magnesium-rich foods || Magnesium - Must Haves </li>
+            <li>Magnesium - Must Haves </li>
             <li>Magnesium Perks</li>
             <li>Magnesium for Bones</li>
             <li>Magnesium under the Microscope</li>
@@ -150,7 +144,7 @@
                   line-height: 1.2;
                   font-weight: 400;
                   margin-top: 2px !important;">
-            <strong> Magnesium-rich foods</strong>
+            <strong>Magnesium - Must Haves</strong>
           </h2>
         </mj-text>
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
@@ -160,6 +154,7 @@
           <ul style="font-size: 16px; line-height: 1.5;padding-left:10px;">
             <li>Almonds: 80 mg per ounce</li>
             <li>Avocado: 58 mg per serving </li>
+            <li>Black beans: 120 mg per cup</li>
             <li>Cooked spinach: 158 mg</li>
             <li>Cashews: 74 mg per ounce</li>
             <li>Dark chocolates: 65 mg per ounce</li>
@@ -222,7 +217,7 @@
                   font-size: 18px;
                   line-height: 1.2;
                   font-weight: 400;
-                  margin-top: 2px !important;">
+                  margin-top: 2px !importanSt;">
             <strong>Magnesium for Bones</strong>
           </h2>
         </mj-text>
@@ -286,12 +281,6 @@
               line-height: 1.5;
               margin-bottom:14px;
             ">Interested in connecting with curious, informed readers? <a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="https://www.pouringpotions.com/advertise#advertise-form" alt="_blank">Advertise with us</a>.</p>
-          <p style="
-              font-size:12px;
-              color: #667085;
-              line-height: 1.5;
-              margin-bottom:14px;
-            "><a style="text-decoration: none; border-bottom: 2px solid  #193C2D; color: #667085;" href="https://www.pouringpotions.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.</p>
         </mj-text>
         <mj-spacer height="12px"></mj-spacer>
         <mj-social font-size="15px" mode="horizontal">
