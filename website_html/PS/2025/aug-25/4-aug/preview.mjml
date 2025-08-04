@@ -1,0 +1,504 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇬 Antigua and Barbuda.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇹🇴 Tonga next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Pressure mounts on Israel
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              ESPN acquires NFL assets
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Most expensive Labubu doll trade
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Texas Democrats flee
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/texas-democrats-come-and-take-it-response-abbott-arrest-threats.jpg"
+          alt="Texas House Democratic Caucus Chair Gene Wu said that he believed about 57 Democrats have left the state"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Texas House Democratic Caucus Chair Gene Wu said that he believed
+              about 57 Democrats have left the state. Credits: The Texas
+              Tribune/Shuran Huang</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Texas House Democrats
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h1-1-fled-the-state?source=website"
+              target="_blank"
+              >fled the state</a
+            >
+            to block a vote on a Republican-drafted congressional map that could
+            eliminate five Democratic US House seats. Dozens of Democrats fled
+            to Illinois with the support of the Illinois governor, who provided
+            logistical support, while others fled to Boston and Albany. In
+            response, the Republican governor threatened to expel the Democrats
+            from the Texas State House, calling them “felons.”
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Democrats assert that the redistricting was racial gerrymandering
+            aimed at diluting Black and Latino voters. Meanwhile, Republicans
+            argue that their map is lawful and is being redrawn to give
+            Republicans a better prospect of gaining more seats in Illinois, as
+            Democrats currently hold 14 legislative seats compared to
+            Republicans’ three. If passed, it would help Republicans retain
+            control of Congress ahead of the 2026 midterm elections.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Texas’s attorney general labeled Democrats “cowards” who should be
+            arrested and brought back to the Capitol. Absentees could face
+            $500/day fines under rules enacted two years after state Democrats
+            left the state for three weeks to
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h1-2-block-an-elections-bill?source=website"
+              target="_blank"
+              >block an elections bill</a
+            >. Democratic-led states like California and New York have also
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h1-3-threatened-to-retaliate?source=website"
+              target="_blank"
+              >threatened to retaliate</a
+            >
+            with gerrymanders of their own.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Veteran kills four in Montana
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/brown-fled-tie-dye-shirt-blue-jeans.jpg"
+          alt="Authorities said Brown fled wearing a tie-dye shirt, blue jeans, and an orange bandana"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Authorities said Brown fled wearing a tie-dye shirt, blue jeans,
+              and an orange bandana.
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            A
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h2-4-massive-manhunt?source=website"
+              target="_blank"
+              >manhunt</a
+            >
+            is underway in Montana for Michael Paul Brown, 45, a military
+            veteran with a criminal record and a documented history of mental
+            illness. Authorities say Brown walked in with a rifle and opened
+            fire, killing a bartender and three patrons in an unprovoked attack.
+            He is believed to be on foot after police halted a brief vehicle
+            chase, fearing he was heavily armed. The stolen car was later
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h2-5-found-abandoned?source=website"
+              target="_blank"
+              >found abandoned</a
+            >.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            A person close to the suspect said Brown struggled with PTSD.
+            Residents described him as troubled, reclusive, and increasingly
+            unstable in recent months. Authorities believe he may have been
+            without his medication during the shooting, making him unpredictable
+            and extremely dangerous. Familiar with the local terrain, Brown may
+            still be nearby or could return to Anaconda.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The public is urged to stay cautious and report sightings to
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h2-6-1-877-wanted2?source=website"
+              target="_blank"
+              >1-877-WANTED2</a
+            >, and a $7,500 reward will be offered for tips. Several public
+            events were canceled over the weekend, and parts of a national
+            forest nearby are shut down as the manhunt continues.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- conatent 3 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Pressure mounts on Israel
+          </h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: US-Israeli officials push for a ceasefire agreement amid
+              starvation and the release of hostage videos.</strong
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The US and Israeli officials are considering a comprehensive “<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h3-7-all-or-nothing?source=website"
+              target="_blank"
+              >all or nothing</a
+            >” proposal in the wake of the stalled ceasefire talks. The proposal
+            would require Hamas to release the remaining hostages and disarm
+            itself in exchange for a complete end to the war and the release of
+            prisoners.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            But Hamas insists it will disarm if a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h3-8-palestinian-state-is-established?source=website"
+              target="_blank"
+              >Palestinian state is established</a
+            >
+            and a stable post-war governance framework is in place. The group
+            refuses to negotiate while starvation continues, as the situation
+            affects 2Mn Gaza residents.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Recent videos of
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h3-9-israeli-hostages?source=website"
+              target="_blank"
+              >Israeli hostages</a
+            >
+            and Gazan civilians alike in malnourished conditions have added to
+            the mounting pressure. Israeli PM
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h3-10-netanyahu-urged?source=website"
+              target="_blank"
+              >Netanyahu urged</a
+            >
+            the Red Cross to deliver food and health aid to Israeli hostages
+            held in Gaza. He accused Hamas of blocking the ceasefire and
+            spreading horror propaganda to break Israel psychologically.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            In an attempt to assess the situation, US envoy Steve Witkoff made a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-4-aug-25-spotlight-h3-11-rare-visit?source=website"
+              target="_blank"
+              >rare visit</a
+            >
+            to Gaza, but was tightly controlled by the Israeli military. The
+            visit was sharply criticized by Palestinians and aid workers, who
+            saw it as a publicity stunt, not a genuine humanitarian inspection.
+            That same day, 92 Palestinians were killed, including 51 while
+            seeking aid.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
