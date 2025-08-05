@@ -1,0 +1,303 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+       
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-august-5.jpg"
+          alt="Dubai weather Aug 5"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+             Nature reserves powered by tech
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             Japanese-Peruvian fusion
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Sand island seen from space
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+          Raising the next ChatGPT
+
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/uae-ai-vision-2071-sustainable-development.jpg"
+          alt="The UAE’s AI agenda aligns with the UAE Centennial 2071 Vision, aimed at sustainable development, digital transformation, and economic diversification"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+            The UAE’s AI agenda aligns with the UAE Centennial 2071 Vision, aimed at sustainable development, digital transformation, and economic diversification. Credits: ADNOC
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+          The UAE is expanding <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h1-2-artificial-intelligence-education?source=website" target="_blank">artificial intelligence education</a> across all levels, making it a central part of its national development plan. Starting from the 2025–2026 school year, public schools will introduce AI lessons from kindergarten through Grade 12. The curriculum will cover AI principles, data handling, ethical questions, and their practical application in daily activities and future careers.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           At the university level, over 44 AI-related degree programmes are provided. Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), a globally ranked research university in Abu Dhabi, plays a key role in advancing AI talent and innovations. Its projects include <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h1-3-jais?source=website" target="_blank">Jais</a> (an Arabic-language AI model) and a large-scale system trained on 65B data points (used to improve how AI understands and generates text).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          This education push is supported by rapid growth in digital infrastructure. The UAE is investing <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h1-4-1-9b-into-data-centres?source=website" target="_blank">$1.9B into data centres</a> (by 2028), aiming to support AI systems, cloud services, and secure digital operations nationwide.
+          </p>
+        </mj-text>
+       <!-- </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" /> -->
+    <!-- primary ad -->
+    <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with BSH Home Appliances</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #102341; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #102341;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Legacy and perfection</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.dubaisummary.com/email/ad/1-aug-2025-p-ad-B3.jpg" alt="campaign-B3" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          For over 300 years, <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-Gaggenau" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Gaggenau</a> has embodied German precision and culinary excellence. Villa, townhouse, or penthouse, our cooktops become the heart of refined hospitality where tradition meets modern luxury. Crafted for those who value <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-legacy-and-perfection" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">legacy and perfection</a>, Gaggenau transforms every meal into a celebration of taste, family, and heritage. True distinction, now in your kitchen.</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-call-the-business-bay-showroom-at-800-42-44-36-28" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Call the Business Bay showroom at 800 42 44 36 28</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="6px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- primary ad -->
+    
+    <mj-spacer height="10px" /> 
+    <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+    <!-- <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px"> -->
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+           
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 6px !important;
+            "
+          >
+           Protecting nature with tech
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/abu-dhabi-unesco-biosphere-reserve-recognition.jpg"
+          alt="The emirate has received international recognition for its commitment, including UNESCO Biosphere Reserve designations"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+            The emirate has received international recognition for its commitment, including UNESCO Biosphere Reserve designations. Credits: Aletihad</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Abu Dhabi is emerging as a global model for conservation at a time when biodiversity is under threat worldwide. Through the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h2-5-zayed-network-of-nature-reserves?source=website" target="_blank">Zayed Network of Nature Reserves</a>, the emirate is protecting endangered species and ecosystems critical to climate resilience and long-term sustainability. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Launched in 2020, the network includes over 19 protected areas and spans more than 30% of the emirate’s land. These areas shelter endangered species such as the Arabian oryx, sand gazelle, dugong (a marine mammal similar to a manatee), and green sea turtle. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          Beyond wildlife, the network protects coastal ecosystems like mangroves and wetlands that serve as “<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h2-6-blue-carbon?source=website" target="_blank">blue carbon</a> sinks” (natural environments that absorb CO₂ from the atmosphere), helping to fight climate change. These areas also support food security by sustaining local fisheries.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          The reserves are managed using advanced technology. The Environment Agency - Abu Dhabi uses satellite imaging, drones, wireless animal trackers, and computer vision systems (which can automatically interpret video footage) to monitor wildlife and habitat changes.
+          </p>
+        </mj-text>
+    
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
