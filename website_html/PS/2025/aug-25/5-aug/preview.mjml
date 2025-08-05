@@ -1,0 +1,554 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇬 Antigua and Barbuda.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇹🇴 Tonga next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">US visa bond</td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Cloudflare accuses Perplexity AI
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Sean "Diddy" Combs denied bail
+            </td>
+          </tr>
+        </mj-table>
+
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Russiagate reopened, again
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/senate-intelligence-committee-trump-russia-collusion-report.jpg"
+          alt="The Senate Intelligence Committee found no evidence of “collusion” between the Trump campaign and Russia"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The Senate Intelligence Committee found no evidence of “collusion”
+              between the Trump campaign and Russia. Credits: NBC News</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Pam Bondi ordered a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-1-grand-jury-investigation?source=website"
+              target="_blank"
+              >grand jury investigation</a
+            >
+            into whether Obama officials falsified when they assessed Russian
+            influence during the 2016 elections. This follows
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-2-a-memo?source=website"
+              target="_blank"
+              >a memo</a
+            >
+            released by the national intelligence director, Tulsi Gabbard,
+            accusing Obama officials of manipulation and claiming
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-3-she-submitted?source=website"
+              target="_blank"
+              >she submitted</a
+            >
+            criminal referrals to the DOJ. Bondi announced that the DOJ would
+            create a “<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-4-strike-force?source=website"
+              target="_blank"
+              >strike force</a
+            >” to assess the evidence released by Gabbard.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Democrats have accused the administration of trying to distract
+            attention from the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-5-jeffrey-epstein-case?source=website"
+              target="_blank"
+              >Jeffrey Epstein case</a
+            >
+            and rejected Gabbard’s allegations. They also criticized Trump for
+            misusing government power to target political rivals and expand his
+            authority. Meanwhile, Trump supporters have long accused the former
+            FBI director and the CIA director of using the probes to damage
+            Trump.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Last month, Trump said that Obama was
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-6-guilty-of-treason?source=website"
+              target="_blank"
+              >guilty of treason</a
+            >, accusing them of rigging the 2016 and 2020 elections and being
+            exposed. He posted an
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h1-7-ai-video?source=website"
+              target="_blank"
+              >AI video</a
+            >
+            depicting former POTUS Obama being arrested by the FBI in the Oval
+            Office and taken to jail. Meanwhile, judicial authorities confirmed
+            that no charges were filed against Obama.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            US visa bond
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/trump-executive-order-illegal-immigration-program.jpg"
+          alt="The program comes in response to an executive order issued by Trump, which sought to stem illegal immigration into the US."
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The program comes in response to an executive decree issued by
+              Trump, which sought to stem illegal immigration into the US.
+              Credits: Economic Times
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The US government is testing a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h2-8-12-month-visa-bond-pilot-program?source=website"
+              target="_blank"
+              >12-month visa bond pilot program</a
+            >
+            requiring some foreign travelers to pay a refundable bond of up to
+            $15,000 to visit the US for
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h2-9-business-b-1?source=website"
+              target="_blank"
+              >business (B-1)</a
+            >
+            or
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h2-10-tourism-b-2?source=website"
+              target="_blank"
+              >tourism (B-2)</a
+            >. The bond is refunded if the traveler leaves before their visa
+            expires. This program applies to visitors from countries with high
+            visa overstay levels or weak screening systems.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The specific countries have not been named yet, but will be
+            announced 15 days before implementation and updated on a rolling
+            basis. It does not apply to travelers under the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h2-11-visa-waiver-program?source=website"
+              target="_blank"
+              >Visa Waiver Program</a
+            >, which exempts 41 designated countries. A
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h2-12-2024-report?source=website"
+              target="_blank"
+              >2024 report</a
+            >
+            revealed that over 300,000 business and tourist visitors overstayed
+            their visas in fiscal year 2023, highlighting abuse of existing
+            provisions.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The Trump administration described this move as a “tool of
+            diplomacy” to encourage countries to vet their citizens before
+            travel, discourage abuse of Citizenship-by-Investment programs, and
+            prompt strict measures from governments whose citizens repeatedly
+            overstay US visas. Critics argue this measure will deter tourism,
+            reduce judicial visits, and hurt US trade.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- conatent 3 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Runaway lawmakers face heat
+          </h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: Republicans ordered the Democrats to be arrested for
+              blocking the redistricting bill by absconding.</strong
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Governor Greg Abbott ordered the Texas safety department to track
+            down and
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h3-13-arrest-the-democrats?source=website"
+              target="_blank"
+              >arrest the Democrats</a
+            >
+            who fled the state in protest of the redistricting efforts. He
+            claimed that absentee House Democrats may have violated bribery laws
+            by soliciting or accepting funds to restrict legislative duties.
+            Democrats who fled the state were holding various events across the
+            state while skipping the redistricting voting.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h3-14-texas-constitution?source=website"
+              target="_blank"
+              >Texas Constitution</a
+            >
+            allows the House to force absent members to return using civil
+            arrest, not criminal charges. However, these civil warrants are
+            enforceable within Texas state lines, rendering them
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h3-15-largely-symbolic?source=website"
+              target="_blank"
+              >largely symbolic</a
+            >
+            once lawmakers exit the state. The Texas House Democratic Caucus
+            Chair said that the governor has no authority to arrest the
+            Democrats, but is uncertain of how Trump is going to respond or
+            escalate the standoff.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            With 150 total seats, the House requires a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-5-aug-25-spotlight-h3-16-two-thirds-majority?source=website"
+              target="_blank"
+              >two-thirds majority</a
+            >
+            to be present to approve the redistricting bill. About 57 out of 61
+            Democrats have left the state, disturbing the quorum and blocking
+            the Republicans from proceeding with the plan. Texas Democrats are
+            within their procedural rights to flee and deny quorum.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

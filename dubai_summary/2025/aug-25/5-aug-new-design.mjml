@@ -24,22 +24,22 @@
    
     <mj-section background-color="#0C2340" padding="0px">
       <mj-column>
-        <mj-text align="center" padding="10px 15px 0 15px" color="#ffffff" font-size="12px" font-family="Arial, sans-serif">
-          <a href="#" style="color:#ffffff; text-decoration:underline;">View in browser</a> | <a href="#" style="color:#ffffff; text-decoration:underline;">Update your preferences</a> | <a href="#" style="color:#ffffff; text-decoration:underline;">Advertise</a>
+        <mj-text align="center" padding="14px 15px 40px 15px " color="#FFFFFFCC" font-size="11px" font-family="Arial, sans-serif" font-weight="300px">
+          <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">View in browser</a> | <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Update your preferences</a> | <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Advertise</a>
         </mj-text>
       </mj-column>
     </mj-section>
     <!-- Main Header Content -->
-    <mj-section background-color="#0C2340" padding="10px 15px 20px 15px">
+    <mj-section background-color="#0C2340" padding="10px 12px 20px 12px">
       <mj-group>
         <!-- Left Side: Logo and Title -->
         <mj-column width="60%">
            <mj-image
            align="left"
-          padding="10px 0px"
+          padding="10px 0px 0px 0px"
           css-class="light_img"
-          width="140px"
-          src="https://www.dubaisummary.com/logo-grey.png"
+          width="302px"
+          src="https://www.geopoliticalsummary.com/email/ds-email-testing/logo-ds-email-new.png"
           href="https://www.dubaisummary.com"
           alt=""
         />
@@ -48,20 +48,20 @@
           src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
           alt=""
         />
-          <mj-text font-size="14px" font-family="Arial, sans-serif" color="#ffffff" padding="5px 0 0 0"> Friday • July 30, 2025 • 42°C </mj-text>
+          <mj-text font-size="16px" font-family="Arial, sans-serif" font-weight="300px" color="#FFFFFF96" padding="0px 0 0 0"> Friday • July 30, 2025 • 42°C </mj-text>
         </mj-column>
         <!-- Right Side: Profile Circles -->
-        <mj-column width="40%" vertical-align="bottom">
+        <mj-column width="28%" vertical-align="bottom" align="right">
           <mj-table align="right" padding="0px">
             <tr>
-              <td style="padding: 0 4px;">
-                <img src="https://www.dubaisummary.com/email/images/person1.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0 10px 0px 0px;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
               </td>
-              <td style="padding: 0 4px;">
-                <img src="https://www.dubaisummary.com/email/images/person2.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0px 10px 0px 0px;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
               </td>
-              <td style="padding: 0 4px;">
-                <img src="https://www.dubaisummary.com/email/images/person3.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0 10px 0px 0px;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
               </td>
             </tr>
           </mj-table>
