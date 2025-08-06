@@ -1,6 +1,8 @@
 <mjml>
   <mj-head>
     <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    
+
     <!--
       <mj-font
       name="Roboto+Serif"
@@ -17,10 +19,7 @@
     </mj-raw>
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
-    
-    
-   
-    <mj-section padding="0px">
+      <mj-section padding="0px">
     <mj-column>
       <mj-text padding="0px">
         <div style="border-top-left-radius:10px; border-top-right-radius:10px;
@@ -41,10 +40,11 @@
 
     <!-- Main Header Content -->
     <mj-section background-color="#0C2340" padding="10px 12px 20px 12px">
+    <mj-group>
         <!-- Left Side: Logo and Title -->
         <mj-column width="72%">
-          <mj-image
-            align="left"
+          <mj-image 
+            align="left" 
             padding="10px 0px 0px 0px"
             css-class="light_img"
             width="302px"
@@ -63,22 +63,22 @@
         </mj-column>
 
         <!-- Right Side: Profile Circles -->
-        <mj-column align="right" width="28%" vertical-align="bottom">
-          <mj-table align="right" padding="0px">
+        <mj-column width="28%" vertical-align="bottom">
+          <mj-table padding="0px">
             <tr>
               <td style="padding: 0 8px 0 0;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="50" height="50" style="border-radius: 50%; display: block;" />
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="50px" style="border-radius: 50%; display: block;" />
               </td>
               <td style="padding: 0 8px 0 0;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-2.png" width="50" height="50" style="border-radius: 50%; display: block;" />
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-2.png" width="50px" style="border-radius: 50%; display: block;" />
               </td>
               <td style="padding: 0 0px 0 0;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-3.png" width="50" height="50" style="border-radius: 50%; display: block;" />
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-3.png" width="50px" style="border-radius: 50%; display: block;" />
               </td>
             </tr>
           </mj-table>
         </mj-column>
-
+      </mj-group>
     </mj-section>
 
 
@@ -133,6 +133,8 @@
       </mj-column>
     </mj-section>
     <!-- Header -->
+    <!-- Header -->
+    
     <!-- breaking news-->
     <!-- /breaking news -->
     <mj-spacer height="10px" />
@@ -482,12 +484,12 @@
     <mj-text padding="10px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#ffffff">
       <h2 style="font-size: 24px; line-height: 1.2; font-weight: 400;">The pulse of Dubai.</h2>
     </mj-text>
-    <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
-      <p style="font-size: 16px; line-height: 1.5">
+    <mj-text padding="10px 12px" font-family="Roboto+Serif">
+      <p style="color:#fff;font-size: 16px; line-height: 1.5">
         This edition was produced by Liam Carter, Noah Reynolds, Ava Brooks, and Maya Sinclair. Our mission is to re-envision how we engage with news. It’s time to expand what we consider newsworthy.
       </p>
     </mj-text>
-<mj-divider
+   <mj-divider
           border-width="1px"
           border-style="solid"
           border-color="#FFFFFF80"

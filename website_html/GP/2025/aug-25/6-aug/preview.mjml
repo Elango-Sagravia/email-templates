@@ -1,0 +1,397 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇻🇮 US Virgin Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇬 Antigua and Barbuda
+            next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              First elections in Bangladesh
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              US is destroying unused contraceptives
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              What is game theory?
+            </td>
+          </tr>
+        </mj-table>
+
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- breaking news -->
+    <!--/ breaking news -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px "
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            Russia quits nuclear pact
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/russia-withdrawal-inf-treaty.jpg"
+          alt="Historical image of Mikhail Gorbachev and Ronald Reagan smiling as they sign the INF disarmament treaty, symbolizing Cold War diplomacy, with modern concerns over Russia’s withdrawal from the pact."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              US President Ronald Reagan and Soviet leader Mikhail Gorbachev
+              sign the INF Treaty banning intermediate‑range nuclear missiles,
+              Washington, DC, December 8, 1987. Source: Marshall Center</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Russia has officially left the 1987
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h1-1-intermediate-range-nuclear-forces-inf-treaty?source=website"
+              target="_blank"
+              >Intermediate-Range Nuclear Forces (INF) Treaty</a
+            >, which banned ground-launched missiles with ranges between 500 and
+            5,500 kilometres and led to the destruction of over 2,600 missiles.
+            The US left the treaty in 2019 (during Trump’s first term), accusing
+            Moscow of violations, but Russia had stayed nominally committed
+            until this point.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> The Russian Foreign Ministry said it ended
+            its self-imposed moratorium on these weapons because of the movement
+            of US missile systems into Europe, the Philippines, and Australia,
+            calling it a direct threat to Moscow’s security. Former president
+            Dmitry Medvedev added that the move was a response to NATO
+            countries’ anti-Russian policy, and hinted that more escalatory
+            steps may come (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h1-2-x-post?source=website"
+              target="_blank"
+              >X post</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The relevance:</strong> The treaty’s collapse adds to
+            nuclear tensions between Russia and the West. In response to
+            Medvedev’s threats, President Trump sent
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h1-3-two-us-nuclear-submarines?source=website"
+              target="_blank"
+              >two US nuclear submarines</a
+            >
+            to the region. While experts caution against overreacting to Russian
+            rhetoric, the elimination of treaty limits increases strategic
+            uncertainty and risks a Cold War–style arms race.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Thirty-one countries currently possess ballistic missiles (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h1-4-chart?source=website"
+              target="_blank"
+              >chart</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-30-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with BSH Hausgeräte</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #06266D; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #06266D;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">The heritage of precision</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/ad/4-aug-2025-p-ad-B2-1.jpg" alt="campaign-B2-1" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+         Since 1683, <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-1" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Gaggenau</a> has defined excellence in kitchen craftsmanship. Our heritage of precision meets modern innovation in every cooktop, where timeless <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-2" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">German engineering</a> delivers unmatched control, power, and elegance. Designed for chefs and connoisseurs alike, Gaggenau cooktops transform cooking into an art form. Experience over <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-3" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">three centuries of culinary mastery</a> in your own home.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" /> -->
+
+        <!-- <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px"> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2 style="font-size: 24px; line-height: 1.2; font-weight: 500">
+            Bangladesh announces elections
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: On the first anniversary of the student uprising,
+              Bangladesh announced election plans and recognized the protest.
+            </strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Bangladesh will
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h2-5-hold-its-first-elections?source=website"
+              target="_blank"
+              >hold its first elections</a
+            >
+            since protests ousted former Prime Minister Sheikh Hasina, with the
+            vote set for February 2026, just before Ramadan. Interim leader
+            Muhammad Yunus pledged to step down afterward, calling the vote the
+            “final and most important phase” of the transition. He also unveiled
+            the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h2-6-july-declaration?source=website"
+              target="_blank"
+              >July Declaration</a
+            >, which seeks constitutional recognition of the 2024 student-led
+            uprising.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The anniversary:</strong> Bangladeshis gathered in Dhaka to
+            mark the first anniversary of the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h2-7-mass-protest-movement?source=website"
+              target="_blank"
+              >mass protest movement</a
+            >. Yunus called for a democratic Bangladesh that promises the rule
+            of law, moral values, and justice for victims of political violence.
+            Leaders from major political parties joined Yunus, showing broad
+            political support towards the declaration and election.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            <strong>The concerns:</strong> Yunus has struggled to deliver on
+            some of his promises amid political turmoil and law and stability
+            issues. Meanwhile, the ousted former PM Sheikh Hasina claimed she
+            hadn’t resigned as the PM of the country and described the 2024
+            student uprising as a coup.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-6-aug-25-spotlight-h2-8-hasina-is-on-trial?source=website"
+              target="_blank"
+              >Hasina is on trial</a
+            >
+            in absentia in Bangladesh over crimes against humanity charges due
+            to the deadly crackdown on the student protest.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

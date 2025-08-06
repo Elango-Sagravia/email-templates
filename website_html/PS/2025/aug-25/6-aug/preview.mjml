@@ -1,0 +1,538 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇼 Aruba.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇫🇲 Micronesia next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Gaza reoccupation plan
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              OpenAI models on AWS
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              MTV VMA nominations
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Kennedy ends vaccine contracts
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/barda-director-fire-analogy.jpg"
+          alt="A former BARDA director said dismantling that momentum now is like disbanding the fire department because the fire’s out"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              A former BARDA director said dismantling that momentum is like
+              disbanding the fire department because the fire’s out. Credits:
+              Mark Schiefelbein/Associated Press
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The Trump administration has
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-1-terminated-22-contracts?source=website"
+              target="_blank"
+              >terminated 22 contracts</a
+            >
+            worth nearly $500M, which focused on mRNA vaccine development, and
+            will instead fund other vaccines through BARDA. They levied
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://www.theguardian.com/us-news/2025/aug/05/rfk-jr-hhs-mrna-vaccine-research?source=website"
+              target="_blank"
+              >similar cuts</a
+            >
+            on Pfizer, Sanofi Pasteur, CSL series, Gritstone, and other
+            companies with pending or early‑stage contracts. Certain late-stage
+            projects were excluded from the move to preserve prior taxpayer
+            funding.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            HHS Secretary Robert F. Kennedy Jr. argues that mRNA vaccines
+            provide
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-3-insufficient-protection?source=website"
+              target="_blank"
+              >insufficient protection</a
+            >, can be undermined by single mutations, and may prolong pandemics.
+            However, scientists reject Kennedy’s allegations as
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-4-studies-show?source=website"
+              target="_blank"
+              >studies show</a
+            >
+            that mRNA vaccines are safe, effective, and quickly adaptable.
+            Experts warn that cutting the vaccine supply currently can disrupt
+            pandemic preparedness.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Since taking office in February, Kennedy Jr., an anti-vaccine
+            activist, has
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-5-fired-a-panel?source=website"
+              target="_blank"
+              >fired a panel</a
+            >
+            of government vaccine experts and replaced them with his own
+            appointees. He announced the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-6-cancellation-of-the-recommendation?source=website"
+              target="_blank"
+              >cancellation of the recommendation</a
+            >
+            for children and healthy pregnant women to get vaccinated against
+            the coronavirus. He also ordered a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h1-7-comprehensive-study-into?source=website"
+              target="_blank"
+              >comprehensive study into</a
+            >
+            the long‑debunked link between vaccines and autism.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Gaza reoccupation plan
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/gaza-remaining-hostages-2025-update.jpg"
+          alt="Many have long despaired over the fate of the estimated 20 living hostages remaining in Gaza"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Many have long despaired over the fate of the estimated 20 living
+              hostages remaining in Gaza. Credits: NBC News
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            PM Benjamin Netanyahu
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h2-8-proposed-plans?source=website"
+              target="_blank"
+              >proposed plans</a
+            >
+            to reoccupy the entire Gaza Strip. The plan would extend IDF
+            operations into central and southern areas, where civilians and
+            hostages remain. He said complete territorial control is necessary
+            to defeat Hamas and threatened dismissal of Israel’s Chief of Staff
+            if the invasion is rejected. Senior commanders warn that Netanyahu’s
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h2-9-plan-endangers?source=website"
+              target="_blank"
+              >plan endangers</a
+            >
+            hostages and prolongs the war.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Opposition leaders said that Netanyahu has no strategy for governing
+            Gaza’s 2Mn residents. They warned this could lead either to costly
+            direct administration or chaos under harsh military control,
+            especially since Hamas remains active. Some
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h2-10-observers-believe?source=website"
+              target="_blank"
+              >observers believe</a
+            >
+            that the threat of occupation will prevent far‑right ministers from
+            infighting, and it risks ethnic cleansing, provoking global outrage.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Earlier in the week, hundreds of retired Israeli security officials
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h2-11-issued-a-joint-letter?source=website"
+              target="_blank"
+              >issued a joint letter</a
+            >
+            to Trump to pressure Netanyahu to end the war. Trump declined to
+            back or oppose Netanyahu’s plan, saying the US focus is on restoring
+            the food supply to Gaza. Many of Israel's close allies would also
+            condemn such a move to alleviate a humanitarian crisis. Netanyahu
+            plans to review the plan at the upcoming cabinet meeting.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- conatent 3 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Trump vs. Big Banks
+          </h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: Trump alleges politicized debanking, pressing regulators
+              to rethink reputational risk.</strong
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump alleged that major
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h3-12-banks-have-discriminated?source=website"
+              target="_blank"
+              >banks have discriminated</a
+            >
+            against him and other conservatives by denying banking services for
+            political reasons. He said that JPMorgan and Bank of America
+            rejected $1B of his deposits after his first term, forcing him to
+            spread funds across smaller banks. Without providing evidence, he
+            also alleged former Biden officials pressured banks to “destroy
+            Trump.”
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Banks have long used “reputational risk” rules to exclude clients
+            who might attract lawsuits, regulatory scrutiny, or public backlash.
+            Under Biden, regulators emphasized this metric, making banks
+            cautious with high‑profile customers like Trump. But in June 2025,
+            the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h3-13-federal-reserve-told-supervisors?source=website"
+              target="_blank"
+              >Federal Reserve told supervisors</a
+            >
+            to halt using reputational risk as a factor after industry
+            complaints.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; filter: blur(5px)">
+            Meanwhile, both banks deny closure of user profiles based on
+            political bias and have consistently argued that any complaints
+            about
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-6-aug-25-spotlight-h3-14-debanking?source=website"
+              target="_blank"
+              >debanking</a
+            >
+            should be aimed at regulators. Banks are also hopeful that the
+            administration may change outdated anti-money laundering laws. An
+            executive decree is expected to investigate a breach of antitrust
+            laws.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
