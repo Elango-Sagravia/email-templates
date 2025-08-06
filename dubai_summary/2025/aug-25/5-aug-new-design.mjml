@@ -18,59 +18,72 @@
     <mj-spacer height="15px"></mj-spacer>
     <!-- Header -->
     
-    <mj-text>
-        <div style="flex: 1; height: 3px; background-color: #EBC94A;"></div>
-      </mj-text>
+    
    
-    <mj-section background-color="#0C2340" padding="0px">
-      <mj-column>
-        <mj-text align="center" padding="14px 15px 40px 15px " color="#FFFFFFCC" font-size="11px" font-family="Arial, sans-serif" font-weight="300px">
-          <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">View in browser</a> | <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Update your preferences</a> | <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Advertise</a>
-        </mj-text>
-      </mj-column>
-    </mj-section>
+    <mj-section padding="0px">
+    <mj-column>
+      <mj-text padding="0px">
+        <div style="border-top-left-radius:10px; border-top-right-radius:10px;
+  height: 7px; background-color: #EBC94A;"></div>
+      </mj-text>
+    </mj-column>
+</mj-section>
+
+<mj-section background-color="#0C2340" padding="0px">
+  <mj-column>
+    <mj-text align="center" padding="14px 15px 40px 15px" color="#FFFFFFCC" font-size="11px" font-family="Arial, sans-serif" font-weight="300">
+      <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">View in browser</a> |
+      <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Update your preferences</a> |
+      <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">Advertise</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
     <!-- Main Header Content -->
     <mj-section background-color="#0C2340" padding="10px 12px 20px 12px">
-      <mj-group>
         <!-- Left Side: Logo and Title -->
-        <mj-column width="60%">
-           <mj-image
-           align="left"
-          padding="10px 0px 0px 0px"
-          css-class="light_img"
-          width="302px"
-          src="https://www.geopoliticalsummary.com/email/ds-email-testing/logo-ds-email-new.png"
-          href="https://www.dubaisummary.com"
-          alt=""
-        />
-        <mj-image
-          width="1px"
-          src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
-          alt=""
-        />
-          <mj-text font-size="16px" font-family="Arial, sans-serif" font-weight="300px" color="#FFFFFF96" padding="0px 0 0 0"> Friday • July 30, 2025 • 42°C </mj-text>
+        <mj-column width="72%">
+          <mj-image
+            align="left"
+            padding="10px 0px 0px 0px"
+            css-class="light_img"
+            width="302px"
+            src="https://www.geopoliticalsummary.com/email/ds-email-testing/logo-ds-email-new.png"
+            href="https://www.dubaisummary.com"
+            alt=""
+          />
+          <mj-image
+            width="1px"
+            src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+            alt=""
+          />
+          <mj-text font-size="16px" font-family="Arial, sans-serif" font-weight="300" color="#FFFFFF96" padding="0px 0 0 0">
+            Friday • July 30, 2025 • 42°C
+          </mj-text>
         </mj-column>
+
         <!-- Right Side: Profile Circles -->
-        <mj-column width="28%" vertical-align="bottom" align="right">
+        <mj-column align="right" width="28%" vertical-align="bottom">
           <mj-table align="right" padding="0px">
             <tr>
-              <td style="padding: 0 10px 0px 0px;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0 8px 0 0;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="50" height="50" style="border-radius: 50%; display: block;" />
               </td>
-              <td style="padding: 0px 10px 0px 0px;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0 8px 0 0;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-2.png" width="50" height="50" style="border-radius: 50%; display: block;" />
               </td>
-              <td style="padding: 0 10px 0px 0px;">
-                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-1.png" width="40" height="40" style="border-radius: 50%;" />
+              <td style="padding: 0 0px 0 0;">
+                <img src="https://www.geopoliticalsummary.com/email/ds-email-testing/ds-r-3.png" width="50" height="50" style="border-radius: 50%; display: block;" />
               </td>
             </tr>
           </mj-table>
         </mj-column>
-      </mj-group>
+
     </mj-section>
-    </mj-section>
-    <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
-      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+
+
+    <mj-section background-color="#eff1f4" padding="1px 1px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="0px 0px 5px 5px" padding="0px">
         <mj-spacer height="10px" />
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
@@ -426,6 +439,7 @@
       </mj-column>
     </mj-section>
     <mj-spacer height="10px" />
+
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text align="center" padding="0px">
@@ -438,61 +452,85 @@
         <mj-text padding="0px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5"> France and Saudi Arabia are currently co-hosting a UN conference in New York to revive stalled two-state resolution talks between Israel and Palestine. The summit will also address the disarmament of Hamas, reform of the Palestinian Authority, and Arab-Israeli normalization. Israel and the US will forfeit the meeting amid rising international criticism (two-state talks). </p>
         </mj-text>
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
-        <mj-spacer height="10px" />
-        <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif">
-          <p style="color: #000; font-size: 12px; line-height: 2"> Send us your feedback at <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="mailto:readers@dubaisummary.com" target="_blank">readers@dubaisummary.com</a>. </p>
-          <p style="color: #000; font-size: 12px; line-height: 2"> Interested in connecting with curious, informed readers? <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="https://www.dubaisummary.com/advertise" target="_blank">Advertise with us</a>. </p>
-          <p style="color: #000; font-size: 12px; line-height: 2">
-            <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="https://www.dubaisummary.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
-          </p>
-        </mj-text>
-        <mj-spacer height="12px"></mj-spacer>
-        <mj-social font-size="15px" mode="horizontal">
-          <!-- Facebook Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Dubai-Summary/61576229295087/" src="https://www.dubaisummary.com/icons/social/facebook.png">
-          </mj-social-element>
-          <!-- X (Twitter) Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/dubaisummary" src="https://www.dubaisummary.com/icons/social/x.png">
-          </mj-social-element>
-          <!-- Instagram Icon -->
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/dubaisummary/" src="https://www.dubaisummary.com/icons/social/instagram.png">
-          </mj-social-element>
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/dubai-summary/about/" src="https://www.dubaisummary.com/icons/social/linkedin.png">
-          </mj-social-element>
-          <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.com/@dubaisummary" src="https://www.dubaisummary.com/icons/social/threads.png">
-          </mj-social-element>
-        </mj-social>
-        <mj-text padding="10px 12px 10px 12px" font-family="Arial, Helvetica, sans-serif">
-          <p style="
-              margin-top: 0px;
-              text-align: center;
-              font-size: 10px;
-              color: #667085;
-              line-height: 1.5;
-            "> S8, Level 2, Building 3, Dubai Design District, Dubai </p>
-          <p style="
-              text-align: center;
-              font-size: 10px;
-              color: #667085;
-              line-height: 0;
-              margin-bottom: 14px;
-            "> Copyright © 2025 Summary Media FZ-LLC, All rights reserved. </p>
-        </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-spacer height="15px"></mj-spacer>
+        </mj-column>
+        </mj-section>
+        <mj-spacer height="10px"/>
+
+       <mj-section padding="0px" border-radius="8px" background-color="#0C2340">
+      <mj-column padding="0px">
+
+    <!-- Yellow curved top bar -->
+    <mj-text padding="0px">
+      <div style="border-top-left-radius:8px; border-top-right-radius:8px; height: 7px; background-color: #EBC94A;"></div>
+    </mj-text>
+
+    <!-- Logo and intro text -->
+    <mj-image
+      align="left"
+      padding="10px 12px 0px 12px"
+      css-class="light_img"
+      width="302px"
+      src="https://www.geopoliticalsummary.com/email/ds-email-testing/logo-ds-email-new.png"
+      href="https://www.dubaisummary.com"
+      alt=""
+    />
+    <mj-image
+      width="1px"
+      src="https://www.dubaisummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
+      alt=""
+    />
+    <mj-text padding="10px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#ffffff">
+      <h2 style="font-size: 24px; line-height: 1.2; font-weight: 400;">The pulse of Dubai.</h2>
+    </mj-text>
+    <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+      <p style="font-size: 16px; line-height: 1.5">
+        This edition was produced by Liam Carter, Noah Reynolds, Ava Brooks, and Maya Sinclair. Our mission is to re-envision how we engage with news. It’s time to expand what we consider newsworthy.
+      </p>
+    </mj-text>
+<mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="#FFFFFF80"
+          padding="10px 12px"
+        />
+    <!-- Footer content -->
+    <mj-text padding="10px 12px 0px 12px" font-family="Arial, Helvetica, sans-serif" color="#ffffff">
+      <p style="font-size: 12px; line-height: 2;">
+        Send us your feedback at 
+        <a style="text-decoration: none; border-bottom: 2px solid #fff; color: #fff;" href="mailto:readers@dubaisummary.com" target="_blank">readers@dubaisummary.com</a>.
+      </p>
+      <p style="font-size: 12px; line-height: 2;">
+        Interested in connecting with curious, informed readers?
+        <a style="text-decoration: none; border-bottom: 2px solid #fff; color: #fff;" href="https://www.dubaisummary.com/advertise" target="_blank">Advertise with us</a>.
+      </p>
+      <p style="font-size: 12px; line-height: 2;">
+        <a style="text-decoration: none; border-bottom: 2px solid #fff; color: #fff;" href="https://www.dubaisummary.com/unsubscribewithfeedback?unique_id=%unique_id%&campaign_id=%campaign_id%" target="_blank">Unsubscribe</a> from this email.
+      </p>
+    </mj-text>
+
+    <mj-spacer height="12px" />
+
+    <mj-social font-size="15px" mode="horizontal">
+      <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.facebook.com/people/Dubai-Summary/61576229295087/" src="https://www.dubaisummary.com/icons/social/facebook.png" />
+      <mj-social-element padding="12px 10px" icon-size="24px" href="https://x.com/dubaisummary" src="https://www.dubaisummary.com/icons/social/x.png" />
+      <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.instagram.com/dubaisummary/" src="https://www.dubaisummary.com/icons/social/instagram.png" />
+      <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.linkedin.com/showcase/dubai-summary/about/" src="https://www.dubaisummary.com/icons/social/linkedin.png" />
+      <mj-social-element padding="12px 10px" icon-size="24px" href="https://www.threads.com/@dubaisummary" src="https://www.dubaisummary.com/icons/social/threads.png" />
+    </mj-social>
+
+    <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif">
+      <p style="text-align: center; font-size: 10px; color: #FFFFFFC9; line-height: 1.5; margin: 0;">
+        S8, Level 2, Building 3, Dubai Design District, Dubai
+      </p>
+      <p style="text-align: center; font-size: 10px; color: #FFFFFFC9; line-height: 1.5; margin: 0;">
+        Copyright © 2025 Summary Media FZ-LLC, All rights reserved.
+      </p>
+    </mj-text>
+ <mj-spacer height="15px"/>
+  </mj-column>
+</mj-section>
+
+
+    <mj-spacer height="15px"/>
   </mj-body>
 </mjml>
