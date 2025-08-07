@@ -1,0 +1,145 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } td { padding-top: 0 !important; } p { margin-bottom: 10px !important; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
+  </mj-head>
+  <mj-body background-color="#f0f1f3">
+   
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%">
+        <mj-spacer height="20px" />
+        <mj-image padding="10px 12px" css-class="light_img" width="230px" src="https://www.pouringpotions.com/logo.png" href="https://www.pouringpotions.com" alt="" />
+       
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+        <mj-text padding="10px 14px 8px 14px" font-family="Roboto+Serif" color="#000000">
+          <h2 style="
+            padding:14px 0px 10px 0px;
+                font-size: 18px;    
+                line-height: 1.5; 
+                margin-top:2px;
+                text-align:center;
+              ">Coconut water – A natural tonic for healthy bones</h2>
+          <p style="
+              padding:0px 0px 0px 0px;
+                font-size: 16px;  
+                line-height: 1.5;
+              "><i>“Inside every older person is a younger person wondering what the hell happened.”</i></p>
+          <p style="
+              padding:0px 0px 0px 0px;
+                font-size: 16px;  
+                line-height: 1.5;
+                text-align: right;
+              "><i>-Terry Pratchett</i></p>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
+      </mj-column>
+    </mj-section>
+    <!-- /Header -->
+    <mj-spacer height="10px" />
+    <mj-section background-color="#ffffff">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">If you are wondering the same, maybe it's time to nourish your bones well.</p>
+          <p style="font-size: 16px; line-height: 1.5"> 
+          Your favourite summer drink, coconut water can do wonders for your bones so that you can stand strong.</p>
+        </mj-text>
+        <mj-image border-radius="10px" padding="10px 14px " width="600px" src="https://www.pouringpotions.com/email/images/coconut-water.png" alt="coconut water" href="https://www.pouringpotions.com" />
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <h2 style="             
+                  font-size: 18px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+            <strong>Fun Fact :</strong>
+          </h2>
+          <p style="padding-top:10px; font-size: 16px; line-height: 1.5">
+            <strong>Ever wondered how coconut water finds its way inside the nut?</strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Ever wondered how coconut water finds its way inside the nut?
+           The water inside the coconut is actually food naturally stored by plants; filtered and loaded with minerals that help coconut seeds to grow.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           It means we are stealing and eating someone else’s food. We know; we know it’s a guilty pleasure!
+
+          </p>
+        </mj-text>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 46px" /> -->
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <mj-section css-class="mj_section" background-color="#ffffff" padding-bottom="10px">
+      <mj-column>
+        <mj-spacer height="20px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <h2 style="             
+                  font-size: 18px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+            <strong>Here is what we are talking about </strong>
+          </h2>
+        </mj-text>
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
+        <mj-text padding="0px 46px 0px 46px" font-family="Roboto+Serif" color="#000000">
+          <ul style="font-size: 16px; line-height: 1.5;padding-left:10px;  margin-top: 0px !important;">
+            <li>Water beyond just hydration</li>
+            <li>Who’s the real bone keeper?</li>
+            <li>Alternative to calcium tablets?</li>
+            <li>Is it for daily sipping?</li>
+          </ul>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- s-1 -->
+    <mj-section css-class="mj_section" background-color="#ffffff">
+      <mj-column>
+        </mj-text>
+        <mj-spacer height="30px" />
+        <mj-image border-radius="10px" padding="10px 14px " width="600px" src="https://www.pouringpotions.com/email/images/calcium-source.png" alt="calcium source" href="https://www.pouringpotions.com" />
+        <mj-spacer height="10px" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <h2 style="             
+                  font-size: 18px;
+                  line-height: 1.2;
+                  font-weight: 400;
+                  margin-top: 2px !important;">
+            <strong>Water beyond just hydration</strong>
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5;">
+          If you are still sipping coconut water when feeling thirsty, let us tell you, it's beyond a thirst quencher!</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          If you are looking for a supporter for your bones and a soother for your achy joints, believe us,  you will not regret it!</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          Let’s see how.</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          <strong>
+          Calcium and Magnesium – The Supporters</strong></p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          With age, your bones decline in density and turn into a porous Swiss cheese. This condition is called osteoporosis.</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          Magnesium is like a manager that helps calcium do its job. It supports calcium to build strong bones and activates vitamin D to make sure calcium works properly.</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          This team slows down the weakening of bones, making them strong enough to be unaffected by fractures.</p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          <strong>
+          Potassium – The Reliever</strong></p>
+          <p style="font-size: 16px; line-height: 1.5;">
+          Ever heard your grandparents complain about joint pain? This is because they have lost some fluid in their joints, which causes arthritis.</p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+          Potassium helps in balancing those fluids, relieves pain and also helps support stiff joints by working with muscles. So they don't have to suffer alone.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
