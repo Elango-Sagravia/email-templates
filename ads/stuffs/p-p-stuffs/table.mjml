@@ -1,0 +1,39 @@
+<mj-table
+  font-family="Roboto+Serif"
+  font-size="16px"
+  cellpadding="10"
+  cellspacing="0"
+  width="100%"
+  style="border: 1px solid #000000"
+>
+  <tr style="background-color: #f5f5f5; font-weight: bold; text-align: left">
+    <th style="border: 1px solid #000000">Nutritions</th>
+    <th style="border: 1px solid #000000">Coconut milk</th>
+    <th style="border: 1px solid #000000">Coconut water</th>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000000">Calories</td>
+    <td style="border: 1px solid #000000">230–250 kcal</td>
+    <td style="border: 1px solid #000000">19 kcal</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000000">Fats</td>
+    <td style="border: 1px solid #000000">57 g</td>
+    <td style="border: 1px solid #000000">0.5 g</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000000">Potassium</td>
+    <td style="border: 1px solid #000000">631 mg</td>
+    <td style="border: 1px solid #000000">600 mg</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000000">Magnesium</td>
+    <td style="border: 1px solid #000000">88.8 mg</td>
+    <td style="border: 1px solid #000000">60 mg</td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid #000000">Calcium</td>
+    <td style="border: 1px solid #000000">38.4 mg</td>
+    <td style="border: 1px solid #000000">58 mg</td>
+  </tr>
+</mj-table>
