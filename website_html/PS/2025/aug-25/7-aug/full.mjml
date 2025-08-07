@@ -1,0 +1,1183 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇼 Aruba.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇫🇲 Micronesia next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Army Sergeant opens fire
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Google’s AI education initiative
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Instagram rolls out Instagram Map
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Step towards peace
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/putin-western-isolation-ukraine-invasion-2022.jpg"
+          alt="Putin has been banished mainly by Western leaders following his decision to launch a full-scale invasion of Ukraine in 2022"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Putin has been banished mainly by Western leaders following his
+              decision to launch a full-scale invasion of Ukraine in 2022.
+              Credits: Gavriil Grigorov/POOL/AFP via Getty Images
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump said there’s a prospect of a summit meeting shortly with
+            Russia that could end the war in Ukraine. He spoke to European
+            leaders, confirming his interest in
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h1-1-trilateral-talks?source=website"
+              target="_blank"
+              >trilateral talks</a
+            >
+            with Ukraine and Russia. Zelenskyy noted that Russia appears more
+            open to a ceasefire, but emphasized that Ukraine will not compromise
+            its independence. This follows US envoy Steve Witkoff’s recent
+            meeting with Putin, which Trump alleges had no breakthrough.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Meanwhile, Russian attacks on Ukraine continued even amid diplomacy.
+            At least six civilians were killed in strikes within 24 hours. In
+            Zaporizhzhia, a recreation center was
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h1-2-bombed?source=website"
+              target="_blank"
+              >bombed</a
+            >, killing two and injuring twelve, including four children. Russia
+            also
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h1-3-struck-a-gas-facility?source=website"
+              target="_blank"
+              >struck a gas facility</a
+            >
+            near Ukraine’s border with Romania, key to receiving LNG from the US
+            and Azerbaijan, especially critical as winter approaches.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump had earlier given Moscow a 10-day deadline to agree to a
+            ceasefire or face secondary sanctions, which are expected to go live
+            on Friday. He has also threatened 100% tariffs on any country buying
+            Russian crude. To bolster Ukraine, the US approved a $200M military
+            aid package, while four NATO allies pledged $1B for US-made weapons.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Trade reset hits 90 nations
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/us-imports-tax-exemption-before-october-2025.jpg"
+          alt="Those products in transit won’t be subject to new taxes so long as they enter the United States before early October"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Those products in transit will not be included in the latest taxes
+              so long as they enter the United States before early October.
+              Credits: AFP via Getty Images
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump officially launched
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-4-sweeping-tariffs?source=website"
+              target="_blank"
+              >sweeping tariffs</a
+            >
+            on over 90 countries as the negotiation deadline ended on Wednesday.
+            A 15% blanket tariff will be applied on to Bolivia, Ecuador, the EU,
+            and 39 other countries that do not have a major trade deficit.
+            Thailand, Vietnam, and 21 other countries face tariffs ranging ‌up
+            to 20%. Switzerland, Myanmar, and Laos saw one of the steepest
+            hikes, up to 40%.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Goods from Mexico and Canada would face tariffs of 25% and 35%,
+            respectively, if they fail to comply with the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-5-usmca-trade-agreement?source=website"
+              target="_blank"
+              >USMCA trade agreement</a
+            >. Meanwhile, India faces the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-6-highest-tariffs?source=website"
+              target="_blank"
+              >highest tariffs</a
+            >
+            at 50% due to its trade of oil from Russia, and
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-7-brazil?source=website"
+              target="_blank"
+              >Brazil</a
+            >
+            faces similar tariffs over the criminal prosecution of former
+            President Jair Bolsonaro.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Overall, nearly 200 countries are impacted, with duties ranging from
+            10% to 50%. This pushes the average US tariffs above 18%, their
+            highest since 1934. He also signed several executive orders
+            formalizing these tariffs and locking in preliminary trade
+            agreements with
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-8-japan?source=website"
+              target="_blank"
+              >Japan</a
+            >, South Korea, and Vietnam. Trump has also announced a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h2-9-100-tariff?source=website"
+              target="_blank"
+              >100% tariff</a
+            >
+            on semiconductors and teased a potential 250% duty on pharmaceutical
+            imports.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- conatent 3 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Army Sergeant opens fire
+          </h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: Logistics sergeant’s alleged shooting leaves fellow
+              soldiers wounded, expected to face prison time.
+            </strong>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Sgt. Quornelius Radford, a 28-year-old Army logistics specialist
+            from Jacksonville, Florida, is
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h3-10-accused-of-opening-fire?source=website"
+              target="_blank"
+              >accused of opening fire</a
+            >
+            on five co-workers inside Fort Stewart, Georgia. The attack occurred
+            at his duty station using a personal handgun, not a military-issued
+            weapon. Fellow soldiers tackled and subdued Radford before law
+            enforcement arrived. While all victims are expected to recover, two
+            sustained serious injuries.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Radford, who has no known deployment history and no formal
+            disciplinary record, had recently been arrested for DUI, an incident
+            his command was unaware of. Authorities will investigate his motive
+            and determine how he smuggled the weapon onto the base. He is
+            expected to face a general court-martial and will face confinement
+            in a military prison.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            President Trump addressed the incident from the Oval Office. He
+            called it an “<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-spotlight-h3-11-atrocity?source=website"
+              target="_blank"
+              >atrocity</a
+            >” and vowed prosecution to the fullest extent of the law. He also
+            prayed for the victims and emphasized national unity in supporting
+            soldiers and their families. The Secretary of Defense praised law
+            enforcement for its swift response and stated that justice would be
+            brought to Radford and any potential co-conspirators, although no
+            accomplices have been reported.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- long stroy short -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <!-- long stroy short content sections -->
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Long story short
+          </h2>
+        </mj-text>
+        <!-- Global Affairs -->
+        <mj-text
+          padding="14px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 1px;
+            "
+          >
+            Global Affairs
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Italy has approved a $15.6B project to build the world's longest
+              suspension bridge</strong
+            >, linking Sicily to Calabria across the Messina Strait. The
+            2.05-mile bridge, designed to withstand earthquakes, faced decades
+            of delays due to safety concerns and pricing issues. The project
+            would create 120,000 jobs a year and bring economic growth to the
+            area (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h1-12-concrete-stretch?source=website"
+              target="_blank"
+              >concrete stretch</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Twenty people were killed and over 30 were injured in Gaza when
+              four aid trucks overturned</strong
+            >
+            after desperate crowds swarmed and climbed onto them. Authorities
+            reported that 26 commercial trucks entered the territory and six
+            were looted, highlighting the chaos surrounding aid deliveries.
+            While Israel denied blocking aid, humanitarian groups urged the UN
+            to ensure safe and consistent aid flow (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h1-13-aid-tragedy?source=website"
+              target="_blank"
+              >aid tragedy</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- secondary ad -->
+        <!-- <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+              <mj-raw>
+                <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="display: block; text-decoration: none; cursor: pointer;">
+              </mj-raw>
+              <div style="
+                background-color: #F6F1F8;
+                border-radius: 8px;
+                padding: 10px 12px;
+                color: #000;
+              ">
+                <p style="font-size: 12px; line-height: 1.2; padding-top: 4px; padding-left: 4px; text-decoration: none;">
+                  <i>In partnership with Dubai Summary</i>
+                </p>
+                <div style="padding: 2px 12px 0px 12px; font-family: TNYAdobeCaslonPro, 'Times New Roman', serif; color: white;">
+                  <h2 style="
+              padding-bottom: 8px;
+              padding-left: 5px;
+              color: #4D3060; 
+              text-align: left;
+              letter-spacing: 1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            ">The pulse of Dubai</h2>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <ul style="font-size: 16px; line-height: 1.8; padding-left: 22px; text-decoration: none;" class="sec-ad-list">
+                    <li><strong>The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+                    <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+                    <li><strong>Where is Nunavut?</strong></li>
+                  </ul>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Dubai is always on the move. Can you keep up?</strong> From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+                  </p>
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+                  </p>
+                </div>
+                <div style="padding: 10px 12px 0px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;"> Stay informed, <span style="text-decoration: none; border-bottom: 2px solid #4D3060; color: black;">Join Dubai Summary</span>
+                  </p>
+                </div>
+              </div>
+              <mj-raw>
+                </a>
+              </mj-raw>
+          </mj-text> -->
+        <!--/ secondary ad  -->
+        <!-- B & F -->
+        <mj-text
+          padding="0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 15px;
+            "
+          >
+            Business & Markets
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Trump proposed a 100% tariff on imported semiconductor
+              chips</strong
+            >, but companies manufacturing or pledging to build in the US will
+            be exempt. Apple, Nvidia, TSMC, and Samsung are likely to benefit
+            due to their US investments, while countries like the Philippines
+            and Malaysia fear major economic fallout (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h2-14-chip-in-or-flee?source=website"
+              target="_blank"
+              >chip in or flee</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Apple is investing $600B over four years through its American
+              Manufacturing Program</strong
+            >
+            to boost domestic supply chains and advanced manufacturing.
+            Partnering with firms like Corning, TSMC, and Broadcom, the effort
+            supports over 450,000 US jobs. It includes expanding chip
+            production, servers, data centers, and R&D to localize production
+            (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h2-15-factory-reset?source=website"
+              target="_blank"
+              >factory reset</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Google is investing $1B over three years to provide AI training
+              and tools to US universities and nonprofits</strong
+            >. Over 100 institutions have joined, with permission to use
+            resources like cloud credits and advanced Gemini chatbot tools. The
+            program aims to reach all accredited nonprofit colleges in the US.
+            Meanwhile, Microsoft and Amazon are also ramping up their
+            AI-in-education efforts (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h2-16-campus-code?source=website"
+              target="_blank"
+              >campus code</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- S & T -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Science & Tech
+          </h3>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="0px 12px 10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/instagram-map-feature-launch-2025.jpg"
+          alt="The launch doesn’t come as a surprise, as Instagram was spotted developing the map feature last year"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The launch doesn’t come as a surprise, as Instagram was spotted
+              developing the map feature last year. Credits: Instagram</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Instagram is rolling out Instagram Map, a feature that lets users
+              share their active location and explore location-based
+              content</strong
+            >, similar to Snapchat’s Snap Map. The map includes “Notes” and
+            shows posts from friends or creators at specific spots. Instagram is
+            also launching Reposts and expanding its Reels “Friends” tab
+            globally, with added privacy controls (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h3-17-location-content?source=website"
+              target="_blank"
+              >location content</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >NASA and Japan’s XRISM mission have detected sulfur in both gas
+              and solid forms in the space between stars</strong
+            >, something that has not been measured directly before. Using
+            X-rays from distant star systems, scientists found sulfur possibly
+            mixed with iron. This helps explain how sulfur travels through the
+            galaxy and provides insight into cosmic chemistry and star formation
+            (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h3-18-gold-dust?source=website"
+              target="_blank"
+              >gold dust</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- S & C -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Sports & Culture
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >MLB star Shohei Ohtani hit a home run for his 1,000th career
+              hit</strong
+            >
+            and struck out eight batters in his longest pitching appearance of
+            the season. He gave up just one run and two hits in four innings,
+            throwing 100 mph fastballs. It was his eighth mound start since
+            recovering from elbow surgery. The LA Dodgers continue to limit his
+            innings as he readjusts to two-way play (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h4-19-dual-threat?source=website"
+              target="_blank"
+              >dual threat</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Indie film platform Mubi is facing backlash for accepting $100M
+              from Sequoia Capital, which has ties to an Israeli defense tech
+              firm</strong
+            >. Critics link the agreement to the war in Gaza, with over 60
+            artists, including Mubi directors, demanding accountability. The
+            fallout includes event cancelations, severed partnerships, and
+            censorship allegations. Mubi says funding supports storytelling, not
+            reflective of investor views (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h4-20-gaza-backlash?source=website"
+              target="_blank"
+              >Gaza backlash</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- whatnot -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Whatnot
+          </h3>
+        </mj-text>
+        <mj-text
+          padding="0px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Czech zoo welcomes four rare Barbary lion cubs (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h5-21-extinct-no-more?source=website"
+              target="_blank"
+              >extinct no more</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Amsterdam plans to prevent cats from drowning in canals (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h5-22-feline-lifeline?source=website"
+              target="_blank"
+              >feline lifeline</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Germany fined a speeder over $1,000 for a violation (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h5-23-autobahn-oops?source=website"
+              target="_blank"
+              >Autobahn oops</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Viral trend of extreme bedtime routines raises safety concerns (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-7-aug-25-lss-h5-24-snooze-risk?source=website"
+              target="_blank"
+              >snooze risk</a
+            >).
+          </p>
+        </mj-text>
+        <!-- banner -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div
+            style="
+              background-color: #4d3060;
+              border-radius: 8px;
+              padding: 22px 12px;
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+              color: #ffffff;
+            "
+          >
+            On this day in 1888, the first of the infamous Jack the Ripper
+            murders occurred in London's East End. The unidentified killer would
+            go on to claim at least five victims, sparking fear and fascination
+            that persists to this day.
+          </div>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="2px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:readers@presidentialsummary.com"
+              target="_blank"
+              >readers@presidentialsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://www.presidentialsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7">
+            This is a paid advertisement for Upscale Media on behalf of Applied
+            Nutrition. This is not medical advice. Always consult a healthcare
+            professional before starting any treatments.
+          </p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href=" https://www.facebook.com/profile.php?id=61562652791256"
+            src="https://www.presidentialsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href=" https://x.com/presidentialsum"
+            src="https://www.presidentialsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/presidentialsummary/"
+            src="https://www.presidentialsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/presidentialsummary/"
+            src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@presidentialsummary"
+            src="https://www.presidentialsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
