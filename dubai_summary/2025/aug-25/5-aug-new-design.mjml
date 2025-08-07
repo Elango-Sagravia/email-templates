@@ -22,13 +22,13 @@
       <mj-section padding="0px">
     <mj-column>
       <mj-text padding="0px">
-        <div style="border-top-left-radius:10px; border-top-right-radius:10px;
+        <div style="border-top-left-radius:5px; border-top-right-radius:5px;
   height: 7px; background-color: #EBC94A;"></div>
       </mj-text>
     </mj-column>
 </mj-section>
 
-<mj-section background-color="#0C2340" padding="0px">
+ <mj-section background-color="#0C2340" padding="0px">
   <mj-column>
     <mj-text align="center" padding="14px 15px 40px 15px" color="#FFFFFFCC" font-size="11px" font-family="Arial, sans-serif" font-weight="300">
       <a href="#" style="color:#FFFFFFCC; text-decoration:underline;">View in browser</a> |
@@ -132,9 +132,8 @@
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
       </mj-column>
     </mj-section>
-    <!-- Header -->
-    <!-- Header -->
-    
+    <!--/ Header -->
+ 
     <!-- breaking news-->
     <!-- /breaking news -->
     <mj-spacer height="10px" />
@@ -149,7 +148,7 @@
             <div style="flex: 6; height: 3px; background-color: #EBC94A;"></div>
           </div>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+        <mj-text padding="0px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.2;
@@ -169,8 +168,8 @@
           <p style="font-size: 16px; line-height: 1.5"> This education push is supported by rapid growth in digital infrastructure. The UAE is investing <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-spotlight-h1-4-1-9b-into-data-centres" target="_blank">$1.9B into data centres</a> (by 2028), aiming to support AI systems, cloud services, and secure digital operations nationwide. </p>
         </mj-text>
         <!-- </mj-column>
-    </mj-section>
-    <mj-spacer height="10px" /> -->
+    </mj-section> -->
+    <!-- <mj-spacer height="10px" /> -->
         <!-- primary ad -->
         <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-raw>
@@ -214,20 +213,21 @@
         </a>
       </mj-raw>
     </mj-section> -->
-        <!-- primary ad -->
-        <mj-spacer height="10px" />
-        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <!--/ primary ad -->
+        <!-- <mj-spacer height="10px" /> -->
+        
         <!-- <mj-section background-color="#eff1f4"
       padding="1px 0.5px 1px 1px"
       border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px"> -->
+      <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
            
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
-              margin-top: 6px !important;
+              margin-top: 2px !important;
             "> Protecting nature with tech </h2>
         </mj-text>
         <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/abu-dhabi-unesco-biosphere-reserve-recognition.jpg" alt="The emirate has received international recognition for its commitment, including UNESCO Biosphere Reserve designations" href="https://www.dubaisummary.com" />
@@ -245,7 +245,7 @@
       </mj-column>
     </mj-section>
     <mj-spacer height="10px" />
-    <!-- Content sections -->
+    <!-- What’s happening? -->
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text align="center" padding="0px">
@@ -255,58 +255,33 @@
             <div style="flex: 6; height: 3px; background-color: #EBC94A;"></div>
           </div>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+        <mj-text padding="0px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.5;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Gahwa Beats at ROXY (<i>coffee/music</i>) </h2>
+            ">Event</h2>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5"> Gahwa Beats is bringing Arabic coffee culture to the big screen lounge. As part of Dubai Summer Surprises, this one-day event at ROXY Cinema’s Platinum Lounge features specialty brews from local favorite DRVN Coffee and beats by DJ Swanahh. </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🗓Saturday, 9 August | 🕗 10:00 am </p>
-          <p style="font-size: 16px; line-height: 1.5"> 📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h1-7-roxy-cinema-at-the-beach-jbr" target="_blank">ROXY Cinema at The Beach, JBR</a>
-          </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🎟 Complimentary entry with registration (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h1-8-limited-spots-available" target="_blank">limited spots available</a>) </p>
-        </mj-text>
-        <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
-        <!-- ------ -->
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+         <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/penguin-conservation-ski-dubai-education-research.jpg" alt="The experience also helps to fund Ski Dubai's penguin conservation, education, and research partners" href="https://www.dubaisummary.com" />
+         <mj-text padding="0px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.5;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Kingdom Festival (<i>entertainment</i>) </h2>
+            ">Where to eat?</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5"> The lineup includes Zakes Bantwini, famous for blending Afrobeat with house music, and Uncle Waffles, whose dynamic DJ sets are making global waves. Swazi DJ also joins the stage, bringing his signature sound to the mix. Expect live music, vibrant energy, and gourmet street food stalls throughout the event. </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🗓Saturday, 9 August | 🕘 3:00 pm </p>
-          <p style="font-size: 16px; line-height: 1.5"> 📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h2-9-dubai-world-trade-centre" target="_blank">Dubai World Trade Centre</a>
-          </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h2-10-book-tickets" target="_blank">Book tickets</a> (AED 249–699) </p>
-        </mj-text>
-        <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
-        <!-- ------ -->
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
-          <h2 style="
-              font-size: 24px;
-              line-height: 1.5;
-              font-weight: 400;
-              margin-top: 2px !important;
-            "> Wafi City Run 2025 (<i>sports</i>) </h2>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5"> Start your Sunday with a burst of energy at the Wafi City Run, an indoor race set inside Dubai’s iconic Wafi City. The event is open to all ages and fitness levels, with four course options: 500m, 2.5km, 5km, and 10km. </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🗓Sunday, 10 August | 🕘 6:00 am </p>
-          <p style="font-size: 16px; line-height: 1.5"> 📍 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h3-11-wafi-city" target="_blank">Wafi City</a>
-          </p>
-          <p style="font-size: 16px; line-height: 1.5"> 🎟 <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-wh-h3-12-book-tickets" target="_blank">Book tickets</a> (AED 52.5–126) </p>
+          <p style="font-size: 16px; line-height: 1.5">
+          <strong>La Dame de Pic Dubai</strong> → Set on the 25th floor of One&Only One Za’abeel, this is the Dubai debut of acclaimed French chef Anne-Sophie Pic. With its soft interiors, open kitchen, and signature marble-topped bar, the restaurant provides refined French cuisine through two elegant tasting menus: Symphony and Harmony. Expect delicate flavors, precision technique, and standout dishes like John Dory with razor clams.</p>
+          <p style="font-size: 16px; line-height: 1.5">
+         <strong>Pro tip:</strong> Book a table around sunset for panoramic views, and go with the Harmony menu if it’s your first visit.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
+    <!-- Careers  -->
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text align="center" padding="0px">
@@ -316,46 +291,40 @@
             <div style="flex: 6; height: 3px; background-color: #EBC94A;"></div>
           </div>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+        <mj-text padding="0px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Place to visit </h2>
+            ">Cybersecurity Team Leader</h2>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/penguin-conservation-ski-dubai-education-research.jpg" alt="The experience also helps to fund Ski Dubai's penguin conservation, education, and research partners" href="https://www.dubaisummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
-          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
-            <i> The experience also helps to fund Ski Dubai's penguin conservation, education, and research partners. Credits: My Dubai Pass </i>
-          </p>
+
+        
+        <mj-text padding="20px 12px " font-family="Arial, sans-serif">
+          <div style="display: flex; flex-wrap: wrap; gap: 8px;">
+            <span style="background-color: #f0f2f5; padding: 6px 9px; border-radius: 4px; font-size: 14px;font-weight: 500;line-height: 24px;">Remote</span>
+            <span style="background-color: #f0f2f5; padding: 6px 9px; border-radius: 4px; font-size: 14px;font-weight: 500;line-height: 24px;">Full-time</span>
+            <span style="background-color: #f0f2f5; padding: 6px 9px; border-radius: 4px; font-size: 14px;font-weight: 500;line-height: 24px;">AED 12,000–19,999/month</span>
+          </div>
         </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+
+        <!-- Summary -->
+         <mj-text padding="0px 12px 10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-fit-h1-13-ski-dubai" target="_blank">Ski Dubai</a></strong> → Ever seen snowfall in the desert? Ski Dubai, inside Mall of the Emirates, provides a complete winter experience with indoor ski slopes, real snow, and sub-zero temperatures year-round. The attraction features everything from skiing and snowboarding lessons to snow hiking, zorbing, bobsled rides, and even a frozen zipline.
-          </p>
+          <strong>Summary</strong> → Set on the 25th floor of One&Only One Za’abeel, this is the Dubai debut of acclaimed French chef Anne-Sophie Pic. With its soft interiors, open kitchen, and signature marble-topped bar, the restaurant provides refined French cuisine through two elegant tasting menus: Symphony and Harmony. Expect delicate flavors, precision technique, and standout dishes like John Dory with razor clams.</p>
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>Don’t miss:</strong> Meet the resident penguins (both king and gentoo species) as part of Ski Dubai’s conservation programme.
-          </p>
+         <a style="
+                text-decoration: none;
+                border-bottom: 2px solid #102341;
+                color: black;
+              " href="" target="_blank">Register here</a></p>
         </mj-text>
-        <!-- ------ -->
-        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
-          <h2 style="
-              font-size: 24px;
-              line-height: 1.2;
-              font-weight: 400;
-              margin-top: 2px !important;
-            "> Where to eat </h2>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-            <strong><a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-5-aug-25-fit-h2-14-issei" target="_blank">Issei</a></strong> → Located in the Radisson Hotel at Damac Hills, Issei serves Nikkei cuisine, a fusion of Japanese and Peruvian flavors. Expect bold dishes made with ingredients like aji amarillo, Andean potatoes, and corn, paired with miso, ginger, and soy. The menu blends precision with heat for a truly distinct culinary experience.
-          </p>
-        </mj-text>
-        <!-- ------ -->
+
       </mj-column>
     </mj-section>
     <mj-spacer height="10px" />
+    <!-- Meanwhile -->
     <mj-section background-color="#eff1f4" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text align="center" padding="0px">
@@ -365,27 +334,18 @@
             <div style="flex: 6; height: 3px; background-color: #EBC94A;"></div>
           </div>
         </mj-text>
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.dubaisummary.com/email/images/penguin-conservation-ski-dubai-education-research.jpg" alt="The experience also helps to fund Ski Dubai's penguin conservation, education, and research partners" href="https://www.dubaisummary.com" />
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.5;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Junior - Business Development Executive - Naqdi Global </h2>
+            ">FR France - Peace summit</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>Salary:</strong> AED 4,000–5,999/month
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
             <strong>Summary:</strong> Naqdi Global is seeking a proactive Business Development Executive to expand its client base and promote company services. The role involves identifying opportunities, managing client relationships, handling CRM systems, and achieving targets. Ideal for fresh graduates with strong communication skills and a bachelor’s degree.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-            <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="https://link.dubaisummary.com/ds-5-aug-25-ec-h1-15-register-here" target="_blank">Register here</a>
           </p>
         </mj-text>
         <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
@@ -396,21 +356,11 @@
               line-height: 1.5;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Mid-Level - Outdoor Sales - Oasis Crown General Trading </h2>
+            ">TH Thailand - Ceasefire reached</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>Salary:</strong> AED 8,000–11,999/month
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-            <strong>Summary:</strong> Oasis Crown is urgently hiring a Business Development Executive to grow its FMCG client base through outdoor sales. The role includes client acquisition, relationship management, product promotion, and meeting monthly targets. Candidates must have their visa, transportation, and a valid UAE driving license. Commission included.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5;">
-            <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="https://link.dubaisummary.com/ds-5-aug-25-ec-h2-16-register-here" target="_blank">Register here</a>
+            <strong>Summary:</strong> Naqdi Global is seeking a proactive Business Development Executive to expand its client base and promote company services. The role involves identifying opportunities, managing client relationships, handling CRM systems, and achieving targets. Ideal for fresh graduates with strong communication skills and a bachelor’s degree.
           </p>
         </mj-text>
         <mj-divider border-style="dashed" border-width="1px" border-color="lightgrey" padding="0px 12px 4px 12px" />
@@ -421,21 +371,11 @@
               line-height: 1.5;
               font-weight: 400;
               margin-top: 2px !important;
-            "> Senior - Odoo Accountant - Savannah So Beautiful Landscaping </h2>
+            ">UA Ukraine - Gas from Azerbaijan</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5">
-            <strong>Salary:</strong> AED 8,000–11,999/month
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-            <strong>Summary:</strong> Savannah is hiring a Senior Odoo Accountant with deep expertise in accounting operations, reporting, and Odoo ERP (modules like inventory, payroll, and expenses). The role includes leading the accounting department, reporting directly to the board, and driving strategic improvements. Requires 10+ years of experience (7+ in Odoo).
-          </p>
-          <p style="font-size: 16px; line-height: 1.5;padding-bottom:4px;">
-            <a style="
-                text-decoration: none;
-                border-bottom: 2px solid #102341;
-                color: black;
-              " href="https://link.dubaisummary.com/ds-5-aug-25-ec-h3-17-register-here" target="_blank">Register here</a>
+            <strong>Summary:</strong> Naqdi Global is seeking a proactive Business Development Executive to expand its client base and promote company services. The role involves identifying opportunities, managing client relationships, handling CRM systems, and achieving targets. Ideal for fresh graduates with strong communication skills and a bachelor’s degree.
           </p>
         </mj-text>
       </mj-column>
@@ -458,18 +398,18 @@
         </mj-section>
         <mj-spacer height="10px"/>
 
-       <mj-section padding="0px" border-radius="8px" background-color="#0C2340">
+       <mj-section padding="0px" border-radius="5px" background-color="#0C2340">
       <mj-column padding="0px">
 
     <!-- Yellow curved top bar -->
     <mj-text padding="0px">
-      <div style="border-top-left-radius:8px; border-top-right-radius:8px; height: 7px; background-color: #EBC94A;"></div>
+      <div style="border-top-left-radius:5px; border-top-right-radius:5px; height: 7px; background-color: #EBC94A;"></div>
     </mj-text>
 
     <!-- Logo and intro text -->
     <mj-image
       align="left"
-      padding="10px 12px 0px 12px"
+      padding="40px 12px 0px 12px"
       css-class="light_img"
       width="302px"
       src="https://www.geopoliticalsummary.com/email/ds-email-testing/logo-ds-email-new.png"
