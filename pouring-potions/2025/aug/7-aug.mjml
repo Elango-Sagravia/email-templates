@@ -202,42 +202,38 @@
         </mj-raw>
       </mj-text> -->
 
-      <mj-text padding="20px 12px 10px 12px">
-        <mj-raw>
-          <table cellpadding="10" cellspacing="0" border="0" width="100%" style="border-collapse: collapse; font-family: 'Roboto Serif', serif; font-size: 16px;">
-            <tr style="background-color:#f5f5f5; font-weight: bold;">
-              <th style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Nutritions</th>
-              <th style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Coconut milk</th>
-              <th style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Coconut water</th>
-            </tr>
-            <tr>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Calories</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">230–250 kcal</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">19 kcal</td>
-            </tr>
-            <tr>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Fats</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">57 g</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">0.5 g</td>
-            </tr>
-            <tr>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Potassium</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">631 mg</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">600 mg</td>
-            </tr>
-            <tr>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Magnesium</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">88.8 mg</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">60 mg</td>
-            </tr>
-            <tr>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">Calcium</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">38.4 mg</td>
-              <td style="border: 1px solid #000; padding: 15px; text-align: left; vertical-align: middle;">58 mg</td>
-            </tr>
-          </table>
-        </mj-raw>
-      </mj-text>
+      <mj-table font-family="Roboto Serif, serif" font-size="16px" color="#000000">
+          <tr style="background-color:#f5f5f5; font-weight:bold;">
+            <td style="padding:15px; border:1px solid #000; text-align:left;">Nutritions</td>
+            <td style="padding:15px; border:1px solid #000; text-align:left;">Coconut milk</td>
+            <td style="padding:15px; border:1px solid #000; text-align:left;">Coconut water</td>
+          </tr>
+          <tr>
+            <td style="padding:15px; border:1px solid #000;">Calories</td>
+            <td style="padding:15px; border:1px solid #000;">230–250 kcal</td>
+            <td style="padding:15px; border:1px solid #000;">19 kcal</td>
+          </tr>
+          <tr>
+            <td style="padding:15px; border:1px solid #000;">Fats</td>
+            <td style="padding:15px; border:1px solid #000;">57 g</td>
+            <td style="padding:15px; border:1px solid #000;">0.5 g</td>
+          </tr>
+          <tr>
+            <td style="padding:15px; border:1px solid #000;">Potassium</td>
+            <td style="padding:15px; border:1px solid #000;">631 mg</td>
+            <td style="padding:15px; border:1px solid #000;">600 mg</td>
+          </tr>
+          <tr>
+            <td style="padding:15px; border:1px solid #000;">Magnesium</td>
+            <td style="padding:15px; border:1px solid #000;">88.8 mg</td>
+            <td style="padding:15px; border:1px solid #000;">60 mg</td>
+          </tr>
+          <tr>
+            <td style="padding:15px; border:1px solid #000;">Calcium</td>
+            <td style="padding:15px; border:1px solid #000;">38.4 mg</td>
+            <td style="padding:15px; border:1px solid #000;">58 mg</td>
+          </tr>
+        </mj-table>
         <mj-spacer height ="5px"/>
         <mj-text padding="10px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
           <p style="font-size: 16px; line-height: 1.5;">
