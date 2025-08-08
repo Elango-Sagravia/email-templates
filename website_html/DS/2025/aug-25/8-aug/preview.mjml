@@ -1,0 +1,298 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!--
+      <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css?family=Roboto+Serif"
+    />
+    -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header --> 
+    <mj-section
+      background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px"
+          css-class="light_img"
+          width="140px"
+          src="https://www.dubaisummary.com/logo-grey.png"
+          href="https://www.dubaisummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <!-- weather image -->
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/dubai-weather-update-august-8.jpg"
+          alt="Dubai weather Aug 8"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+             UAE–Russia official visit
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+             Dubai Police E-Sports Championship
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              The first UAE astronaut in space
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    </mj-section>
+    <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+      <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white">
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #102341;
+              text-align: left;
+              border-bottom: 2px solid #102341;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+      </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+          UAE tops labour rankings
+
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/uae-premier-destination-living-working-investing.jpg"
+          alt="The exceptional global results reaffirm the UAE’s standing as a premier destination for living, working, and investing"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+           The exceptional global results reaffirm the UAE’s standing as a premier destination for living, working, and investing. Credits: Gulf News
+            </i>
+          </p>
+        </mj-text>
+        <mj-text
+          padding="10px 12px 16px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5">
+          The UAE ranked first globally in 10 labour market indicators (including employment, workforce growth, and availability of senior specialised managers), according to the 2025 World Competitiveness Yearbook by IMD, which evaluated 69 countries. It is also 5th overall in global competitiveness, with high scores across key pillars: 2nd in economic index, 3rd in business efficiency, and 4th in government efficiency (<a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-8-aug-25-spotlight-h1-2-see-data?source=website" target="_blank">see data</a>).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           Behind these results is the UAE’s long-term push to attract foreign talent, reduce bureaucracy, and increase private sector participation. Nearly 90% of the country’s population is made up of expatriates, and the labour market is structured to provide flexibility, international mobility, and competitive employment conditions.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+         Meanwhile, the UAE was also named the <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-8-aug-25-spotlight-h1-3-safest-country-in-the-world?source=website" target="_blank">safest country in the world</a> in 2025, with Abu Dhabi, Ajman, Dubai, Ras Al Khaimah, and Sharjah all ranked among the top six safest cities globally. Abu Dhabi leads with the lowest crime index worldwide.
+          </p>
+        </mj-text>
+       <!-- </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" /> -->
+    <!-- primary ad -->
+    <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with BSH Home Appliances</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #102341; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #102341;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Legacy and perfection</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.dubaisummary.com/email/ad/1-aug-2025-p-ad-B3.jpg" alt="campaign-B3" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          For over 300 years, <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-Gaggenau" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Gaggenau</a> has embodied German precision and culinary excellence. Villa, townhouse, or penthouse, our cooktops become the heart of refined hospitality where tradition meets modern luxury. Crafted for those who value <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-legacy-and-perfection" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">legacy and perfection</a>, Gaggenau transforms every meal into a celebration of taste, family, and heritage. True distinction, now in your kitchen.</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a href="https://link.dubaisummary.com/ds-1-aug-2025-p-ad-link-call-the-business-bay-showroom-at-800-42-44-36-28" target="_blank "style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;">Call the Business Bay showroom at 800 42 44 36 28</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="6px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+    <!-- primary ad -->
+    
+    <mj-spacer height="10px" /> 
+    <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+    <!-- <mj-section background-color="#eff1f4"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px"> -->
+         <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+           
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 6px !important;
+            "
+          >
+           UAE–Russia official visit
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.dubaisummary.com/email/images/uae-russia-relationship-mutual-respect-trust-50-years.jpg"
+          alt="His Highness emphasized that the UAE-Russia relationship is built on mutual respect, trust, and over 50 years of constructive engagement"
+          href="https://www.dubaisummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+           His Highness emphasized that the UAE-Russia relationship is built on mutual respect, trust, and over 50 years of constructive engagement. Credits: AFP</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            UAE President Sheikh Mohamed bin Zayed has arrived in Moscow on an <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-8-aug-25-spotlight-h2-4-official-visit?source=website" target="_blank">official visit</a>. His plane was escorted by Russian military aircraft, and he was received with an official ceremony at Vnukovo Airport. The UAE delegation includes the ministers of trade, national security, and advanced technology.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+           President Vladimir Putin <a style="text-decoration: none; border-bottom: 2px solid  #102341; color: black;" href="https://link.dubaisummary.com/ds-8-aug-25-spotlight-h2-5-held-talks?source=website" target="_blank">held talks</a> with Sheikh Mohamed and discussed UAE-Russia cooperation across trade, energy, and technology, as well as regional issues such as the Middle East conflict. 
+          </p>
+          <p style="font-size: 16px; line-height: 1.5;filter:blur(5px);">
+         The UAE continues to position itself as a diplomatic bridge, maintaining open ties with global powers despite international divisions. The high-level delegation reflects the growing strategic and economic dimensions of the relationship, especially since Russia’s pivot to non-Western markets.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

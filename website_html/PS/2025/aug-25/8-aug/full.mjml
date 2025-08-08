@@ -1,0 +1,1245 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
+    <!-- <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css?family=Roboto+Serif" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?faily=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 6px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.presidentialsummary.com/logo.png"
+          href="https://www.presidentialsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Presidential Summary is as big as 🇦🇼 Aruba.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇫🇲 Micronesia next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Domestic drug production
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              OpenAI launches ChatGPT-5
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Former Superman actor turns ICE agent
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- Header -->
+    <!-- breaking news-->
+    <!-- /breaking news -->
+    <mj-spacer height="10px" />
+    <!-- Spotlight -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Trump ends wasteful grants
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/trump-decree-plain-language-grant-announcements.jpg"
+          alt="The decree mandates that agencies simplify funding opportunity announcements with plain language"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The decree mandates that agencies simplify funding announcements
+              with plain language. Credits: Getty Images
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump has signed an
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-1-executive-decree?source=website"
+              target="_blank"
+              >executive decree</a
+            >
+            that mandates all future grants will be reviewed by political
+            appointees and subject matter experts to confirm their alignment
+            with administration priorities. It directs agencies to provide
+            grants to meritorious grantees beyond the usual institutions, and
+            they can terminate the pre-sanctioned grants that do not meet the
+            updated rules to prevent wasteful spending.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The administration argues that ideological bias has seeped into
+            federal funding. It points to a
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-2-2024-study?source=website"
+              target="_blank"
+              >2024 study</a
+            >
+            showing that more than 25% of the National Science Foundation grants
+            were tied to DEI or other far-left or anti-merit initiatives. Trump
+            says the latest decree builds on his
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-3-merit-hiring-plan?source=website"
+              target="_blank"
+              >Merit Hiring Plan</a
+            >
+            for federal workers, extending the same merit-based approach to
+            grant recipients.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Trump has already terminated numerous grants he labeled wasteful.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-4-past-examples?source=website"
+              target="_blank"
+              >Past examples</a
+            >
+            include funding drag shows in Ecuador,
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-5-training?source=website"
+              target="_blank"
+              >training</a
+            >
+            doctoral candidates in critical race theory, developing transgender
+            sexual-education programs, and NSF-funded AI
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h1-6-social-media-censorship?source=website"
+              target="_blank"
+              >social media censorship</a
+            >
+            tools.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The latest decree is part of a broader effort by the Trump
+            administration to review and eliminate funding that does not align
+            with the president’s “America First” agenda.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.presidentialsummary.com/ps-31-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with Upscale Media</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #4D3060; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #4D3060;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">Premium Ashwagandha for mind & body 🧠</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.presidentialsummary.com/email/ad/31-july-2025-p-ad-A20.jpg" alt="campaign-A20" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+          Focus sharp, stress fades away,<br />
+          Ashwagandha fuels your day.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          KSM-66, pure and strong,<br /> 
+          Boosts your mind, keeps you calm.</p>
+          <p style="font-size: 16px; line-height: 24px"> 
+          Sleep, perform, stay at your best,<br /> 
+         Premium quality, tried and tested!</p>
+        
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" />
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="10px" /> -->
+        <!-- conatent 2 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Israel approves Gaza takeover
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/gaza-strip-military-offensive-escalates.jpg"
+          alt="The decision marks another significant escalation in Israel's 22-month-long military offensive on the Gaza Strip"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The decision marks another significant escalation in Israel's
+              22-month-long military offensive on the Gaza Strip. Credits:
+              Reuters
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            Israel’s security cabinet has
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h2-7-approved-a-plan?source=website"
+              target="_blank"
+              >approved a plan</a
+            >
+            to seize Gaza City following PM Benjamin Netanyahu's
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h2-8-announcement?source=website"
+              target="_blank"
+              >announcement</a
+            >
+            that Israel intends to take full control of the Gaza Strip.
+            Netanyahu says the full takeover is needed to eliminate Hamas,
+            rescue hostages, secure Israel, and create a security perimeter. He
+            insists Israel does not want to govern Gaza but plans to transfer
+            control to a coalition of Arab states after the operation.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Hamas has called the plan a “coup” that sabotages ceasefire efforts.
+            The UN, the UK, humanitarian groups, and some Israeli military
+            leaders also oppose it, warning it could worsen the crisis. IDF
+            Chief of Staff Lt. Gen. Eyal Zamir warned that the plan would
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h2-9-endanger-hostages?source=website"
+              target="_blank"
+              >endanger hostages</a
+            >
+            and overextend the military. Netanyahu replied that Zamir should
+            resign if he disagrees.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Nearly two dozen hostage's
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h2-10-relatives-sailed-to?source=website"
+              target="_blank"
+              >relatives sailed to</a
+            >
+            Gaza’s maritime border with loudspeakers, pleading for Netanyahu to
+            halt the expansion. Protests were also held in Jerusalem and Tel
+            Aviv. Yehuda Cohen, whose son Nimrod is an Israeli soldier held
+            hostage in Gaza,
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h2-11-accused-netanyahu?source=website"
+              target="_blank"
+              >accused Netanyahu</a
+            >
+            of prolonging the war to please extremists and protect his political
+            survival.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- conatent 3 -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.5;
+              font-weight: 400;
+              margin-top: 2px !important;
+            "
+          >
+            Domestic drug production
+          </h2>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: The US is facilitating domestic manufacturing of drugs
+              and pressuring drugmakers to raise market value abroad.
+            </strong>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            The USFDA has launched the
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-12-fda-precheck-program?source=website"
+              target="_blank"
+              >FDA PreCheck program</a
+            >
+            to expedite the approval of US-based manufacturing facilities,
+            thereby boosting the domestic drug supply. It follows a two-phase
+            approach: Phase One provides frequent communication with the FDA on
+            facility design, construction, and pre-production. Phase Two
+            provides pre-application meetings and early feedback to accelerate
+            manufacturing and quality control development.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            The Trump administration has warned it could impose
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-13-250-tariffs-on-pharmaceutical?source=website"
+              target="_blank"
+              >250% tariffs on pharmaceutical</a
+            >
+            imports to encourage US-based manufacturing. Big drugmakers, like
+            AstraZeneca and Johnson & Johnson, and Eli Lily will pledge billions
+            to expand their US manufacturing operations and to build
+            manufacturing plants. Trump had previously signed an
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-14-executive-decree?source=website"
+              target="_blank"
+              >executive decree</a
+            >
+            to boost domestic drug manufacturing and launched a similar
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-15-voucher-based-program?source=website"
+              target="_blank"
+              >voucher-based program</a
+            >
+            in June.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            Meanwhile, US officials have told pharmaceutical companies they’ll
+            support them in global negotiations if they adopt a “<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-16-most-favored-nation?source=website"
+              target="_blank"
+              >most favored nation</a
+            >” pricing model. This would make the US drug market value match the
+            lowest value charged to other wealthy countries. At present,
+            Americans pay
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-spotlight-h3-17-nearly-three-times-more?source=website"
+              target="_blank"
+              >nearly three times more</a
+            >
+            for prescriptions than those abroad. The US is currently negotiating
+            bilateral trade agreements and setting tariffs in the sector.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- long stroy short -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <!-- long stroy short content sections -->
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #4d3060;
+              text-align: left;
+              border-bottom: 2px solid #4d3060;
+
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 400;
+            "
+          >
+            Long story short
+          </h2>
+        </mj-text>
+        <!-- Global Affairs -->
+        <mj-text
+          padding="14px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 1px;
+            "
+          >
+            Global Affairs
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Japan saw 908,574 more deaths than births last year, drawing its
+              steepest population decline since 1968</strong
+            >. Despite government efforts like childcare support and flexible
+            work, birth percentages remain low due to cultural and economic
+            impediments. The elderly make up nearly 30% of the population, while
+            many rural areas face depopulation and abandoned homes (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h1-18-aging-nation?source=website"
+              target="_blank"
+              >aging nation</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >The US has doubled its bounty on Venezuelan President Nicolas
+              Maduro to $50M</strong
+            >, accusing him of being the world’s largest drug trafficker
+            involved with cartels smuggling fentanyl-laced cocaine into the US.
+            The Justice Department seized assets worth over $700M linked to
+            Maduro and associates. Venezuela dismissed the bounty increase as
+            political propaganda (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h1-19-narco-nemesis?source=website"
+              target="_blank"
+              >narco nemesis</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- secondary ad -->
+        <!-- <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+              <mj-raw>
+                <a href="https://link.presidentialsummary.com/ps-12-june-2025-s-ad-DS" target="_blank" style="display: block; text-decoration: none; cursor: pointer;">
+              </mj-raw>
+              <div style="
+                background-color: #F6F1F8;
+                border-radius: 8px;
+                padding: 10px 12px;
+                color: #000;
+              ">
+                <p style="font-size: 12px; line-height: 1.2; padding-top: 4px; padding-left: 4px; text-decoration: none;">
+                  <i>In partnership with Dubai Summary</i>
+                </p>
+                <div style="padding: 2px 12px 0px 12px; font-family: TNYAdobeCaslonPro, 'Times New Roman', serif; color: white;">
+                  <h2 style="
+              padding-bottom: 8px;
+              padding-left: 5px;
+              color: #4D3060; 
+              text-align: left;
+              letter-spacing: 1px;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            ">The pulse of Dubai</h2>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <ul style="font-size: 16px; line-height: 1.8; padding-left: 22px; text-decoration: none;" class="sec-ad-list">
+                    <li><strong>The Russian paramilitary group Wagner has officially withdrawn from Mali</strong>, and the Kremlin-linked Africa Corps will assume the operations.</li>
+                    <li><strong>Poland’s military upgrade is positioning it as a potential top-tier NATO power</strong>. However, Poland faces considerable challenges.</li>
+                    <li><strong>Where is Nunavut?</strong></li>
+                  </ul>
+                </div>
+                <div style="padding: 10px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Dubai is always on the move. Can you keep up?</strong> From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+                  </p>
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;">
+                    <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+                  </p>
+                </div>
+                <div style="padding: 10px 12px 0px 12px; font-family: Roboto+Serif; color: #000000;">
+                  <p style="font-size: 16px; line-height: 24px; padding-left: 5px;"> Stay informed, <span style="text-decoration: none; border-bottom: 2px solid #4D3060; color: black;">Join Dubai Summary</span>
+                  </p>
+                </div>
+              </div>
+              <mj-raw>
+                </a>
+              </mj-raw>
+          </mj-text> -->
+        <!--/ secondary ad  -->
+        <!-- B & F -->
+        <mj-text
+          padding="0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 15px;
+            "
+          >
+            Business & Markets
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Meta has chosen US bond giant PIMCO and alternative asset manager
+              Blue Owl Capital to lead a $29B financing agreement for expanding
+              its data centers in rural Louisiana</strong
+            >. PIMCO will manage about $26B in liabilities, while Blue Owl will
+            contribute $3B in equity. Meta is also exploring co-development
+            strategies, such as selling $2B in data center assets to share
+            expenses (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h2-20-ai-high?source=website"
+              target="_blank"
+              >AI high</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Tesla is shutting down its Dojo supercomputer team as it shifts
+              toward using external AI chip partners like Nvidia, AMD, and
+              Samsung</strong
+            >. CEO Elon Musk said splitting resources across multiple chip
+            projects isn't feasible anymore. Some Dojo members joined DensityAI,
+            while others were reassigned. Samsung secured a $16.5B agreement to
+            supply Tesla’s AI chips (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h2-21-redirecting?source=website"
+              target="_blank"
+              >redirecting</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Toyota expects a $9.5B loss from US tariffs on imported cars,
+              cutting its full-year operating gains forecast by 16%</strong
+            >. The tariffs have also pushed Toyota’s North American business
+            into an operating loss in Q1 2025. Despite the challenges, Toyota
+            plans to build a newer factory in Japan. Meanwhile, Ford and GM
+            projected similar losses (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h2-22-tariff-toll?source=website"
+              target="_blank"
+              >tariff toll</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- S & T -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Science & Tech
+          </h3>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="0px 12px 10px 12px"
+          width="600px"
+          src="https://www.presidentialsummary.com/email/images/gpt5-hubble-tech-science-news.jpg"
+          alt="Combines GPT-5 and Hubble discoveries under science and technology"
+          href="https://www.presidentialsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              Many see GPT-5 as a bellwether for AI progress broadly, and the
+              model’s reception by Silicon Valley could have profound
+              implications for Big Tech. Credits: ChatGPT</i
+            >
+          </p>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >OpenAI launched GPT-5, its flagship model that combines advanced
+              reasoning with quick responses</strong
+            >
+            to complete diverse tasks like coding and research. GPT-5 provides
+            improved accuracy, creativity, and safety, while reducing
+            hallucinations and deceptive responses. It’s available as a default
+            model, with a developer-friendly API and customizable options (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h3-23-chat-upgrade?source=website"
+              target="_blank"
+              >chat upgrade</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >The Hubble Space Telescope detected faint carbon on an
+              ultra-massive white dwarf, WD 0525+526, revealing it as the rare
+              remnant of two stars merging</strong
+            >. This merger stripped away thick hydrogen and helium layers,
+            allowing carbon to surface early in its evolution. The star’s heat
+            suggests a newer mixing process called semi-convection is in
+            progress, providing insight into how binary stars end (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h3-24-star-smash?source=website"
+              target="_blank"
+              >star smash</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- S & C -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Sports & Culture
+          </h3>
+        </mj-text>
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >18-year-old Canadian tennis player Victoria Mboko clinched her
+              first WTA Tour title at the Montreal Open</strong
+            >, beating Naomi Osaka in a thrilling three-set final. Ranked 85th,
+            Mboko came back after losing the first set, converted eight of nine
+            break points, and boosted her ranking to 34. Osaka reached her first
+            WTA 1000 final since 2022 after maternity break (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h4-25-match-highlights?source=website"
+              target="_blank"
+              >match highlights</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            <strong
+              >Former Superman actor Dean Cain announced he will be sworn in as
+              an ICE agent</strong
+            >. Cain, already a sworn law enforcement officer, made the decision
+            to help protect the country and encourage others to join. ICE is
+            actively hiring 10,000 personnel to support expanded deportation
+            efforts under the Trump administration (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h4-26-deport-duty?source=website"
+              target="_blank"
+              >deport duty</a
+            >).
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="0px 12px"
+        />
+        <!-- whatnot -->
+        <mj-text
+          padding="10px 12px 0px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h3
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 400;
+              margin-top: 5px;
+            "
+          >
+            Whatnot
+          </h3>
+        </mj-text>
+        <mj-text
+          padding="0px 12px 0px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Best TV shows of 2025 so far (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h5-27-see-the-list?source=website"
+              target="_blank"
+              >see the list</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            A federal judge blocked the construction of 'Alligator Alcatraz' (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h5-28-prison-break?source=website"
+              target="_blank"
+              >prison break</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            WNBA is still struggling with a string of on-court incidents
+            involving adult toys (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h5-29-court-disrupted?source=website"
+              target="_blank"
+              >court disrupted</a
+            >).
+          </p>
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              border-left: 3px solid #4d3060;
+              padding-left: 14px;
+              margin-bottom: 15px;
+            "
+          >
+            Trump signs bill to allow crypto and real estate investments in
+            401(k)s (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://link.presidentialsummary.com/ps-8-aug-25-lss-h5-30-risk-or-reward?source=website"
+              target="_blank"
+              >risk or reward</a
+            >).
+          </p>
+        </mj-text>
+        <!-- banner -->
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#ffffff">
+          <div
+            style="
+              background-color: #4d3060;
+              border-radius: 8px;
+              padding: 22px 12px;
+              font-size: 18px;
+              line-height: 1.5;
+              font-weight: 400;
+              text-align: center;
+              color: #ffffff;
+            "
+          >
+            On this day in 2000, the wreckage of the H.L. Hunley, a Confederate
+            submarine lost during the American Civil War, was raised off the
+            coast of South Carolina. The Hunley made history in 1864 as the
+            first submarine to sink an enemy ship, the Union sloop Housatonic.
+          </div>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="2px 12px 10px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="mailto:readers@presidentialsummary.com"
+              target="_blank"
+              >readers@presidentialsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #4d3060;
+                color: black;
+              "
+              href="https://www.presidentialsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7">
+            This is a paid advertisement for Upscale Media on behalf of Applied
+            Nutrition. This is not medical advice. Always consult a healthcare
+            professional before starting any treatments.
+          </p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href=" https://www.facebook.com/profile.php?id=61562652791256"
+            src="https://www.presidentialsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href=" https://x.com/presidentialsum"
+            src="https://www.presidentialsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/presidentialsummary/"
+            src="https://www.presidentialsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/presidentialsummary/"
+            src="https://www.presidentialsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@presidentialsummary"
+            src="https://www.presidentialsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text padding="10px 12px" font-family="Arial, Helvetica, sans-serif">
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 0;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>

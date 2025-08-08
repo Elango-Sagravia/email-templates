@@ -1,0 +1,915 @@
+<mjml>
+  <mj-head>
+    <mj-style> h2,img,p { margin:0; } p {margin-bottom: 10px;}</mj-style>
+    <!-- <mj-font name="TNYAdobeCaslonPro, 'Times New Roman', serif;" href="https://fonts.googleapis.com/css?family=TNYAdobeCaslonPro, 'Times New Roman', serif;" /> -->
+    <mj-font
+      name="Roboto+Serif"
+      href="https://fonts.googleapis.com/css2?family=Roboto  +Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap"
+    />
+  </mj-head>
+  <mj-body background-color="#f9f8f9">
+    <mj-spacer height="15px"></mj-spacer>
+    <!-- Header -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="16px" />
+        <mj-image
+          padding="10px 12px 0px 12px"
+          css-class="light_img"
+          width="150px"
+          src="https://www.geopoliticalsummary.com/gp-logo-grey.png"
+          href="https://www.geopoliticalsummary.com"
+          alt=""
+        />
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="4px 12px 10px 12px"
+        />
+        <mj-text
+          padding="0px 12px 0px 12px "
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
+            Geopolitical Summary is as big as 🇻🇮 US Virgin Islands.
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:?subject=Check%20out%20Geopolitical%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Geopolitical%20Summary,%20and%20I%20think%20you’d%20really%20like%20it.%20It’s%20short,%20smart,%20and%20gives%20a%20clear%20breakdown%20of%20global%20events%20without%20any%20noise%20or%20bias.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://geopoliticalsummary.com"
+              target="_blank"
+              >Share us</a
+            >
+            with your friends and let's reach the size of 🇦🇬 Antigua and Barbuda
+            next.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>In this edition:</strong>
+          </p>
+        </mj-text>
+        <mj-table
+          font-family="Roboto+Serif"
+          cellpadding="0"
+          cellspacing="0"
+          padding="0px 18px 0px 18px"
+          style="width: 100%"
+        >
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.6">
+              Kazakhstan partners with China
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              Putin says no to Zelenskyy
+            </td>
+          </tr>
+          <tr>
+            <td
+              style="
+                font-size: 18px;
+                width: 20px;
+                vertical-align: top;
+                padding-right: 8px;
+                line-height: 1.6;
+              "
+            >
+              →
+            </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
+              80 years since Hiroshima and Nagasaki
+            </td>
+          </tr>
+        </mj-table>
+        <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
+      </mj-column>
+    </mj-section>
+    <!-- breaking news -->
+    <!--/ breaking news -->
+    <mj-spacer height="10px"></mj-spacer>
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px "
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Spotlight
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            German fringe group busted
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/german-reichsbuerger-arrests.jpg"
+          alt="German police officers escort a handcuffed man in a green plaid jacket and face mask during a raid targeting members of the far-right Reichsbürger movement across three states."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The Reichsbürger, meaning "Reich citizens," is a movement of
+              conspiracy theorists who reject the legitimacy of Germany’s
+              Federal Republic established after World War II. Credits: Boris
+              Roessler/Picture Alliance/Getty Images
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> German authorities
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-gfgb-1-arrested-three-suspected-members?source=website"
+              target="_blank"
+              >arrested three suspected members</a
+            >
+            of the extremist Reichsbürger movement, accusing them of plotting to
+            overthrow the German government. The arrests occurred during
+            early-morning raids targeting six people in Bavaria, Saxony, and
+            Thuringia. Investigators seized weapons-regulated items and
+            electronic data storage devices to determine the level of
+            involvement of the suspects.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The crackdown:</strong> The violent movement was kept under
+            observation after one of them shot a police officer in 2016. A
+            series of raids led to the arrest of its central figure, Heinrich
+            XIII, Prince Reuss, and other key leaders in 2022. Court proceedings
+            against 27 alleged ringleaders are ongoing in Stuttgart, Frankfurt,
+            and Munich. Police continue to identify and crack down on the fringe
+            members of the movement.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The movement:</strong> The
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-gfgb-2-reichsb-rger-movement?source=website"
+              target="_blank"
+              >Reichsbürger movement</a
+            >
+            does not recognize the modern German state and believes that Germany
+            remains under Allied occupation. Members often refuse to pay taxes,
+            create fake identity documents, and try to set up pseudo-states or
+            “micronations.” Once seen as fringe groups, they are linked to
+            growing extremism and violence.
+          </p>
+        </mj-text>
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <!-- </mj-column>
+    </mj-section> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <!-- primary ad -->
+        <!-- <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+      <mj-raw>
+        <a href="https://link.geopoliticalsummary.com/gs-30-july-2025-p-ad-A20" target="_blank" style="color:black">
+      </mj-raw>
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-spacer height="14px" />
+        <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 12px; line-height: 1.2">
+            <i>In partnership with BSH Hausgeräte</i>
+          </p>
+        </mj-text>
+        <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+          <h2 style="
+            padding-bottom:8px;
+            color: #06266D; 
+              text-align: left;
+              letter-spacing:1px;
+              border-bottom:2px solid #06266D;
+                font-size: 26px;
+                line-height: 1.2;
+                font-weight: 300;
+                
+              ">The heritage of precision</h2>
+        </mj-text>
+        <mj-spacer height="12px" />
+        <mj-image border-radius="10px" padding="10px 12px 14px 12px" width="600px" src="https://www.geopoliticalsummary.com/email/ad/4-aug-2025-p-ad-B2-1.jpg" alt="campaign-B2-1" />
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px"> 
+         Since 1683, <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-1" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Gaggenau</a> has defined excellence in kitchen craftsmanship. Our heritage of precision meets modern innovation in every cooktop, where timeless <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-2" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">German engineering</a> delivers unmatched control, power, and elegance. Designed for chefs and connoisseurs alike, Gaggenau cooktops transform cooking into an art form. Experience over <a href="https://link.geopoliticalsummary.com/gs-4-aug-2025-p-ad-B2-link-3" target="_blank" style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">three centuries of culinary mastery</a> in your own home.</p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 24px">
+            <a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;">Get yours before it’s gone</a>
+          </p>
+        </mj-text>
+        <mj-spacer height="10px" />
+      </mj-column>
+      <mj-raw>
+        </a>
+      </mj-raw>
+    </mj-section> -->
+        <!-- primary ad -->
+        <!-- <mj-spacer height="10px" /> -->
+
+        <!-- <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px"> -->
+        <!-- <mj-spacer height="10px" /> -->
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2 style="font-size: 24px; line-height: 1.2; font-weight: 500">
+            People condemn the arms trade
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: A global survey condemned arms trade with Israel as Tel
+              Aviv hints a complete takeover of Gaza.
+            </strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> A survey conducted in Spain, Greece,
+            Colombia, Brazil, and South Africa indicates public support for
+            stopping or reducing
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-gfgb-h1-3-arms-trade-to-israel?source=website"
+              target="_blank"
+              >arms trade to Israel</a
+            >
+            amid its war in Gaza. This comes in the wake of a demand by the UN
+            special rapporteur to reduce monetary ties with Israel. Some major
+            companies, like Maersk (a Danish company), have already cut ties
+            with Tel Aviv, and countries like Norway are reconsidering their
+            funding to Israel.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>On the ground:</strong> Israel’s long military campaign has
+            killed over 60,000 people, and Gaza continues to face severe
+            starvation and infrastructure collapse. Netanyahu has recently
+            proposed
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-gfgb-h1-4-taking-over-gaza?source=website"
+              target="_blank"
+              >taking over Gaza
+            </a>
+            completely and eliminating Hamas through military strikes. These
+            conditions have led human rights organizations and the UN to demand
+            international support.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The perspective:</strong> A UN report singled out companies,
+            including arms manufacturers and tech giants, that have profited
+            from Israel’s war in Gaza. It accused the weapon companies of using
+            Gaza as their testing ground for cutting-edge military technology,
+            including drones and AI-enabled targeting tools. It also cited the
+            role of Microsoft, Alphabet, and Amazon in enabling Israel’s
+            mass-surveillance systems (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-gfgb-h1-5-the-report?source=website"
+              target="_blank"
+              >the report</a
+            >).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px" />
+    <!-- analysis -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Analysis
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            Kazakhstan turns to China
+          </h2>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 18px; line-height: 1.5">
+            <strong>
+              Summary: Kazakhstan is partnering with China to build its third
+              nuclear power plant, marking a strategic shift away from its
+              reliance on Russia.
+            </strong>
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The what:</strong> Kazakhstan has announced that China will
+            build its
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-analysis-h1-6-third-nuclear-power-plant?source=website"
+              target="_blank"
+              >third nuclear power plant</a
+            >, deepening cooperation with China National Nuclear Corporation (a
+            state-owned company in China that develops and operates nuclear
+            power projects). This follows earlier agreements in which China is
+            set to construct Kazakhstan’s second plant, while Russia handles the
+            first, due for completion by 2035. This arrangement highlights
+            Kazakhstan’s aim to diversify its energy partnerships and balance
+            its geopolitical ties.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The why:</strong> The move towards China comes from
+            practical reasons. Russia’s war in Ukraine and the resulting
+            sanctions have raised doubts about its ability to fund large-scale
+            projects. China, on the other hand, provides a strong industrial
+            base and funding without Western sanctions, making it a more stable
+            partner. The decision also supports Kazakhstan’s broader plan for
+            greater energy security, reducing its reliance on any single
+            external power.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The impact:</strong> This decision shows a shift in
+            Kazakhstan's foreign policy from passive balancing to proactive
+            management of great-power competition. By engaging both Russia and
+            China, Kazakhstan wants to boost its autonomy and geopolitical
+            influence. It aims to position itself as a key player in regional
+            energy and security while lowering risks from external pressures.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- secondary ad  -->
+    <!--       
+    <mj-section background-color="#ffffff"  css-class="mj_fsection" padding-bottom="34px">
+          <mj-raw>
+            <a href="https://link.geopoliticalsummary.com/gs-12-june-2025-s-ad-DS" target="_blank" style="color:black" class="sec-ad-link">
+      </mj-raw>
+            <mj-column background-color="#ECF1FC" width="96%" border-radius="10px">
+            <mj-spacer height="12px"/>
+            <mj-text padding="2px 12px 0px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 12px; line-height: 1.2; padding-top:4px; padding-left: 4px;">
+                  <i>In partnership with Dubai Summary</i>
+              </p>
+            </mj-text>
+              <mj-text padding="2px 12px 0px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+                <h2 style="
+                padding-bottom:0px;
+                padding-left: 5px;
+                color: #06266D; 
+                  text-align: left;
+                  letter-spacing:1px;
+                    font-size: 26px;
+                    line-height: 1.2;
+                    font-weight: 300;
+                    
+                  ">The pulse of Dubai</h2>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+              <p style="font-size: 16px; line-height: 24px; padding-left: 5px;padding-top:8px;">
+             <strong>Dubai is always on the move. Can you keep up?</strong> From major headlines and policy updates to rising hotspots, job listings, and weekend escapes, Dubai Summary delivers the rhythm of the city in a straightforward read. No noise, no filler, just what matters.
+              </p>
+              <p style="font-size: 16px; line-height: 24px;padding-left: 5px;">
+              <strong>Want to feel more connected to the city everyone’s talking about?</strong>
+              </p>
+              </mj-text> 
+              <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#000000">
+              <ul style="font-size: 16px; line-height: 1.8; padding-left:22px; class="sec-ad-list"">
+                  <li>DOGE deactivated over 600,000 federal credit cards, raising concerns about service disruptions.</li>
+                  <li>UN Commission says Israeli attacks on occupied Palestinian territory amount to crimes against humanity of extermination.</li>
+                  <li>The Florida Panthers beat the Edmonton Oilers 6-1 in Game 3 and lead the series 2-1.</li>
+                </ul>
+              </mj-text>
+              <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+                <p style="font-size: 16px; line-height: 24px;padding-left: 5px;"><a style="text-decoration: none; border-bottom: 2px solid  #06266D; color: black;" >
+                Join Dubai Summary</a></p>
+                </mj-text>
+            </mj-column>
+            <mj-raw>
+        </a>
+      </mj-raw>
+  </mj-section> -->
+    <!-- /secondary ad -->
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Worldwide -->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Worldwide
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/asia-europe-flags-international-links.jpg"
+          alt="A world map illustration showing the flags of Belarus, Ukraine, Russia, India, China, Thailand, Cambodia, and South Korea connected by red lines, symbolizing diplomatic, trade, or regional cooperation."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p
+            style="
+              font-size: 16px;
+              line-height: 1.5;
+              padding-top: 0px;
+              padding-bottom: 6px;
+            "
+          >
+            <strong>🇧🇾 Belarus - Continued crackdowns.</strong> Belarus has
+            launched a wave of arrests targeting critics who joined opposition
+            rallies abroad. Authorities say they have identified 207 protesters
+            from events in five countries, in what rights group Viasna
+            proclaimed the year’s largest repression campaign. The crackdown
+            follows President Alexander Lukashenko’s
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-7-disputed-2020-re-election?source=website"
+              target="_blank"
+              >disputed 2020 re-election</a
+            >, which sparked years of political persecution and mass detentions
+            (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-8-targeting-abroad?source=website"
+              target="_blank"
+              >targeting abroad</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇨🇳 China - Backs India.</strong> China has publicly
+            supported India as President Trump threatens to raise tariffs on
+            India's Russian oil imports. A spokesperson from the Chinese embassy
+            backed an editorial that affirmed India’s right to an independent
+            foreign policy. This rare support comes before PM Modi’s expected
+            visit to China for the SCO Summit, his first since the 2020 Galwan
+            clash - a military conflict between India and China (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-9-changing-sides?source=website"
+              target="_blank"
+              >changing sides</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇺🇦 Ukraine - Face-to-face meeting.</strong> President
+            Zelenskyy has asked for direct talks with President Putin to end the
+            war, following “productive” discussions between Putin and US envoy
+            Steve Witkoff. Hours later, Putin said the “conditions” were not yet
+            in place for such a meeting. The remarks come amid possible talks
+            between Putin and US President Donald Trump as early as next week
+            (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-10-putin-s-conditions?source=website"
+              target="_blank"
+              >Putin’s conditions</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇰🇷 South Korea - Former first lady.</strong> Prosecutors in
+            South Korea are seeking an arrest warrant for former first lady Kim
+            Keon Hee. She faces allegations of bribery, stock manipulation, and
+            illegal political interference. If approved, both Kim and her
+            husband, former president
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-11-yoon-suk-yeol?source=website"
+              target="_blank"
+              >Yoon Suk Yeol</a
+            >, would be in custody (he is already detained for declaring martial
+            law), marking a historic first (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-12-first-time-for-everything?source=website"
+              target="_blank"
+              >first time for everything</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5; padding-bottom: 6px">
+            <strong>🇹🇭 Thailand - Agree to talks.</strong> Thailand and Cambodia
+            signed a 13-point ceasefire agreement aimed at ending recent border
+            clashes and promoting long-term peace. Finalized in Kuala Lumpur
+            after three days of negotiations, the agreement includes a full
+            ceasefire, civilian protection measures, and the creation of a joint
+            coordination team. ASEAN observers, led by Malaysia, will monitor
+            compliance. The move follows
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-13-deadly-fighting?source=website"
+              target="_blank"
+              >deadly fighting</a
+            >
+            that killed 43 people and displaced more than 300,000 (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-worldwide-14-finally-ceasefire?source=website"
+              target="_blank"
+              >finally ceasefire</a
+            >).
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="10px"></mj-spacer>
+    <!-- Foundations-->
+    <mj-section
+      background-color="#eff1f4"
+      css-class="border-line"
+      padding="1px 0.5px 1px 1px"
+      border-radius="5px"
+    >
+      <mj-column background-color="#fff" border-radius="5px" padding="0px">
+        <mj-text
+          padding="16px 12px 10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="white"
+        >
+          <h2
+            style="
+              padding-bottom: 8px;
+              color: #06266d;
+              text-align: left;
+              border-bottom: 2px solid #06266d;
+              font-size: 26px;
+              line-height: 1.2;
+              font-weight: 300;
+            "
+          >
+            Foundations
+          </h2>
+        </mj-text>
+        <mj-text
+          padding="10px 12px"
+          font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;"
+          color="#000000"
+        >
+          <h2
+            style="
+              font-size: 24px;
+              line-height: 1.2;
+              font-weight: 500;
+              margin-top: 2px !important;
+            "
+          >
+            80 years since Hiroshima and Nagasaki
+          </h2>
+        </mj-text>
+        <mj-image
+          border-radius="10px"
+          padding="10px 12px"
+          width="600px"
+          src="https://www.geopoliticalsummary.com/email/images/atomic-bomb-mushroom-cloud.jpg"
+          alt="A large mushroom cloud rises over a city following the detonation of an atomic bomb, captured in a black-and-white photograph symbolizing the destructive power of nuclear weapons."
+          href="https://www.geopoliticalsummary.com"
+        />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+          <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
+            <i>
+              The atomic bomb dropped on Nagasaki, known as “Fat Man”, was more
+              powerful than “Little Boy” used on Hiroshima, but it caused less
+              destruction because the city’s terrain reduced the impact of the
+              blast. Credits: Nevada Department of Veterans Services
+            </i>
+          </p>
+        </mj-text>
+        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The legacy:</strong> August 6 marks 80 years since the US
+            dropped the “Little Boy” atomic bomb on Hiroshima, followed three
+            days later by the Nagasaki attack (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-foundations-h1-15-see-photos?source=website"
+              target="_blank"
+              >see photos</a
+            >). While about 70,000 died instantly in Hiroshima, total deaths
+            reached around 140,000 by the end of 1945, with survivors enduring
+            decades of illness from radiation exposure. In Nagasaki, the
+            estimated death toll was 40,000 to 70,000 (<a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-foundations-h1-16-number-estimates?source=website"
+              target="_blank"
+              >number estimates</a
+            >).
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The lesson:</strong> These remain the sole wartime uses of
+            nuclear weapons, yet their shadow still shapes global policy and
+            attitudes toward nuclear warfare. Survivors and peace groups urge
+            nuclear abolition, warning that these weapons bring nothing but
+            destruction and suffering. Their message is increasingly pressing
+            amid signs of renewed nuclear arms races, undermining decades of
+            disarmament efforts.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>The future:</strong> The Hiroshima bomb had a yield of 15
+            kilotons, which would be considered low by modern standards.
+            Currently, the largest US nuclear weapon is 80 times more powerful,
+            and experts warn that a single modern detonation over a major city
+            could kill vast numbers instantly. There are
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://link.geopoliticalsummary.com/gs-8-aug-25-foundations-h1-17-more-than-12-000-nuclear-weapons?source=website"
+              target="_blank"
+              >more than 12,000 nuclear weapons</a
+            >
+            in the hands of nine countries (the US, Russia, China, France, the
+            UK, India, Pakistan, North Korea, and Israel). The US and Russia
+            hold about 90% of the global stockpile, but smaller powers are also
+            expanding their capabilities.
+          </p>
+        </mj-text>
+        <!-- footer -->
+        <mj-divider
+          border-width="1px"
+          border-style="solid"
+          border-color="lightgrey"
+          padding="10px 12px"
+        />
+        <mj-spacer height="10px" />
+        <mj-text
+          padding="3px 12px 0px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Send us your feedback at
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="mailto:readers@geopoliticalsummary.com"
+              target="_blank"
+              >readers@geopoliticalsummary.com</a
+            >.
+          </p>
+          <p style="color: #000; font-size: 12px; line-height: 2">
+            Interested in connecting with curious, informed readers?
+            <a
+              style="
+                text-decoration: none;
+                border-bottom: 2px solid #06266d;
+                color: black;
+              "
+              href="https://www.geopoliticalsummary.com/advertise#advertise-form"
+              target="_blank"
+              >Advertise with us</a
+            >.
+          </p>
+          <!-- <p style="color: #000; font-size: 10px; line-height: 1.7"> 
+          This is a paid advertisement for Upscale Media on behalf of Applied Nutrition. This is not medical advice. Always consult a healthcare professional before starting any treatments.</p> -->
+        </mj-text>
+        <mj-spacer height="12px"></mj-spacer>
+        <mj-social font-size="15px" mode="horizontal">
+          <!-- Facebook Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.facebook.com/profile.php?id=61562847449514"
+            src="https://www.geopoliticalsummary.com/icons/social/facebook.png"
+          >
+          </mj-social-element>
+          <!-- X (Twitter) Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://x.com/readgeopolitics"
+            src="https://www.geopoliticalsummary.com/icons/social/x.png"
+          >
+          </mj-social-element>
+          <!-- Instagram Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.instagram.com/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/instagram.png"
+          >
+          </mj-social-element>
+          <!-- Reddit Icon -->
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.linkedin.com/showcase/geopoliticalsummary/"
+            src="https://www.geopoliticalsummary.com/icons/social/linkedin.png"
+          >
+          </mj-social-element>
+          <mj-social-element
+            padding="12px 10px"
+            icon-size="24px"
+            href="https://www.threads.net/@geopoliticalsummary"
+            src="https://www.geopoliticalsummary.com/icons/social/threads.png"
+          >
+          </mj-social-element>
+        </mj-social>
+        <mj-text
+          padding="10px 12px 4px 12px"
+          font-family="Arial, Helvetica, sans-serif"
+        >
+          <p
+            style="
+              margin-top: 0px;
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+            "
+          >
+            30 <span>N</span> <span>Gould</span>
+            <span>St, Ste N, Sheridan, WY 82801, United States</span>
+          </p>
+          <p
+            style="
+              text-align: center;
+              font-size: 10px;
+              color: #667085;
+              line-height: 1.5;
+              margin-bottom: 14px;
+            "
+          >
+            Copyright © 2024 Sagravia LLC, All rights reserved.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-spacer height="15px"></mj-spacer>
+  </mj-body>
+</mjml>
