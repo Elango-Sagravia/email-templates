@@ -199,7 +199,6 @@
             "
           >
             Analysis
-
           </h2>
         </mj-text>
         <mj-text
@@ -506,15 +505,19 @@
           alt="A map highlighting Peru in red with a label marking the capital city, Lima, and an inset globe showing Peru’s location in South America."
           href="https://www.geopoliticalsummary.com"
         />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
+        <!-- <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
           <p style="font-size: 12px; line-height: 1.2; color: #a9a7af">
             <i>
               Morocco is the only African nation with coastlines on both the
               Mediterranean Sea and the Atlantic Ocean.
             </i>
           </p>
-        </mj-text>
-        <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+        </mj-text> -->
+        <mj-text
+          padding="0px 12px 10px 12px"
+          font-family="Roboto+Serif"
+          color="#000000"
+        >
           <p style="font-size: 16px; line-height: 1.5">
             Peru sits at the intersection of the Amazon rainforest, the Andes
             Mountains, and the Pacific coast. For centuries, it was the heart of
