@@ -1,154 +1,82 @@
 <mjml>
-  <mj-head>  
+  <mj-head>
     <mj-style> h2, img, p { margin: 0; } p { margin-bottom: 10px; } </mj-style>
     <!-- <mj-font name="Roboto" href="https://fonts.googleapis.com/css?family=Roboto" /> -->
     <mj-font name="Roboto+Serif" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:ital,opsz,wght@0,8..144,100..900;1,8..144,100..900&display=swap" />
   </mj-head>
-  <mj-body background-color="#f9f8f9"> 
-    <mj-raw>   
-      <div style="display: none; max-height: 0px; overflow: hidden;">
-       Plus a zoo that kills baboons</div>
-      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text --> 
+  <mj-body background-color="#f9f8f9">
+    <mj-raw>
+      <div style="display: none; max-height: 0px; overflow: hidden;"> Plus Titan implosion was preventable</div>
+      <!-- Insert &#847;&zwnj;&nbsp; hack after hidden preview text -->
       <div style="display: none; max-height: 0px; overflow: hidden;"> &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;&#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy; &#847; &zwnj; &nbsp; &#8199; &shy;</div>
     </mj-raw>
-    <mj-spacer height="15px"></mj-spacer> 
+    <mj-spacer height="15px"></mj-spacer>
     <!-- Logo Header -->
     <!-- Header -->
-      <mj-section
-      background-color="#eff1f4"
-      css-class="border-line"
-      padding="1px 0.5px 1px 1px"
-      border-radius="5px"
-    >
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-spacer height="16px" />
-        <mj-image
-          padding="10px 12px 6px 12px"
-          css-class="light_img"
-          width="150px"
-          src="https://www.presidentialsummary.com/logo.png"
-          href="https://www.presidentialsummary.com"
-          alt=""
-        />
-        <mj-image
-          width="1px"
-          src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%"
-          alt=""
-        />
-        <mj-divider
-          border-width="1px"
-          border-style="solid"
-          border-color="lightgrey"
-          padding="0px 12px 10px 12px"
-        />
-        <mj-text
-          padding="0px 12px 0px 12px "
-          font-family="Roboto+Serif"
-          color="#000000"
-        >
-          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px">
-            Presidential Summary is as big as 🇦🇼 Aruba.
-            <a
-              style="
+        <mj-image padding="10px 12px 6px 12px" css-class="light_img" width="150px" src="https://www.presidentialsummary.com/logo.png" href="https://www.presidentialsummary.com" alt="" />
+        <mj-image width="1px" src="https://www.presidentialsummary.com/api/emails/open?user_id=%user_id%&campaign_id=%campaign_id%" alt="" />
+        <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px 10px 12px" />
+        <mj-text padding="0px 12px 0px 12px " font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5; margin-top: 2px"> Presidential Summary is as big as 🇦🇼 Aruba. <a style="
                 text-decoration: none;
                 border-bottom: 2px solid #4d3060;
                 color: black;
-              "
-              href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com"
-              target="_blank"
-              >Share us</a
-            >
-            with your friends and let's reach the size of 🇫🇲 Micronesia next.
-          </p>
+              " href="mailto:?subject=Check%20out%20Presidential%20Summary&body=Hey,%0A%0AI’ve%20been%20reading%20this%20newsletter%20called%20Presidential%20Summary,%20and%20I%20think%20you’d%20find%20it%20super%20useful.%20It’s%20quick,%20clear,%20and%20gives%20you%20the%20day’s%20most%20important%20news%20without%20spin%20or%20fluff.%0A%0AHere’s%20the%20link%20to%20check%20it%20out%20and%20subscribe:%0A👉%20https://presidentialsummary.com" target="_blank">Share us</a> with your friends and let's reach the size of 🇫🇲 Micronesia next. </p>
           <p style="font-size: 16px; line-height: 1.5">
             <strong>In this edition:</strong>
           </p>
         </mj-text>
-        <mj-table
-          font-family="Roboto+Serif"
-          cellpadding="0"
-          cellspacing="0"
-          padding="0px 18px 0px 18px"
-          style="width: 100%"
-        >
+        <mj-table font-family="Roboto+Serif" cellpadding="0" cellspacing="0" padding="0px 18px 0px 18px" style="width: 100%">
           <tr>
-            <td
-              style="
+            <td style="
                 font-size: 18px;
                 width: 20px;
                 vertical-align: top;
                 padding-right: 8px;
                 line-height: 1.6;
-              "
-            >
-              →
-            </td>
-            <td style="font-size: 16px; line-height: 1.6">
-              Army Sergeant opens fire
-            </td>
+              "> → </td>
+            <td style="font-size: 16px; line-height: 1.6"> $1.5 trillion global plastics crisis </td>
           </tr>
           <tr>
-            <td
-              style="
+            <td style="
                 font-size: 18px;
                 width: 20px;
                 vertical-align: top;
                 padding-right: 8px;
                 line-height: 1.6;
-              "
-            >
-              →
-            </td>
-            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
-              Google’s AI education initiative
-            </td>
+              "> → </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6"> Was the Titan implosion preventable? </td>
           </tr>
           <tr>
-            <td
-              style="
+            <td style="
                 font-size: 18px;
                 width: 20px;
                 vertical-align: top;
                 padding-right: 8px;
                 line-height: 1.6;
-              "
-            >
-              →
-            </td>
-            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6">
-              Instagram rolls out Instagram Map
-            </td>
+              "> → </td>
+            <td style="font-size: 16px; line-height: 1.5; line-height: 1.6"> What is happening in Texas? </td>
           </tr>
         </mj-table>
-        <mj-text
-          padding="10px 12px 17px 12px"
-          font-family="Roboto+Serif"
-          color="#000000"
-        >
-          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px">
-            Was this email forwarded to you?
-            <a
-              style="
+        <mj-text padding="10px 12px 17px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5; margin-bottom: 0px"> Was this email forwarded to you? <a style="
                 text-decoration: none;
                 border-bottom: 2px solid #4d3060;
                 color: black;
-              "
-              href="https://www.presidentialsummary.com"
-              target="_blank"
-            >
-              Stay informed</a
-            >.
-          </p>
+              " href="https://www.presidentialsummary.com" target="_blank"> Stay informed</a>. </p>
         </mj-text>
         <!-- <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" /> -->
       </mj-column>
     </mj-section>
-    <!-- Header --> 
+    <!-- Header -->
     <mj-spacer height="10px"></mj-spacer>
     <!-- Content sections -->
     <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
-       <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
+        <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
         padding-bottom:8px;
           color:#4D3060;
@@ -157,43 +85,33 @@
               font-size: 26px;
               line-height: 1.2;
               font-weight: 400;
-            ">Spotlight of the week</h2> 
-        </mj-text> 
+            ">Spotlight of the week</h2>
+        </mj-text>
         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
               margin-top: 2px !important;
-            ">
-         EU-US trade agreement explained</h2> 
+            "> Remembering Hiroshima </h2>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/eu-us-trade-deal-explained.jpg" alt="Donald Trump sits across from Ursula von der Leyen with US and EU flags behind them, symbolizing the announcement of the EU–US trade agreement amid controversy." href="https://www.presidentialsummary.com" />
-        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF"> 
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/hiroshima-anniversary-nuclear-call.jpg" alt="The Atomic Bomb Dome in Hiroshima illuminated at night, with crowds gathered along the riverbank and colorful paper lanterns floating on the water during the anniversary of the Hiroshima bombing." href="https://www.presidentialsummary.com" />
+        <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
           <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;">
-            <i>
-             President Donald Trump and President of the European Commission Ursula von der Leyen shake hands as they announce a US-EU trade agreement. Credits: Andrew Harnik/Getty Images
-            </i>
+            <i> Hiroshima’s bomb had a yield of 15 kilotons, which is 80 times less powerful than the modern US nuclear weapons.Credits: The Plunge Daily </i>
           </p>
         </mj-text>
-       
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-        The US and EU reached a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-1-provisional-trade-agreement" target="_blank">provisional trade agreement</a> last Sunday, ending a months-long dispute. Most EU exports to the US will face a 15% tariff, with some sectors being exempt (such as aircraft or select chemicals). However, the agreement is <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-2-not-yet-legally-binding" target="_blank">not yet legally binding</a>. A joint statement is expected soon, and until then, negotiations on product-specific exemptions continue.</p>
-        
-          <p style="font-size: 16px; line-height: 1.5">
-          Steel and aluminium (currently facing 50% US tariffs) remain outside the agreement. The EU hopes to replace them with a quota system, but no timeline has been set. Meanwhile, Brussels pledged to invest $750B in US energy and give $514B in US-based investments over three years. However, officials admit these are just expressions of intent, not enforceable commitments.
-          </p>
-          <p style="font-size: 16px; line-height: 1.5">
-        While the agreement avoids a trade war, critics say Brussels <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-sotw-h1-3-conceded-too-much" target="_blank">conceded too much</a>. The EU originally sought a 10% tariff but settled at 15% without securing equivalent US concessions. French and German officials voiced disappointment, while others called the agreement lopsided and poorly negotiated. The full and official text is still being drafted, and with Trump’s unpredictable approach, further changes are possible.</p>
-          </mj-text> 
+          <p style="font-size: 16px; line-height: 1.5"> On the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-sotw-h1-1-80th-anniversary" target="_blank">80th anniversary</a> of the Hiroshima bombing, world leaders, survivors, and experts warn that the planet is edging closer to nuclear catastrophe than it has been in decades. At a memorial ceremony in Hiroshima, Japan’s PM, Shigeru Ishiba, called for renewed disarmament efforts, while Nihon Hidankyo (the organization of atomic bomb survivors from Hiroshima and Nagasaki) urged nuclear states to change their stance. </p>
+          <p style="font-size: 16px; line-height: 1.5"> The warning comes amid rising geopolitical tensions. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-sotw-h1-2-russia-and-the-us" target="_blank">Russia and the US</a> have exchanged nuclear threats over the Ukraine war, the US has struck <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-sotw-h1-3-iranian-nuclear-facilities" target="_blank">Iranian nuclear facilities</a> to prevent weapons development, and <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-sotw-h1-4-india-and-pakistan" target="_blank">India and Pakistan</a> clashed briefly over Kashmir in May. All nuclear-armed states are upgrading their arsenals. The US and Russia together hold about 90% of the world’s 12,000 nuclear weapons. </p>
+          <p style="font-size: 16px; line-height: 1.5"> On August 6, 1945, the US dropped the uranium bomb “Little Boy” on Hiroshima, killing more than 110,000 people instantly. Three days later, the plutonium bomb “Fat Man” hit Nagasaki, killing 40,000-70,000 more people. Many more victims later died from burns, injuries, radiation sickness, and cancer. Survivors, known as Hibakusha, to date face health problems and generational effects (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-sotw-h1-5-hibakusha-testimonies" target="_blank">Hibakusha testimonies</a>). </p>
+          <p style="font-size: 16px; line-height: 1.5"> These bombings remain the sole use of nuclear weapons in war so far. </p>
+        </mj-text>
       </mj-column>
     </mj-section>
-
-     <!-- <mj-spacer height="10px" />  -->
-    
-  <!-- primary ad -->
-<!-- 
+    <!-- <mj-spacer height="10px" />  -->
+    <!-- primary ad -->
+    <!-- 
     <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-raw>
         <a href="https://link.presidentialsummary.com/ps-26-july-2025-p-ad-BH" target="_blank" style="color:black">
@@ -244,9 +162,8 @@
       </mj-raw>
     </mj-section> -->
     <!-- primary ad -->
-  <!-- primary ad -->
+    <!-- primary ad -->
     <mj-spacer height="10px" />
-
     <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
@@ -265,52 +182,41 @@
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
-              margin-top: 2px !important;">
-             Trump vs Beyoncé </h2>
+              margin-top: 2px !important;"> Global plastic crisis </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-      Donald Trump has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h1-4-accused-beyonc" target="_blank">accused Beyoncé</a>, Kamala Harris, and Democratic officials of violating campaign funding laws during an October 2024 rally in Houston. In a recent social media post, Trump claimed Democrats “illegally paid” Beyoncé to endorse Harris and called for prosecutions. </p>
-          <p style="font-size: 16px; line-height: 1.5">
-         However, there is no federal law that bans payments for endorsements. Official records show the Harris campaign paid $165,000 to Beyoncé’s production company for event services. Beyoncé denied any wrongdoing, stating she appeared not as a public figure but “as a mother exercising her freedom.” </p>
+          <p style="font-size: 16px; line-height: 1.5"> Researchers warn of a <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-recap-h1-6-1-5-trillion-global-plastics-crisis" target="_blank">$1.5 trillion global plastics crisis</a> harming both human health and the planet. They assert that less than 10% of total plastics are recycled, while most end up in landfills, incinerators, or open fires, polluting the air and damaging ecosystems. Plastic production has increased more than 200-fold since 1950 and is projected to almost triple by 2060, exceeding 1Bn tonnes annually. </p>
+          <p style="font-size: 16px; line-height: 1.5"> The health risks from exposure to plastic fumes, chemicals, and microplastics include miscarriage, cancer, stroke, lung issues, and fertility issues. Micro and nanoplastics are found in human blood, brains, and placentas. While over 100 countries support a legally binding <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-recap-h1-7-global-plastics-treaty" target="_blank">Global Plastics Treaty</a> to cap plastic production, powerful petrochemical nations and industry lobbyists are delaying progress. </p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
-          <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="              
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
-              margin-top: 2px !important;">
-              China’s child subsidies</h2>
+              margin-top: 2px !important;"> Lebanon to disarm Hezbollah </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-         China is offering expanded subsidies to encourage families to have <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h2-5-more-children" target="_blank">more children</a>. The central government plans to provide 3,600 yuan (around $500) for each child under age three, and local governments are also experimenting with additional benefits. In Sichuan province, for example, the marriage break could increase from 5 to 25 days, and maternity absence from 60 to 150 days.</p>
-          <p style="font-size: 16px; line-height: 1.5">
-      The measures aim to address China’s declining birth trend, which has been falling for the third consecutive year. In 2024, 9.54M babies were born, compared to 17.86M in 2016. The decline is linked to high living expenses, long working hours, and the legacy of the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h2-6-one-child-policy" target="_blank">one-child policy</a>, which lasted from 1979 to 2015.</p>
-       <p style="font-size: 16px; line-height: 1.5">
-      Experts remain doubtful that the incentives will significantly reverse demographic trends.</p>
+          <p style="font-size: 16px; line-height: 1.5"> Lebanon’s Cabinet has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-recap-h2-8-approved-a-us-backed-plan" target="_blank">approved a US-backed plan</a> to bring all weapons under state control by the end of 2025. This move would essentially disarm Hezbollah, the Iran-backed Shiite militant group and political party that operates independently of state authority. However, Hezbollah’s deputy leader, Naim Qassem, rejected the plan, stating they will not disarm while Israel continues attacks on Lebanon. </p>
+          <p style="font-size: 16px; line-height: 1.5"> Historically, Hezbollah was the only militia that did not disarm after the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-recap-h2-9-lebanese-1975-1990-civil-war" target="_blank">Lebanese 1975–1990 civil war</a>, maintaining weapons for “resistance” against Israel. Currently, it is the world’s most heavily armed non-state actor. Israel continues to strike Hezbollah targets in Lebanon despite the ceasefire, and has made clear it will continue attacking until Hezbollah is fully disarmed. </p>
         </mj-text>
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="0px 12px" />
-         <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
+        <mj-text padding="10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="#000000">
           <h2 style="              
               font-size: 24px;
               line-height: 1.2;
               font-weight: 400;
-              margin-top: 2px !important;">
-             Zoo culls baboons</h2>
+              margin-top: 2px !important;"> Was the Titan implosion preventable? </h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
-          <p style="font-size: 16px; line-height: 1.5">
-         Tiergarten Nürnberg Zoo in Germany has <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h3-7-euthanized-12-guinea-baboons" target="_blank">euthanized 12 Guinea baboons</a> after the population in its enclosure grew too large, sparking aggressive behavior among the animals. The space was originally designed for 25 baboons, but it housed 43 at the time of the decision.</p>
-          <p style="font-size: 16px; line-height: 1.5">
-         On Tuesday, the zoo shut down, citing “operational reasons,” as animal rights activists broke in and glued themselves to the ground in protest. Hours later, the zoo confirmed the culling. While not unusual in European zoos, the incident has revived ethical debates about animal welfare. It echoes <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-recap-h3-8-global-outrage-from-2014" target="_blank">global outrage from 2014</a> when Copenhagen Zoo euthanized a healthy giraffe and fed it to lions in front of visitors. </p>
+          <p style="font-size: 16px; line-height: 1.5"> The US Coast Guard has concluded that the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-recap-h3-10-2023-titan-submersible-implosion" target="_blank">2023 Titan submersible implosion</a>, which killed five people on a $250,000 deep-sea dive to the Titanic wreck, was entirely preventable. The report exposes how OceanGate bypassed safety norms, pressured employees, and manipulated regulatory gaps to operate an unsafe vessel. It revealed that OceanGate used intimidation and its good reputation to evade scrutiny.</p>
+          <p style="font-size: 16px; line-height: 1.5"> This tragedy sheds light on the growing industry of extreme tourism, where wealthy thrill-seekers pursue high-risk, one-of-a-kind experiences, often into unsafe or unstable environments. Some tourism ventures provide “survival trips” in places like the Amazon, where tourists learn primitive skills. As adventure tourism grows by up to 15% annually, the absence of adequate oversight and realistic risk assessments has led to preventable losses like the Titan tragedy.</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
     <!-- the big question -->
-    <mj-section background-color="#eff1f4"  css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
+    <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
           <h2 style="
@@ -330,20 +236,21 @@
               line-height: 1.2;
               font-weight: 400;
               margin-top: 2px !important;
-            ">Why is French recognition of Palestine important?</h2>
+            ">What is happening in Texas?</h2>
         </mj-text>
         <mj-text padding="10px 12px" font-family="Roboto+Serif" color="#000000">
+          <p style="font-size: 16px; line-height: 1.5"> Texas is at the center of a heated redistricting battle. Democratic lawmakers have fled the state to block the Republican-controlled Legislature from passing the updated congressional maps (district boundaries that determine how voters are grouped for electing members of Congress). Republicans say the current maps are unconstitutional and racially gerrymandered, justifying a redraw. Democrats, on the other hand, argue the proposed maps would create more Republican-leaning districts, potentially boosting GOP seats in Congress from 25 to 30, while reducing the influence of minority communities, many of whom vote Democratic.</p>
           <p style="font-size: 16px; line-height: 1.5">
-        France has formally announced it will <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-9-recognise-palestine" target="_blank">recognise Palestine</a> at the UN General Assembly in September, making it the first G7 country to do so. The <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-10-uk-is-expected-to-follow" target="_blank">UK is expected to follow</a> unless Israel halts its West Bank annexation, allows aid into Gaza, and agrees to a ceasefire. Both countries, along with Germany, are pushing a broader plan to promote a two-state solution based on pre-1967 borders (when Israel gained control of Gaza, the West Bank, and East Jerusalem during the <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-11-six-day-war" target="_blank">Six-Day War</a>).</p>
-         <p style="font-size: 16px; line-height: 1.5">
-       While 174 of 193 UN states already recognize Palestine, it remains a quasi-state. It does not meet all four criteria of the Montevideo Convention (a treaty that defines what makes a state): a permanent population, defined territory, functioning government, and capacity to enter into relations with other states. Palestine meets some of these but not all; its institutions are split between the Palestinian Authority in the West Bank and Hamas in Gaza.</p>
-         <p style="font-size: 16px; line-height: 1.5">
-        If four of the five permanent members of the UN Security Council (France, the UK, China, and Russia) recognize Palestine, it could leave the US isolated in its opposition. That would make a major diplomatic turning point. Still, Israel and the US strongly <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-2-aug-25-tbq-h1-12-oppose-recognition" target="_blank">oppose recognition</a>, arguing it rewards Hamas after the October 7 attacks.</p>
+            <strong>The rules:</strong> Redistricting happens every 10 years after the US Census to reflect population changes. Gerrymandering occurs when these district lines are drawn to unfairly favor one political party or group. <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-tbq-h1-11-political-gerrymandering" target="_blank">Political gerrymandering</a> (which limits the opposing party’s seats) is allowed, but <a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-tbq-h1-12-racial-gerrymandering" target="_blank">racial gerrymandering</a> (which can impact the voting power of a racial or ethnic group) is prohibited.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5">
+            <strong>How it works:</strong> The mechanics rely on two tactics - packing and cracking. Packing concentrates the opposition’s voters, or, in racial gerrymandering, voters of a certain race, into just a few districts. They secure those districts by huge margins, but their influence elsewhere is neutralized. Cracking, however, spreads those voters thinly across many districts, so they’re always narrowly outnumbered and their votes are diluted. In both cases, a party can turn an evenly split statewide vote into a lopsided seat advantage.
+          </p>
+          <p style="font-size: 16px; line-height: 1.5"> In Texas, the question is whether Republicans are engaging in permissible partisan map-drawing or crossing the line into illegal racial gerrymandering by diluting the political power of minority voters (<a style="text-decoration: none; border-bottom: 2px solid  #4D3060; color: black;" href="https://link.presidentialsummary.com/ps-9-aug-25-tbq-h1-13-see-our-write-up" target="_blank">see our write-up</a>).</p>
         </mj-text>
       </mj-column>
     </mj-section>
     <mj-spacer height="10px"></mj-spacer>
-
     <mj-section background-color="#eff1f4" css-class="border-line" padding="1px 0.5px 1px 1px" border-radius="5px">
       <mj-column background-color="#fff" border-radius="5px" padding="0px">
         <mj-text padding="16px 12px 10px 12px" font-family="TNYAdobeCaslonPro, 'Times New Roman', serif;" color="white">
@@ -357,13 +264,12 @@
               padding-bottom:8px;
             ">Photo of the week</h2>
         </mj-text>
-        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/turkey-greece-wildfires.jpg" alt="A dramatic line of wildfire blazes through a dense forest at night, casting an intense red-orange glow and sending thick smoke into the sky." href="https://www.presidentialsummary.com" />
+        <mj-image border-radius="10px" padding="10px 12px" width="600px" src="https://www.presidentialsummary.com/email/images/cappadocia-hot-air-balloon-festival.jpg" alt="Hot air balloons in various shapes, including animals and cartoon characters, float above a road with cars during a festival in Cappadocia, Turkey." href="https://www.presidentialsummary.com" />
         <mj-text padding="0px 12px" font-family="Roboto+Serif" color="#A9A7AF">
-          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i>
-     Smoke and flames from a forested area during a wildfire in Bursa, Turkey. Credits: Anadolu/Getty Images</i>
+          <p style="font-size: 12px; line-height: 1.2; color: #A9A7AF;"><i> In Nevşehir, Turkey, hot air balloons fill the sky during the Turkey Culture Route festival, an annual nationwide event organized by the Ministry of Culture and Tourism.Credits: Behcet Alkan/Anadolu/Getty Images </i>
           </p>
-        </mj-text> 
-         <!--banner  -->
+        </mj-text>
+        <!--banner  -->
         <mj-text padding="20px 12px 10px 12px" font-family="Roboto+Serif" color="#ffffff">
           <div style="
             background-color: #4D3060;
@@ -374,7 +280,7 @@
             font-weight: 400;
             text-align: center;
             color: #ffffff;
-          ">On this day in 1990, Iraq invaded Kuwait, triggering the Persian Gulf War after Saddam Hussein refused to withdraw; a US-led coalition soon drove Iraqi forces out.</div>
+          ">On this day in 2014, Michael Brown, an unarmed Black teenager, was fatally shot by a white police officer in Ferguson, Missouri, sparking nationwide protests and intensifying debates over race, policing, and justice in the United States.</div>
         </mj-text>
         <!-- footer -->
         <mj-divider border-width="1px" border-style="solid" border-color="lightgrey" padding="10px 12px" />
@@ -437,7 +343,7 @@
               margin-bottom:14px;
             ">Copyright © 2024 Sagravia LLC, All rights reserved.</p>
         </mj-text>
-    </mj-section>  
+    </mj-section>
     <mj-spacer height="15px"></mj-spacer>
   </mj-body>
 </mjml>
